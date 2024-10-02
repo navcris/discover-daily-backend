@@ -1,6 +1,12 @@
 import json 
 
+"""
+Combines json files into one larger json to parse
 
+Args: N/A 
+
+Returns: N/A
+"""
 def combiner():
     json_files = ['nature_articles.json', 'snex_articles.json', 'yale_articles.json'] 
 
