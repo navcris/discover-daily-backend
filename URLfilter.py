@@ -1,7 +1,7 @@
 
 
 KEYWORDS = [
-    "harris", "trump", 'russia', 'ukraine', 'digvid', 'relationship', 'health', 'welz', 'ukrainian', 'west bank', 'kidnap'
+    "harris", "THC", "trump", 'russia', 'ukraine', 'digvid', 'relationship', 'health', 'welz', 'ukrainian', 'west bank', 'kidnap'
     'drug', 'riot', 'biden', 'Ukraine', 'Trump', 'Israel', 'loan', 'marriage', 'Ukrainian', 'Biden', '- BBC Sport'
     "walz", "donald", "kamala", 'democrat', 'republican', 'govenor', 'GOP', 'DNC', 'death', 'israel', 'gaza',
     'palestine', 'shot', 'ammo', 'killing', 'attack', 'iraq', 'iran', 'afghanistan', 'troops'

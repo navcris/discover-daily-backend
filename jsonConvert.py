@@ -25,6 +25,9 @@ def nature_converter(articles):
     
     with open('nature_articles.json', 'w', newline='', encoding='utf-8') as f:
         json.dump(newArticles, f, indent=4)
+
+
+
 """
 Converts yale articles into yale_articles.json
 
@@ -49,6 +52,9 @@ def yale_converter(articles):
     
     with open('yale_articles.json', 'w', newline='', encoding='utf-8') as f:
         json.dump(newArticles, f, indent=4)
+
+
+
 """
 Converts ScienceNewsExplore articles into snex_articles.json
 
