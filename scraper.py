@@ -6,144 +6,14 @@ import re
 
 imgFile_Path = "imgs"
 
-def bbc_scraper(urls):
-    articles = []
-    
-    for url in urls:
-        individual_list = [] 
-        
-        html_content = requests.get(url).text
-        soup = BeautifulSoup(html_content, 'lxml')
-        title = soup.find('h1').string
-        article_element = soup.find('article')
-        if not article_element:
-            continue
+"""
+Takes Nature urls, filters based on blacklisted words in title, and
+scrapes article text into json object
 
-        section = article_element.find_all(['p', 'img'])
-        check = True
-        for keyword in KEYWORDS:
-            if keyword in title:
-                check = False
-                break
-        if check == True:
-           individual_list.append(url)
-           individual_list.append(title)
-           
-           for content in section:
-               
-               
-               if content.name == 'img':
-                   if hasattr(content.parent, 'data-testid') and content.get('alt'):
-                       if (len(content.get('alt')) >= 40):
-                        newFilename = content.get('alt')
-                        newFilename = re.sub(r'[\\/*?:;"<>|—().]', "", newFilename)
-                        newFilename = re.sub(r'\s+', '_', newFilename)
-                        newFilename = newFilename[:100]
-                        individual_list.append('*' + newFilename)
-                        individual_list.append(content.get('alt'))
-                        
-                        img_data = requests.get(content.get('src')).content
-                        
-                        
-                        final_path = os.path.join(imgFile_Path, newFilename + '.jpg')
-                        
-                        with open(final_path, 'wb') as handler:
-                            handler.write(img_data)
-                
-               elif content.name == 'p':
-                   
-                   individual_list.append(content.text)
-           
-        
-                   
-           
-           
-           
-          
-           articles.append(individual_list)
-    
-        
-    return articles
-           
-    
+Args: URLs in an array 
 
-
-def cnn_scraper(urls):
-    articles = []
-    
-    for url in urls:
-        
-        individual_list = [] 
-        
-     
-        html_content = requests.get(url).text
-        soup = BeautifulSoup(html_content, 'lxml')
-        section = soup.find_all(['p', 'img'])
-        title = soup.find('h1').string
-        check = True
-        for keyword in KEYWORDS:
-            if keyword in title:
-                check = False
-                break
-        if check == True:
-            individual_list.append(url)
-            individual_list.append(title)
-            
-            
-            for content in section:
-                
-                if content.name == 'img':
-                    if hasattr(content, 'alt') and content.get('alt'):
-                        if (len(content.get('alt')) >= 40):
-                            newFilename = content.get('alt')
-                            newFilename = re.sub(r'[\\/*?:;"<>|—().]', "", newFilename)
-                            newFilename = re.sub(r'\s+', '_', newFilename)
-                            newFilename = newFilename[:100]
-                            individual_list.append('*' + newFilename)
-                            individual_list.append(content.get('alt'))
-
-                            img_data = requests.get(content.get('src')).content
-                            
-                            
-                            final_path = os.path.join(imgFile_Path, newFilename + '.jpg')
-
-                            with open(final_path, 'wb') as handler:
-                                    handler.write(img_data)
-
-                elif content.name == 'p':
-                    
-                    individual_list.append(content.text)
-            
-        
-        articles.append(individual_list)
-            
-        
-        
-    return articles
-
-
-def ap_scraper(urls):
-    articles = []
-    
-    for url in urls:
-        individual_list = [] 
-        html_content = requests.get(url).text
-        soup = BeautifulSoup(html_content, 'lxml')
-        title = soup.find('h1').string
-        individual_list.append(title)
-        article_paragraphs = soup.find_all('p')
-        all_text = ''
-        
-        for paragraph in article_paragraphs:
-            all_text += paragraph.text
-            
-        individual_list.append(all_text)
-        
-        articles.append(individual_list)
-        
-    return articles
-
-
+Returns: Article text content json object
+"""
 def nature_scraper(urls):
     
     articles = []
@@ -219,7 +89,14 @@ def nature_scraper(urls):
     return articles
            
     
-        
+"""
+Takes Yale urls, filters based on blacklisted words in title, and
+scrapes article text into json object
+
+Args: URLs in an array 
+
+Returns: Article text content json object
+"""
 def yale_scraper(urls):
     i = 0
     articles = []
@@ -319,7 +196,14 @@ def yale_scraper(urls):
     return articles
            
     
-        
+"""
+Takes ScienceNewsExplore urls, filters based on blacklisted words in title, and
+scrapes article text into json object
+
+Args: URLs in an array 
+
+Returns: Article text content json object
+"""   
 def snex_scraper(urls):
     i = 0
     articles = []
