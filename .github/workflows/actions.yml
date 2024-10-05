@@ -2,7 +2,7 @@ name: Schedule run_job.py
 
 on:
   schedule:
-    - cron: "*/6 * * * *"
+    - cron: "0 8 * * *"
   workflow_dispatch:
 
 permissions:
