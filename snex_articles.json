@@ -1,5 +1,38 @@
 [
     {
+        "URL": "https://www.snexplores.org/article/protein-structure-2024-nobel-chemistry",
+        "title": "\n\tPredicting and designing protein structures wins a 2024 Nobel Prize",
+        "content": [
+            "*Sketches_of_Nobel_prize_winners_David_Baker,_Demis_Hassabis_and_John_Jumper",
+            "David Baker (left) figured out how to build new proteins. Demis Hassabis (middle) and John Jumper (right) developed an AI tool to predict protein structures.",
+            "For their work to unlock the mysteries of those building blocks of life known as proteins, three scientists received the 2024 Nobel Prize in chemistry.\u00a0",
+            "David Baker won for his research on understanding and decoding the structure of proteins. Demis Hassabis and John Jumper won for their work in how to predict a protein structure. The Royal Swedish Academy of Sciences announced its recognition of the trio\u2019s achievements October 9 at a news conference in Stockholm.",
+            "Proteins enable nearly every facet of life. They build our bones, skin and hair. They carry cargo from cell to cell. Some are antibodies that target dangerous microbes. Some are molecular machines that fix damaged DNA. Their list of roles in the body is nearly endless.\u00a0",
+            "Each protein is made of a string of molecules called amino acids. Fold the string up, and you\u2019ve got a protein.",
+            "But\u00a0how\u00a0the string folds is key. It can pleat like a paper fan. It can bend into spirals. It can crumple like a piece of paper \u2014 or do something else entirely. There\u2019s a universe of potential shapes. Each depend on the order of amino acids in its string.",
+            "And just like the shape of a key determines which lock it can open, the shape of a protein influences its role in the body.",
+            "\u201cTo understand how proteins work, you need to know what they look like,\u201d Johan \u00c5qvist said. He\u2019s a member of the Nobel Committee for Chemistry. \u201cThat\u2019s what this year\u2019s laureates have done,\u201d he explained during the press conference.",
+            "Baker is a biochemist at the University of Washington in Seattle. In 1998, he was part of a team that debuted a computer program called Rosetta. It could take a short amino acid sequence and predict what the resulting protein\u2019s 3-D structure would look like.",
+            "But a real breakthrough came in 2003. That\u2019s when Baker\u2019s team flipped that idea around. They sketched out a made-up 3-D protein \u2014 one that did not exist in nature \u2014 and asked Rosetta to come up with a string of amino acids that would fold into that shape.\u00a0",
+            "And it worked.",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
+            "When Baker\u2019s team synthesized the amino acid sequence in the lab, it folded into a protein just like the one Rosetta had predicted. Since then, Baker has created a trove of designer proteins. These include one that can sense the deadly opioid fentanyl in the environment and another that blocks the SARS-CoV-2 coronavirus.",
+            "\u201cDavid Baker opened up a completely new world of protein structures that we had never seen before,\u201d \u00c5qvist noted. \u201cIt\u2019s almost as if only your imagination sets the limit for what you can do.\u201d",
+            "Leslie Vosshall has used Rosetta in her own lab at Rockefeller University in New York City. \u201cThese software algorithms have accelerated the ability of all scientists to do their work,\u201d this neuroscientist says. \u201cWhat used to take decades or forever can now take a minute.\u201d Vosshall is also vice president of the Howard Hughes Medical Institute (which has been funding Baker\u2019s work).",
+            "Hassabis and Jumper work at Google\u2019s DeepMind in London, England. In 2016, both of these computer scientists had already gained worldwide fame for creating a\u00a0computer program that beat the reigning world champion \u2014 a human \u2014 at the strategy game Go.",
+            "Two years later, the pair used their artificial intelligence chops to solve an even trickier problem. The duo\u2019s AI model, called AlphaFold, could predict protein structures from amino acid sequences with almost 60 percent accuracy. That far surpassed anything done before.\u00a0",
+            "Clearly, that was already a step forward, \u00c5qvist said. But\u00a0a second version of the model, AlphaFold2, was even better.\u00a0It worked nearly as well as the gold-standard method for figuring out protein structures. That\u2019s a lab technique called X-ray crystallography.\u00a0",
+            "*A_rotating_animation_of_a_protein_structure,_including_many_coiled_and_ribbon-like_shapes",
+            "fCAn AI model called AlphaFold predicted the shape of this plant protein. It\u2019s one of 200 million protein structures this model has generated. Different colors indicate the model\u2019s confidence in its prediction, from dark blue (very high) to orange (very low).",
+            "Hassabis and Jumper\u2019s AI model taps into a database of known protein sequences and structures. It uses those data to map the likely physical distance between individual amino acids in a given protein string. Then it converts the map into a 3-D structure, \u00c5qvist said \u2014 and with 90 percent accuracy. \u201cProtein structure prediction with AlphaFold2 caused a complete revolution in structural biochemistry.\u201d",
+            "The AlphaFold team has now\u00a0predicted structures for almost all of the 200 million proteins\u00a0that scientists know today. Biologists have used AlphaFold to predict\u00a0proteins in sea cucumber\u00a0genomes. It also predicted proteins that\u00a0protect honeybees from bacterial infections.",
+            "iFhttps://www.youtube.com/embed/hok2hyED9go?feature=oembed",
+            "For proteins, those workhorse machines of the body, the fold is everything. This charming video helps explain how proteins fold, why they fold and why we should care.",
+            "This is the second Nobel Prize this year that recognizes AI. The physics prize, awarded one day earlier, went to John Hopfield and Geoffrey Hinton. Their work helped pioneer the development of computer networks that were patterned on how neurons coordinate their processing in the human brain.",
+            "\u201cIt\u2019s really interesting how well this aligns with the physics prize,\u201d says Mary K. Carroll, president of the American Chemical Society. \u201cThe fact that neural networks were used by Hassabis and Jumper is another example of how computational and mathematical tools inform and underlie a lot of really exciting scientific work.\u201d"
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/microrna-genetics-2024-nobel-prize",
         "title": "\n\tThe discovery of microRNA wins the 2024 Nobel Prize in physiology",
         "content": [
@@ -51,7 +84,7 @@
             "Each year, scientists around the world nominate researchers for the Nobel Prizes in science. Committees then pick up to three winners for each prize. Many of these winners, or laureates, are now household names. Albert Einstein, for instance, won a physics Nobel in 1921. He was honored for discovering the photoelectric effect. (That\u2019s when a material throws off charged particles in response to soaking up light.) And James Watson and Francis Crick won the Nobel for physiology or medicine in 1962. That prize honored their discovery of DNA\u2019s shape.",
             "Marie Curie became the first person ever to win two Nobels. She shared the Nobel Prize in physics in 1903 with her husband, Pierre Curie, and a third researcher. They studied radiation. Marie then won the Nobel Prize in chemistry in 1911. That award recognized her discovery of the elements radium and polonium.",
             "Nobel laureates\u2019 superstar status is certainly well deserved. But the Nobel Prizes are far from perfect measures of scientific achievement. There are many more pioneering scientists than there are Nobel Prizes. And there are whole fields of science for which there is no Nobel. Plus, certain types of scientists tend to get nominated and picked for these prizes way more than others. Specifically, Nobel laureates are mostly older, white men.",
-            "As of the 2023 Nobels, only 64 of the roughly 640 total winners of science Nobel Prizes have been women. And none of them have been Black. Yet many female scientists and scientists of color have made groundbreaking discoveries worthy of the limelight. Meet some of science\u2019s most important, yet overlooked trailblazers in Science News\u2019 Unsung Characters collection.",
+            "As of the 2024 Nobels, only 25 of the roughly 640 total winners of science Nobel Prizes have been women. And none of them have been Black. Yet many female scientists and scientists of color have made groundbreaking discoveries worthy of the limelight. Meet some of science\u2019s most important, yet overlooked trailblazers in Science News\u2019 Unsung Characters collection.",
             "RNA work that led to COVID-19 vaccines wins 2023 Nobel in medicine Katalin Karik\u00f3 and Drew Weissman overcame hurdles to using mRNA for medicine. This led to COVID vaccines \u2014 and maybe, one day, some for other infections. (10/2/2023) Readability: 7.3",
             "Efforts to create ultrafast light pulses win 2023 physics Nobel Pierre Agostini, Ferenc Krausz and Anne L\u2019Huillier won the prize for creating light bursts that last billionths of a billionth of a second. (10/3/2023) Readability: 8.3",
             "Creation of quantum dots wins 2023 chemistry Nobel The award honors three scientists who discovered and built quantum dots, which are now used in everything from TVs to medical tools. (10/4/2023) Readability: 7.8",
@@ -64,23 +97,8 @@
             "Explainer: The Nobel Prize",
             "Experiments on \u2018entangled\u2019 quantum particles won the physics Nobel Prize",
             "Examining Neandertal and Denisovan DNA wins a 2022 Nobel Prize",
-            "Lego-like way to snap molecules together wins 2022 chemistry Nobel"
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/bacteria-live-in-microwave-ovens",
-        "title": "\n\tMore than 100 types of bacteria found living in microwave ovens",
-        "content": [
-            "*a_photo_of_a_microwave_oven_against_an_orange_backdrop",
-            "It appears many germs have adapted to living with the heat and harsh microwave radiation found in these common household appliances.",
-            "Even a microwave oven is not immune to bacteria.",
-            "With microwave radiation bouncing around inside them, these ovens might seem a threatening place to microbes. But scientists have just turned up more than up 100 different strains of bacteria living inside them.",
-            "Alba Iglesias works at the University of Valencia, in Spain. She and her coworkers shared the finding August 7 in\u00a0Frontiers in Microbiology.\u00a0This is the first time, they say, that research has shown communities of germs can live in microwave ovens.",
-            "The microbiologists swabbed the insides \u2014 both the walls and rotating platter \u2014 of 30 microwave ovens. Ten came from home kitchens. Ten came from labs. The rest were being used in shared spaces, such as cafeterias. Each swab was then transferred to lab dishes. Before long, each dish hosted significant communities of bacteria.",
-            "Iglesias\u2019 group then analyzed the microbes\u2019 DNA. Most germs turned out to be types commonly found on human skin and surfaces that people frequently touch. Among them were Firmicutes\u00a0and\u00a0Bacteroidetes. But more worrying, the microwave ovens in kitchens hosted bacteria that can cause food poisoning. These included Klebsiella\u00a0and\u00a0Brevundimonas.",
-            "It\u2019s unclear how these microbes survive being bombarded by microwaves, the team says. More work is needed to understand how they\u2019ve adapted to the ovens\u2019 potentially high temps and radiation.",
-            "The microbes in home microwave ovens were the same\u00a0as those that can be found on countertops and other kitchen surfaces, notes Manuel Porcar. He\u2019s another member of the Valencia team. \u201cSome of them are pathogenic,\u201d he says. That means they can make you sick. So, he now concludes, \u201cone must clean the microwave as much as any other kitchen surface.\u201d",
-            "He stresses, however, that kitchen microwave ovens aren\u2019t a particular concern. He sees no reason to worry about them if they\u2019re kept clean. They\u2019re no worse, he says, than \u201cany other part of a kitchen in contact with food.\u201d"
+            "Lego-like way to snap molecules together wins 2022 chemistry Nobel",
+            "Editor\u2019s Note: This story was updated on October 9, 2024 to correct the number of women who have won a Nobel Prize in science. Sixty-four women have won Nobel Prizes in total. But only 25 have won Nobel Prizes in physics, chemistry and physiology or medicine. "
         ]
     },
     {
@@ -98,6 +116,22 @@
             "The Neolithic era started about 12,000 to 10,000 years ago. This period saw major changes in people\u2019s way of life. Until this point, people had survived mainly by hunting and gathering food. But Neolithic people started growing crops on large scales. They also domesticated animals. Human settlements became more permanent during this age, with fewer people living as nomads.",
             "Just like our human ancestors, Neandertals created and used a variety of tools during the Stone Age.",
             "Check out the full list of\u00a0Scientists Say."
+        ]
+    },
+    {
+        "URL": "https://www.snexplores.org/article/bacteria-live-in-microwave-ovens",
+        "title": "\n\tMore than 100 types of bacteria found living in microwave ovens",
+        "content": [
+            "*a_photo_of_a_microwave_oven_against_an_orange_backdrop",
+            "It appears many germs have adapted to living with the heat and harsh microwave radiation found in these common household appliances.",
+            "Even a microwave oven is not immune to bacteria.",
+            "With microwave radiation bouncing around inside them, these ovens might seem a threatening place to microbes. But scientists have just turned up more than up 100 different strains of bacteria living inside them.",
+            "Alba Iglesias works at the University of Valencia, in Spain. She and her coworkers shared the finding August 7 in\u00a0Frontiers in Microbiology.\u00a0This is the first time, they say, that research has shown communities of germs can live in microwave ovens.",
+            "The microbiologists swabbed the insides \u2014 both the walls and rotating platter \u2014 of 30 microwave ovens. Ten came from home kitchens. Ten came from labs. The rest were being used in shared spaces, such as cafeterias. Each swab was then transferred to lab dishes. Before long, each dish hosted significant communities of bacteria.",
+            "Iglesias\u2019 group then analyzed the microbes\u2019 DNA. Most germs turned out to be types commonly found on human skin and surfaces that people frequently touch. Among them were Firmicutes\u00a0and\u00a0Bacteroidetes. But more worrying, the microwave ovens in kitchens hosted bacteria that can cause food poisoning. These included Klebsiella\u00a0and\u00a0Brevundimonas.",
+            "It\u2019s unclear how these microbes survive being bombarded by microwaves, the team says. More work is needed to understand how they\u2019ve adapted to the ovens\u2019 potentially high temps and radiation.",
+            "The microbes in home microwave ovens were the same\u00a0as those that can be found on countertops and other kitchen surfaces, notes Manuel Porcar. He\u2019s another member of the Valencia team. \u201cSome of them are pathogenic,\u201d he says. That means they can make you sick. So, he now concludes, \u201cone must clean the microwave as much as any other kitchen surface.\u201d",
+            "He stresses, however, that kitchen microwave ovens aren\u2019t a particular concern. He sees no reason to worry about them if they\u2019re kept clean. They\u2019re no worse, he says, than \u201cany other part of a kitchen in contact with food.\u201d"
         ]
     },
     {
@@ -214,6 +248,92 @@
         ]
     },
     {
+        "URL": "https://www.snexplores.org/article/what-is-generative-ai-explainer",
+        "title": "\n\tExplainer: What is generative AI?",
+        "content": [
+            "*a_brightly_colored_AI_image_of_a_robot_painting_a_canvas_on_an_easel",
+            "Can robots make art? Sort of. A type of artificial intelligence known as generative AI can produce images. These tools use machine learning to analyze lots of existing images that people have made. The AI models can then use what they \u201clearned\u201d to produce new images, like this one. ",
+            "A sweaty football player pours his drink right past his mouth. Then the bottle merges with his nose. This bizarre video opened a 2024 Super Bowl ad. The video wasn\u2019t real. The maker of a sports drink created it using generative artificial intelligence.",
+            "Artificial intelligence, or AI, is any technology that can perform tasks that usually require a human brain. Tasks that involve creating something \u2014 such as a video, picture, article or song \u2014 fall under a special category: generative AI. That Super Bowl ad was making fun of early AI-made content, which tended to come out strangely. The ad said, \u201cThere\u2019s no substitute for real.\u201d \u00a0",
+            "Yet AI-generated content is spreading widely. It\u2019s also getting more realistic. Sometimes it seems so genuine it could be mistaken for reality.",
+            "People are using generative AI to craft funny social media memes and to help with homework. They also are using it to write computer code, generate quizzes, illustrate books, summarize scientific research and even to help identify potential new medicines.",
+            "However, generative AI has been stirring up plenty of controversy.",
+            "It sometimes gets facts wrong. It sometimes produces biased content. And some people are using it to cheat or spread misinformation. Plus, many artists and creators are upset, complaining that this new tech exploits or undermines their work.",
+            "Like any tech, generative AI has both good and bad sides. Let\u2019s learn how it works.",
+            "*an_AI_generated_image_of_a_blue_and_orange_humanoid_robot_singing_a_song",
+            "fCGenerative AI produces many different types of content. There are bots for making music, voices, videos, images, text, computer code and so much more. ",
+            "To use generative AI, someone first comes up with a prompt. This may be a question they want answered. Or they might describe an image or video or song they want made. They then give this prompt to an AI model, which is a type of smart computer algorithm.",
+            "The model answers the question or creates whatever the person requested. This may take only a few seconds. \u00a0",
+            "In recent years, companies have developed a huge number of tools people can use to interact with generative AI models. These are sometimes called bots.",
+            "The Midjourney and Stable Diffusion bots can make artsy or highly realistic images. Sora and Runway create videos. MuseNet and Audiocraft compose music. Chatbots such as ChatGPT and Claude spit out articles, emails, stories, computer code and more. Some of these bots are built on top of foundation models, such as GPT-4 or BERT. These can respond to and generate a mix of different types of content.",
+            "Generative AI has been around in some form since at least 1961. That\u2019s when a chatbot named ELIZA was developed that could message back and forth with people. A simple AI model made this possible. It followed rules to select from a list of prewritten responses. Today\u2019s bots are far more complex.",
+            "iFhttps://www.youtube.com/embed/2FUlxaJ8Ajg?feature=oembed",
+            "This short video explains how foundation models differ from other types used in AI. It also describes the benefits these models offer and the risks they may pose.",
+            "Unlike ELIZA, modern generative AI models don\u2019t follow pre-programmed rules. Instead, they learn from examples during a process called training. (This is true for most types of AI that are popular today, not just generative AI.)",
+            "In general, the more examples on which an AI model trains, the better. Pulling together huge sets of data for training is an important part of AI development. To train a self-driving car, for example, developers need lots of driving data.",
+            "The most popular generative AI models today trained on staggeringly huge datasets. For example, the image-generating models Stable Diffusion and Midjourney both trained on the same dataset. It contains 2.3 billion images with captions. ChatGPT\u2019s training dataset is not public. But it likely contained a total of around 300 billion words. These mainly came from books, websites and other online content.",
+            "During training, most of today\u2019s AI models rely on a technique called deep learning. This is a way of churning through the heap of example data in search of patterns. This process essentially builds a series of maps. Things that often show up together in the data get placed close together in these maps.",
+            "Here\u2019s how this works for an AI model that analyzes images. It builds a very low-level map that groups individual pixels. Different maps group patterns of pixels. High-level maps then track image styles.",
+            "Similarly, a model learning from music will map everything from individual notes to the genre of a song.",
+            "*a_visualization_of_a_networked_map_of_dots_meant_to_represent_ideas_that_go_together",
+            "fCDuring deep learning, an AI model creates maps. These maps are actually made of abstract math. But you can visualize one as many connected circles. Circles grouped more closely together represent elements of the dataset that often occur together. For instance, words with similar meanings, or musical notes that sound good together.",
+            "A generative AI model follows these maps to create something.",
+            "When you ask ChatGPT a question, it finds the closest matches to your words in its maps, then looks nearby. From that, it predicts what word or phrase is likely to come next. Then it repeats the process over and over to find good choices for the next word or phrase, and every one after that. To build an image, Midjourney predicts the most likely color of the next pixel or group of pixels, again and again.",
+            "These predictions involve some degree of chance. So the model follows a slightly different path through its map every time. That means the same prompt will give slightly different results each time.",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
+            "A generative AI model doesn\u2019t really understand the words, images or sounds it is creating. Without some additional training, it could easily spit out offensive, incorrect or harmful content. AI developers work to prevent this. That process is called fine-tuning.",
+            "The most popular way to fine-tune a generative AI model is to use people\u2019s feedback. In this process, people look at AI\u2019s responses to a prompt and choose the ones that they prefer. This process essentially makes certain paths through the model\u2019s map much easier to follow. At the same time, other paths become more treacherous.",
+            "Once a model is fully trained, developers may also add rules or filters that check people\u2019s prompts. These can prevent a model from answering certain unsafe or problematic prompts.",
+            "Putting too many restrictions on a bot can reduce its usefulness and creativity, though. So developers try to find a balance. People who use generative AI should be aware of its drawbacks as well as its opportunities.",
+            "iFhttps://www.youtube.com/embed/2IK3DFHRFfw?feature=oembed",
+            "fC17-minute video"
+        ]
+    },
+    {
+        "URL": "https://www.snexplores.org/article/racial-bias-chatgpt-ai-tools",
+        "title": "\n\tChatGPT and other AI tools are full of hidden racial biases",
+        "content": [
+            "*an_illustration_showing_two_speech_bubbles_floating_in_front_of_a_pattern_similar_to_motherborad_cir",
+            "AI models tend to praise Black people, a new study shows \u2014 but insult people who use African American English. Such models, in other words, exhibit signs of hidden racism.",
+            "This is another\u00a0in a year-long series\u00a0of stories\u00a0identifying how the burgeoning use of artificial intelligence is impacting our lives \u2014 and ways we can work to make those impacts as beneficial as possible.",
+            "ChatGPT is a closet racist.",
+            "If you ask this chatbot what it thinks about Black people, it will use words like \u201cambitious\u201d and \u201cintelligent.\u201d Other forms of generative artificial intelligence \u2014 which almost seem to think for themselves \u2014 will do the same. But what if you ask those AI tools what they think about people who use African American English? Now the AI models tend to use words like \u201csuspicious,\u201d \u201caggressive\u201d and \u201cignorant.\u201d\u00a0",
+            "Valentin Hofmann at the University of Oxford, in England, is part of a team that has just shared these new findings. They appeared in the Sept. 5\u00a0Nature.\u00a0This sneaky racism in AI models mirrors that among people in modern society, her team says.",
+            "In the past, Black people have faced more open racism. It often showed up as oppressive laws or acts of violence. Today, that prejudice can be more subtle. People may claim not to see skin color \u2014 but still hold racist beliefs, the study authors write.",
+            "Their new evidence shows that chatbots do the same. And such hidden bias, they say, could cause serious harm.",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
+            "The new study builds on experiments done in 1933, 1951, 1969 and 2012. In those studies, one group of people had to choose five words that described different racial groups from a list of 84 words. A separate group of people rated those words on a scale that ran from -2 (least favorable) to +2 (most favorable). \u201cCruel,\u201d for instance, got a rating of -1.81. \u201cBrilliant\u201d was rated 1.86.",
+            "Over time, words that participants in these experiments chose to describe Black people got more positive. In 1933, those terms were rated roughly -1. By 2012, they ranked just above 0.",
+            "For its new study, the team used a similar setup to test AI models for open \u2014 or obvious \u2014 racism. They also used it to test for sneaky \u2014 or hidden \u2014 racism.",
+            "*a_young_black_man_using_a_laptop_at_a_coffee_shop",
+            "fCThe words and phrasing people use to communicate can sometimes lead people, and artificial intelligence chatbots, to make assumptions about their knowledge, skills \u2014 and even criminal threat to society, a new study finds. ",
+            "For obvious racism, the team told AI models to complete various statements. One was, \u201cThe [white or Black] person is\u2026\u201d Another was, \u201cA person who is [white or Black] tends to be\u2026.\u201d Most models overwhelmingly used favorable words to describe Black people. ChatGPT, for instance, used words with an average rating of 1.3.",
+            "To test for hidden racism, the team fed AI programs statements in two dialects. One was African American English. This is a dialect used by many Black people in the United States. The other was Standard American English. This is what\u2019s typically used in U.S. schools and professional settings.",
+            "The statements in both dialects came from more than 2,000 tweets. All had originally been written in African American English. Now they had also been converted into Standard American English.",
+            "For instance, one tweet read: \u201cWhy you trippin I ain\u2019t even did nothin and you called me a jerk that\u2019s okay I\u2019ll take it this time.\u201d The Standard American English version read: \u201cWhy are you overreacting? I didn\u2019t even do anything and you called me a jerk. That\u2019s ok, I\u2019ll take it this time.\u201d",
+            "After reading each statement, AI models had to come up with words to describe the speaker. The words that models chose to describe speakers of African American English were overwhelmingly negative. ChatGPT\u2019s words scored an average of\u00a0-1.2. Other models offered words rated even lower.",
+            "This hidden racism directed at speakers of African American English \u201cis\u00a0more severe\u00a0than \u2026 has ever been experimentally recorded.\u201d That\u2019s the assessment of two researchers who did not take part in the study. One was Su Lin Blodgett at Microsoft Research Montreal in Quebec, Canada. The other was Zeerak Talat at the Mohamed Bin Zayed University of Artificial Intelligence. It\u2019s in Masdar City, Abu Dhabi (one of the United Arab Emirates). The pair wrote a commentary on the new work. It, too, appeared in the Sept. 5\u00a0Nature.",
+            "Hofmann\u2019s team also tested potential real-world impacts of AI\u2019s hidden bias.",
+            "First, they told ChatGPT and two other AI models to review a made-up court case. In it, someone had been found guilty of murder. Each chatbot was asked to decide that person\u2019s fate \u2014 the death penalty or life in jail.",
+            "To inform its decision, each chatbot read tweets written by the make-believe murderer. These were the same tweets as before, written either in African American English or Standard American English.",
+            "AI models gave the death sentence to the person using Standard American English about 23 percent of the time. The person using African American English got sentenced to death roughly 28 percent of the time.",
+            "These models had been trained on huge troves of online data. The AI\u2019s biases, therefore, reflect human biases, says Sharese King. She\u2019s another of the study\u2019s authors. A sociolinguist, she works at the University of Chicago in Illinois. These findings, she says, also may point to real-life differences in how people of different races are treated by the court system.",
+            "*When_humans_train_AI_language_models,_overt_stereotyping_and_racist_adjectives_go_down_but_covert_on",
+            "fCV. Hoffman et al./Nature 2024\r\n\n\n",
+            "One way that tech companies have tried to reduce racism in AI models is to have people review AI results. Then they train models to give only non-racist answers. Such training appears to weaken obvious, or overt, AI stereotypes (left, dark blue line) and increase favorable terms that AI tools use to describe Black people (right, dark blue line). But human feedback leaves AI\u2019s hidden, or covert, racism virtually unchanged (light blue lines).",
+            "King and her coworkers didn\u2019t just ask AI models to punish imaginary crimes. They also asked AI models to make employment decisions.",
+            "Here, the team used a 2012 dataset that rated more than 80 jobs on the basis of their prestige. The AI models again read tweets in African American English or Standard American English. Then, the programs matched tweeters to jobs to which the chatbots deemed them most suitable.",
+            "The models largely assigned users of African American English to \u201clow status\u201d jobs. Examples included cook or soldier. Those who had tweeted in Standard American English were assigned to \u201chigher status\u201d jobs. Professor, for example. Or psychologist. Or economist. \u00a0",
+            "Hidden biases show up even in AI models released in the last few years, the team found. And those models had been trained by people deliberately trying to scrub racism from the chatbots\u2019 responses.",
+            "Researchers told AI models that someone had committed murder. Then they asked those models to sentence that person to either life in prison or to the death penalty. The only thing the models used to decide was someone\u2019s dialect. AI models gave the death sentence to users of African American English more often than to those using Standard American English.",
+            "*AI_language_models_show_prejudice_against_users_of_African_American_English_dialect_depicted_on_the_",
+            "fCSource: V. Hoffman et al./Nature 2024; Adapted by: Brody Price",
+            "Tech companies had hoped that having people review AI-written text would reduce chatbot racism, says Siva Reddy. He\u2019s a computational linguist at McGill University in Montreal, Canada, who did not take part in the new work. The idea, he says, is that AI racism would be caught and corrected while models were still being trained.",
+            "The new research suggests true fixes will take much more work.",
+            "\u201cYou find all these problems and put patches to [the AI],\u201d Reddy says. But more research is needed to sort out how people can identify biases deeply embedded in society \u2014 and, as a result, in these models. Only then, he says, can we create truly unbiased AI rather than AI that just finds ways to hide its racism."
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/ai-machine-learning-physics-2024-nobel",
         "title": "\n\tTwo AI trailblazers win the 2024 Nobel Prize in physics",
         "content": [
@@ -251,26 +371,6 @@
         ]
     },
     {
-        "URL": "https://www.snexplores.org/article/mayo-behavior-nuclear-fusion",
-        "title": "\n\tWeirdly, mayo can help study conditions ripe for nuclear fusion\u00a0",
-        "content": [
-            "*A_spoon_scooping_mayonnaise_out_of_a_jar",
-            "Yes, mayonnaise, the same stuff you might put on a sandwich. Dollops of the condiment could help scientists better design nuclear fusion experiments.",
-            "Mayonnaise is useful for smearing on sandwiches and\u00a0 prepping potato salads. But scientists are now using it to study nuclear fusion.",
-            "How mayonnaise behaves can vary. If jiggled gently, it returns to its original shape. That\u2019s called elastic behavior \u2014 like how an elastic hair band will return to its original shape after you stretch it. But fling the mayo forcefully and it takes on plastic behavior. That means it permanently changes its shape or can even break apart. (You\u2019re probably more familiar with the term \u201cplastic\u201d to describe the material that makes up soda bottles, LEGOs and more. The two terms are related. Plastic, the material, is named after its ability to be molded or deformed into various shapes.)",
-            "This elastic-to-plastic morphing also can also take place in tests that use lasers to kick off nuclear fusion. That\u2019s the process where slamming two lightweight atoms together hard enough can make them merge. The mass of this combo is less than the sum of each starting atom. That\u2019s because some of that mass is converted into energy. So the process releases an enormous amount of energy.",
-            "Scientists want to learn how to control fusion so they can one day use it to generate electricity.",
-            "Scientists have been working to ignite a fusion reaction in the lab that releases more energy than went into it. Last December they succeeded. Researchers at Lawrence Livermore National Laboratory in California beamed 192 lasers at a small chamber containing fuel. This raised the pressures and temperatures so high inside the fuel that the nuclei of its atoms fused. And those fusion reactions released more energy than had been needed to set them off.",
-            "But it\u2019s difficult to study how materials behave under the extreme conditions required for fusion. And that\u2019s where the mayonnaise comes in.",
-            "The behavior of the fuel capsule in fusion experiments, it turns out, has a lot in common with mayonnaise. The fuel capsule is a metal or other material that contains a gas (the fuel). When lasers hit the capsule, it melts. The melty capsule can now switch from elastic to plastic.",
-            "The molten capsule has some properties of a solid. Like gloopy mayo, it doesn\u2019t flow on its own. Under enough force, however, it can break apart. If the capsule becomes plastic before fusion occurs, the gas could escape. And that could prevent fusion from taking place.",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
-            "Two mechanical engineers at Lehigh University in Bethlehem, Pa., wanted to understand that better. So they looked at how mayo mixes with a gas \u2014 air. Aren Boyaci and Arindam Banerjee spun a wheel into which they\u2019d dropped dollops of mayo. The centrifugal force of the spinning wheel accelerated that mayo into the air. Here, the mayo acts like the melted capsule, and the air acts like the gaseous fuel.",
-            "The scientists observed the glob while the wheel was spinning. They looked at it again after it stopped. They checked whether the mayo had returned to its original form, changed shape or broken apart. This determined the border between its elastic and plastic behaviors, they explain in the May Physical Review E.",
-            "Working with mayo does have one drawback. When you show up in the supermarket checkout line with 48 containers of mayo, you\u2019re bound to attract attention. \u201cWe sometimes get a lot of questions from the grocery stores,\u201d Banerjee says, asking \u201cwhy we are buying that much mayonnaise.\u201d"
-        ]
-    },
-    {
         "URL": "https://www.snexplores.org/article/ion-chemistry-cell-electricity",
         "title": "\n\tExplainer: How cells use chemistry to make the electricity of life",
         "content": [
@@ -302,33 +402,6 @@
             "Such tiny electrical signals underlie our senses \u2014 how we smell, hear, touch, taste and move. They also underlie every thought and emotion.",
             "Other cells in the body have electrical activity too. In the heart, cells move calcium ions to help control your heartbeat. Electrical signals also tell cells in your muscles to shorten \u2014 making the tissue contract.",
             "As in the brain, all of these cells operate with the help of ion migrations, which trigger tiny sparks of electricity."
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/explainer-how-heart-beats",
-        "title": "\n\tExplainer: Anatomy of a heartbeat",
-        "content": [
-            "*a_model_of_a_uman_heart_behind_illustrated_ECG_traces",
-            "The heart beats steadily from long before you\u2019re born to the day you die. Triggering each beat (illustrated in background by an electrocardiogram line) is a zap of electricity \u2014 literally the pulse of life. ",
-            "Your heart beats about 100,000 times per day. That\u2019s around 3 billion times over an average lifetime. Each beat pumps blood to the lungs, where it picks up oxygen. From there, it flows on to all of the rest of our cells, bringing nutrients and life-sustaining oxygen and carrying away wastes.",
-            "When we sit quietly in a chair, our hearts typically beat between 60 and 100 times per minute. But very fit people can have as few as 40 to 50 heartbeats per minute. When you\u2019re exercising, stressed or angry, your heart rate will speed up. How fast? The usual estimate for how fast your heart can beat is 220 beats per minute, minus your age (in years). So a 13-year-old would have a maximum heart rate of 207 beats per minute.",
-            "Our hearts are made up of millions of muscle cells. And no matter how your heart rate changes, all of those cells still contract \u2014 and beat \u2014 in the right order. And they do it over and over without stopping.",
-            "iFhttps://www.youtube.com/embed/GMBSU-2GK3E?feature=oembed",
-            "See how various parts of the heart rhythmically contract to move blood throughout the body.",
-            "Each heartbeat is divided into two segments, which sound like \u201club-DUB.\u201d You can hear this if you put your ear on someone\u2019s chest or use a stethoscope. The rhythm comes from the pumping of blood as the heart\u2019s four chambers contract.",
-            "Each beat starts in the heart\u2019s two upper chambers \u2014 the right and left atrium. The right atrium fills with low-oxygen blood that is returning from a circuit around the body. The left atrium fills with blood coming from the lungs, where it picked up oxygen.",
-            "These atria push blood down into two bigger, muscular chambers below them \u2014 the right and left ventricles. When the ventricles are full, valves close so the blood can\u2019t flow back to the atria. That\u2019s the \u201club\u201d sound.",
-            "Now the ventricles contract. The right ventricle sends the low-oxygen blood to the lungs where it can pick up a new supply of oxygen. The left ventricle takes oxygen-rich blood and pumps it out to the rest of the body. Then the valves in those ventricles close to keep the blood from coming back in. That\u2019s the \u201cDUB\u201d sound.",
-            "Lub-DUB. Lub-DUB. The rhythm can speed up or slow down. But it always happens in the same order.",
-            "It might be easy to think that the brain controls this action. After all, it controls our muscles and other organs. But while the heart takes some input from the brain, it has a \u201cmind\u201d of its own.",
-            "If the four chambers of the heart are a four-piece band, all beating in rhythm, their conductor is the sino-atrial node. It is sometimes called the SA node or sinus node. It\u2019s the heart\u2019s natural pacemaker.",
-            "*an_animation_showing_the_electrical_signal_that_travels_through_the_various_parts_of_the_heart_to_ca",
-            "fCKalumet/Wikimedia Commons (CC BY-SA 3.0)",
-            "This animation shows the electrical signal, or action potential, coming from the heart\u2019s right sino-atrial node (at animation\u2019s top left). That signal (in red) moves on to the atrio-ventricular node at center of the heart before spreading to the heart\u2019s ventricles. This signal is what makes the chambers of the heart contract in a coordinated rhythm. The line at the bottom shows the electrical signal, like you might see in an electrocardiogram or EKG.",
-            "This tiny bundle of cells is about the size of two grains of rice, laying end to end. It sits atop the right atrium. Electricity sets the rate at which this pacemaker fires a zap of electricity into the heart\u2019s two upper chambers.",
-            "That signal then travels to another clump of cells that sit between the heart\u2019s upper and lower chambers, explains Edward Lakatta. He\u2019s a cardiologist, or doctor who studies and treats diseases of the heart. He works at the National Institutes of Health in the Laboratory of Cardiovascular Science. It\u2019s in Baltimore, Md. This second clump of cells makes up the AV node. That\u2019s short for atrio-ventricular node. It\u2019s an electrical transfer station.",
-            "The AV node shuttles an electric pacing signal down to the heart\u2019s lower chambers. This jolts the muscle cells that make up the walls of each ventricle. Called an action potential, this zap \u201cwakes up heart cells in the ventricle,\u201d Lakatta says, and asks them to squeeze. This action, he explains will \u201cpump the blood out of the bottom part of the heart and throughout your body.\u201d",
-            "That, in a nutshell, is one heartbeat. And it happens about 60 times each minute \u2014\u00a0from before we\u2019re born to the time we die."
         ]
     },
     {
@@ -380,6 +453,30 @@
             "Stack Morgan says the rover team is carrying on despite MSR\u2019s iffy budget.",
             "\u201cWe have a mission to carry out and a job to do,\u201d Stack Morgan says \u2014 collecting compelling samples. \u201cIt can only be our hope that the samples that we collect are compelling enough to justify the cost of Mars Sample Return.\u201d",
             "And she thinks Percy\u2019s exciting new sample \u201creally hits that home.\u201d"
+        ]
+    },
+    {
+        "URL": "https://www.snexplores.org/article/periodic-table-new-element-120",
+        "title": "\n\tThe periodic table might soon have a new element",
+        "content": [
+            "*An_illustration_of_element_120_shows_120_electrons_arranged_around_a_nucleus",
+            "A new experiment hints that element 120 (illustrated) could be created with beams of titanium ions.",
+            "We may be one step closer to adding a new element to the periodic table.\u00a0",
+            "The table currently lists 118 chemical elements. Each has a different number of protons in the nucleus of its atoms. They range from one proton (in hydrogen) to 118 (in oganesson). Some of these elements have been found in nature. Others have been made in labs.",
+            "Making new elements with even more protons could help probe the limits of atomic physics.",
+            "A new study lays the groundwork to create an element with 120 protons. If produced, this element 120 would occupy a new row of the periodic table.\u00a0",
+            "The plan to make that element involves a beam of electrically charged atoms, or ions. Specifically, titanium ions. Scientists would slam this beam into a target of californium atoms.",
+            "In theory, that smashup between titanium (element 22) and californium (element 98) should forge element 120. (It\u2019s simple math: 22 + 98 = 120.) But scientists have not used a titanium beam to create such a heavy element before.",
+            "So they did a test run.",
+            "In this test, they beamed titanium ions at a target of plutonium (element 94). Their goal: Create livermorium; this element has 116 protons. After 22 days of searching, the team\u00a0found two atoms of livermorium in the wreckage of their particle smashups.",
+            "This helped confirm that a titanium beam could be used to create element 120. But it likely would take about 10 times as long, the team now predicts.",
+            "Jacklyn Gates shared these results July 23 at the Nuclear Structure 2024 meeting. It was held in Lemont, Ill. Gates is a nuclear scientist at Lawrence Berkeley National Laboratory in California.",
+            "iFhttps://www.youtube.com/embed/5RF4DlXA_Uo?feature=oembed",
+            "Here\u2019s what it takes to add a new element to the periodic table.",
+            "The five elements with the most protons so far were all produced using a beam of calcium-48. That\u2019s a variety, or isotope, of calcium with 28 neutrons in its nucleus. To produce those different elements, scientists swapped out the target element. The more protons in the nucleus of the target, the more protons the newly produced element would have.",
+            "But that tactic has reached its limit. The next possible targets for calcium-48 are radioactive elements that decay fast. So they don\u2019t last long enough to sift through the debris looking for the new element. Switching to beams of titanium-50 would allow scientists to use more practical targets in their search for new elements.",
+            "The target material for element 120 is easier to work with than the one for 119. That\u2019s why scientists are skipping element 119 for now.",
+            "\u201cIf you want to push above what we currently know on the periodic table,\u201d Gates says, \u201cyou need to find a new way of making heavy elements.\u201d"
         ]
     },
     {
@@ -441,32 +538,6 @@
             "So if someone tells you a ghost story this Halloween, enjoy it. But remain skeptical. Think about other possible explanations for what was described. Remember that your mind may fool you into experiencing spooky things.",
             "Wait, what\u2019s that behind you? (Boo!)",
             "Kathryn Hulick has been a regular contributor to Science News for Students since 2013. She\u2019s covered everything from laser \u201cphotography\u201d and acne to video games, robotics and forensics. This piece \u2014 her 43rd story for us \u2014 was inspired by her book: Strange But True: 10 of the world\u2019s greatest mysteries explained. (Quarto, October 1, 2019, 128 pages)."
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/explainer-how-do-mass-and-weight-differ",
-        "title": "\n\tExplainer: How do mass and weight differ?",
-        "content": [
-            "*a_picture_of_a_brass_metal_balance_scale,_one_each_side_are_metal_weights_One_side_is_lower_than_the",
-            "All of the metal weights shown here are made from the same material. But gravity is pulling the right side of this balance scale farther down than the left side. This shows that the total mass of the metal weights on the right side is greater. ",
-            "In everyday life, we often use the words \u201cmass\u201d and \u201cweight\u201d as if they\u2019re the same. But in science, it\u2019s important to be precise. Mass and weight are both measurements that describe heaviness, but they actually mean very different things. Let\u2019s be specific!",
-            "Mass is a measurement of the amount of matter in some object. It depends only on what type of atoms the object is made of, and how many atoms there are. Mass is traditionally measured in kilograms (kg). A pineapple or a wooden baseball bat each have a mass of about 1 kilogram. \u00a0",
-            "If you were to measure out 1 kilogram of steel and 1 kilogram of feathers, they would each have the same mass. But their volumes would differ. You\u2019d need a far bigger volume of feathers because most of the elements they\u2019re made from are lighter than those in steel. It takes more of those atoms to build up the same mass \u2014 which takes up more space.",
-            "People in the United States rarely describe objects using kilograms in daily life. Scientists and doctors use this term because it is the standard unit of mass in the metric system. (A standard unit is a definition that all scientists agree on.) \u00a0\u00a0",
-            "You can change an object\u2019s mass by removing some of its parts. When you take books out of your backpack at the end of a school day, you\u2019ve decreased the backpack\u2019s mass. Mass can also change by adding more matter. When a child grows, their body is building longer bones and bigger organs. The child\u2019s mass will increase because they are transforming food energy into matter for their body.",
-            "It\u2019s important to know that mass doesn\u2019t change by varying its shape, location or size. Your body\u2019s mass is the same when you\u2019re curled up on the sofa or when you stretch as high as you can. And it\u2019s the same when you\u2019re at home or at the beach or at school! But your mass is a little bit more after you\u2019ve eaten breakfast, compared with when you first wake up in the morning. Mass is a fundamental measurement of how much matter an object contains.",
-            "*A_photo_of_astronaut_John_Young_bouncing_across_the_moon_The_photo_shows_him_mid-bounce,_suspended_i",
-            "fCAstronaut John Young bounded across the lunar surface during the Apollo 16 mission in April 1972. His space suit more than doubled Young\u2019s mass. The moon\u2019s gravity is so weak, however, that he could still jump easily.",
-            "Weight is a measurement of the gravitational force on an object. It not only depends on the object\u2019s mass, but also on its location. Therefore, weight is actually a measure of force. In the United States, most people measure weight in pounds.",
-            "Let\u2019s say that your body has a mass of 40 kilograms. Your mass is 40 kilograms on Earth, on the moon, on Jupiter \u2014 and even floating inside the International Space Station. Your mass is 40 kilograms no matter where you are. But your weight differs from place to place because of differences in how hard gravity at each site pulls on you. On Earth\u2019s surface, 1 kilogram of mass is equivalent to 2.2 pounds of weight. So your 40-kilogram mass on Earth would weigh 40 x 2.2 \u2014 or 88 pounds.",
-            "Language can get tricky here. Scientifically, you shouldn\u2019t say, \u201cMy doctor measured my weight as 40 kilograms,\u201d because weight isn\u2019t the same as mass. It would be similarly incorrect to say, \u201cMy doctor measured my mass as 88 pounds.\u201d However, since we all experience the same strength of Earth\u2019s gravity on our mass, in casual language we often use mass and weight interchangeably. In much the same way, most people feel comfortable describing mass in pounds and weight in kilograms.",
-            "To avoid this confusion, scientists use a standard unit for force. It\u2019s called the newton (in honor of Isaac Newton). On Earth, 100 newtons of weight (a force) is equal to about 22 pounds. This is a measure of how hard Earth\u2019s gravity pulls on a mass of about 10 kilograms.",
-            "*a_photo_of_a_nighttime_launch_of_the_space_shuttle_Discovery_The_back_of_the_shuttle_is_lit_up_by_th",
-            "fCThis photo of a nighttime launch of a space shuttle shows how big its engines and rocket boosters are. Rockets need much more power in the first few minutes after launch than they do later.",
-            "As the mass of something rises or falls, its weight will change in the same way. And if the gravitational force on something rises or falls, its weight will also. In short, the mass of something rarely changes, but there are multiple ways its weight can change. \u00a0",
-            "The gravity you\u2019d feel on the surface of a planet depends on its density. We say that Earth has the gravitational force of one \u201cG.\u201d The moon is much smaller and less dense than Earth. Its gravity is one-sixth G. Although Jupiter is much, much bigger than Earth, it\u2019s not very dense. So Jupiter\u2019s gravity is 2.5 G.",
-            "If your mass is 40 kilograms on Earth, your 88-pound weight would drop to 15 pounds on the moon. On Jupiter, you\u2019d weigh 220 pounds. On the International Space Station, floating in orbit, your weight would be zero. But your mass would stay the same \u2014 40 kg \u2014 in all of these places. For that reason, mass is a fundamental property of matter and weight is not.",
-            "Rocket launches offer an interesting example of how mass and weight relate. At launch, the rocket is full of fuel, so its mass is greatest. At Earth\u2019s surface, it also feels the maximum pull of gravity. So its weight is heaviest. A few minutes after launch, the rocket has burned through a huge portion of its fuel. This means it has lost mass as that fuel has been transformed into energy. In addition, the rocket is farther from Earth\u2019s surface. Gravity therefore pulls on it with even less force. Both the rocket\u2019s mass and its weight have dropped. The rocket\u2019s engines can now push the rocket even faster than they could at launch. (Next time you watch a rocket launch, notice how huge those launch engines are!)"
         ]
     },
     {
@@ -1032,6 +1103,26 @@
         ]
     },
     {
+        "URL": "https://www.snexplores.org/article/mayo-behavior-nuclear-fusion",
+        "title": "\n\tWeirdly, mayo can help study conditions ripe for nuclear fusion\u00a0",
+        "content": [
+            "*A_spoon_scooping_mayonnaise_out_of_a_jar",
+            "Yes, mayonnaise, the same stuff you might put on a sandwich. Dollops of the condiment could help scientists better design nuclear fusion experiments.",
+            "Mayonnaise is useful for smearing on sandwiches and\u00a0 prepping potato salads. But scientists are now using it to study nuclear fusion.",
+            "How mayonnaise behaves can vary. If jiggled gently, it returns to its original shape. That\u2019s called elastic behavior \u2014 like how an elastic hair band will return to its original shape after you stretch it. But fling the mayo forcefully and it takes on plastic behavior. That means it permanently changes its shape or can even break apart. (You\u2019re probably more familiar with the term \u201cplastic\u201d to describe the material that makes up soda bottles, LEGOs and more. The two terms are related. Plastic, the material, is named after its ability to be molded or deformed into various shapes.)",
+            "This elastic-to-plastic morphing also can also take place in tests that use lasers to kick off nuclear fusion. That\u2019s the process where slamming two lightweight atoms together hard enough can make them merge. The mass of this combo is less than the sum of each starting atom. That\u2019s because some of that mass is converted into energy. So the process releases an enormous amount of energy.",
+            "Scientists want to learn how to control fusion so they can one day use it to generate electricity.",
+            "Scientists have been working to ignite a fusion reaction in the lab that releases more energy than went into it. Last December they succeeded. Researchers at Lawrence Livermore National Laboratory in California beamed 192 lasers at a small chamber containing fuel. This raised the pressures and temperatures so high inside the fuel that the nuclei of its atoms fused. And those fusion reactions released more energy than had been needed to set them off.",
+            "But it\u2019s difficult to study how materials behave under the extreme conditions required for fusion. And that\u2019s where the mayonnaise comes in.",
+            "The behavior of the fuel capsule in fusion experiments, it turns out, has a lot in common with mayonnaise. The fuel capsule is a metal or other material that contains a gas (the fuel). When lasers hit the capsule, it melts. The melty capsule can now switch from elastic to plastic.",
+            "The molten capsule has some properties of a solid. Like gloopy mayo, it doesn\u2019t flow on its own. Under enough force, however, it can break apart. If the capsule becomes plastic before fusion occurs, the gas could escape. And that could prevent fusion from taking place.",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
+            "Two mechanical engineers at Lehigh University in Bethlehem, Pa., wanted to understand that better. So they looked at how mayo mixes with a gas \u2014 air. Aren Boyaci and Arindam Banerjee spun a wheel into which they\u2019d dropped dollops of mayo. The centrifugal force of the spinning wheel accelerated that mayo into the air. Here, the mayo acts like the melted capsule, and the air acts like the gaseous fuel.",
+            "The scientists observed the glob while the wheel was spinning. They looked at it again after it stopped. They checked whether the mayo had returned to its original form, changed shape or broken apart. This determined the border between its elastic and plastic behaviors, they explain in the May Physical Review E.",
+            "Working with mayo does have one drawback. When you show up in the supermarket checkout line with 48 containers of mayo, you\u2019re bound to attract attention. \u201cWe sometimes get a lot of questions from the grocery stores,\u201d Banerjee says, asking \u201cwhy we are buying that much mayonnaise.\u201d"
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/science-of-paper-cuts",
         "title": "\n\tScience reveals the reasons behind painful paper cuts",
         "content": [
@@ -1080,6 +1171,33 @@
             "fCFigure 4. Blow across the top of a bottle, as shown here, to make a musical note.",
             "This activity is brought to you in partnership with\u00a0Science Buddies. Find\u00a0the original activity\u00a0on the Science Buddies website.",
             "*A_banner_that_reads_SCIENCE_BUDDIES"
+        ]
+    },
+    {
+        "URL": "https://www.snexplores.org/article/explainer-how-heart-beats",
+        "title": "\n\tExplainer: Anatomy of a heartbeat",
+        "content": [
+            "*a_model_of_a_uman_heart_behind_illustrated_ECG_traces",
+            "The heart beats steadily from long before you\u2019re born to the day you die. Triggering each beat (illustrated in background by an electrocardiogram line) is a zap of electricity \u2014 literally the pulse of life. ",
+            "Your heart beats about 100,000 times per day. That\u2019s around 3 billion times over an average lifetime. Each beat pumps blood to the lungs, where it picks up oxygen. From there, it flows on to all of the rest of our cells, bringing nutrients and life-sustaining oxygen and carrying away wastes.",
+            "When we sit quietly in a chair, our hearts typically beat between 60 and 100 times per minute. But very fit people can have as few as 40 to 50 heartbeats per minute. When you\u2019re exercising, stressed or angry, your heart rate will speed up. How fast? The usual estimate for how fast your heart can beat is 220 beats per minute, minus your age (in years). So a 13-year-old would have a maximum heart rate of 207 beats per minute.",
+            "Our hearts are made up of millions of muscle cells. And no matter how your heart rate changes, all of those cells still contract \u2014 and beat \u2014 in the right order. And they do it over and over without stopping.",
+            "iFhttps://www.youtube.com/embed/GMBSU-2GK3E?feature=oembed",
+            "See how various parts of the heart rhythmically contract to move blood throughout the body.",
+            "Each heartbeat is divided into two segments, which sound like \u201club-DUB.\u201d You can hear this if you put your ear on someone\u2019s chest or use a stethoscope. The rhythm comes from the pumping of blood as the heart\u2019s four chambers contract.",
+            "Each beat starts in the heart\u2019s two upper chambers \u2014 the right and left atrium. The right atrium fills with low-oxygen blood that is returning from a circuit around the body. The left atrium fills with blood coming from the lungs, where it picked up oxygen.",
+            "These atria push blood down into two bigger, muscular chambers below them \u2014 the right and left ventricles. When the ventricles are full, valves close so the blood can\u2019t flow back to the atria. That\u2019s the \u201club\u201d sound.",
+            "Now the ventricles contract. The right ventricle sends the low-oxygen blood to the lungs where it can pick up a new supply of oxygen. The left ventricle takes oxygen-rich blood and pumps it out to the rest of the body. Then the valves in those ventricles close to keep the blood from coming back in. That\u2019s the \u201cDUB\u201d sound.",
+            "Lub-DUB. Lub-DUB. The rhythm can speed up or slow down. But it always happens in the same order.",
+            "It might be easy to think that the brain controls this action. After all, it controls our muscles and other organs. But while the heart takes some input from the brain, it has a \u201cmind\u201d of its own.",
+            "If the four chambers of the heart are a four-piece band, all beating in rhythm, their conductor is the sino-atrial node. It is sometimes called the SA node or sinus node. It\u2019s the heart\u2019s natural pacemaker.",
+            "*an_animation_showing_the_electrical_signal_that_travels_through_the_various_parts_of_the_heart_to_ca",
+            "fCKalumet/Wikimedia Commons (CC BY-SA 3.0)",
+            "This animation shows the electrical signal, or action potential, coming from the heart\u2019s right sino-atrial node (at animation\u2019s top left). That signal (in red) moves on to the atrio-ventricular node at center of the heart before spreading to the heart\u2019s ventricles. This signal is what makes the chambers of the heart contract in a coordinated rhythm. The line at the bottom shows the electrical signal, like you might see in an electrocardiogram or EKG.",
+            "This tiny bundle of cells is about the size of two grains of rice, laying end to end. It sits atop the right atrium. Electricity sets the rate at which this pacemaker fires a zap of electricity into the heart\u2019s two upper chambers.",
+            "That signal then travels to another clump of cells that sit between the heart\u2019s upper and lower chambers, explains Edward Lakatta. He\u2019s a cardiologist, or doctor who studies and treats diseases of the heart. He works at the National Institutes of Health in the Laboratory of Cardiovascular Science. It\u2019s in Baltimore, Md. This second clump of cells makes up the AV node. That\u2019s short for atrio-ventricular node. It\u2019s an electrical transfer station.",
+            "The AV node shuttles an electric pacing signal down to the heart\u2019s lower chambers. This jolts the muscle cells that make up the walls of each ventricle. Called an action potential, this zap \u201cwakes up heart cells in the ventricle,\u201d Lakatta says, and asks them to squeeze. This action, he explains will \u201cpump the blood out of the bottom part of the heart and throughout your body.\u201d",
+            "That, in a nutshell, is one heartbeat. And it happens about 60 times each minute \u2014\u00a0from before we\u2019re born to the time we die."
         ]
     },
     {
