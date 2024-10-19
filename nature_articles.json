@@ -20,28 +20,6 @@
         ]
     },
     {
-        "URL": "https://www.nature.com/articles/d41586-024-03319-z",
-        "title": "AlphaFold reveals how sperm and egg hook up in intimate detail",
-        "content": [
-            "*False-coloured_scanning_election_micrograph_of_a_human_spermatozoa_fertilising_an_egg",
-            "\n\n     A trio of proteins helps a sperm (artificially coloured) to dock to an egg.\n    \n\n     Credit: D. Phillips/Science Photo Library\n    \n",
-            "\n\n  An artificial-intelligence tool honoured by one of this year\u2019s Nobel prizes\n  has revealed intimate details of the molecular meet-cute between \n \n  sperm and eggs\n .\n",
-            "\n The AlphaFold program, \n \n  which predicts protein structures\n , identified a trio of proteins that team up to work as matchmakers between the gametes. Without them, \n \n  sexual reproduction\n  might hit a dead end in a wide range of animals, from fish to mammals.\n",
-            "\n The finding, published on 17 October in \n \n  Cell\n \n\n\n   1\n  \n, contradicts a previous notion \n \n  that just two proteins\n  \u2014 one on the egg and one on the sperm \u2014 are sufficient to ensure fertilization, says Enrica Bianchi, a reproductive biologist at the University of Rome Tor Vergata, who was not involved in the study. \u201cIt\u2019s not the old concept of having a key and a lock to open the door any more,\u201d she says. \u201cIt\u2019s more complicated.\u201d\n",
-            "h2\n A mysterious union\n",
-            "\n Despite its crucial role in reproduction, the process by which the fusion of egg and sperm occurs in vertebrates is a molecular mystery that has proved difficult to crack. The union of the two cells involves proteins that reside in greasy membranes, making them hard to study using standard biochemical methods. The interactions between these proteins are often weak and fleeting, and it is difficult to harvest enough viable eggs and sperm from some of researchers\u2019 favoured laboratory animals, including mice, for extensive experiments.\n",
-            "\n\n\n\n\n    Stopping sperm at the source\n   \n\n\n",
-            "\n As a result, early studies of reproductive biology often focused on marine invertebrates that release copious quantities of eggs and sperm into water. \u201cIf you take a textbook off the shelf and look up fertilization, you\u2019ll read all about \n \n  sea urchins\n ,\u201d says Gavin Wright, a biochemist at the University of York, UK, who was not involved in the study. \u201cIt\u2019s a tricky thing to research.\u201d\n",
-            "\n To overcome the supply problem, Andrea Pauli, a molecular biologist at the Research Institute of Molecular Pathology in Vienna, and her colleagues began their work in \n \n  zebrafish\n , a vertebrate that also releases its eggs and sperm into the water. To bypass the difficulties of working with membrane proteins in the laboratory, the team used \n \n  AlphaFold\n  to predict interactions between proteins. Two of AlphaFold\u2019s developers were awarded a share of the 2024 Nobel Prize in Chemistry on 9 October.\n",
-            "h2\n Not two but three\n",
-            "\n AlphaFold predicted that three sperm proteins come together to form a complex. Two of these proteins were already known to be important for fertility. Working in the laboratory, Pauli and her colleagues confirmed that the third is also crucial for fertility in both zebrafish and mice, and that the three proteins interact with one another in zebrafish and human sperm.\n",
-            "\n The team also found that, in zebrafish, the trio creates a binding site for an egg protein called Bouncer, providing a mechanism by which the two cells can recognize one another. \u201cIt\u2019s a way to say, \u2018Sperm, you found an egg\u2019 and \u2018Egg, you found a sperm\u2019,\u201d says Andreas Blaha, a biochemist at the Research Institute of Molecular Pathology and a co-author of the paper.\n",
-            "\n The findings might one day yield a way to screen people struggling with infertility, to find out whether problems with this complex could be the cause, says Wright.\n",
-            "\n And the results highlight a role for AlphaFold in studying fertilization, he adds. \u201cWe\u2019re limited in terms of experiments,\u201d he says. \u201cIt might be that these modelling studies have an important role to play in the future.\u201d\n",
-            "doi: https://doi.org/10.1038/d41586-024-03319-z"
-        ]
-    },
-    {
         "URL": "https://www.nature.com/articles/d41586-024-03424-z",
         "title": "AI tool helps people with opposing views find common ground",
         "content": [
@@ -258,6 +236,60 @@
         ]
     },
     {
+        "URL": "https://www.nature.com/articles/d41586-024-03368-4",
+        "title": "How does the brain react to birth control? A researcher scanned herself 75 times to find out",
+        "content": [
+            "*A_woman's_hands_hold_a_pack_of_birth_control_pills",
+            "\n\n     Researchers are cataloguing the effects of birth control on the brain.\n    \n\n     Credit: Isabel Pavia/Getty\n    \n",
+            "\n\n  Chicago, Illinois\n \n",
+            "\n Hold the morning coffee and meditation: for about 75 days over the span of a year, neuroscientist Carina Heller's morning ritual included climbing into her university's brain scanner at 7:30 a.m. and lying perfectly still for an hour and a half \u2014 without falling asleep. By her estimates, this has made her the most-scanned woman in science.\n",
+            "\n It\u2019s not the title she was after. Heller\u2019s goal was to catalogue how her brain changes during her menstrual cycle, with and without \n \n  oral contraceptives\n . Her findings suggest that brain morphology and connectivity change daily throughout the natural cycle and are influenced by birth-control pills, according to preliminary results presented at this year\u2019s annual Society for Neuroscience conference.\n",
+            "\n Heller is one of a cadre of women\u2019s health researchers who are tired of waiting for data to trickle in on a \n \n  chronically understudied\n  area, and have taken matters into their own hands by hopping into a brain-imaging machine. More data could offer women and their physicians greater agency to make \u201cbetter-informed decisions of whether they want to take the medication or not\u201d, and what specific formulations might be best suited for them, says Heller, who is based at the University of Minnesota Twin Cities in Minneapolis.\n",
+            "\n \u201cShe did this rigorous self-experimentation where she gave herself up to science,\u201d says Emily Jacobs, a neuroscientist at the University of California, Santa Barbara, who works with Heller. \u201cAnd as a result, we now have this greater insight into the human brain.\u201d\n",
+            "h2\n Research gaps\n",
+            "\n Oral contraceptives often contain synthetic versions of one or two hormones the body naturally produces: progesterone and oestrogen. These hormones prevent pregnancy in several ways, including by stopping the ovaries from releasing an egg.\n",
+            "\n US regulators approved the first oral contraceptive in 1960. Within two years, more than one million people were taking \u2018the pill\u2019, as it became known. Today, more than 150 million people of reproductive age globally take oral contraceptives, placing them among the most-used medications in the world. Many take the pill for reasons unrelated to conception, such as managing acne, regulating menstrual cycles or helping to relieve menstrual symptoms and migraines.\n",
+            "\n Decades of data on these medicines suggest that they are generally safe, but their effects on the brain remain understudied. For example, although some people report that they experience decreased depression and anxiety, others find that these symptoms worsen \u2014 and it\u2019s unclear why.\n",
+            "\n Many people begin taking the pill during puberty, which is a crucial time for brain maturation, so it\u2019s important to understand how it affects neurodevelopment, says Kathryn Lenz, a behavioural neuroscientist at The Ohio State University in Columbus.\n",
+            "h2\n The adaptable brain\n",
+            "\n Most neuroimaging experiments use magnetic resonance imaging (MRI) technology to scan the brains of 10\u201330 participants only once or twice, which is costly to perform. This approach fails to account for daily variation in brain morphology and connectivity.\n",
+            "\n A growing number of neuroimaging studies instead use a technique called \u2018\n \n  dense sampling\n \u2019, in which researchers scan a single or handful of participants repeatedly to build a high-resolution data set. Dense sampling captures observations that might otherwise be overlooked, but the small sample size results in limited generalizability of findings to larger populations.\n",
+            "\n Even so, by comparing data sets between participants \u2014 especially those who have different reactions to the pill \u2014 researchers might be able to pinpoint what drives different side effects.\n",
+            "*A_photograph_of_Carina_Heller_sitting_in_front_of_an_MRI_machine",
+            "\n\n     Neuroscientist Carina Heller has joined a cadre of investigators who fill gaps in women's health research by hopping into brain-imaging machines themselves.\n    \n\n     Credit: Ann-Christine Buck\n    \n",
+            "\n Using this approach, Heller scanned herself 25 times over 5 weeks, capturing images at different stages of her natural menstrual cycle. A few months later, she began taking oral contraceptives and then waited 3 months before scanning herself another 25 times in 5 weeks. At that point, Heller ceased taking the pill, waited another 3 months and scanned herself a final 25 times over 5 weeks. She also had blood drawn and completed a survey about her mood after each scan.\n",
+            "\n Heller found a rhythmic pattern of change in brain volume and connectivity between brain regions over the course of her menstrual cycle, with volume and connectivity dipping slightly while she was taking oral contraceptives. (Higher brain volume or connectivity does not imply improved brain function, and vice versa.)\n",
+            "\n This pattern largely returned to its former state after she stopped taking the medication, showing that the brain is \u201cquite adaptable\u201d, says Laura Pritschet, who conducted her graduate work with Jacobs and is now a cognitive neuroscientist at the University of Pennsylvania in Philadelphia.\n",
+            "h2\n An expanding network\n",
+            "\n Heller drew inspiration from a study in which Pritschet scanned her own brain for 30 consecutive days during her natural menstrual cycle and for 30 more days while taking oral contraceptives. This was part of a project that Pritschet calls 28andMe: the name is a nod to the consumer-genetics firm 23andMe in South San Francisco, California, and the 28 days in a canonical menstrual cycle.\n",
+            "\n Data from Pritschet\u2019s project showed that higher levels of oestrogen drive certain important brain networks to become more functionally connected\n \n\n   1\n  \n. One of these was the \u2018default mode network\u2019, which is active during daydreaming and is involved in memory. Progesterone had the opposite effect. Pritschet also scanned her husband over 30 consecutive days in a spin-off project called 28andHe, to understand the effects of hormone fluctuations in the male brain\n \n\n   2\n  \n.\n",
+            "\n Next, Heller plans to compare her data with those from a woman with endometriosis, a painful condition that affects up to 10% of reproductive age women, to understand whether hormone fluctuations in the brain could be driving the condition.\n",
+            "\n These data sets are \u201cgoing to give us a really intriguing window into the relationship between hormonal status and subtle changes in brain structure and behavioural functions\u201d, Lenz says.\n",
+            "doi: https://doi.org/10.1038/d41586-024-03368-4"
+        ]
+    },
+    {
+        "URL": "https://www.nature.com/articles/d41586-024-03377-3",
+        "title": "Mexican forest \u2018relocated\u2019 in attempt to save iconic monarch butterflies",
+        "content": [
+            "*Monarch_butterflies_resting_on_leaves_in_a_Oyamel_forest_in_Mexico",
+            "The population of monarch butterflies has plummeted over several decades. Credit: Mario Vazquez/AFP/Getty",
+            "\n Researchers in central Mexico have planted a forest of firs. Now they\u2019re hoping the imperiled Eastern monarch butterflies will come.\n",
+            "\n Almost 1,000 oyamel firs \n \n  (Abies religiosa)\n have been transplanted to a mountain in Michoac\u00e1n, where they are growing at elevations beyond what was considered the species\u2019 upper limit\n \n\n   1\n  \n. If the trees survive over the next few decades, they could help to shield the migratory eastern population of monarch butterflies (\n \n  Danaus plexippus\n ), which spend the winter roosting in oyamel fir forests, from the impacts of climate change.\n",
+            "\n This population of monarchs, which migrates up to 4,500 kilometres from the United States and Canada to Mexico, has declined dramatically since the 1990s, owing to climate change and habitat destruction.\n",
+            "\n Part of the butterflies\u2019 remaining habitat \u2014 the fir trees in the Monarch Butterfly Biosphere Reserve in Michoac\u00e1n \u2014 is slowly shifting upwards as the climate warms. But the firs will eventually \u201crun out of mountain\u201d, says Cuauht\u00e9moc S\u00e1enz-Romero, a forest geneticist at the Michoacan University of Saint Nicholas of Hidalgo in Morelia, Mexico, and the lead author of the study, which was published in \n \n  Frontiers in Forests and Global Change\n  this week.\n",
+            "h2\n Relocation project\n",
+            "\n To test whether the butterfly habitat could be relocated in the reserve, S\u00e1enz-Romero and his colleagues \n \n  shifted hundreds of seedlings up a mountainside\n  by 400 metres several years ago. Since then, they have launched a pilot project on Nevado de Toluca \u2014 a nearby mountain that crests roughly 1,000 metres higher than the reserve. Local rangers discovered a new colony of butterflies wintering there in 2019, which suggests that it could be a suitable site to create a new habitat, S\u00e1enz-Romero says.\n",
+            "*Cuauhtemoc_Saenz-Romero_standing_in_a_mountain_forest_in_Mexico",
+            "\n\n     Forest geneticist Cuauht\u00e9moc S\u00e1enz-Romero leads a team that have relocated firs in an attempt to save the butterflies.\n    \n\n     Credit: Brian van der Brug/Los Angeles Times/Getty\n    \n",
+            "\n The researchers grew nearly 1,000 oyamel fir saplings, and planted them at four elevations in circles beneath shrubs, which provide shade and protection. They then measured the firs\u2019 survival and growth after three growing seasons.\n",
+            "\n The natural elevation limit for the fir was thought to be around 3,550 metres. But the team found that 68% of saplings planted at 3,800 metres survived, as did 44% of those planted at 4,000 metres \u2014 the two highest elevations. They did, however, grow more slowly than those planted at the two lower altitudes.\n",
+            "\n John Pleasants, an ecologist at Iowa State University in Ames, says that this feasibility study has great significance. It would require lot of effort to plant enough trees to provide refuge for the butterflies, \u201cbut that may be the only choice down the road,\u201d he says.\n",
+            "\n Growing milkweed (\n \n  Asclepias\n ) and nectar plant species east of the Rocky Mountains and reducing pesticide use are also important for butterflies\u2019 survival, says S\u00e1enz-Romero, but such strategies are \u201cnot enough\u201d to save them from climate change. He estimates that at least 5,000 trees would need to reach maturity in central Mexico\u2019s higher elevations by the 2060s to ensure that the eastern monarchs have a winter home.\n",
+            "doi: https://doi.org/10.1038/d41586-024-03377-3"
+        ]
+    },
+    {
         "URL": "https://www.nature.com/articles/d41586-024-03287-4",
         "title": "The early days of peer review: five insights from historical reports",
         "content": [
@@ -302,65 +334,6 @@
             "\n It was obvious that many papers weren\u2019t of value to the enemy. But some studies prompted concerns and were often referred to military specialists. Selig Brodetsky, who was a fluid-dynamics researcher at the University of Leeds, UK, \n \n  submitted a paper on aeroplane motion in 1939\n , but after hostilities began he was told its publication would be delayed until after the war.\n",
             "\n Brodetsky accepted the decision, but asked for six copies of his paper \u2014 which had been marked \u2018SECRET\u2019 \u2014 to share with his colleagues for a government project. \u201cI shall of course,\u201d he promised, \u201ctake every precaution that no copy gets into unauthorised hands.\u201d\n",
             "doi: https://doi.org/10.1038/d41586-024-03287-4"
-        ]
-    },
-    {
-        "URL": "https://www.nature.com/articles/d41586-024-03330-4",
-        "title": "No bandage needed: electrical impulses to major nerve help stop bleeding",
-        "content": [
-            "*A_coloured_scanning_electron_micrograph_of_red_blood_cells_and_platelets_in_a_fibrin_mesh_in_blue_an",
-            "\n\n     Platelets and red blood cells mingle in a blood clot (artificially coloured).\n    \n\n     Credit: Anne Weston, EM STP, The Francis Crick Institute/Science Photo Library\n    \n",
-            "\n\n  Chicago, Illinois\n \n",
-            "\n Forget the gauze and bandages: \n \n  electrical stimulation\n  near the ear might help to reduce bleeding. Researchers hope the technique could one day be used before surgery, \n \n  childbirth and other events that pose a risk of dangerously uncontrolled bleeding\n .\n",
-            "\n The treatment, called a \u2018neural tourniquet\u2019 by its creators, helps to turbocharge the activity of \n \n  platelets, which are cell fragments that form blood clots\n , according to preliminary results presented at the 2024 Society for Neuroscience conference.\n",
-            "\n \u201cAnybody who\u2019s worked in the emergency or operating room knows how gruesome it can be to lose somebody to bleeding,\u201d Jared Huston, a trauma surgeon at the Feinstein Institutes for Medical Research in Manhasset, New York, who co-developed the treatment, tells \n \n  Nature\n . \u201cBleeding can kill you much faster than sepsis.\u201d\n",
-            "h2\n Bleeding\u2019s heavy toll\n",
-            "\n Haemorrhage, or uncontrolled bleeding, accounts for about 60,000 deaths in the United States each year\n \n\n   1\n  \n. To try to reduce that number, Huston and his colleagues are developing a treatment that targets the \n \n  vagus nerves\n \n\n  , which are large networks of nerve fibres that link the body with the brain\n . Despite its name, the treatment does not work like a typical tourniquet that blocks blood flow to injured appendages. Instead, the electrical pulses help to stimulate the spleen, which stores about one-third of the body\u2019s platelets. The stimulation prods the spleen to ready platelets to form a clot.\n",
-            "\n To test the treatment, the researchers made small cuts in the ears of healthy pigs\n \n\n   2\n  \n. Compared with animals that didn\u2019t receive the treatment, treated swine lost 50% less blood, and the duration of their bleeding was 40% shorter.\n",
-            "\n The team also tested the treatment on mice with \n \n  haemophilia, a condition in which the blood does not clot properly\n , and found similar results\n \n\n   3\n  \n. The experiment also hinted at how nerve stimulation achieves these results: it increases calcium uptake by platelets in the spleen and makes them more ready to release their innards when they reach an injured blood vessel. Both actions are key to clot formation.\n",
-            "h2\n Promising data\n",
-            "\n Last year, Huston and Spark Biomedical, a biotechnology firm based in Dallas, Texas, launched \n \n  a trial of the treatment in 30 people\n . In some participants, the researchers applied mild electric currents to one of two stimulation sites near the ear; control participants received sham stimulation. The preliminary results show that the treatment modestly increases clot stability and platelet activation.\n",
-            "\n The treatment\u2019s time scale could be a problem: platelets were most highly activated 2 hours after stimulation \u2014 which might make the device impractical for use in the emergency room. Huston is still analysing data about whether the treatment could lead to excessive clotting elsewhere in the body, but he says that nerve stimulation has been used safely for decades, giving him no reason for concern.\n",
-            "*A_researcher_demonstrates_how_to_attach_a_device_named_the_neural_tourniquet_to_the_skin_over_the_ea",
-            "\n\n     A researcher dons a \u2018neural tourniquet\u2019, which has electrodes that can be positioned around and in the ear.\n    \n\n     Credit: The Feinstein Institutes for Medical Research\n    \n",
-            "\n It\u2019s also unclear whether increased clot stability will translate into decreased bleeding in people, says Svetlana Mastitskaya, a cardiovascular neuroscientist at the University of Bristol, UK. \u201cIt would be nice to see a more visible effect of the intervention,\u201d she says.\n",
-            "\n Huston responds that bleeding time and volume are harder to study in people than in animals, because of ethical concerns about intentionally harming humans. Still, it might be possible to determine the treatment\u2019s effectiveness by studying people with haemophilia or who are about to undergo surgery.\n",
-            "\n\n  Researchers are also testing the device\n  in women with type 1 von Willebrand disease, who often experience excessive menstrual bleeding and lose as much as a litre of blood during menstruation, says Spark Biomedical\u2019s chief scientific officer, Navid Khodaparast. Participants receive one hour of stimulation twice a day in a bid to reduce their bleeding. Results are forthcoming, he says.\n",
-            "doi: https://doi.org/10.1038/d41586-024-03330-4"
-        ]
-    },
-    {
-        "URL": "https://www.nature.com/articles/d41586-024-03225-4",
-        "title": "Is there life on Jupiter\u2019s moon Europa? NASA launches mission to find hints",
-        "content": [
-            "*Jupiter's_icy_moon_Europa,_captured_by_JunoCam_aboard_NASA's_Juno_spacecraft,_during_a_close_flyby_o",
-            "\n\n     Jupiter\u2019s moon Europa is thought to hide a saltwater ocean beneath its icy surface.\n    \n\n     Credit: NASA/JPL-Caltech/SwRI/MSSS/Kevin M. Gill\n    \n",
-            "\n A SpaceX rocket lifted off from Cape Canaveral in Florida today, carrying with it NASA\u2019s US$5-billion dream \n \n  of finding hints of life on a distant moon\n . The mission \u2014 the most ambitious hunt for life beyond Earth since NASA began exploring Mars decades ago \u2014 will now voyage towards Jupiter to investigate a vast ocean buried under the icy crust of its moon Europa.\n",
-            "\n\n\n\n\n    NASA approves mission to search for a hidden ocean on Jupiter\u2019s moon Europa\n   \n\n\n",
-            "\n In the coming weeks, the Europa Clipper craft will make crucial manoeuvres in space, such as deploying radar antennas, to prepare for studying the moon. \u201cWe\u2019re watching through our fingers with excitement,\u201d says Kathleen Craft, a planetary scientist at the Johns Hopkins University Applied Physics Laboratory in Laurel, Maryland. \u201cEverything needs to go right.\u201d\n",
-            "\n If it does, the spacecraft will reach Jupiter in 2030 and begin whizzing past Europa, making dozens of fly-bys. Skimming above the moon\u2019s icy surface, it will aim to answer some of the most profound questions in astrobiology \u2014 including whether Europa\u2019s ocean contains chemical nutrients and other energy sources capable of sustaining life\n \n\n   1\n  \n.\n",
-            "\n Mission scientists have been careful to say that Clipper, named for the nineteenth-century merchant ships that sailed Earth\u2019s oceans, is not hunting for life; instead, its goal is to determine whether Europa has the ingredients for life. If the mission shows that Europa is habitable, that discovery would drastically expand the chances of finding life on icy worlds in other solar systems. \u201cStudying Europa tells us not to limit ourselves,\u201d says Lynnae Quick Henderson, a planetary scientist at NASA\u2019s Goddard Space Flight Center in Greenbelt, Maryland.\n",
-            "h2\n \u2018Chaos\u2019 terrain\n",
-            "\n For centuries, Europa, one of Jupiter\u2019s largest moons, was not considered a promising place to look for life. But in the mid-1990s, NASA\u2019s Galileo mission flew close to the moon and spotted geological wonders. It had patches of \u2018chaos\u2019 terrain, which looked like fields of icebergs frozen in place, and enormous ridges in its surface that appeared to be spray-painted with reddish material. Galileo also measured a strange sloshing beneath Europa\u2019s surface \u2014 evidence of a buried salty ocean\n \n\n   2\n  \n.\n",
-            "*Deep_dive_Cross_section_of_the_surface_of_Jupiter's_moon_Europa_showing_the_salty_ocean_hidden_benea",
-            "\n\n     Source: NASA/JPL-Caltech\n    \n\n",
-            "\n Scientists want Clipper to confirm that discovery and learn more about the hidden body of water. \u201cWe\u2019ll be able to describe what that habitable environment is like,\u201d says Ingrid Daubar, a planetary scientist at Brown University in Providence, Rhode Island, who works on Clipper for NASA\u2019s Jet Propulsion Laboratory (JPL) in Pasadena, California.\n",
-            "\n Europa\u2019s ocean, which is thought to contain more than twice the volume of all of Earth\u2019s oceans, formed billions of years ago thanks to Jupiter\u2019s gravitational pull. That force generates enough frictional heat to keep the ocean liquid even though temperatures at the moon\u2019s surface never exceed around \u2013140 \u00b0C. The icy shell on top of the ocean is predicted to be at least 20 kilometres thick\n \n\n   3\n  \n, and the water beneath it probably has a depth of 60\u2013150 kilometres (see \u2018Deep dive\u2019). Clipper will confirm the thickness of both, helping to illuminate the ocean\u2019s dynamics, says Elizabeth Spiers, a planetary oceanographer at the Woods Hole Oceanographic Institution in Massachusetts.\n",
-            "h2\n The ingredients for life\n",
-            "\n On Earth, volcanic rocks on the sea floor can interact with ocean water to create chemical reactions that generate energy and allow microbes, worms and other creatures to thrive. Similar deep-sea vents might exist on Europa.\n",
-            "\n Another way in which life might be sustained on Europa is through the energy the moon receives from Jupiter\u2019s powerful radiation. The planet bombards Europa with charged particles powerful enough to break chemical bonds in the moon\u2019s icy crust and produce small molecules such as hydrogen and oxygen\n \n\n   4\n  \n.\n",
-            "*Moon_mapper_Diagram_showing_NASA's_Europa_Clipper_spacecraft_with_pointers_to_its_radar,_cameras,_sp",
-            "\n\n     Source: NASA/JPL-Caltech\n    \n\n",
-            "\n And then there are the icy ridges, coated with reddish material, which might be salts and sulfate compounds from beneath Europa\u2019s surface. \u201cIf that\u2019s from the ocean, it will be an exciting place to look\u201d for habitable signs, says Cynthia Phillips, a planetary geologist at JPL. Clipper\u2019s instruments (see \u2018Moon mapper\u2019) will study the material to learn more about the composition of the buried ocean.\n",
-            "\n Finally, Clipper will also look for geysers, or plumes, spurting liquid into space through cracks in Europa\u2019s ice shell. Saturn\u2019s moon Enceladus \n \n  has many of these plumes\n , which contain hydrogen, carbon, silica grains and other life-friendly ingredients. Researchers \n \n  have glimpsed hints of similar plumes on Europa\n ; if Clipper spots one, it might be able to fly through the spray and analyse the contents.\n",
-            "h2\n Challenges ahead\n",
-            "\n Over the four-plus years Clipper is expected to spend studying Europa, it will fly past the moon 49 times, getting as close as 25 kilometres from the surface\n \n\n   5\n  \n. Its cameras will photograph Europa in fivefold more detail than Galileo\u2019s cameras did.\n",
-            "*A_close-up_of_Jupiter's_moon_Europa_reveals_details_of_diverse_surface_features",
-            "\n\n     This close-up image of Europa, taken by NASA\u2019s Galileo spacecraft in 1998, shows the ridges that criss-cross its icy surface.\n    \n\n     Credit: NASA/JPL-Caltech/SETI Institute\n    \n",
-            "\n But many technical challenges remain for the mission. One is surviving Jupiter\u2019s powerful radiation belts; NASA intends Clipper to avoid those as much as possible by travelling on an elliptical orbit. The threat from the belts caused a panic in May, when NASA engineers learnt that more than 1,000 electronic transistors already installed in Clipper might fail in the face of strong radiation. The discovery triggered a months-long investigation; \n \n  NASA now says it is confident the transistors will be all right\n .\n",
-            "\n Clipper will explore Europa at around the same time that the European Space Agency\u2019s JUICE spacecraft is exploring the region, \n \n  primarily studying two of Jupiter\u2019s other moons, Ganymede and Callisto\n . (Jupiter has 95 moons.) \u201cBetween the two [missions], we\u2019ll understand the whole system a lot better,\u201d says Ines Belgacem, a planetary scientist at the European Space Astronomy Centre in Madrid.\n",
-            "\n At the end of Clipper\u2019s mission, the plan is to smash it into Ganymede, which is also thought to have a buried ocean, but with ice much thicker than Europa\u2019s, theoretically protecting that moon\u2019s waters from contamination. And with that, the voyage to explore Europa\u2019s \u201cvast and beckoning seas\u201d, \n \n  as they have been described by US poet laureate Ada Lim\u00f3n\n , will come to an abrupt end.\n",
-            "doi: https://doi.org/10.1038/d41586-024-03225-4"
         ]
     }
 ]
