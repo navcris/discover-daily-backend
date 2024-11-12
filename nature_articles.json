@@ -1,10 +1,60 @@
 [
     {
+        "URL": "https://www.nature.com/articles/d41586-024-03708-4",
+        "title": "AI protein-prediction tool AlphaFold3 is now open source",
+        "content": [
+            "*Protein_structure_of_the_7PZA_Clr-cAMP-DNA_complex",
+            "AlphaFold3 can predict the structures of proteins as they interact with DNA.Credit: Werel et al./American Society for Microbiology, Mol*, RCSB PDB",
+            "AlphaFold3 is open at last. Six months after Google DeepMind controversially withheld code from a paper describing the protein-structure prediction model, scientists can now download the software code and use the artificial intelligence (AI) tool for non-commercial applications, the London-based company announced on 11 November. ",
+            "\u201cWe\u2019re very excited to see what people do with this,\u201d says John Jumper, who leads the AlphaFold team at DeepMind and last month, along with CEO Demis Hassabis, won a share of the 2024 Chemistry Nobel Prize for their work on the AI tool.",
+            "Major AlphaFold upgrade offers boost for drug discovery",
+            "AlphaFold3, unlike its predecessors, is capable of modelling proteins in concert with other molecules. But instead of releasing its underlying code \u2014 as was done with AlphaFold2 \u2014 DeepMind provided access via a web server that restricted the number and types of predictions scientists could make.",
+            "Crucially, the AlphaFold3 server prevented scientists from predicting how proteins behave in the presence of potential drugs. But now, DeepMind\u2019s decision to release the code means academic scientists can predict such interactions by running the model themselves.",
+            "The company initially said that making AlphaFold3 available only through a web server struck the right balance between enabling access for research and protecting commercial ambitions. Isomorphic Labs, a DeepMind spinoff company in London, is applying AlphaFold3 to drug discovery.",
+            "But the publication of AlphaFold3 without its code or model weights \u2014 parameters obtained by training the software on protein structures and other data \u2014 drew criticism from scientists, who said the move undermined reproducibility. DeepMind swiftly reversed course and said it would make an open-source version of the tool available within half a year.",
+            "Anyone can now download the AlphaFold3 software code and use it non-commercially. But for now, only scientists with an academic affiliation can access the training weights on request.",
+            "h2Accessible versions",
+            "DeepMind has got competition: over the past few months, several companies have unveiled open-source protein structure prediction tools based on AlphaFold3, relying on specifications described in the original paper known as pseudocode. ",
+            "Two Chinese companies \u2014 technology giant Baidu and TikTok developer ByteDance \u2014 have rolled out their own AlphaFold3 inspired models, as has a start-up in San Francisco, California, called Chai Discovery.",
+            "AlphaFold3 \u2014 why did Nature publish it without its code?",
+            "A key limitation of these models is that, like AlphaFold3, none is licensed for commercial applications such as drug discovery, says Mohammed AlQuraishi, a computational biologist at Columbia University in New York City. However, Chai Discovery\u2019s model, Chai-1, can be used via a web server for such work, says Jack Dent, a co-founder of the company. ",
+            "Another firm, San Francisco-based Ligo Biosciences, has released a restriction-free version of AlphaFold3. But it doesn\u2019t yet have the full suite of capabilities, including the capacity to model drugs and molecules other than proteins.",
+            "Other teams are working on versions of AlphaFold3 that don\u2019t come with such limits: AlQuraishi hopes to have a fully open-source model called OpenFold3 available by the end of the year. This would enable drug companies to retrain their own versions of the model using proprietary data, such as the structures of proteins bound to different drugs, potentially improving performance.",
+            "h2Openness matters",
+            "The last year has seen a flood of new biological AI models released by companies with varying approaches to openness. Anthony Gitter, a computational biologist at the University of Wisconsin-Madison, has no problem with for-profit companies joining his field \u2014 so long as they play by the same rules as other scientists when they share their work in journals and preprint servers.",
+            "If DeepMind makes claims about AlphaFold3 in a scientific publication, \u201cI and others expect them to also share information about how predictions were made and put the AI models and code out in a way that we can inspect,\u201d Gitter adds. \u201cMy group's not going to build on and use the tools that we can't inspect.\u201d",
+            "Not all \u2018open source\u2019 AI models are actually open: here\u2019s a ranking",
+            "The fact that several AlphaFold3 replications have already emerged shows that model was reproducible, even without open-source code, says Pushmeet Kohli, DeepMind\u2019s head of AI for science. He adds that in future he would like to see more discussion about the publishing norms in a field increasingly populated by both academic and corporate researchers.",
+            "The open-source nature of AlphaFold2 led to a flood of innovation from other scientists. For instance, the winners of a recent protein design contest used the AI tool to design new proteins capable of binding a cancer target. Jumper\u2019s favourite recent AlphaFold2 hack was from a team that used the tool to identify a key protein that helps sperm attach to egg cells. ",
+            "Jumper can\u2019t wait for such surprises to emerge after sharing AlphaFold3 \u2014 even if they don\u2019t always bear fruit. \u201cPeople will use it in weird ways,\u201d he predicts. \u201cSometimes it will fail and sometimes it will succeed.\u201d",
+            "doi: https://doi.org/10.1038/d41586-024-03708-4"
+        ]
+    },
+    {
+        "URL": "https://www.nature.com/articles/d41586-024-03615-8",
+        "title": "8 million cells: virtual embryo shows organs forming in exquisite detail",
+        "content": [
+            "*Example_mouse_embryo_slices_at_different_time_stages_using_Spateo,_a_3D_spatiotemporal_modeling_fram",
+            "A 3D molecular 'hologram' of a mouse embryo; each dot is a cell, coloured by region. Credit: X. Qiu et al./Cell",
+            "Researchers have created the most detailed 3D cellular map yet of a mouse embryo, visualizing close to eight million cells1. The map shows how cells interact and migrate in an embryo less than two weeks after conception, and could help researchers to identify causes of congenital diseases. ",
+            "The map reveals the structures of every major organ developing in the embryo, from the brain to the heart and the spinal cord. It visualizes intricate emerging structures in the neural tube, the progenitor of the central nervous system, and the asymmetrical movements of cells forming the four chambers of the growing heart.",
+            "",
+            "\u201cIt captures a tremendous amount of cell complexity that will be very important for researchers worldwide exploring mechanisms of mouse development,\u201d says Miguel Esteban, a stem-cell biologist at the biotechnology company BGI Cell in Shenzhen, China.",
+            "The work is described in Cell today.",
+            "To develop the \u2018virtual\u2019 embryo, Xiaojie Qiu, a geneticist at Stanford University in California, and his colleagues built a model named, Spateo, which stitches together multiple types of data. This includes the transcriptome \u2014 or the entire set of RNA molecules involved in protein synthesis \u2014 for every cell in a slice of embryo, collected for about 90 tissue slices at two time points. The researchers were able to locate and record the transcription profiles for every cell across space and time.",
+            "*Accurate_3D_reconstruction_by_Spateo_showing_intricate_structures_of_every_major_organ_of_the_whole_",
+            "3D images of developing organs in the mouse embryo.Credit: X. Qiu et al./Cell",
+            "The team recorded the behaviour of a total of 7.8 million cells in a mouse embryo at 9.5 and 11.5 days after fertilization \u2014 a time when most mouse organs are forming. \u201cWe are the first to achieve this whole-embryo visualization at true single-cell resolution for mouse embryos\u201d at developmental stages with so many cells, says Qiu.",
+            "Spateo could be used to create maps for any species, including using data on human embryos and organs, says Esteban. \u201cThis approach will become the norm\u201d as the technology it relies on becomes cheaper and quicker to use, he says.",
+            "doi: https://doi.org/10.1038/d41586-024-03615-8"
+        ]
+    },
+    {
         "URL": "https://www.nature.com/articles/d41586-024-03647-0",
         "title": "This scientist treated her own cancer with viruses she grew in the lab",
         "content": [
             "*Coloured_transmission_electron_micrograph_of_cultured_measles_virus_particles",
-            "Viruses such as measles (pictured here) can be used to attack cancerous cells. Credit: Eye Of Science/Science Photo Library",
+            "Viruses such as measles (pictured) can be used to attack cancerous cells. Credit: Eye Of Science/Science Photo Library",
             "A scientist who successfully treated her own breast cancer by injecting the tumour with lab-grown viruses has sparked discussion about the ethics of self-experimentation. ",
             "Beata Halassy discovered in 2020, aged 49, that she had breast cancer at the site of a previous mastectomy. It was the second recurrence there since her left breast had been removed, and she couldn\u2019t face another bout of chemotherapy. ",
             "Halassy, a virologist at the University of Zagreb, studied the literature and decided to take matters into her own hands with an unproven treatment. ",
@@ -42,7 +92,7 @@
             "The results, described in The Lancet today, are impressive, says Kapil Bharti, a translational stem-cell researcher at the US National Eye Institute, National Institutes of Health, in Bethesda, Maryland. \u201cThis is an exciting development.\u201d",
             "\u201cThe results merit treating more patients,\u201d says stem-cell researcher Jeanne Loring at Scripps Research in La Jolla, California.",
             "h2Reprogrammed cells",
-            "The outermost layer of the cornea is maintained by a reservoir of stem cells housed in the limbal ring \u2014 the dark ring around the iris. When this essential source of rejuvenation is depleted \u2014 a condition known as limbal stem-cell deficiency (LSCD) \u2014 scar tissue coats the cornea, eventually leading to blindness. It can result from trauma to the eye or from autoimmune and genetic diseases.",
+            "The outermost layer of the cornea is maintained by a reservoir of stem cells housed in the limbal ring \u2014 the dark ring around the iris. When this essential source of rejuvenation is depleted \u2014 a condition known as limbal stem-cell deficiency (LSCD) \u2014 scar tissue coats the cornea, eventually leading to blindness. It can result from trauma to the eye or from autoimmune or genetic diseases.",
             "Treatments for LSCD are limited. They typically involve transplanting corneal cells derived from stem cells obtained from a person\u2019s healthy eye, which is an invasive procedure with uncertain outcomes. When both eyes are affected, corneal transplants from deceased donors are an option, but these are sometimes rejected by the recipient\u2019s immune system. ",
             "Kohji Nishida, an ophthalmologist at Osaka University in Japan, and his colleagues used an alternative source of cells \u2014 induced pluripotent stem (iPS) cells \u2014 to make the corneal transplants. They took blood cells from a healthy donor and reprogrammed them into an embryonic-like state, then transformed them into a thin, transparent sheet of cobblestone-shaped corneal epithelial cells.",
             "Between June 2019 and November 2020, the team enrolled two women and two men aged between 39 and 72 years old with LSCD in both eyes. As part of the surgery, the team scraped off the layer of scar tissue covering the damaged cornea in only one eye, then stitched on epithelial sheets derived from a donor and placed a soft protective contact lens on top.",
@@ -50,7 +100,7 @@
             "Two years after receiving the transplants, none of the recipients had experienced severe side effects. The grafts did not form tumours \u2014 a known risk of growing iPS cells \u2014 and did not show clear signs of being attacked by the recipients\u2019 immune systems, even in two patients who did not receive immunosuppressant drugs. \u201cIt is important and a relief to see grafts were not rejected,\u201d says Bharti. But more transplants are needed to be certain of the intervention\u2019s safety, he says.",
             "After the transplants, all four recipients showed immediate improvements in their vision, and a reduction in the area of the cornea affected by LSCD. The improvements persisted in all but one recipient, who showed slight reversals during a one-year observation period.",
             "Bharti says it isn\u2019t clear what exactly caused the vision improvements. It\u2019s possible that the transplanted cells themselves proliferated in the recipient\u2019s corneas. But the vision gains could also be due to the removal of scar tissue before the transplant, or the transplant triggering the recipient\u2019s own cells to migrate from other regions of the eye and rejuvenate the cornea. ",
-            "Nishida says they plan to launch clinical trials in March, which would assess the treatment\u2019s efficacy. Several other iPS-cell-based trials are under way globally to treat eye diseases, says Bharti. \u201cThese success stories suggest we are headed in the right direction.\u201d",
+            "Nishida says they plan to launch clinical trials in March to assess the treatment\u2019s efficacy. Several other iPS-cell-based trials are under way globally to treat eye diseases, says Bharti. \u201cThese success stories suggest we are headed in the right direction.\u201d",
             "doi: https://doi.org/10.1038/d41586-024-03656-z"
         ]
     },
@@ -101,22 +151,6 @@
             "\u201cWhat this study does is to remind us that there are indeed myths there to be debunked,\u201d says Steven Ellis, an archaeologist at the University of Cincinnati, Ohio, who has led excavations in Pompeii. He notes that most narratives built around the plaster casts are simplified interpretations designed to boost public interest. Current scholarship about Pompeii doesn\u2019t necessarily accept past interpretations of the casts, but \u201cthe plaster casts are an extraordinary symbol of the tragedy that is the story of Pompeii and they\u2019ve always created a splash\u201d, he says. ",
             "The DNA analysis also confirmed that Pompeii\u2019s population was genetically diverse: the analysed individuals were descendants of immigrants from the eastern Mediterranean. \u201cWe\u2019ve known it from the jewellery that they\u2019re wearing, the cults that they follow, the decorations that adorn the houses,\u201d Ellis says. \u201cBut we didn\u2019t really know it from the body cast themselves. Now we do, and that's quite important information.\u201d ",
             "doi: https://doi.org/10.1038/d41586-024-03576-y"
-        ]
-    },
-    {
-        "URL": "https://www.nature.com/articles/d41586-024-03666-x",
-        "title": "New CERN chief pledges to forge ahead with $17-billion supercollider",
-        "content": [
-            "*Designated_Director-General_of_the_European_Organization_for_Nuclear_Research,_CERN_British_physicis",
-            "Mark Thomson will take the helm at CERN at the end of next year. Credit: Fabrice Coffrini/AFP via Getty",
-            "British particle physicist Mark Thomson has been named as the next leader of CERN, the European particle-physics laboratory outside Geneva, Switzerland. ",
-            "As CERN\u2019s director general, Thomson will face major challenges, including an uncertain political landscape amidst the war in Ukraine, which has led the lab to break government-level ties with Russia. He will also have to repair a faltering consensus around the Future Circular Collider (FCC), a new 90-kilometre tunnel to host the lab\u2019s flagship experiments throughout the rest of the century. The German government, CERN\u2019s largest contributor, expressed scepticism about the project earlier this year, and China could beat CERN to the punch with a similar project.",
-            "CERN\u2019s $17-billion supercollider in question as top funder criticizes cost",
-            "Thomson is no stranger CERN: he worked at a major experiment there in the 1990s, and helped to discover the Higgs boson at the Large Hadron Collider (LHC) \u2014 the world\u2019s most powerful particle accelerator \u2014 in 2012, together with the current director general Fabiola Gianotti. He is currently chair of the Science and Technology Facilities Council, a UK funding agency, and is a representative on the CERN Council, the board that oversees the laboratory on behalf of its member countries. He will take up the director general post at the end of 2025, when Gianotti\u2019s second consecutive five-year term is due to end. ",
-            "In a press conference on 7 November, both Gianotti and Thomson stressed the need for continuity, and the importance of the ongoing \u20ac1.5 billion upgrade to the 27-kilometre LHC. Thomson also reiterated Gianotti\u2019s commitment to build the FCC. \u201cI am very much aligned with the vision of the current DG,\u201d he told reporters. ",
-            "Former CERN council president Ursula Bassler is optimistic about Thomson\u2019s appointment. \u201cHe is a person who values what the FCC can bring to CERN, but who is also aware of the reservations some people might have,\u201d says Bassler, who is a particle physicist at \u00c9cole Polytechnique in Paris. \u201cI think he will really act in a quite transparent way to come to a decision.\u201d",
-            "Thomson will be the first UK physicist to lead the organization since the 1990s. As well as having worked at the LHC, he has been a co-leader and spokesperson of the Deep Underground Neutrino Experiment under construction in Illinois and South Dakota. ",
-            "doi: https://doi.org/10.1038/d41586-024-03666-x"
         ]
     },
     {
@@ -250,34 +284,19 @@
         ]
     },
     {
-        "URL": "https://www.nature.com/articles/d41586-024-03643-4",
-        "title": "Will South Africa become first country to accept controversial form of human genome editing?",
+        "URL": "https://www.nature.com/articles/d41586-024-03666-x",
+        "title": "New CERN chief pledges to forge ahead with $17-billion supercollider",
         "content": [
-            "*A_3D_illustration_of_a_human_embryo_at_the_blastocyst_stage_showing_the_outer_trophoblast_layer_and_",
-            "Illustration of a human embryo at the blastocyst stage, around five to nine days after fertilization. Credit: Juan Gaertner/Science Photo Library",
-            "Researchers have voiced concerns after South Africa updated its health-research ethics guidelines to include a new section on heritable (or germline) human genome editing. ",
-            "Scientists say this could put the nation one step closer to accepting the controversial technique \u2014 which involves introducing genetic changes to sperm, eggs or embryos, such that the modifications will be passed down through successive generations. The research ethics guidelines were updated in May, but the news became more widely known last month.",
-            "Currently, no country explicitly allows heritable human genome editing in clinical settings. It is not clear to what extent South Africa\u2019s scientific community was consulted on the changes. ",
-            "Nature has requested comment from South Africa\u2019s department of health, which published the revised guidelines, and from the National Health Research Ethics Council, a statutory body under the National Health Act, which drafted them. No comment was received by the time this article was published.",
-            "\u201cThe decision to amend the South African Ethics in Health Research Guidelines to facilitate research to create genetically modified children is baffling,\u201d says Fran\u00e7oise Baylis, a bioethicist at Dalhousie University in Halifax, Canada who wrote about the change in an article in The Conversation. ",
-            "\u201cI know of no other country that explicitly permits this type of research and can\u2019t understand why South Africa would want to be the first to do so,\u201d adds Baylis, who is also a member of the World Health Organization\u2019s advisory committee on developing global standards for governance and oversight of human genome editing.",
-            "There is an international consensus among researchers that the practice is not acceptable in the clinical setting. Such editing could prevent inherited diseases, such as cystic fibrosis and sickle-cell disease, but it poses significant ethical concerns and safety challenges.",
-            "In 2018, He Jiankui, a biophysicist then at the Southern University of Science and Technology of China in Shenzhen, claimed to have helped make the world\u2019s first genome-edited babies. That caused a global outcry. He was jailed in 2020 for \u201cillegal medical practice\u201d.",
-            "In 2019, an international group of ethicists and researchers called for a moratorium on the clinical use of heritable human genome editing, which was supported by the US National Institutes of Health. The organizing committee of the third international summit on human genome editing said in 2023 that heritable human genome editing \u201cremains unacceptable at this time\u201d.",
-            "h2Before and after",
-            "South Africa\u2019s previous guidelines from 2015 had a relatively small section on genomic research. In the latest version, a new section on heritable human genome editing has been added.",
-            "The updated text says that heritable human genome editing must have a \u201cclear and compelling scientific and medical rationale, focusing on the prevention of serious genetic disorders and immunity against serious diseases\u201d, be transparent, obtain informed consent from all parties and have stringent ethical oversight. \u201cThe potential benefits to individuals and society should outweigh risks and uncertainties,\u201d the guidelines say.",
-            "Human embryo science: can the world\u2019s regulators keep pace?",
-            "Furthermore, researchers must \u201ccommit to ongoing monitoring of individuals born as a result of [heritable human genome editing] to assess their health, well-being and potential unforeseen consequences\u201d.",
-            "The guidelines note that researchers must adhere to all relevant laws governing such research. However, there are different views on whether South Africa\u2019s law, the National Health Act actually allows for heritable human genome editing.",
-            "h2Is it even legal?",
-            "Jantina De Vries, director of the EthicsLab at the University of Cape Town, is among those who says that heritable human genome editing is illegal in clinical settings. She cautions against reading too much into the amended guidelines. \u201cWhat has changed is the research ethics guidelines, not the legality of heritable human genome editing in any other sense beyond research,\u201d she says.",
-            "By contrast, Bonginkosi Shozi, a bioethicist and health-law scholar at Stanford Law School\u2019s Center for Law and the Biosciences in California, takes the view that the law already allows heritable human genome editing, and that the revised research ethics guidelines have now caught up with the law. ",
-            "In a 2020 study in the South African Journal of Science1, Shozi and four co-authors wrote: \u201cGiven its potential to improve the lives of the people of South Africa, human germline editing should be regulated, not banned.\u201d",
-            "Shozi told Nature: \u201cThe [updated] guidelines should be seen as recognizing the legal reality in South Africa and providing guidance to health-research ethics committees that is cognizant of that reality,\u201d he says.",
-            "Baylis says that she is concerned that advocates of heritable genome editing might use the new guidelines to push for further legal amendments that will explicitly permit the creation of genetically modified children. ",
-            "\u201cGlobally, there is a reluctance to accept heritable genome editing at this point in time,\u201d says Michael Pepper, director of the Institute for Cellular and Molecular Medicine at the University of Pretoria. \u201cWe need to examine in more detail why our guidelines have been published in the way that they have.\u201d",
-            "doi: https://doi.org/10.1038/d41586-024-03643-4"
+            "*Designated_Director-General_of_the_European_Organization_for_Nuclear_Research,_CERN_British_physicis",
+            "Mark Thomson will take the helm at CERN at the end of Fabiola Gianotti\u2019s term. Credit: Fabrice Coffrini/AFP via Getty",
+            "British particle physicist Mark Thomson has been named as the next leader of CERN, the European particle-physics laboratory outside Geneva, Switzerland. ",
+            "As CERN\u2019s director-general, Thomson will face major challenges, including an uncertain political landscape amid the war in Ukraine, which has led the lab to break government-level ties with Russia. He will also have to repair a faltering consensus around the Future Circular Collider (FCC), a proposed 90-kilometre tunnel that will host the lab\u2019s flagship experiments throughout the rest of the century. The German government, CERN\u2019s largest financial contributor, expressed scepticism about FCC earlier this year, and China could beat CERN to the punch with a similar project.",
+            "CERN\u2019s $17-billion supercollider in question as top funder criticizes cost",
+            "Thomson is no stranger to CERN: he worked at a major experiment there in the 1990s, and, together with the current director-general Fabiola Gianotti, helped to discover the Higgs boson at the Large Hadron Collider (LHC) \u2014 the world\u2019s most powerful particle accelerator \u2014 in 2012. He is currently chair of the Science and Technology Facilities Council, a UK funding agency, and is a representative on the CERN Council, the board that oversees the lab on behalf of its member countries. Thomson will take up the director-general post when Gianotti\u2019s second consecutive five-year term ends at the end of 2025. ",
+            "In a press conference on 7 November, both Gianotti and Thomson stressed the need for continuity, and the importance of the ongoing upgrade to the 27-kilometre LHC. Thomson also reiterated Gianotti\u2019s commitment to building the FCC. \u201cI am very much aligned with the vision of the current DG,\u201d he told reporters. ",
+            "Former CERN council president Ursula Bassler is optimistic about Thomson\u2019s appointment. \u201cHe is a person who values what the FCC can bring to CERN, but who is also aware of the reservations some people might have,\u201d says Bassler, a particle physicist at \u00c9cole Polytechnique in Paris. \u201cI think he will really act in a quite transparent way to come to a decision.\u201d",
+            "Thomson will be the first UK physicist to lead the organization since the 1990s. As well as having worked at the LHC, he has been a co-leader of and spokesperson for the Deep Underground Neutrino Experiment, now under construction in Illinois and South Dakota. ",
+            "doi: https://doi.org/10.1038/d41586-024-03666-x"
         ]
     }
 ]
