@@ -253,8 +253,10 @@ def snex_scraper(urls):
                            
                             if content.get('alt'):
                                 newFilename = content.get('alt')
-                            else: 
+                            elif title:
                                 newFilename = title + str(i)
+                                i += 1
+                            else: 
                                 i += 1
                             
 
