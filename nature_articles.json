@@ -1,5 +1,36 @@
 [
     {
+        "URL": "https://www.nature.com/articles/d41586-024-03784-6",
+        "title": "\u2018A place of joy\u2019: why scientists are joining the rush to Bluesky",
+        "content": [
+            "*A_smartphone_displaying_the_icon_for_the_Bluesky_social_media_app,_in_front_of_a_computer_screen_fea",
+            "Bluesky has been growing rapidly since 2023.Credit: Matteo Della Torre/NurPhoto/Shutterstock",
+            "Researchers are flocking to the social-media platform Bluesky, hoping to recreate the good old days of Twitter.",
+            "\u201cAll the academics have suddenly migrated to Bluesky,\u201d says Bethan Davies, a glaciologist at Newcastle University, UK. The platform has \u201cabsolutely exploded\u201d.",
+            "In the two weeks since the US presidential election, the platform has grown from close to 14 million users to nearly 21 million. Bluesky has broad appeal in large part because it looks and feels a lot like X (formerly known as Twitter), which became hugely popular with scientists, who used it to share research findings, collaborate and network. One estimate suggests that at least half a million researchers had Twitter profiles in 2022.",
+            "That was the year that billionaire Elon Musk bought the platform. He renamed it X and reduced content moderation, among other changes, prompting some researchers to leave. Since then, pornography, spam, bots and abusive content have increased on X, and community protections have decreased, say researchers.",
+            "Musk has responded about some of these issues on X. In March he posted, \u201cStopping crypto/porn spam bots is not easy, but we\u2019re working on it.\u201d",
+            "Bluesky, by contrast, offers users control over the content they see and the people they engage with, through moderation and protections such as blocking and muting features, say researchers. It is also built on an open network, which gives researchers and developers access to its data; X now charges a hefty fee for this kind of access.",
+            "Several similar social-media platforms have also sprung up, including Mastodon and Threads, but they haven\u2019t gained the same traction among academics as Bluesky.",
+            "h2Mass migration",
+            "Daryll Carlson, a bioacoustics researcher at the University of New Hampshire in Durham, says she noticed the largest influx of users on Bluesky after the US election. Musk has become closely aligned to president-elect Donald Trump. For Carlson, Bluesky offers a space to engage with other scientists, as well as artists, photographers and the general public. \u201cI\u2019d really like it to continue to be a place of joy for me,\u201d she says.",
+            "On the platform, users scroll through feeds \u2014 curated timelines of posts on specific subjects. Users can like feeds, pin them to their homepage or request to share content on them.",
+            "One of the most popular is the Science feed, where scientists and science communicators share content. It\u2019s been liked by more than 14,000 users and gets 400,000 views a day, according to the feed\u2019s manager, a user named Bossett. So far, it has 3,600 contributors, from ecologists and zoologists to quantum physicists, but those numbers are increasing rapidly.",
+            "To become a contributor, users need to share evidence of their research credentials with a moderator. Mae Saslaw, a geoscientist at Stony Brook University in New York, vets requests to post on the feed from people in geoscience and has seen an increase from one a week to half a dozen per day. As an early-career researcher, Saslaw has found Bluesky useful for learning about new software, finding interesting papers and applying for jobs.",
+            "h2Safe space",
+            "For many researchers, the move to Bluesky has been about gaining back control over what appears in their timelines. Feeds are one example, but the platform also offers options to filter out content such as nudity and spam, or specific phrases, from appearing in their timelines.",
+            "Bluesky also offers a feature that users have nicknamed the \u2018nuclear block\u2019, which prevents all interaction with blocked accounts \u2014 an option no longer available on X. And users can create and subscribe to regularly updated collaborative block lists, such as lists of offensive accounts. If a user subscribes to one of these, no content from those accounts will appear on their timelines.",
+            "Cl\u00edona Murray, a neuroscientist at Yale University in New Haven, Connecticut, says the protections offered by BlueSky are appealing. Murray was very entrenched in X. She co-founded an organization to diversify neuroscience, called Black in Neuro, which started in part there. But she began to feel that X was not a safe place.",
+            "Bluesky offers \u2018starter packs\u2019 \u2014 user-created custom lists of accounts for new joiners to follow. Murray created one called Blackademics U.K.; she also notes the work of Rudy Fraser, an open-source developer who created a collection of feeds called Blacksky. This pack includes a moderation tool with which users can report content that is racist and anti-Black or contains misogynoir \u2014 expressing hatred particularly against Black women \u2014 and filter them out.",
+            "But as Bluesky grows, the problems that plague X could come to haunt it, too, say researchers. \u201cThere\u2019s definitely a risk that bad-faith actors will move in; bots will move in,\u201d says Davies.",
+            "\u201cWith any huge wave of growth, there\u2019s going to be a wave of spam and scam as well,\u201d says Emily Liu, who manages growth, communications and partnerships at Bluesky in San Francisco, California. \u201cWe\u2019ve scaled up our trust and safety team; hired more moderators to help combat all of this.\u201d",
+            "h2Leave or stay",
+            "Some researchers, such as Axel Bruns, a digital-media researcher at Queensland University of Technology in Brisbane, Australia, are keeping their Twitter accounts to avoid losing them to impersonators. Others have shut their accounts down.",
+            "Madhukar Pai, a tuberculosis researcher at McGill University in Montreal, Canada, says he has lost some 1,000 followers in the exodus (he still has 98,000). But he is reluctant to leave. \u201cIf good experts quit X, who will offer evidence-based input on X?\u201d",
+            "doi: https://doi.org/10.1038/d41586-024-03784-6"
+        ]
+    },
+    {
         "URL": "https://www.nature.com/articles/d41586-024-03707-5",
         "title": "New schizophrenia drug could treat Alzheimer\u2019s disease",
         "content": [
@@ -207,24 +238,6 @@
             "\u201cWe can actually just use the GPUs we have for longer, and so we can kind of make up for some of the differences between what industry has,\u201d says Khandelwal.",
             "\u201cIt\u2019s cool to see that you can actually train a larger model than many people would have assumed on limited compute resources,\u201d says Ji-Ung Lee, who studies neuroexplicit models at Saarland University in Saarbr\u00fccken,Germany. He adds that future work could look at the experiences of industry researchers in small companies, who also struggle with access to computing resources. \u201cIt\u2019s not like everyone who has access to unlimited compute gets it,\u201d he says.",
             "doi: https://doi.org/10.1038/d41586-024-03792-6"
-        ]
-    },
-    {
-        "URL": "https://www.nature.com/articles/d41586-024-03778-4",
-        "title": "First rocks returned from Moon\u2019s far side reveal ancient volcanic activity",
-        "content": [
-            "*Researchers_stand_next_to_the_return_capsule_and_hold_the_lunar_sample_container_during_the_capsule-",
-            "Researchers retrieve lunar samples from the Chang\u2019e-6 return capsule. Credit: Xinhua/Shutterstock",
-            "Researchers have had their first-ever look at samples brought back from the Moon\u2019s far side \u2014 and the rocks detail a history of volcanic activity that spans billions of years.",
-            "The results are the first scientific analyses of samples retrieved by the Chinese mission Chang\u2019e-6, which scooped up nearly two kilograms of lunar soil and returned it to Earth in a capsule in June. Independent research teams in China published separate papers in Science1 and Nature2 on 15 November.",
-            "\u201cWe can tell the story for a long history of volcanism and different mantle sources on the lunar far side,\u201d says Qiu-Li Li, a researcher at the Chinese Academy of Sciences in Beijing and a co-author of the Nature paper.",
-            "h2Dust to data",
-            "Chang\u2019e-6 was China\u2019s second mission to land on the lunar far side, after Chang\u2019e-4 in 2019. Both landed in the South Pole\u2013Aitken Basin, one of the Moon\u2019s oldest and largest craters, which formed after a meteor impact nearly four billion years ago.",
-            "*Close_up_view_of_a_researcher_hodling_a_Chang'e-6_lunar_sample_in_a_laboratory_in_the_National_Astro",
-            "Moon rocks from the lunar far side reveal a history of volcanic activity.Credit: Xinhua/Shutterstock",
-            "As expected, the researchers found that the fine dust \u2014 ranging from one to hundreds of micrometres in size \u2014 contained a mixture of grains from different geological epochs. The constant bombardment by micrometeorites and high-energy solar particles breaks up rocks into dust, which can then fly unimpeded by an atmosphere and land elsewhere, explains Yi-Gang Xu, a co-author of the Science paper, and a petrologist at the Chinese Academy of Sciences in Guangzhou.",
-            "By measuring isotope abundances, Xu and his collaborators found that a number of dust grains were from lava that erupted to the surface around 2.83 billion years ago. The other team\u2019s findings were mostly similar, although the scientists also found lava grains as old as 4.2 billion years. These and other studies show that the Moon had active volcanism for billions of years before becoming the nearly still environment we see today.",
-            "doi: https://doi.org/10.1038/d41586-024-03778-4"
         ]
     }
 ]
