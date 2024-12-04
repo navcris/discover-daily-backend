@@ -1,5 +1,40 @@
 [
     {
+        "URL": "https://www.nature.com/articles/d41586-024-03905-1",
+        "title": "How close is AI to human-level intelligence?",
+        "content": [
+            "*Abstract_illustration_showing_a_brain_being_formed_from_data_surrounded_by_representations_of_3D_map",
+            " Illustration: Petra P\u00e9terffy",
+            "OpenAI\u2019s latest artificial intelligence (AI) system dropped in September with a bold promise. The company behind the chatbot ChatGPT showcased o1 \u2014 its latest suite of large language models (LLMs) \u2014 as having a \u201cnew level of AI capability\u201d. OpenAI, which is based in San Francisco, California, claims that o1 works in a way that is closer to how a person thinks than do previous LLMs.",
+            "Nature 636, 22-25 (2024)",
+            "doi: https://doi.org/10.1038/d41586-024-03905-1"
+        ]
+    },
+    {
+        "URL": "https://www.nature.com/articles/d41586-024-03936-8",
+        "title": "What is ageing? Even the field\u2019s researchers can\u2019t agree",
+        "content": [
+            "*Young_and_old_hands_on_a_black_background_show_the_contrast_of_ageing",
+            "When ageing begins is one of many questions researchers cannot agree on.Credit: mrPliskin/iStock via Getty",
+            "Researchers studying ageing disagree on just about everything \u2014 including what ageing is, whether it is a disease and when it starts \u2014 according to a survey of about 100 scientists working in the field.",
+            "A key goal of ageing research is to help people live longer, healthier lives. But the exact causes of ageing, as well as effective approaches to slow or reverse it, remain elusive. For the field to tackle these challenges, researchers need to speak a common language, says Alan Cohen, who studies ageing at Columbia University in New York City. \u201cThere doesn\u2019t have to be perfect consensus, but we need to sort things out quite a bit,\u201d he says.",
+            "Vadim Gladyshev, another researcher in the field who is based at Harvard Medical School in Boston, Massachusetts, and his colleagues agree. They decided to survey participants at an international conference on ageing in Newry, Maine, in 2022, to better understand the views of those researching the topic. Respondents included early-career researchers, established scientists and industry professionals. The results are described in PNAS Nexus today1.",
+            "Most researchers are clear in their own minds about what ageing is \u2014 but their perspectives don\u2019t align with those of others, says Gladyshev. \u201cPeople joke in the field that there are more theories than people.\u201d Despite this, Gladyshev says he was surprised by the scale of the problem.",
+            "The latest results reflect those of a similar survey of 37 researchers conducted in 2019 by Cohen and his colleagues2. Now \u201cit\u2019s unquestionably clear that there\u2019s a huge disagreement\u201d, says Cohen.",
+            "h2What is ageing?",
+            "When asked to describe ageing, one-third of respondents considered it to be a loss of function over time, from declines at the cellular level to a decrease in overall health and fitness. Others saw ageing as a gradual accumulation of deleterious changes. Not all respondents associated ageing with negative connotations, with some seeing it as a change in state \u2014 reversible or otherwise \u2014 or a continuation of development. And others approached the subject from a demographic standpoint, describing ageing simply as an increased chance of dying.",
+            "A question about the causes of ageing also elicited a broad range of responses, from the build-up of damage to evolutionary constraints, and from changes to the regulatory system to a deterioration in repair mechanisms. A few admitted they did not know what underlies ageing. ",
+            "Researchers also disagree on whether ageing is a disease. More than one-third of respondents said it is, another 38% said it isn\u2019t and the remaining 28% were neutral. Cohen doesn\u2019t favour describing ageing as a disease because it implies that it is something that needs to be eliminated, although many researchers in the field are, to some extent, working towards this goal.",
+            "For Gladyshev, the answer to the question is more complicated. \u201cAgeing is not a disease, but it is also not not a disease,\u201d he says. He sees many diseases as essentially accelerated ageing taking place in specific organs or in the body as a whole.",
+            "h2When does ageing start?",
+            "Respondents generally said that ageing starts early in life, but they couldn\u2019t agree on how early.",
+            "Some said the process begins before conception, when eggs and sperm are being produced. According to this theory , if your parents are older when you are conceived, you are already more advanced in your ageing, says Cohen. The problem with that view of when ageing starts, he says, is that it can go back in time forever. Cohen thinks that ageing starts from the point at which egg and sperm meet \u2014 at conception.",
+            "Others think that ageing starts on the day of birth. A few said it starts when puberty hits. Some consider that ageing begins only when the body stops developing, when a person reaches their twenties, or a few years later, when the body reaches peak performance, in the mid-twenties.",
+            "Ultimately, Gladyshev says, the vast diversity of responses reflects the many unknowns in the field. Gladyshev expects rapid advances in efforts to define ageing, including the development of biomarkers to track biological age. \u201cIt\u2019s a time of opportunity.\u201d",
+            "doi: https://doi.org/10.1038/d41586-024-03936-8"
+        ]
+    },
+    {
         "URL": "https://www.nature.com/articles/d41586-024-03886-1",
         "title": "What\u2019s the secret to living to 100? Centenarian stem cells could offer clues",
         "content": [
@@ -11,13 +46,6 @@
             "\u201cThis bank is really exciting,\u201d says Chiara Herzog, who studies epigenetics and ageing at Kings College London.",
             "\u201cIt will be a very useful resource for the field,\u201d says Vadim Gladyshev, an ageing researcher at Harvard Medical School in Boston.",
             "h2Finding centenarians",
-            "Murphy collaborated with Tom Perls, a physician specializing in geriatrics, also at the Chobanian & Avedisian School of Medicine, who runs the largest study of people 100 years and older, the New England Centenarian Study. They searched for centenarians in US voter-registration lists, news articles and long-term-care facilities. Many were happy to participate \u201cbecause they know how special they are\u201d, says Perls.",
-            "Participants were assessed for their cognitive and physical abilities, and had samples of their blood collected. Many were cognitively healthy and cared for themselves.",
-            "For about 30 centenarians, the researchers isolated blood cells and reverted them to a pluripotent state, from which they could be turned into any cell type in the body. Induced pluripotent stem (iPS) cells lose many aspects of their \u2018age\u2019 through the reversion process without altering their genetic code. This allows researchers to use the cells to study the genetic determinants of ageing, says Herzog.",
-            "h2Emerging insights",
-            "Experiments using the cells are already underway. For instance, Murphy\u2019s group has grown neurons from the centenarian iPS cells. One hallmark of ageing is that cells lose some of the quality-control mechanisms involved in protein production, which can contribute to disease. The as-yet unpublished results suggest that neurons derived from centenarians were quieter, not engaging this quality control under normal conditions compared with neurons derived from non-centenarians. But when a stressor was introduced, the centenarian-derived neurons efficiently and robustly switched those processes on, swiftly separating the bad proteins from the good ones at a more intense rate. ",
-            "Another group has created 3D brain models of Alzheimer\u2019s disease using centenarian-derived brain cells and compared them with models made from cells derived from individuals in their 60s. In preliminary studies, the researchers found that centenarian-derived brain cells express high levels of genes associated with protection from Alzheimer\u2019s disease, says Doo Yeon Kim, a neurology researcher at Harvard Medical School.",
-            "Eventually, researchers hope to use the cells to develop other cell types relevant to ageing, such as liver, muscle and gut cells, or even mini organs.",
             "doi: https://doi.org/10.1038/d41586-024-03886-1"
         ]
     },
@@ -41,6 +69,7 @@
             "In July 2021, researchers discovered multiple sets of ancient footprints at the Koobi Fora site in the East Turkana Area of Kenya, including a continuous path of impressions left by one hominin individual and isolated prints left by at least three others. The surface dates to 1.52 million years ago, and impressions of rippled sand, reed beds and fish nests suggest that the area was a lake shore with shallow water.",
             "Oldest Homo sapiens fossil claim rewrites our species' history",
             "The path comprises 13 footprints. Hatala and his team estimated that the hominin that created it walked at 1.81 metres per second, similar to a modern human walking briskly.",
+            "Nature 636, 20 (2024)",
             "doi: https://doi.org/10.1038/d41586-024-03907-z"
         ]
     },
@@ -68,17 +97,8 @@
             "This is \u201can impressive piece of work\u201d, says Suresh Singh, who studies palaeoecological dynamics at the University of Bristol, UK. He adds that this is the first time he\u2019s seen bromalite-focused research applied at such scale.",
             "Singh says dinosaurs are an important source of data for understanding of how life responds to different pressures, for example climate change.",
             "He suggests that future research could use bromalites to understand how dinosaurs evolved in different parts of the world. \u201cCurrent studies suggest that dinosaurs evolved first in the Southern Hemisphere, and so maybe you have a different pattern happening down there,\u201d he says.",
+            "Nature 636, 14-15 (2024)",
             "doi: https://doi.org/10.1038/d41586-024-03889-y"
-        ]
-    },
-    {
-        "URL": "https://www.nature.com/articles/d41586-024-03860-x",
-        "title": "How to stop plastic pollution: three strategies that actually work",
-        "content": [
-            "*Pressed_plastic_waste_ready_for_loading_is_seen_at_the_Prabkaya_Recycle_Factory_in_Pathum_Thani_outs",
-            "Recycling is just one way to help tackle plastic pollution. Credit: Athit Perawongmetha/REUTERS",
-            "Can the world finally agree on how to end plastic pollution? We should know by the end of the week.",
-            "doi: https://doi.org/10.1038/d41586-024-03860-x"
         ]
     },
     {
@@ -93,14 +113,45 @@
         ]
     },
     {
-        "URL": "https://www.nature.com/articles/d41586-024-03827-y",
-        "title": "This billion-dollar firm plans to build giant quantum computers from light. Can it succeed?",
+        "URL": "https://www.nature.com/articles/d41586-024-03968-0",
+        "title": "Sick animals suggest COVID pandemic started in Wuhan market",
         "content": [
-            "*PsiCube,_PsiQuantum's_prototype_cryogenic_cabinet_which_is_installed_at_PsiQuantum's_facilities_in_D",
-            "A prototype cryogenic cabinet in which PsiQuantum is testing quantum computing using light in silicon chips.Credit: PsiQuantum",
-            "During his years in academia, Jeremy O\u2019Brien says he had \u201cprecisely zero ambition to go into business\u201d. Yet today, the Australian physicist runs a private quantum-computing firm that venture-capital funders and governments have rushed to invest in \u2014 and which is making some of the field\u2019s boldest promises.",
-            "Nature 635, 800-803 (2024)",
-            "doi: https://doi.org/10.1038/d41586-024-03827-y"
+            "*Close_up_of_a_raccoon_dog_in_a_cage_in_rural_China",
+            "Raccoon dogs are among the animals susceptible to SARS-CoV-2 that were present at the Chinese market where the virus is thought to have jumped to humans.Credit: YongXin Zhang/Alamy",
+            "The quest to understand where the COVID-19 pandemic started has revealed fresh clues. Researchers have re-analysed data collected from a market in Wuhan, China, during the early days of the pandemic and found that animals there were infected with a virus \u2013 although they could not confirm what exactly caused the infection.",
+            "\u201cThe conclusion is convincing that there was infection in the animals,\u201d says Spyros Lytras, an evolutionary virologist at the University of Tokyo. The results, which have not been peer reviewed, were presented at a conference, Preparing for the Next Pandemic: Evolution, Pathogenesis and Virology of Coronaviruses, in Awaji, Japan, on 3 December.",
+            "Many of the first COVID-19 cases to be identified were linked to Wuhan\u2019s Huanan Seafood Wholesale Market. Some studies have reasoned that people brought the virus to the market, where they passed it on to others, while other studies have suggested that the market was the site of the first spillover events, in which animals with the virus first infected people1. Although these earlier studies established the presence of animals susceptible to the virus that causes COVID-19, and the virus itself, at the market, they were not able to confirm that the animals were infected with the virus2.",
+            "\u201cThe missing link in the whole zoonotic story has been the animal,\u201d says Edward Holmes, a virologist at the University of Sydney in Australia. \u201cIf you can show there are infected animals at the market, then the story is complete,\u201d he says, referring specifically to animals infected with a progenitor of SARS-CoV-2.",
+            "The latest analysis suggests that infected animals were at the market at the same time that early cases of COVID-19 emerged there. \u201cThis is one more piece of indirect evidence that suggests a connection of the origin of the SARS-CoV-2 pandemic with the Huanan market,\u201d says Christian Drosten, a virologist at the Charit\u00e9 University Hospital in Berlin.",
+            "Most researchers agree that SARS-CoV-2 originated in animals. However, because a progenitor of the virus has not been found in an animal, some have continued to argue that the virus could have escaped \u2014 either by accident or through deliberate release \u2014 from the Wuhan Institute of Virology. A detailed report released by the Republican-majority select committee of the US House of Representatives earlier this week concluded that the pandemic \u201cmost likely emerged from a laboratory in Wuhan\u201d.",
+            "doi: https://doi.org/10.1038/d41586-024-03968-0"
+        ]
+    },
+    {
+        "URL": "https://www.nature.com/articles/d41586-024-03939-5",
+        "title": "A firm randomly assigned its scientists AI: here\u2019s what happened",
+        "content": [
+            "*A_researcher_pictured_using_a_FTIR_spectrophotometer",
+            "Scientists at an unnamed corporate laboratory were randomly assigned a machine-learning tool.Credit: Eugenio Marongiu/Getty",
+            "Artificial intelligence (AI) is becoming ubiquitous in applied research, but can it actually invent useful materials faster than humans can? It is still too early to tell, but a massive study suggests that it might.",
+            "doi: https://doi.org/10.1038/d41586-024-03939-5"
+        ]
+    },
+    {
+        "URL": "https://www.nature.com/articles/d41586-024-03860-x",
+        "title": "How to stop plastic pollution: three strategies that actually work",
+        "content": [
+            "*Pressed_plastic_waste_ready_for_loading_is_seen_at_the_Prabkaya_Recycle_Factory_in_Pathum_Thani_outs",
+            "Recycling is just one way to help tackle plastic pollution. Credit: Athit Perawongmetha/REUTERS",
+            "Can the world finally agree on how to end plastic pollution? We should know by the end of the week.",
+            "Negotiators from 175 countries are in Busan, South Korea, to thrash out what many hope will be a legally binding United Nations treaty to drastically cut plastic pollution. Researchers are hopeful a strong treaty will emerge from the fifth \u2014 and final \u2014 session of the negotiations, but there is a high chance that any agreement will be weak or delayed. Until a global consensus is reached, however, many cities and nations are introducing their own policies.",
+            "\u201cSome countries are pre-emptively protecting themselves, regardless of what happens with the treaty,\u201d says Trisia Farrelly, an environmental anthropologist at New Zealand\u2019s Cawthron Institute in Nelson and a co-lead of the Scientists\u2019 Coalition for an Effective Plastics Treaty, an independent group attending the meeting as an observer. ",
+            "These policies showcase what can work, researchers say, but also highlight why a global effort is important. Some groups, including the scientists\u2019 coalition, support a treaty that will reduce production of non-essential plastics, which have skyrocketed to unsustainable levels. But some nations, particularly those that make petrochemicals, want the treaty to focus on waste management instead, including steps such as recycling.",
+            " \u201cIf we miss this opportunity to do unified policy-making with standardized guidelines, we\u2019re going to set ourselves back decades or more,\u201d says Douglas McCauley at the University of California, Santa Barbara, who published modelling work on plastics policies earlier this month1.",
+            "h2Ban single-use plastics",
+            "More than 90 nations and territories have passed full or partial bans on single-use plastic products such as carrier bags. These bans can be very effective. One analysis showed that bans in five US states and cities together cut consumption of single-use plastic bags by about six billion bags per year2. Several studies have also shown huge reductions in plastic litter in waterways, says McCauley. Even fees can work. A litter survey in the United Kingdom found that the number of plastic bags found on beaches dropped by 80% after the nation introduced a mandatory fee for single-use carrier bags, although other forms of litter had increased.",
+            "But bans that are poorly designed or enforced are likely to be ineffective. California, for example, allowed shops to switch to thicker, reusable carrier bags \u2014 but people still threw them away, leading to a higher rate of plastic disposal than before. Policies need to be monitored and reviewed, says McCauley. \u201cYou have to put a policy in place, take data and then whack-a-mole the loopholes.\u201d",
+            "doi: https://doi.org/10.1038/d41586-024-03860-x"
         ]
     },
     {
@@ -110,30 +161,6 @@
             "*Gabryele_Moreira_posing_for_a_portrait_in_front_of_a_nuclear_reactor_pool_at_Brazil's_first_nuclear_",
             "Gabryele Moreira in front of Brazil\u2019s first nuclear reactor. She was the only Black student in her nuclear-technology master\u2019s programme in 2018.Credit: IPEN/USP",
             "Gabryele Moreira first became interested in physics during a pre-university course she took in the outskirts of Salvador in northeastern Brazil in 2011. Two years later, she was admitted to the Federal University of Sergipe in S\u00e3o Crist\u00f3v\u00e3o through an ethnic\u2013racial minority quota system and began her undergraduate studies in medical physics. She was supported by housing and meal scholarships, which were \u201cboth essential for me to stay in university and keep up with my studies\u201d, she says.",
-            "But her path to graduate education was more challenging, because there was no similar affirmative-action policy when she was applying for a master\u2019s degree in nuclear technology at the Institute for Energy and Nuclear Research in S\u00e3o Paulo, in 2018. \u201cI remember turning to YouTube videos to try to learn English in order to prepare for the foreign language-proficiency test in the master\u2019s selection process,\u201d she says. \u201cI didn\u2019t have the opportunity to take courses during my undergraduate studies.\u201d",
-            "She was accepted, becoming at that time the only Black person in the programme. \u201cI could see myself in others when I was in Sergipe, but in S\u00e3o Paulo, I realized that people like me were a minority in graduate programmes, especially in areas such as nuclear energy,\u201d Moreira says.",
-            "h2Slow to adapt",
-            "Stories such as Moreira\u2019s \u2014 and studies released in the past several years \u2014 indicate that affirmative-action policies have not yet become mainstream in graduate science education in Brazil. \u201cThere\u2019s still much ground to be gained,\u201d says Anna Venturini, a political-science researcher at the Brazilian Center of Analysis and Planning in S\u00e3o Paulo who has been studying affirmative-action policies in graduate programmes since 2014.",
-            "Brazil\u2019s plummeting graduate enrolments hint at declining interest in academic science careers",
-            "More than half of Brazil\u2019s 203 million inhabitants identify as Black, mixed-race or Indigenous. Still, white individuals currently represent 90% of Brazilian scientists \u2014 a proportion 12 times higher than that of Black, mixed-heritage and Indigenous individuals combined, according to a study by researchers at the State University of Rio de Janeiro. \u201cThese groups are minorities in almost all fields of the hard sciences,\u201d says co-author Marcia Rangel Candido.",
-            "To try to correct these inequalities and promote equity in historically marginalized minority groups, graduate programmes first began to implement affirmative-action policies in the 2000s, some on their own initiative and others as a requirement under state laws and university resolutions. The movement gained traction in 2016, when the government started to require federal higher-education institutions to submit proposed measures for including Black, mixed-race, Indigenous and disabled people in their graduate programmes.",
-            "As a result, the percentage of graduate programmes in Brazil with affirmative action rose from 26% in 2018 to 54% in 2021, according to a 2022 analysis by Venturini and her colleague. Yet such initiatives have been unevenly distributed across academic fields.",
-            "h2Field-specific",
-            "The voluntary expansion of affirmative action in recent years has been driven mostly by the humanities and social sciences, in which 36\u201344% of graduate programmes have adopted these policies on their own initiative. \u201cResearchers in the humanities historically tend to be more likely to think of strategies to mitigate inequalities in access to higher education, because they have a long tradition of research on this issue,\u201d says Jaqueline Gomes de Jesus, a Black transgender psychologist at the Federal Institute of Rio de Janeiro, and the first manager of the affirmative-action system for Black undergraduate students at the University of Bras\u00edlia.",
-            "Universities axe diversity statements in wake of US Supreme Court ruling on affirmative action",
-            "Conversely, graduate programmes in science, technology, engineering and mathematics (STEM) are the least likely to create affirmative-action initiatives, according to the survey by Venturini and her colleague. Only 9.5% of Brazil\u2019s engineering graduate programmes and 5.6% of its agricultural-sciences graduate programmes have voluntarily adopted affirmative action over the past few decades.",
-            "Venturini says that \u201ca culture of conservative meritocracy\u201d could be contributing to the resistance to implementing affirmative action in STEM programmes. \u201cThe admissions processes for these programmes attach less value to candidates\u2019 backgrounds and assume that the best-qualified are simply those with the highest test scores,\u201d she says. \u201cThe belief that affirmative-action policies are harmful to \u2018the more capable candidates\u2019 is highly prevalent in hard-science programmes.\u201d",
-            "*Lorena_Pinheiro_Figueiredo_wearing_a_labcoat_with_elaborate_cut_out_sleeves_and_a_face_masks_inspect",
-            "Physician Lorena Pinheiro Figueiredo felt cheated after her faculty position was initially approved through an affirmative-action initiative, but was later blocked by the courts.Credit: Lorena Vinturini",
-            "Other researchers worry that students admitted through affirmative-action policies might be less prepared and therefore not finish their theses on time or not publish in high-impact journals, which could ultimately affect how funding agencies perceive a programme\u2019s quality and status.",
-            "Graduate-programme assessment metrics tracked by the Brazilian Federal Agency for Support and Evaluation of Graduate Education (CAPES), for instance, typically include the number of papers published in high-impact international journals, the number of collaborations with international researchers and institutions and the number of postdoctoral positions abroad that students go on to do.",
-            "These assessments determine how much fellowship and research funding each programme receives from the federal government. \u201cOf course, we need to invest in strategies to fix historical inequalities in academia, but it isn\u2019t easy if you\u2019re going against the tide of what funding agencies require,\u201d says mechanical engineer Oswaldo Horikawa, president of the Graduate Committee of the Polytechnic School of the University of S\u00e3o Paulo.",
-            "Charles Morphy, president of the National Forum of Pro-Rectors of Research and Graduate Studies in Bras\u00edlia, says that CAPES is considering including affirmative action as an evaluation criterion \u201caiming to encourage [programmes] to invest in these policies and to widen access to graduate studies for minorities and diversity in academia\u201d.",
-            "h2Pipeline effect",
-            "The lack of affirmative-action policies in STEM graduate education perpetuates inequalities up the career ladder, especially when it comes to leadership roles. In 2023, Black men held 12% of the leadership roles in astronomy research groups, for instance, whereas Black women accounted for just 1%, according to unpublished work by researchers at the Institute for Applied Economic Research in Rio de Janeiro. \u201cThe double disadvantage for Black women stands out as a particularly critical challenge that requires attention,\u201d says economist Tulio Chiarini, who is leading the study.",
-            "In Brazil, one in two female researchers has faced sexual harassment",
-            "The situation is also discouraging when it comes to hiring faculty members. \u201cUniversity hiring processes typically open only one position at a time, making it difficult to apply quotas effectively,\u201d Candido says. It leaves room for situations such as that of Lorena Pinheiro Figueiredo, a Black physician, who, after being approved for a faculty position at the Federal University of Bahia through a racial affirmative-action system, was blocked from starting the position by the courts. \u201cIt feels like being cheated, violated and having my rights taken away,\u201d she says. She is now appealing the court\u2019s decision.",
-            "\u201cIt\u2019s clear that the impact of affirmative action fades as we move up the scientific career ladder,\u201d says Luiz Augusto Campos, a sociologist at the State University of Rio de Janeiro. \u201cA stronger governmental commitment to diversifying the national scientific community is needed, not only to meet social demands but also to enhance the quality of science itself,\u201d he says. \u201cCurrently, Brazilian science is mostly shaped by a group that has long held political, cultural and scientific power.\u201d",
             "doi: https://doi.org/10.1038/d41586-024-03577-x"
         ]
     }
