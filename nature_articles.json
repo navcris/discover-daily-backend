@@ -1,13 +1,129 @@
 [
     {
+        "URL": "https://www.nature.com/articles/d41586-024-01684-3",
+        "title": "Virtual lab powered by \u2018AI scientists\u2019 super-charges biomedical research",
+        "content": [
+            "*Illustration_of_antibodies_red_and_blue_responding_to_SARS-CoV-2_purple",
+            "The virtual lab set-up used several LLMs to design antibody fragments that could bind to SARS-CoV-2.Credit: KTSDESIGN/Science Photo Library via Getty",
+            "In an effort to automate scientific discovery using artificial intelligence (AI), researchers have created a virtual laboratory that combines several \u2018AI scientists\u2019 \u2014 large language models with defined scientific roles \u2014 that can collaborate to achieve goals set by human researchers.",
+            "The system, described in a preprint posted on bioRxiv last month1, was able to design antibody fragments called nanobodies that can bind to the virus that causes COVID-19, proposing nearly 100 of these structures in a fraction of the time it would take an all-human research group. ",
+            "Researchers built an \u2018AI Scientist\u2019 \u2014 what can it do?",
+            " \u201cThese virtual-lab AI agents have shown to be quite capable at doing a lot of tasks,\u201d says study co-author James Zou, a computational biologist at Stanford University in California. \u201cWe\u2019re quite excited about exploring the potential of the virtual lab across different scientific domains.\u201d",
+            "The experiment \u201crepresents a new paradigm of taking AI as collaborators, not just tools\u201d, says Yanjun Gao, who researches the health-care applications of AI at the University of Colorado Anschutz Medical Campus in Aurora. But she adds that human input and oversight are still crucial. \u201cI don\u2019t think at this stage we can fully trust the AI to make decisions.\u201d",
+            "h2Interdisciplinary AI",
+            "Scientists worldwide have explored the potential of large language models (LLMs) to speed up research \u2014 including creating an \u2018AI scientist\u2019 that can carry out parts of the scientific process, from generating hypotheses and designing experiments to drafting papers. But Zou says that most studies have focused on the application of LLMs for experiments with a narrow scope, rather than exploring their potential in interdisciplinary research. He and his colleagues set up the virtual lab to combine expertise from different fields. ",
+            "doi: https://doi.org/10.1038/d41586-024-01684-3"
+        ]
+    },
+    {
+        "URL": "https://www.nature.com/articles/d41586-024-03957-3",
+        "title": "DeepMind AI weather forecaster beats world-class system",
+        "content": [
+            "*A_satellite_photo_of_typhoon_Hagibis_approaching_Japan",
+            "Typhoon Hagibis approaches Japan in 2019. The storm was one of the events used to study the accuracy of an AI-based forecasting system.Credit: NASA Worldview, Earth Observing System Data and Information System (EOSDIS)/AP/Alamy",
+            "Google DeepMind has developed the first artificial intelligence (AI) model of its kind to predict the weather more accurately than the best system currently in use. The model generates forecasts up to 15 days in advance \u2015 and it does so in minutes, rather than the hours needed by today\u2019s forecasting programs. ",
+            "doi: https://doi.org/10.1038/d41586-024-03957-3"
+        ]
+    },
+    {
+        "URL": "https://www.nature.com/articles/d41586-024-03958-2",
+        "title": "Stress can dull our capacity for joy: mouse brain patterns hint at why",
+        "content": [
+            "*Illustration_of_nerve_cells_from_the_cerebral_cortex_of_the_brain,_shown_in_blue",
+            "Communication between neurons (illustration) in two separate brain regions is patchy in mice that are susceptible to severe stress. Credit: Juan Gaertner/Science Photo Library",
+            "Joylessness triggered by stress creates a distinct brain signature, according to research in mice1. The study also reveals one brain pattern that seems to confer resilience to stress \u2015 and another that makes stressed animals less likely to feel pleasure, a core symptom of depression. ",
+            "These findings, published today in Nature, offer clues as to how the brain gives rise to anhedonia, a resistance to enjoyment and pleasure. The results also provide a new avenue for treating the condition \u2015 if the findings are validated in humans.",
+            "\u201cTheir approach in this study is spot on,\u201d says Conor Liston, a neuroscientist at Weill Cornell Medicine in New York City, who was not involved in the work. The experiments fill \u201ca big gap\u201d, he says. \u201cAnhedonia is something we don\u2019t understand very well.\u201d",
+            "h2A distressing symptom",
+            "More than 70% of people with severe depression experience anhedonia, which is also common in those with schizophrenia, Parkinson\u2019s disease and other neurological and psychiatric conditions.",
+            "The symptom is notoriously difficult to treat, even in those taking medication, Liston says. \u201cAnhedonia is something that patients care about the most, and feel like it\u2019s least addressed by current treatments,\u201d he says.",
+            "A journey into the causes and effects of depression",
+            "To understand how the brain gives rise to anhedonia, Mazen Kheirbek, a systems neuroscientist at the University of California, San Francisco, and his colleagues studied mice that had been placed under stress by exposure to larger, more aggressive mice.",
+            "Typically, mice have a sweet tooth and prefer sugar water over plain water if given the option. But some stressed mice instead preferred plain water \u2015 which Kheirbek and his colleagues interpreted as a rodent version of anhedonia. Other mice subjected to the same stress preferred the sugar water. The authors labelled these animals \u2018resilient\u2019.",
+            "doi: https://doi.org/10.1038/d41586-024-03958-2"
+        ]
+    },
+    {
         "URL": "https://www.nature.com/articles/d41586-024-03905-1",
         "title": "How close is AI to human-level intelligence?",
         "content": [
             "*Abstract_illustration_showing_a_brain_being_formed_from_data_surrounded_by_representations_of_3D_map",
             " Illustration: Petra P\u00e9terffy",
             "OpenAI\u2019s latest artificial intelligence (AI) system dropped in September with a bold promise. The company behind the chatbot ChatGPT showcased o1 \u2014 its latest suite of large language models (LLMs) \u2014 as having a \u201cnew level of AI capability\u201d. OpenAI, which is based in San Francisco, California, claims that o1 works in a way that is closer to how a person thinks than do previous LLMs.",
+            "The release poured fresh fuel on a debate that\u2019s been simmering for decades: just how long will it be until a machine is capable of the whole range of cognitive tasks that human brains can handle, including generalizing from one task to another, abstract reasoning, planning and choosing which aspects of the world to investigate and learn from?",
+            "Bigger AI chatbots more inclined to spew nonsense \u2014 and people don\u2019t always realize",
+            "Such an \u2018artificial general intelligence\u2019, or AGI, could tackle thorny problems, including climate change, pandemics and cures for cancer, Alzheimer\u2019s and other diseases. But such huge power would also bring uncertainty \u2014 and pose risks to humanity. \u201cBad things could happen because of either the misuse of AI or because we lose control of it,\u201d says Yoshua Bengio, a deep-learning researcher at the University of Montreal, Canada.",
+            "The revolution in LLMs over the past few years has prompted speculation that AGI might be tantalizingly close. But given how LLMs are built and trained, they will not be sufficient to get to AGI on their own, some researchers say. \u201cThere are still some pieces missing,\u201d says Bengio.",
+            "What\u2019s clear is that questions about AGI are now more relevant than ever. \u201cMost of my life, I thought people talking about AGI are crackpots,\u201d says Subbarao Kambhampati, a computer scientist at Arizona State University in Tempe. \u201cNow, of course, everybody is talking about it. You can\u2019t say everybody\u2019s a crackpot.\u201d",
+            "h2Why the AGI debate changed",
+            "The phrase artificial general intelligence entered the zeitgeist around 2007 after its mention in an eponymously named book edited by AI researchers Ben Goertzel and Cassio Pennachin. Its precise meaning remains elusive, but it broadly refers to an AI system with human-like reasoning and generalization abilities. Fuzzy definitions aside, for most of the history of AI, it\u2019s been clear that we haven\u2019t yet reached AGI. Take AlphaGo, the AI program created by Google DeepMind to play the board game Go. It beats the world\u2019s best human players at the game \u2014 but its superhuman qualities are narrow, because that\u2019s all it can do.",
+            "The new capabilities of LLMs have radically changed the landscape. Like human brains, LLMs have a breadth of abilities that have caused some researchers to seriously consider the idea that some form of AGI might be imminent1, or even already here.",
+            "This breadth of capabilities is particularly startling when you consider that researchers only partially understand how LLMs achieve it. An LLM is a neural network, a machine-learning model loosely inspired by the brain; the network consists of artificial neurons, or computing units, arranged in layers, with adjustable parameters that denote the strength of connections between the neurons. During training, the most powerful LLMs \u2014 such as o1, Claude (built by Anthropic in San Francisco) and Google\u2019s Gemini \u2014 rely on a method called next token prediction, in which a model is repeatedly fed samples of text that has been chopped up into chunks known as tokens. These tokens could be entire words or simply a set of characters. The last token in a sequence is hidden or \u2018masked\u2019 and the model is asked to predict it. The training algorithm then compares the prediction with the masked token and adjusts the model\u2019s parameters to enable it to make a better prediction next time.",
+            "How AI is reshaping science and society",
+            "The process continues \u2014 typically using billions of fragments of language, scientific text and programming code \u2014 until the model can reliably predict the masked tokens. By this stage, the model parameters have captured the statistical structure of the training data, and the knowledge contained therein. The parameters are then fixed and the model uses them to predict new tokens when given fresh queries or \u2018prompts\u2019 that were not necessarily present in its training data, a process known as inference.",
+            "The use of a type of neural network architecture known as a transformer has taken LLMs significantly beyond previous achievements. The transformer allows a model to learn that some tokens have a particularly strong influence on others, even if they are widely separated in a sample of text. This permits LLMs to parse language in ways that seem to mimic how humans do it \u2014 for example, differentiating between the two meanings of the word \u2018bank\u2019 in this sentence: \u201cWhen the river\u2019s bank flooded, the water damaged the bank\u2019s ATM, making it impossible to withdraw money.\u201d",
+            "This approach has turned out to be highly successful in a wide array of contexts, including generating computer programs to solve problems that are described in natural language, summarizing academic articles and answering mathematics questions.",
+            "And other new capabilities have emerged along the way, especially as LLMs have increased in size, raising the possibility that AGI, too, could simply emerge if LLMs get big enough. One example is chain-of-thought (CoT) prompting. This involves showing an LLM an example of how to break down a problem into smaller steps to solve it, or simply asking the LLM to solve a problem step-by-step. CoT prompting can lead LLMs to correctly answer questions that previously flummoxed them. But the process doesn\u2019t work very well with small LLMs.",
+            "h2The limits of LLMs",
+            "CoT prompting has been integrated into the workings of o1, according to OpenAI, and underlies the model\u2019s prowess. Francois Chollet, who was an AI researcher at Google in Mountain View, California, and left in November to start a new company, thinks that the model incorporates a CoT generator that creates numerous CoT prompts for a user query and a mechanism to select a good prompt from the choices. During training, o1 is taught not only to predict the next token, but also to select the best CoT prompt for a given query. The addition of CoT reasoning explains why, for example, o1-preview \u2014 the advanced version of o1 \u2014 correctly solved 83% of problems in a qualifying exam for the International Mathematical Olympiad, a prestigious mathematics competition for high-school students, according to OpenAI. That compares with a score of just 13% for the company\u2019s previous most powerful LLM, GPT-4o.",
+            "In AI, is bigger always better?",
+            "But, despite such sophistication, o1 has its limitations and does not constitute AGI, say Kambhampati and Chollet. On tasks that require planning, for example, Kambhampati\u2019s team has shown that although o1 performs admirably on tasks that require up to 16 planning steps, its performance degrades rapidly when the number of steps increases to between 20 and 402. Chollet saw similar limitations when he challenged o1-preview with a test of abstract reasoning and generalization that he designed to measure progress towards AGI. The test takes the form of visual puzzles. Solving them requires looking at examples to deduce an abstract rule and using that to solve new instances of a similar puzzle, something humans do with relative ease.",
+            "LLMs, says Chollet, irrespective of their size, are limited in their ability to solve problems that require recombining what they have learnt to tackle new tasks. \u201cLLMs cannot truly adapt to novelty because they have no ability to basically take their knowledge and then do a fairly sophisticated recombination of that knowledge on the fly to adapt to new context.\u201d",
+            "h2Can LLMs deliver AGI?",
+            "So, will LLMs ever deliver AGI? One point in their favour is that the underlying transformer architecture can process and find statistical patterns in other types of information in addition to text, such as images and audio, provided that there is a way to appropriately tokenize those data. Andrew Wilson, who studies machine learning at New York University in New York City, and his colleagues showed that this might be because the different types of data all share a feature: such data sets have low \u2018Kolmogorov complexity\u2019, defined as the length of the shortest computer program that\u2019s required to create them3. The researchers also showed that transformers are well-suited to learning about patterns in data with low Kolmogorov complexity and that this suitability grows with the size of the model. Transformers have the capacity to model a wide swathe of possibilities, increasing the chance that the training algorithm will discover an appropriate solution to a problem, and this \u2018expressivity\u2019 increases with size. These are, says Wilson, \u201csome of the ingredients that we really need for universal learning\u201d. Although Wilson thinks AGI is currently out of reach, he says that LLMs and other AI systems that use the transformer architecture have some of the key properties of AGI-like behaviour.",
+            "Can AI review the scientific literature \u2014 and figure out what it all means?",
+            "Yet there are also signs that transformer-based LLMs have limits. For a start, the data used to train the models are running out. Researchers at Epoch AI, an institute in San Francisco that studies trends in AI, estimate4 that the existing stock of publicly available textual data used for training might run out somewhere between 2026 and 2032. There are also signs that the gains being made by LLMs as they get bigger are not as great as they once were, although it\u2019s not clear if this is related to there being less novelty in the data because so many have now been used, or something else. The latter would bode badly for LLMs.",
+            "Raia Hadsell, vice-president of research at Google DeepMind in London, raises another problem. The powerful transformer-based LLMs are trained to predict the next token, but this singular focus, she argues, is too limited to deliver AGI. Building models that instead generate solutions all at once or in large chunks could bring us closer to AGI, she says. The algorithms that could help to build such models are already at work in some existing, non-LLM systems, such as OpenAI\u2019s DALL-E, which generates realistic, sometimes trippy, images in response to descriptions in natural language. But they lack LLMs\u2019 broad suite of capabilities.",
+            "h2Build me a world model",
+            "The intuition for what breakthroughs are needed to progress to AGI comes from neuroscientists. They argue that our intelligence is the result of the brain being able to build a \u2018world model\u2019, a representation of our surroundings. This can be used to imagine different courses of action and predict their consequences, and therefore to plan and reason. It can also be used to generalize skills that have been learnt in one domain to new tasks by simulating different scenarios.",
+            "Several reports have claimed evidence for the emergence of rudimentary world models inside LLMs. In one study5, researchers Wes Gurnee and Max Tegmark at the Massachusetts Institute of Technology in Cambridge claimed that a widely used open-source family of LLMs developed internal representations of the world, the United States and New York City when trained on data sets containing information about these places, although other researchers noted on X (formerly Twitter) that there was no evidence that the LLMs were using the world model for simulations or to learn causal relationships. In another study6, Kenneth Li, a computer scientist at Harvard University in Cambridge and his colleagues reported evidence that a small LLM trained on transcripts of moves made by players of the board game Othello learnt to internally represent the state of the board and used this to correctly predict the next legal move.",
+            "Other results, however, show how world models learnt by today\u2019s AI systems can be unreliable. In one such study7, computer scientist Keyon Vafa at Harvard University, and his colleagues used a gigantic data set of the turns taken during taxi rides in New York City to train a transformer-based model to predict the next turn in a sequence, which it did with almost 100% accuracy.",
+            "By examining the turns the model generated, the researchers were able to show that it had constructed an internal map to arrive at its answers. But the map bore little resemblance to Manhattan (see \u2018The impossible streets of AI\u2019), \u201ccontaining streets with impossible physical orientations and flyovers above other streets\u201d, the authors write. \u201cAlthough the model does do well in some navigation tasks, it\u2019s doing well with an incoherent map,\u201d says Vafa. And when the researchers tweaked the test data to include unforeseen detours that were not present in the training data, it failed to predict the next turn, suggesting that it was unable to adapt to new situations.",
+            "*The_impossible_streets_of_AI_The_results_of_an_AI_system_that_was_trained_to_predict_routes_taken_by",
+            "Source: Ref. 7",
+            "h2The importance of feedback",
+            "One important feature that today\u2019s LLMs lack is internal feedback, says Dileep George, a member of the AGI research team at Google DeepMind in Mountain View, California. The human brain is full of feedback connections that allow information to flow bidirectionally between layers of neurons. This allows information to flow from the sensory system to higher layers of the brain to create world models that reflect our environment. It also means that information from the world models can ripple back down and guide the acquisition of further sensory information. Such bidirectional processes lead, for example, to perceptions, wherein the brain uses world models to deduce the probable causes of sensory inputs. They also enable planning, with world models used to simulate different courses of action.",
+            "But current LLMs are able to use feedback only in a tacked-on way. In the case of o1, the internal CoT prompting that seems to be at work \u2014 in which prompts are generated to help answer a query and fed back to the LLM before it produces its final answer \u2014 is a form of feedback connectivity. But, as seen with Chollet\u2019s tests of o1, this doesn\u2019t ensure bullet-proof abstract reasoning.",
+            "Why scientists trust AI too much \u2014 and what to do about it",
+            "Researchers, including Kambhampati, have also experimented with adding external modules, called verifiers, onto LLMs. These check answers that are generated by an LLM in a specific context, such as for creating viable travel plans, and ask the LLM to rerun the query if the answer is not up to scratch8. Kambhampati\u2019s team showed that LLMs aided by external verifiers were able to create travel plans significantly better than were vanilla LLMs. The problem is that researchers have to design bespoke verifiers for each task. \u201cThere is no universal verifier,\u201d says Kambhampati. By contrast, an AGI system that used this approach would probably need to build its own verifiers to suit situations as they arise, in much the same way that humans can use abstract rules to ensure they are reasoning correctly, even for new tasks.",
+            "Efforts to use such ideas to help produce new AI systems are in their infancy. Bengio, for example, is exploring how to create AI systems with different architectures to today\u2019s transformer-based LLMs. One of these, which uses what he calls generative flow networks, would allow a single AI system to learn how to simultaneously build world models and the modules needed to use them for reasoning and planning.",
+            "Another big hurdle encountered by LLMs is that they are data guzzlers. Karl Friston, a theoretical neuroscientist at University College London, suggests that future systems could be made more efficient by giving them the ability to decide just how much data they need to sample from the environment to construct world models and make reasoned predictions, rather than simply ingesting all the data they are fed. This, says Friston, would represent a form of agency or autonomy, which might be needed for AGI. \u201cYou don\u2019t see that kind of authentic agency, in say, large language models, or generative AI,\u201d he says. \u201cIf you\u2019ve got any kind of intelligent artefact that can select at some level, I think you\u2019re making an important move towards AGI,\u201d he adds.",
+            "AI systems with the ability to build effective world models and integrated feedback loops might also rely less on external data because they could generate their own by running internal simulations, positing counterfactuals and using these to understand, reason and plan. Indeed, in 2018, researchers David Ha, then at Google Brain in Tokyo, and J\u00fcrgen Schmidhuber at the Dalle Molle Institute for Artificial Intelligence Studies in Lugano-Viganelllo, Switzerland, reported9 building a neural network that could efficiently build a world model of an artificial environment, and then use it to train the AI to race virtual cars.",
+            "Do AI models produce more original ideas than researchers?",
+            "If you think that AI systems with this level of autonomy sound scary, you are not alone. As well as researching how to build AGI, Bengio is an advocate of incorporating safety into the design and regulation of AI systems. He argues that research must focus on training models that can guarantee the safety of their own behaviour \u2014 for instance, by having mechanisms that calculate the probability that the model is violating some specified safety constraint and reject actions if the probability is too high. Also, governments need to ensure safe use. \u201cWe need a democratic process that makes sure individuals, corporations, even the military, use AI and develop AI in ways that are going to be safe for the public,\u201d he says.",
+            "So will it ever be possible to achieve AGI? Computer scientists say there is no reason to think otherwise. \u201cThere are no theoretical impediments,\u201d says George. Melanie Mitchell, a computer scientist at the Santa Fe Institute in New Mexico, agrees. \u201cHumans and some other animals are a proof of principle that you can get there,\u201d she says. \u201cI don\u2019t think there\u2019s anything particularly special about biological systems versus systems made of other materials that would, in principle, prevent non-biological systems from becoming intelligent.\u201d",
+            "But, even if it is possible there is little consensus about how close its arrival might be: estimates range from just a few years from now to at least ten years away. If an AGI system is created, George says, we\u2019ll know it when we see it. Chollet suspects it will creep up on us. \u201cWhen AGI arrives, it\u2019s not going to be as noticeable or as groundbreaking as you might think,\u201d he says. \u201cIt will take time for AGI to realize its full potential. It will be invented first. Then, you will need to scale it up and apply it before it starts really changing the world.\u201d",
             "Nature 636, 22-25 (2024)",
             "doi: https://doi.org/10.1038/d41586-024-03905-1"
+        ]
+    },
+    {
+        "URL": "https://www.nature.com/articles/d41586-024-03939-5",
+        "title": "A firm randomly assigned its scientists AI: here\u2019s what happened",
+        "content": [
+            "*A_researcher_pictured_using_a_FTIR_spectrophotometer",
+            "Scientists at an unnamed corporate laboratory were randomly assigned a machine-learning tool.Credit: Eugenio Marongiu/Getty",
+            "Artificial intelligence (AI) is becoming ubiquitous in applied research, but can it actually invent useful materials faster than humans can? It is still too early to tell, but a massive study suggests that it might.",
+            "How close is AI to human-level intelligence?",
+            "Aidan Toner-Rodgers, an economist at the Massachusetts Institute of Technology (MIT) in Cambridge, followed the deployment of a machine-learning tool at an unnamed corporate laboratory employing more than 1,000 researchers. Teams that were randomly assigned to use the tool discovered 44% more new materials and filed 39% more patent applications than did the ones that stuck to their standard workflow, he found. Toner-Rodgers posted the results online last month, and has submitted them to a peer-reviewed journal.",
+            "\u201cIt is a very interesting paper,\u201d says Robert Palgrave, a solid-state chemist at University College London, adding that the limited disclosure of the trial\u2019s details makes the results of the AI deployment hard to evaluate. \u201cIt maybe doesn\u2019t surprise me that AI can come up with a lot of suggestions,\u201d Palgrave says. \u201cWhat we\u2019re kind of missing is whether those suggestions were good suggestions or not.\u201d",
+            "h2Materials maker",
+            "Toner-Rodgers had access to internal data from the lab and interviewed the researchers under the condition that he would not disclose the name of the company or the specific products it designed. He writes that it is a US firm that develops new inorganic materials \u2014 including molecular compounds, crystal structures, glasses and metal alloys \u2014 for use in \u201chealthcare, optics, and industrial manufacturing\u201d.",
+            "Researchers built an \u2018AI Scientist\u2019 \u2014 what can it do?",
+            "Starting in 2022, the company systematically adopted an AI tool that it had customized to fit its needs. According to Toner-Rodgers, the tool combines graph neural networks \u2014 a popular approach in materials discovery that has been used by DeepMind, Google\u2019s London-based AI firm, among others \u2014 with reinforcement learning. The neural network was pre-trained using data from vast existing databases, including crystal structures and their properties from the Materials Project and molecular structures from the Alexandria Materials Database.",
+            "Researchers input requirements for a material\u2019s desired properties into the neural network, and the system suggests structures for new materials that could have those properties. The teams then weed out potential duds \u2014 such as formulas that would not lead to a stable compound \u2014 using their own specialist knowledge and computer simulations. They then attempt to synthesize the candidate structures and, if successful, test them in experiments and even in prototypes of finished products. The results are fed back into the neural network \u2014 the \u2018reinforcement\u2019 stage that helps it to improve its predictive abilities.",
+            "h2Mixed results",
+            "doi: https://doi.org/10.1038/d41586-024-03939-5"
+        ]
+    },
+    {
+        "URL": "https://www.nature.com/articles/d41586-024-03968-0",
+        "title": "Sick animals suggest COVID pandemic started in Wuhan market",
+        "content": [
+            "*Close_up_of_a_raccoon_dog_in_a_cage_in_rural_China",
+            "Raccoon dogs are among the animals susceptible to SARS-CoV-2 that were present at the Chinese market where the virus is thought to have jumped to humans.Credit: YongXin Zhang/Alamy",
+            "The quest to understand where the COVID-19 pandemic started has revealed fresh clues. Researchers have re-analysed data collected from a market in Wuhan, China, during the early days of the pandemic and found that animals there were infected with a virus \u2013 although they could not confirm what exactly caused the infection.",
+            "doi: https://doi.org/10.1038/d41586-024-03968-0"
         ]
     },
     {
@@ -41,127 +157,7 @@
             "*Marie_Hendrix_L_and_Gabrielle_Vaudremer,_100-year-old_Belgian_twins_celebrate_their_birthday_with_a_",
             "Credit: Nicolas Lambert/BELGA/AFP via Getty",
             "Scientists in Boston, Massachusetts have made reprogrammed stem cells from the blood of centenarians. They plan to share the cells with other researchers to better understand the factors that contribute to a long and healthy life. Early experiments are already providing insights on brain ageing.",
-            "Centenarians offer an opportunity to study longevity. People who\u2019ve lived to 100 have an amazing ability to bounce back from insult and injury, says George Murphy, a stem-cell biologist at the Boston University Chobanian & Avedisian School of Medicine. One centenarian he knows recovered from the 1912 Spanish flu and COVID-19, twice. One theory that explains centenarians\u2019 robust age is that they possess a genetic makeup that protects them from diseases. ",
-            "But testing that idea is a challenge. People of that age are rare, which makes blood and skin samples from them a precious resource for research. That gave Murphy and his colleagues the idea to create a bank of centenarian cells that could be shared among scientists.",
-            "\u201cThis bank is really exciting,\u201d says Chiara Herzog, who studies epigenetics and ageing at Kings College London.",
-            "\u201cIt will be a very useful resource for the field,\u201d says Vadim Gladyshev, an ageing researcher at Harvard Medical School in Boston.",
-            "h2Finding centenarians",
             "doi: https://doi.org/10.1038/d41586-024-03886-1"
-        ]
-    },
-    {
-        "URL": "https://www.nature.com/articles/d41586-024-03907-z",
-        "title": "These two ancient human relatives crossed paths 1.5 million years ago",
-        "content": [
-            "*A_footprint_in_beige_rock,_with_two_rulers_for_scale",
-            "Footprints made by two species of ancient human relative were found in Kenya. This one is thought to have been left by Paranthropus boisei.Credit: Kevin G. Hatala",
-            "Some 1.5 million years ago, two ancient species crossed paths on a lake shore in Kenya. Their footprints in the mud were frozen in time and lay undiscovered until 2021.",
-            "Biggest Denisovan fossil yet spills ancient human\u2019s secrets",
-            "Now, analysis of the impressions reveals that they belonged to Homo erectus, a forebear of modern humans, and the more distant relative Paranthropus boisei. The two individuals walked through the lake area within hours or days of each other \u2014 leaving the first direct record of different archaic hominin species coexisting in the same place.",
-            "\u201cThis is the first snapshot we have of those two species living on the same immediate landscape, potentially interacting with one another,\u201d says study co-author Kevin Hatala, a palaeoanthropologist at Chatham University in Pittsburgh, Pennsylvania. The study was published in Science on 28 November1.",
-            "The prints preserved details about the individuals, including the height of their foot arches, the shape of their toes and their walking patterns.",
-            "\u201cIt really is a snapshot in time,\u201d says Tracy Kivell,a palaeoanthropologist at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany.",
-            "*Artwork_of_Homo_ergaster_male_and_female_hominins_walking_across_African_savannah,_with_giraffes,_a_",
-            "Archaic human species (artist\u2019s impression) are thought to have coexisted millions of years ago.Credit: Mauricio Anton/Science Photo Library",
-            "\u201cThese fossilized footprints are as close as we are going to get to having a time machine to take us back to an eastern African lakeshore 1.5 million years ago,\u201d says Bernard Wood, a palaeoanthropologist at George Washington University in Washington DC.",
-            "h2Walking path",
-            "Previous studies, based mostly on the fossil record, have suggested that different hominin species lived alongside each other. But fossils are often scattered over large areas and their estimated dates span thousands of years. \u201cYou don\u2019t know if they\u2019re actually bumping into each other or not,\u201d says Kivell.",
-            "In July 2021, researchers discovered multiple sets of ancient footprints at the Koobi Fora site in the East Turkana Area of Kenya, including a continuous path of impressions left by one hominin individual and isolated prints left by at least three others. The surface dates to 1.52 million years ago, and impressions of rippled sand, reed beds and fish nests suggest that the area was a lake shore with shallow water.",
-            "Oldest Homo sapiens fossil claim rewrites our species' history",
-            "The path comprises 13 footprints. Hatala and his team estimated that the hominin that created it walked at 1.81 metres per second, similar to a modern human walking briskly.",
-            "Nature 636, 20 (2024)",
-            "doi: https://doi.org/10.1038/d41586-024-03907-z"
-        ]
-    },
-    {
-        "URL": "https://www.nature.com/articles/d41586-024-03889-y",
-        "title": "Fossilized poo and vomit show how dinosaurs rose to rule Earth",
-        "content": [
-            "*An_artists_impression_of_a_late_Triassic_scene_with_Plateosaurus_and_Liliensternus_dinosaurs",
-            "Dinosaurs rose to prominence over millions of years.Credit: Arthur Dorety/Stocktrek Images via Alamy",
-            "Faeces and vomit fossils from dinosaurs reveal how the animals evolved to rule Earth. The study, which was published in Nature on 27 November, analysed hundreds of pieces of fossilized digestive material, called bromalites, to reconstruct what dinosaurs ate and how this changed1. The fossils reveal that the rise of the dinosaurs, over millions of years during the Triassic period, was influenced by factors including climate change and other species\u2019 extinction.",
-            "\u201cOur study shows that you can use pretty seemingly unremarkable fossils to get pretty remarkable results,\u201d says co-author Martin Qvarnstr\u00f6m, who studies early dinosaur evolution at Uppsala University in Sweden.",
-            "Palaeontologists have come up with differing theories for how dinosaurs became the dominant species on Earth. Dinosaurs might have overtaken their rivals because they were particularly able to adapt to a changing ecosystem, for instance, or because random environmental changes favoured them over other species. But there isn\u2019t a single hypothesis that fully explains their rise to dominance.",
-            "*Coprolites_of_herbivorous_dinosaurs_with_numerous_plant_remains",
-            "Fossilized faeces samples revealed dinosaurs\u2019 changing diets.Credit: Grzegorz Niedzwiedzki",
-            "h2What dinosaurs ate",
-            "To better understand dinosaurs\u2019 early evolution, Qvarnstr\u00f6m and his colleagues cut open and examined more than 500 bromalites from the Polish Basin in Central Europe. The fossils are estimated to be around 200 million years old. ",
-            "The team used several methods to analyse the bromalites and their contents, including different types of microscope and a technique known as synchrotron microtomography, which uses a particle accelerator to see inside the fossils in detail. The researchers also used chemical solutions to inspect the exact contents of the remains, which included fish, plants and insects.",
-            "Despite the age and acidity of many of the fossils, the team found many of the insects the dinosaurs ate to be well preserved. \u201cSome of them were so beautifully preserved in three dimensions and with all the antennae and legs,\u201d says Qvarnstr\u00f6m.",
-            "Analysis of the digestive materials allowed the researchers to \u201creconstruct these food webs, so who was eating whom in all these assemblages and see this trend over such a long period of time\u201d, Qvarnstr\u00f6m says.",
-            "h2Adapt or die",
-            "The team found that the number and variety of the contents of the fossils increased over time, suggesting that larger dinosaurs with more diverse feeding habits began to gain prominence in the late Triassic period (between 237 million and 201 million years ago). By comparing the fossils with plant data from the period, the researchers found that dinosaurs\u2019 rise was shaped by chance and by adaptations. For example, climate change led to increased humidity, which changed the vegetation available. Dinosaurs were able to better adapt to this shifting climate and change in diet than were other land animals.",
-            "*Three_team_members_conduct_excavations_in_the_Late_Triassic_locality_at_Lisowice,_Poland",
-            "Team members conduct excavations in Lisowice, Poland, at a site from the Late Triassic.Credit: Krystian Balanda",
-            "\u201cWhat we learnt was that the rise of dinosaurs, it took quite a long time, and it was really complex,\u201d says Qvarnstr\u00f6m.",
-            "This is \u201can impressive piece of work\u201d, says Suresh Singh, who studies palaeoecological dynamics at the University of Bristol, UK. He adds that this is the first time he\u2019s seen bromalite-focused research applied at such scale.",
-            "Singh says dinosaurs are an important source of data for understanding of how life responds to different pressures, for example climate change.",
-            "He suggests that future research could use bromalites to understand how dinosaurs evolved in different parts of the world. \u201cCurrent studies suggest that dinosaurs evolved first in the Southern Hemisphere, and so maybe you have a different pattern happening down there,\u201d he says.",
-            "Nature 636, 14-15 (2024)",
-            "doi: https://doi.org/10.1038/d41586-024-03889-y"
-        ]
-    },
-    {
-        "URL": "https://www.nature.com/articles/d41586-024-03756-w",
-        "title": "How a silly science prize changed my career",
-        "content": [
-            "*Marc_Abrahams_on_stage_at_the_Ig_Nobel_Prize_ceremony_with_three_winners_receiving_an_award,_two_are",
-            "Ig Nobel founder Marc Abrahams (far left) presides over the award ceremony in 2013. Credit: Winslow Townson/AP/Alamy",
-            "Eleanor Maguire wasn\u2019t too thrilled when she was first offered an Ig Nobel Prize. The neuroscientist at University College London was being honoured for her study showing that London taxi drivers have larger hippocampi in their brains than do people in other professions1. But she worried that accepting the prize would be a disaster for her career. So, she quietly turned it down.",
-            "Nature 635, 538-539 (2024)",
-            "doi: https://doi.org/10.1038/d41586-024-03756-w"
-        ]
-    },
-    {
-        "URL": "https://www.nature.com/articles/d41586-024-03968-0",
-        "title": "Sick animals suggest COVID pandemic started in Wuhan market",
-        "content": [
-            "*Close_up_of_a_raccoon_dog_in_a_cage_in_rural_China",
-            "Raccoon dogs are among the animals susceptible to SARS-CoV-2 that were present at the Chinese market where the virus is thought to have jumped to humans.Credit: YongXin Zhang/Alamy",
-            "The quest to understand where the COVID-19 pandemic started has revealed fresh clues. Researchers have re-analysed data collected from a market in Wuhan, China, during the early days of the pandemic and found that animals there were infected with a virus \u2013 although they could not confirm what exactly caused the infection.",
-            "\u201cThe conclusion is convincing that there was infection in the animals,\u201d says Spyros Lytras, an evolutionary virologist at the University of Tokyo. The results, which have not been peer reviewed, were presented at a conference, Preparing for the Next Pandemic: Evolution, Pathogenesis and Virology of Coronaviruses, in Awaji, Japan, on 3 December.",
-            "Many of the first COVID-19 cases to be identified were linked to Wuhan\u2019s Huanan Seafood Wholesale Market. Some studies have reasoned that people brought the virus to the market, where they passed it on to others, while other studies have suggested that the market was the site of the first spillover events, in which animals with the virus first infected people1. Although these earlier studies established the presence of animals susceptible to the virus that causes COVID-19, and the virus itself, at the market, they were not able to confirm that the animals were infected with the virus2.",
-            "\u201cThe missing link in the whole zoonotic story has been the animal,\u201d says Edward Holmes, a virologist at the University of Sydney in Australia. \u201cIf you can show there are infected animals at the market, then the story is complete,\u201d he says, referring specifically to animals infected with a progenitor of SARS-CoV-2.",
-            "The latest analysis suggests that infected animals were at the market at the same time that early cases of COVID-19 emerged there. \u201cThis is one more piece of indirect evidence that suggests a connection of the origin of the SARS-CoV-2 pandemic with the Huanan market,\u201d says Christian Drosten, a virologist at the Charit\u00e9 University Hospital in Berlin.",
-            "Most researchers agree that SARS-CoV-2 originated in animals. However, because a progenitor of the virus has not been found in an animal, some have continued to argue that the virus could have escaped \u2014 either by accident or through deliberate release \u2014 from the Wuhan Institute of Virology. A detailed report released by the Republican-majority select committee of the US House of Representatives earlier this week concluded that the pandemic \u201cmost likely emerged from a laboratory in Wuhan\u201d.",
-            "doi: https://doi.org/10.1038/d41586-024-03968-0"
-        ]
-    },
-    {
-        "URL": "https://www.nature.com/articles/d41586-024-03939-5",
-        "title": "A firm randomly assigned its scientists AI: here\u2019s what happened",
-        "content": [
-            "*A_researcher_pictured_using_a_FTIR_spectrophotometer",
-            "Scientists at an unnamed corporate laboratory were randomly assigned a machine-learning tool.Credit: Eugenio Marongiu/Getty",
-            "Artificial intelligence (AI) is becoming ubiquitous in applied research, but can it actually invent useful materials faster than humans can? It is still too early to tell, but a massive study suggests that it might.",
-            "doi: https://doi.org/10.1038/d41586-024-03939-5"
-        ]
-    },
-    {
-        "URL": "https://www.nature.com/articles/d41586-024-03860-x",
-        "title": "How to stop plastic pollution: three strategies that actually work",
-        "content": [
-            "*Pressed_plastic_waste_ready_for_loading_is_seen_at_the_Prabkaya_Recycle_Factory_in_Pathum_Thani_outs",
-            "Recycling is just one way to help tackle plastic pollution. Credit: Athit Perawongmetha/REUTERS",
-            "Can the world finally agree on how to end plastic pollution? We should know by the end of the week.",
-            "Negotiators from 175 countries are in Busan, South Korea, to thrash out what many hope will be a legally binding United Nations treaty to drastically cut plastic pollution. Researchers are hopeful a strong treaty will emerge from the fifth \u2014 and final \u2014 session of the negotiations, but there is a high chance that any agreement will be weak or delayed. Until a global consensus is reached, however, many cities and nations are introducing their own policies.",
-            "\u201cSome countries are pre-emptively protecting themselves, regardless of what happens with the treaty,\u201d says Trisia Farrelly, an environmental anthropologist at New Zealand\u2019s Cawthron Institute in Nelson and a co-lead of the Scientists\u2019 Coalition for an Effective Plastics Treaty, an independent group attending the meeting as an observer. ",
-            "These policies showcase what can work, researchers say, but also highlight why a global effort is important. Some groups, including the scientists\u2019 coalition, support a treaty that will reduce production of non-essential plastics, which have skyrocketed to unsustainable levels. But some nations, particularly those that make petrochemicals, want the treaty to focus on waste management instead, including steps such as recycling.",
-            " \u201cIf we miss this opportunity to do unified policy-making with standardized guidelines, we\u2019re going to set ourselves back decades or more,\u201d says Douglas McCauley at the University of California, Santa Barbara, who published modelling work on plastics policies earlier this month1.",
-            "h2Ban single-use plastics",
-            "More than 90 nations and territories have passed full or partial bans on single-use plastic products such as carrier bags. These bans can be very effective. One analysis showed that bans in five US states and cities together cut consumption of single-use plastic bags by about six billion bags per year2. Several studies have also shown huge reductions in plastic litter in waterways, says McCauley. Even fees can work. A litter survey in the United Kingdom found that the number of plastic bags found on beaches dropped by 80% after the nation introduced a mandatory fee for single-use carrier bags, although other forms of litter had increased.",
-            "But bans that are poorly designed or enforced are likely to be ineffective. California, for example, allowed shops to switch to thicker, reusable carrier bags \u2014 but people still threw them away, leading to a higher rate of plastic disposal than before. Policies need to be monitored and reviewed, says McCauley. \u201cYou have to put a policy in place, take data and then whack-a-mole the loopholes.\u201d",
-            "doi: https://doi.org/10.1038/d41586-024-03860-x"
-        ]
-    },
-    {
-        "URL": "https://www.nature.com/articles/d41586-024-03577-x",
-        "title": "Affirmative action slow to take hold in Brazil\u2019s graduate science education",
-        "content": [
-            "*Gabryele_Moreira_posing_for_a_portrait_in_front_of_a_nuclear_reactor_pool_at_Brazil's_first_nuclear_",
-            "Gabryele Moreira in front of Brazil\u2019s first nuclear reactor. She was the only Black student in her nuclear-technology master\u2019s programme in 2018.Credit: IPEN/USP",
-            "Gabryele Moreira first became interested in physics during a pre-university course she took in the outskirts of Salvador in northeastern Brazil in 2011. Two years later, she was admitted to the Federal University of Sergipe in S\u00e3o Crist\u00f3v\u00e3o through an ethnic\u2013racial minority quota system and began her undergraduate studies in medical physics. She was supported by housing and meal scholarships, which were \u201cboth essential for me to stay in university and keep up with my studies\u201d, she says.",
-            "doi: https://doi.org/10.1038/d41586-024-03577-x"
         ]
     }
 ]
