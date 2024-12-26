@@ -190,31 +190,5 @@
             "Nature 637, 9-11 (2025)",
             "doi: https://doi.org/10.1038/d41586-024-03943-9"
         ]
-    },
-    {
-        "URL": "https://www.nature.com/articles/d41586-024-04102-w",
-        "title": "CRISPR genome-editing grows up: advanced therapies head for the clinic",
-        "content": [
-            "*Conceptual_illustration_of_the_CRISPR-Cas9_gene_editing_complex_showing_RNA_and_DNA",
-            "The CRISPR gene-editing system makes a change to a DNA sequence (middle; artist\u2019s illustration).Credit: Vivid Biology/Science Photo Library",
-            "A fresh wave of gene-editing therapies is surging to the fore \u2014 even as the field wrestles with the challenge of getting the first generation of expensive and complex CRISPR treatments to the people who need them.",
-            "Barely a year after the first government approval for a gene-editing therapy, researchers at the American Society of Hematology\u2019s annual meeting in San Diego, California, presented data on gene-editing approaches for treating cancer and blood disorders, and for making stem-cell transplants safer. They also unveiled good news about the first approved treatment: benefits from the therapy, called Casgevy, can last for at least five years in people with either of two heritable blood disorders, sickle-cell disease and \u03b2-thalassaemia. Casgevy gained its first government approval little more than a year ago.",
-            "Hope, despair and CRISPR \u2014 the race to save one woman\u2019s life",
-            "Casgevy had \u201ca clear benefit in general health, physical, emotional, social and functional well-being,\u201d said Franco Locatelli, a paediatric haematologist and oncologist at Bambino Ges\u00f9 Children\u2019s Hospital in Rome, who presented the data. The therapy, he added, has \u201cthe potential to provide a one-time functional cure\u201d.",
-            "But although other companies are rushing to emulate Casgevy\u2019s success, the treatment\u2019s complexity and hefty price tag have raised concerns that it will be out of reach for many people.",
-            "Stuart Orkin, a paediatric haematologist and oncologist at the Harvard Stem Cell Institute in Cambridge, Massachusetts, said at the meeting, \u201cThe imperative now is development of effective and safe therapies that are readily accessible to the many patients who could benefit.\u201d ",
-            "h2Fetal form to the rescue",
-            "Both \u03b2-thalassaemia and sickle-cell disease are caused by mutations in one of the genes that code for haemoglobin, the oxygen-carrying molecule found in red blood cells. A different, fetal form of haemoglobin can help to compensate for the effects of these mutations, but its production is typically turned off shortly after birth. Casgevy uses CRISPR\u2013Cas9 to disable that genetic off-switch, allowing fetal haemoglobin to be produced again.",
-            "Last November, the United Kingdom became the first country to approve Casgevy. The US Food and Drug Administration followed suit in December, and several other countries have since approved the therapy. More than 45 treatment centres around the world have been authorized to provide Casgevy, according to its developers, Vertex Pharmaceuticals in Boston, Massachusetts, and CRISPR Therapeutics in Zug, Switzerland. ",
-            "*Coloured_light_micrograph_of_a_blood_smear_showing_distorted_red_blood_cells_in_sickle_cell_anaemia",
-            "Some of the red blood cells (artificially coloured) from a person with sickle-cell disease have the classic elongated sickle shape.Credit: Alfred Pasieka/Science Photo Library",
-            "But the treatment must be made from an individual\u2019s own blood stem cells, a process that can take months. And countries are still grappling with how to incorporate the cost of the US$2.2-million therapy into their health-care budgets.",
-            "In the United Kingdom, for example, a government advisory body announced in August that the treatment would be made available through the nation\u2019s health-care programme for up to 460 people with severe \u03b2-thalassaemia. But a decision is still pending on whether Casgevy will be provided to people with sickle-cell disease; that usage may not be cost-effective, the advisory body said in March.",
-            "That prompted an outpouring of dismay from the public, says Yasmin Sheikh, head of policy and public affairs at Anthony Nolan, a charity in London that is focused on blood cancers and blood stem-cell transplants. The charity was inundated with letters and calls. \u201cWe had more responses than we\u2019ve ever had to any medicine appraisal before,\u201d Sheikh says. \u201cIt was powerful, and it was sad.\u201d ",
-            "h2Durable benefits",
-            "One of the advisory body\u2019s concerns was uncertainty about how long the effects of Casgevy will persist. At the haematology meeting in San Diego, researchers presented data showing that the benefits can last for at least five years for both sickle-cell disease and \u03b2-thalassaemia. Treatment with Casgevy reduced the need for blood transfusions in people with \u03b2-thalassaemia and for hospitalizations in people with sickle-cell disease. More than 90% of participants with sickle-cell disease reported that they had had no pain crises for at least 12 consecutive months \u2014 excruciating episodes caused when misshapen blood cells block blood vessels.",
-            "Is CRISPR safe? Genome editing gets its first FDA scrutiny",
-            "doi: https://doi.org/10.1038/d41586-024-04102-w"
-        ]
     }
 ]
