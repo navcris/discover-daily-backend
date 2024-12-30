@@ -46,23 +46,17 @@ def get_image(filename):
     
 
 def main():
-    nature_all = nature_links()
+    # nature_all = nature_links()
     yale_all = yale_links()
     snex_all = snex_links()
     
    
     snex_converter(snex_scraper(filtered_urls(snex_all))) 
     yale_converter(yale_scraper(filtered_urls(yale_all))) 
-    nature_converter(nature_scraper(filtered_urls(nature_all)))
+    #nature_converter(nature_scraper(filtered_urls(nature_all)))
     combiner()
 
 if __name__ == '__main__':
     app.run()
 
-
-# schedule.every().day.at("08:00").do(job)
-
-# while True:
-#     schedule.run_pending()
-#     time.sleep(1)
     
