@@ -2,13 +2,13 @@
 
 ## What It Is
 
-This is the backend for [Discover Daily](https://letsdiscoverdaily.com), a platform designed to provide kid-friendly news articles. It handles data scraping, filtering, and sharing articles via an API for use on the frontend.
+This is the backend for [Discover Daily](https://letsdiscoverdaily.com), a platform that provides kid-friendly news articles. It handles data scraping, filtering, and sharing articles via an API on the front end.
 
 ## What It Does
 
 - **Scrapes News Articles**: Collects articles from online sources.
 - **Filters Content**: Uses a simple word blacklist to classify articles as kid-friendly or not.
-- **Provides an API**: Offers endpoints to fetch, classify, and manage articles.
+- **Provides an API**: Offers endpoints to fetch articles.
 
 ## Next Steps
 
