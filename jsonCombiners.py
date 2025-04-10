@@ -8,7 +8,7 @@ Args: N/A
 Returns: N/A
 """
 def combiner():
-    json_files = ['snex_articles.json', 'yale_articles.json'] 
+    json_files = ['snex_articles.json']
 
     combined_data = []
 
