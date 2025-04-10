@@ -47,7 +47,7 @@ def get_image(filename):
 
 def main():
     # nature_all = nature_links()
-    yale_all = yale_links()
+    # yale_all = yale_links()
     snex_all = snex_links()
     
    
