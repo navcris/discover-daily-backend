@@ -52,7 +52,7 @@ def main():
     
    
     snex_converter(snex_scraper(filtered_urls(snex_all))) 
-    yale_converter(yale_scraper(filtered_urls(yale_all))) 
+    # yale_converter(yale_scraper(filtered_urls(yale_all))) 
     #nature_converter(nature_scraper(filtered_urls(nature_all)))
     combiner()
 
