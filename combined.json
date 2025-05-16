@@ -274,6 +274,40 @@
         ]
     },
     {
+        "URL": "https://www.snexplores.org/article/ai-generated-text-style-isef",
+        "title": "\n\tTeen\u2019s software for spotting AI-generated text just got personal",
+        "content": [
+            "*a_photo_of_a_man_sitting_at_a_desk_and_reading_a_piece_of_paper_thoughtfully,_with_his_hand_to_his_f",
+            "Can your teacher tell if the report he\u2019s grading was written by you \u2014 and not a chatbot? New software compares texts to assess if the same person likely authored both, with remarkable accuracy.",
+            "Columbus, Ohio \u2014 Is this text AI-generated? That question crops up a lot these days. Computer software to flag AI-generated text exists. But most programs share one crucial weakness, says Jun Jang: no sense of style. His new software hopes to fill that gap.",
+            "Jun\u2019s program takes note of a writer\u2019s stylistic quirks. It can then use those quirks to verify if another text was written by the same person. Jun\u2019s new software won the 16-year-old junior at Oxford High School in Mississippi a finalist slot here at the 2025 Regeneron International Science & Engineering Fair.",
+            "Jun says his project was motivated by seeing students admit to using AI tools on classroom assignments. In his English class, he says, \u201cI\u2019d always see kids using AI like ChatGPT for all types of homework.\u201d",
+            "But relying too much on these tools can erode someone\u2019s creativity. It can also harm their ability to work out problems themselves, Jun says. And young people are most at risk, he adds, pointing to a 2025 study published in Societies. \u201cI figured that by me making an attempt to solve this issue, I could help millions of teachers as well as maybe help kids become more creative and spark more innovation.\u201d",
+            "AI use for homework is not rare. The Turnitin program is an existing tool to verify who wrote a piece of text. In the first year it was available, it analyzed more than 200 million student papers. Last year, it reported evidence that some 11 in every 100 papers it reviewed had used AI for at least a fifth of their text. Three in every 100 papers used AI for four-fifths of their content.",
+            "That\u2019s \u201cabsolutely no surprise,\u201d Jun says. Chatbots and other forms of generative AI are powerful, game-changing technologies. \u201cUsing AI can be good for education, obviously,\u201d he says. But \u201ca lot of kids don\u2019t use it properly.\u201d",
+            "Since the release of ChatGPT in November 2022, teachers increasingly have had to make hard calls. They must decide whether a student wrote an essay \u2014 or just gave some chatbot the prompts to write it. Wrongfully flagging some student\u2019s work as cheating would erode the student\u2019s trust in their teacher.",
+            "Jun\u2019s new program hopes to limit that.",
+            "Right now, most AI detectors look at one text by itself when deciding who \u2014 or what \u2014 wrote a document. They search for certain AI traits. But they don\u2019t account for someone\u2019s unique style of writing, says Jun.",
+            "*a_photo_of_a_smiling_young_Asian_teen_wearing_a_gold_shirt",
+            "fCJun Jang developed the new computer program to verify a text\u2019s author. It fills in gaps that existing software doesn\u2019t consider.",
+            "His program instead analyzes a text that\u2019s known to have been written by a student without AI help. How? Schools already use browser-lockdown programs that block access to ChatGPT and other AI writing tools, he points out. A teacher could collect writing samples at the beginning of the school year when students were in this lockdown mode and \u201cobviously cannot cheat.\u201d After that, the teacher can use his new program to compare future work by the student to those early samples.",
+            "Jun\u2019s software then reviews text from a known author for how that person used such things as punctuation and grammar. How did they word what they wanted to say \u2014 with clear text, use of analogies or perhaps very unusual words or jargon? Did the writer regularly use long, complex sentences, simple ones or a mix of both?",
+            "Jun points to adverbs as one example: \u201cWhat I noticed is that people very commonly differ \u2014 unconsciously or consciously \u2014 in where they decide to place their adverbs.\u201d Some use them early, as in: Quickly, I packed my bags. Others might say: I quickly packed my bags. Or I packed my bags quickly. Such adverb placement can set one author apart from another, the teen notes.",
+            "His software searches for such personal styles in someone\u2019s writing. Then it looks for evidence of the same style traits in a second text \u2014 one where the authorship has not been proven. By comparing the two, it seeks to verify whether both share the same author.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "Training this AI model required a lot of writing samples. \u201cThankfully, my wonderful high school classmates were actually able to give me some of their essays,\u201d Jun says. That allowed him to train his model on how students write. He was careful to collect his known-author samples from things written before ChatGPT was publicly available.",
+            "He also used text from news, research journals and more. \u201cThere was this one specific one about British University students\u2019 writings,\u201d Jun says. These were also before the chatbot age. \u201cSo, these also had a vast variety of writing from university-level kids as well,\u201d Jun says, \u201cnot just high-schoolers.\u201d With this, he could adapt his model to different types of writing and by authors far his state.",
+            "To test his model, he used a type of machine learning \u201cwhere you basically have a test-and-train split,\u201d he says. To start, he trained his model on one chunk of the data. Then, to test the model, he gave it a new set of data and asked it to identify whether two documents came from the same author or different ones. Compared to author-verifying software on the market, Jun\u2019s model was more accurate. He reports a \u201c25 percent increase across the board.\u201d",
+            "At this early stage in its development, those accuracy estimates are \u201cpromising,\u201d he says. But this program and others still may not be completely accurate, he admits. To tackle that, he offers a bonus feature: transparency.",
+            "*a_photo_of_a_chalkboard_covered_in_cursive_words_related_to_grammar",
+            "fCThe new software tries to confirm who wrote some text. One way it does this is by looking at patterns in how a writer uses grammar, punctuation and phrasings. It even examines the relative frequency of simple versus complex sentences.",
+            "If a student\u2019s work gets flagged as AI-written, Jun\u2019s model explains how the model arrived at that judgment. Errors are inevitable. \u201cThe best way to combat them is to be open about why a decision was made,\u201d he says. Teachers will understand how a model made its decision \u2014 such as whether it was based on vocabulary, grammar or other types of inconsistencies. Then they can talk to their students about those issues.",
+            "Jun hopes that will build trust. And that trust works both ways. It\u2019s not just about teachers trusting their students. It\u2019s also about students, \u201cwhose work may be being questioned,\u201d putting more trust in their teachers.",
+            "Regeneron ISEF is a program created and run by the Society of Science (which also publishes this magazine). Jun is one of 1657 students \u2014 from 62 nations or territories \u2014 competing at the 75th annual ISEF. The participants will share in nearly $9 million in prizes later this week.",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/virtual-reality-vr-taste-food-flavors",
         "title": "\n\tSquirty gels bring food-like flavors to virtual reality",
         "content": [
@@ -297,55 +331,6 @@
             "The team envisions using flavors and smells to make for more immersive gaming. It also could be used in online shopping or to share food in virtual worlds. This technology may even help restore the ability to taste, for instance, in people who have lost this sense \u2014 perhaps due to COVID.",
             "For now, the biggest unknown is how willing people will be to wear a device that squirts chemicals onto their tongue. \u201cWe are very reserved when it comes to putting anything inside our mouth,\u201d Ranasinghe says. \u201cThe look, feel and comfort are really important.\u201d It\u2019s something he says people will \u201chave to look into in the future.\u201d",
             "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/glass-coated-bacteria-living-lenses",
-        "title": "\n\tLiving lenses? Glass-coated microbes might take better photos",
-        "content": [
-            "*a_photo_of_a_cell_phone_taking_a_photo_of_a_highway_overpass_looking_down_at_traffic_at_dusk_The_ima",
-            "Lenses, like those in this phone\u2019s camera, focus light to help resolve images. They are usually made of plastic or glass. But using bacteria, researchers recently made some very tiny lenses \u2014 which could have very high resolution.",
-            "Throughout the living and tech world, lenses focus light to improve the resolution of images. In our eyes, these curved structures are made of cells. Plastic or glass lenses have served the same purpose in eyeglasses and cameras. Now an international research team has harnessed E. coli bacteria to work as super-tiny lenses.",
-            "Because these rod-shaped microbes are so tiny \u2014 about a tenth to hundredth the size of the smallest lenses now in use \u2014 they might find new uses, such as in environmental sensing.",
-            "Anne Meyer at the University of Rochester in New York led a group that unveiled the tiny microbe-based tech December 17 in the Proceedings of the National Academy of Sciences.",
-            "Bacteria can focus light a bit. Meyer\u00a0thought her team could improve this. With a computer, they showed that glass should help bacteria focus light even better.",
-            "The microbes don\u2019t normally make glass. But some sea sponges do \u2014 they use it as a type of skeleton. \u201cWe were inspired,\u201d Meyer says, \u201cby the idea that these sea-sponge skeletons are really lightweight. And they have interesting optical properties.\u201d As a synthetic biologist, Meyer tinkers with genes to make cells do new things.",
-            "A protein in the sponges grabs molecules from seawater to make their glass. That glass ends up looking like long needles. Each needle is similar to ones in the fiber optic cables used to carry internet signals. When you shine light on one side of the fiber or needle, light comes out very focused in one spot at the other end.",
-            "The researchers inserted a sponge gene into their E. coli. These genetically engineered microbes now are able to coat themselves with glass.\u00a0",
-            "And when \u201cwe shine light at glass-coated bacterial cells, they could make a really bright jet of focused light on the other side,\u201d Meyer reports. \u201cThat means they were acting like really, really tiny lenses.\u201d",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "The glass-coated bacteria survived for months. Although they couldn\u2019t move enough to divide, they remained active while tucked away in their shells.",
-            "\u201cI was very impressed,\u201d says Tom Ellis\u00a0of the new lenses. He\u2019s a synthetic biologist who did not take part in the new work. He works in England at Imperial College London. The new finding, he says, \u201cshows us that it is possible for microbes to produce materials that then immediately form shaped structures with uses.\u201d",
-            "\u201cWith bacteria-sized lenses, your cell-phone camera could be even thinner,\u201d notes Meyer. \u201cAnd the camera would be flexible,\u201d she adds, so \u201cyou could bend it around a corner.\u201d That\u2019s because many tiny lenses together could move more easily than a few larger ones. These eco-friendly and low-cost lenses also could make photos clearer and crisper.",
-            "Living microlenses could have a range of other uses, too. \u201cYou might want to sense disease particles or the health of your cells,\u201d says Meyer. And by having such small lenses, \u201cthese kinds of biosensors could be more sensitive,\u201d she speculates.",
-            "*purple_dots_bacterial_microlenses_are_seen_at_the_ends_of_teal_streaks_jets_of_focused_light",
-            "fCBacterial microlenses (magenta) are seen here focusing light into bright jets (teal). ",
-            "An optical device made using such lenses might someday help monitor the environment. Living lenses might even be engineered to change color as critical conditions change \u2014 such as if a gas pipeline starts leaking. Then, people could quickly notice and fix it.\u00a0",
-            "In new experiments, Meyer\u2019s group is now changing the shapes of their bacteria. The first results show that super-long, thin bacteria can act as optical fibers \u2014 just like the sea-sponge needles.",
-            "The team also is looking into whether the lenses could be made in space. This might help people living on the moon or on Mars. They could make their own tools, like living lenses, instead of waiting for them to be shipped from Earth.",
-            "This is one in a\u00a0series presenting news on technology and innovation, made possible with generous support from the Lemelson Foundation.\u00a0",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/scientists-say-agrivoltaics-definition-pronunciation",
-        "title": "\n\tScientists Say: Agrivoltaics",
-        "content": [
-            "*a_group_of_sheep_graze_in_long_grass_under_the_shade_of_a_solar_panel",
-            "Agrivoltaics refers to a land management practice that combines agriculture with energy production. One example of this practice is placing solar panels over a sheep field to give livestock a shaded place to graze.",
-            "iFhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2069319812&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
-            "Agrivoltaics is the practice of using the same land for farming and producing solar energy. This practice often consists of placing solar panels over farmland.",
-            "The word \u201cagrivoltaics\u201d is a mash-up of \u201cagriculture\u201d and \u201cphotovoltaics.\u201d Agriculture refers to farming. Photovoltaics describes technology that makes electricity from sunlight. Solar panels are one example.",
-            "Solar farms use solar panels to generate clean energy. But these farms take up a lot of land. Farms that grow crops and raise livestock use a lot of land too. Agrivoltaics saves space by allowing farmers to harvest electricity and food from the same land.",
-            "Research has shown that adding solar panels to farms can actually help crops. Leafy crops, such as lettuces and some herbs, grow well in the shade of the solar panels. The plants can also benefit from the increased soil moisture in partially shaded ground.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "Agrivoltaics may benefit livestock, too. For example, farmers might allow sheep to graze under solar panels. This would give them relief from the hot sun in the summer.",
-            "Other agrivoltaics projects focus on cultivating pollinators. For instance, planting wildflowers under solar farms can attract butterflies, bees and other insects. These tiny helpers can then pollinate nearby crops.",
-            "No single agrivoltaics technique works everywhere. Squash, for example, generally need direct sunlight. So they don\u2019t thrive under solar panels.",
-            "Even lower-light crops may have trouble growing well in agrivoltaics setups. For example, the shade from solar panels helps keep the soil damp. On some farms, this comes as a benefit. But it may also increase the risk of some plant diseases. And water pouring off the panels during a rainstorm may overwater some plants.",
-            "Researchers today are exploring how to minimize these and other challenges. They\u2019re also finding ways to maximize the production of crops and energy.",
-            "Shade-loving leafy greens such as kale and lettuce thrive under the solar panels of agrivoltaics farms.",
-            "Check out the full list of\u00a0Scientists Say."
         ]
     },
     {
@@ -744,6 +729,27 @@
             "With the telescope working so well, Rigby could turn her attention to scientific questions. She helps lead an observing program that looks at galaxies whose light has been magnified by foreground objects. That helps astronomers glimpse how the galaxies form stars.\u00a0\u00a0",
             "Rigby has also lit a path for queer astronomers and others who are historically underrepresented in astronomy. She has been out as part of the LGBTQ+ community since 2000, and she has devoted much of her career to holding the door open for others. She has helped set up groups and meetings for making astronomy more inclusive. A current priority is making sure trans people feel safe and welcome in the field.\u00a0",
             "\u201cI didn\u2019t grow up with any queer role models,\u201d Rigby says. \u201cI hope I\u2019m the last generation for which that\u2019s true.\u201d\u00a0\u00a0"
+        ]
+    },
+    {
+        "URL": "https://www.snexplores.org/article/scientists-say-agrivoltaics-definition-pronunciation",
+        "title": "\n\tScientists Say: Agrivoltaics",
+        "content": [
+            "*a_group_of_sheep_graze_in_long_grass_under_the_shade_of_a_solar_panel",
+            "Agrivoltaics refers to a land management practice that combines agriculture with energy production. One example of this practice is placing solar panels over a sheep field to give livestock a shaded place to graze.",
+            "iFhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2069319812&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+            "Agrivoltaics is the practice of using the same land for farming and producing solar energy. This practice often consists of placing solar panels over farmland.",
+            "The word \u201cagrivoltaics\u201d is a mash-up of \u201cagriculture\u201d and \u201cphotovoltaics.\u201d Agriculture refers to farming. Photovoltaics describes technology that makes electricity from sunlight. Solar panels are one example.",
+            "Solar farms use solar panels to generate clean energy. But these farms take up a lot of land. Farms that grow crops and raise livestock use a lot of land too. Agrivoltaics saves space by allowing farmers to harvest electricity and food from the same land.",
+            "Research has shown that adding solar panels to farms can actually help crops. Leafy crops, such as lettuces and some herbs, grow well in the shade of the solar panels. The plants can also benefit from the increased soil moisture in partially shaded ground.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "Agrivoltaics may benefit livestock, too. For example, farmers might allow sheep to graze under solar panels. This would give them relief from the hot sun in the summer.",
+            "Other agrivoltaics projects focus on cultivating pollinators. For instance, planting wildflowers under solar farms can attract butterflies, bees and other insects. These tiny helpers can then pollinate nearby crops.",
+            "No single agrivoltaics technique works everywhere. Squash, for example, generally need direct sunlight. So they don\u2019t thrive under solar panels.",
+            "Even lower-light crops may have trouble growing well in agrivoltaics setups. For example, the shade from solar panels helps keep the soil damp. On some farms, this comes as a benefit. But it may also increase the risk of some plant diseases. And water pouring off the panels during a rainstorm may overwater some plants.",
+            "Researchers today are exploring how to minimize these and other challenges. They\u2019re also finding ways to maximize the production of crops and energy.",
+            "Shade-loving leafy greens such as kale and lettuce thrive under the solar panels of agrivoltaics farms.",
+            "Check out the full list of\u00a0Scientists Say."
         ]
     },
     {
