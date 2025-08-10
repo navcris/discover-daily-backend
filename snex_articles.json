@@ -1008,34 +1008,6 @@
         ]
     },
     {
-        "URL": "https://www.snexplores.org/article/contagious-yawning-zebrafish",
-        "title": "\n\tThese fish yawn \u2014 and it\u2019s contagious",
-        "content": [
-            "*a_photo_of_several_zebra_fish,_small_narrow_fish_with_horizontal_stripes_and_shimmering_scales",
-            "These zebrafish are a \u201clab rat\u201d of the aquatic world. A new study finds they can yawn \u2014 especially after witnessing others of their kind yawning.",
-            "You know that feeling. You see someone yawn and all of a sudden you, too, feel the urge to yawn. It turns out that\u2019s not unique to people, or even mammals. At least one type of fish will do this, too.",
-            "Contagious yawning has been witnessed in several warm-blooded creatures. Besides us, these include chimps, lions and wolves. But here \u201cis the first time this has been demonstrated in [a cold-blooded] species,\u201d says Elisabetta Palagi. She works at the University of Pisa in Italy. As a comparative ethologist, she studies the behaviors of animals, often in the wild. Much of her work has focused on contagious behaviors \u2014 including yawning \u2014 in primates, such as monkeys and apes.",
-            "In a new study, she and her team were curious to confirm whether fish yawn \u2014 and if it\u2019s contagious in them, too. People with freshwater aquariums often keep zebrafish (Danio rerio). That\u2019s the species Palagi\u2019s team chose for this work.",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
-            "The scientists started by observing and filming 18 zebrafish in the lab. The fish usually breathe by quickly opening and closing their mouths. But sometimes they opened their mouths slowly. They also stretched it widely \u2014 then snapped it closed. This seemed to mimic what scientists usually describe in other animals that are yawning (including us).",
-            "The researchers turned up many differences between a fish\u2019s normal breathing and a yawn. For instance, the fish opened their mouth wider during a yawn than when simply breathing. And about half the time, a yawning fish also stretched its body. This is \u201cvery interesting,\u201d Palagi says, and something \u201cwe absolutely did not expect to find.\u201d (Yawning people also tend to stretch their bodies about half of the time, she notes.)",
-            "*a_drawing_of_two_zebrafish,_one_opening_it's_mouth_to_breath_and_one_'yawning'",
-            "fCWhen opening their mouths to breathe, zebrafish tend to keep a straight, horizontal posture, as in the upper image, When yawning, their mouths open wider and the often arch their back, bringing their tails lower (bottom image), the researchers find. ",
-            "Palagi and her team then trained an AI model to recognize those traits they had linked to yawning. Afterward, the researchers gave the AI many screenshots taken from videos of fish. In short order, that AI could distinguish between a yawn and normal breathing, in much the same way her group did.",
-            "Next, the researchers showed zebrafish two types of videos. In one, a zebrafish yawned. In the other type, the fish just breathed normally. Palagi\u2019s group showed these videos to many fish and many times to each individual. Then they analyzed how the creatures responded.",
-            "The fish were more than twice as likely to yawn when watching a video of another zebrafish yawning than when they were just breathing. This suggests yawning is contagious, the researchers now conclude.",
-            "Zebrafish tend to swim in large groups, moving fast and changing direction as one. In the lab, when a fish responded to the video of a yawn, it also tended to change the direction in which it was swimming. In the wild, such a directional change in response to yawning might help zebrafish coordinate their movements, the researchers suspect.\u00a0",
-            "Palagi\u2019s team shared its findings April 7 in Communications Biology.",
-            "fCThis slowed-down video shows a zebrafish yawning, then turning to swim in a different direction.",
-            "\u201cThis reads to me like the beginning of something \u2014 but nothing massively conclusive,\u201d says Cait Newport. She\u2019s a biologist who studies fish behavior at Oxford University in England. She did not take part in the new study.",
-            "While she thinks these observations offer a \u201cgood start,\u201d it\u2019s still unclear why the fish would yawn together, she says. The directional change reported in fish that watched a video, she adds, is not enough to conclude that fish in the wild would use yawning to coordinate their movements. But it\u2019s a plausible hypothesis, she says.",
-            "Noam Miller is a comparative psychologist. He works at Wilfrid Laurier University in Waterloo, Ontario, Canada. He finds the Italian group\u2019s study \u201cvery interesting\u201d and \u201csurprising.\u201d Still, he adds, there are many things left to learn.",
-            "\u201cWe\u2019ve seen contagious yawning in a lot of mammals and birds \u2014 and then we have this one fish study,\u201d says Miller. \u201cWe need to fill in a lot of these gaps\u201d on whether fish would yawn \u2014 and do it contagiously \u2014 for the same reasons those warm-blooded animals do.",
-            "Why animals yawn is still an open question, Palagi says. But she and her team think zebrafish could be a perfect animal to study yawning and why it\u2019s contagious. In fact, they plan to do just that. \u201cThis study opens the floodgates for many more [studies] to come.\u201d",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
-        ]
-    },
-    {
         "URL": "https://www.snexplores.org/article/how-blood-vessels-handle-pressure",
         "title": "\n\tHere\u2019s why your blood vessels don\u2019t burst under pressure",
         "content": [
@@ -1087,27 +1059,31 @@
         ]
     },
     {
-        "URL": "https://www.snexplores.org/article/after-every-soak-fingers-wrinkle-and-always-the-same-way",
-        "title": "\n\tAfter every soak, fingers wrinkle \u2014 and always the same way",
+        "URL": "https://www.snexplores.org/article/varenicline-help-teens-quit-vaping",
+        "title": "\n\tThis medicine could help teens quit vaping",
         "content": [
-            "*A_hand_with_wrinkly_fingertips_held_above_a_swimming_pool",
-            "Fingers wrinkle when wet. A new study shows the wrinkly pattern is the same after every soak.",
-            "Summertime soaks in the pool often leave fingertips shriveled and pruney. Each time someone goes for a dip, their digits wrinkle in the precise same patterns, data now show. Those folds follow the paths of blood vessels below the skin\u2019s surface (which generally stay in place).",
-            "Researchers shared the new finding in the May Journal of the Mechanical Behavior of Biomedical Materials.",
-            "Many people think that fingers and toes wrinkle when wet because the skin swells as it absorbs water. But around 20 years ago, researchers discovered that the puckering instead is due to blood-vessel constriction.",
-            "A prolonged soak leads to water entering the skin. Excess water dilutes the amount of salt in the tissue. This change sends a signal to the brain via nerves. The brain then instructs stationary blood vessels to narrow.",
-            "Their shrinking pulls in the anchored overlying skin of our fingers and toes. It\u2019s an evolutionary tool that boosts grip strength under water by creating texture.",
+            "*a_pile_of_e-cigarettes_for_sale_for_vaping",
+            "E-cigarettes like those shown here contain nicotine, a highly addictive drug. When paired with counseling and text-messaging support, an anti-smoking drug may help teens and young adults quit vaping.",
+            "A large number\u00a0of U.S. high school students vape e-cigarettes. Many of these vaping teens want to quit. A new study suggests that a drug used to stop smoking can help.",
+            "Most vape pens contain nicotine, a highly addictive drug.",
+            "The new study followed 88 teens and young adults for three months. All took the drug varenicline. They also received text messages that offered counseling and support. By the last month of treatment, nearly half had been able to stop vaping.",
+            "Another 87 young people during that time got support but took a placebo drug. Only 14 percent of them had quit vaping by the last month. This suggests varenicline played a key role in helping the first group give up their use of e-cigarettes.",
+            "The work appears in the June 3 issue of the\u00a0Journal of the American Medical Association.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "The team also checked in with study participants monthly for three months after their treatment ended. In the group that had gotten varenicline, 28 percent continued to not vape. Only 7 percent of kids who took the placebo were vape-free at the end of that time.",
+            "To have lasted a half year, \u201cthe 28 percent quit rate is pretty good,\u201d says Lindy McGee. Keep in mind, she notes, nicotine is \u201cone of the most addictive substances we have.\u201d",
+            "McGee works at Baylor College of Medicine in Houston and Texas Children\u2019s Hospital. A pediatrician, she had no role in the new study.",
+            "Adolescence is a crucial time for brain development. It\u2019s when links between some neurons strengthen and others weaken. Those altered links will become the basis of our ability to think, reason, remember and control emotions as adults. Nicotine can disrupt those vital changes. And teens are especially vulnerable to becoming addicted to such a drug.",
+            "Last year, a survey found that a little more than one in every 12 U.S.\u00a0high school students had vaped\u00a0in the past 30 days. That amounted to about 1.2 million teens. Almost a\u00a0third of these said they vaped daily.",
+            "But data also show that many teens want to give up vaping. A 2020 survey found that 64 percent of high school vapers\u00a0intended to quit. And two in every three teen vapers had tried to quit in the past year.",
+            "A challenge in helping under-18 U.S. vapers give up e-cigarettes is how state laws can differ, McGee says. Some states let doctors prescribe anti-nicotine drugs to teens without their parents\u2019 consent. Others don\u2019t. McGee encourages her patients to talk to their parents about quitting, unless it feels unsafe to do so.",
+            "The school day can also pose issues for teens trying to kick nicotine. The main medicine option for teens right now is what\u2019s known as nicotine-replacement therapy. That involves using lozenges or gum to soothe cravings. But using those items during the day may require the school nurse to be involved, McGee says.",
             "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
-            "Guy German is a biomedical engineer at Binghamton University in New York. He wrote about why water makes skin shrivel for a series in The Conversation where kids can ask questions and experts will answer. But follow-up questions from one reader stumped him. \u201cDoes it happen every time,\u201d they asked. \u201cAnd does it happen the same way?\u201d",
-            "Recalls German, \u201cI sat there, sitting with this [set of questions] going, \u2018I really don\u2019t know.\u2019\u201d",
-            "He and a graduate student then put these questions to the test.",
-            "They had three people submerge their right hands in water at 40 degrees Celsius (104 degrees Fahrenheit) for 30 minutes. Right after, the researchers snapped photos of each pruney finger pad. Participants repeated the process at least 24 hours later.",
-            "*Two_images_of_the_same_finger_pad_after_water_dunks_on_two_different_days_Black_lines_trace_the_wrin",
-            "fCWet-finger wrinkles formed at two different times. The wrinkles are outlined in black with numbers for each match. The pruney pattern aligns after each dunk in water. (Red lines show inconsistent wrinkles).",
-            "Images of the same finger one both days matched. They revealed pairs of wrinkles that shared similar locations and shapes. Mathematical analysis confirmed the wrinkles were nearly identical.",
-            "\u201cNow the question that I would like to answer,\u201d says German, \u201cis does that happen on the length scale of, say, a year or 10 years or 50 years?\u201d He\u2019s not sure whether blood-vessel patterns shift with age. But fingerprints stay the same over a lifetime. If finger wrinkle patterns do too, they might someday help with biometric or forensic identification, he says.",
-            "\u201cI do love the fact that the origin of this story came from just a simple, innocent question,\u201d German says. \u201cIt opened up a huge door of what is essentially unknown science.\u201d",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
+            "Varenicline \u2014 sold under the brand name Chantix \u2014 has helped adults stop smoking. A doctor must prescribe this medicine, which binds to nicotine receptors in the brain. After taking it, exposure to nicotine doesn\u2019t feel as good. The drug also soothes the unpleasant symptoms of nicotine withdrawal.",
+            "In a study with a small group of adults, this drug appeared to\u00a0help people quit vaping, too.",
+            "The new study recruited younger volunteers \u2014 people 16 to 25 years old. They were not regular smokers. All, however, had vaped five or more days each week for the past three months. As had been seen in smokers, vapers who received varenicline now had less severe nicotine cravings and withdrawal symptoms.",
+            "McGee helps patients work out plans to quit vaping. Those plans can include counseling. They also can include support through text messages and medication. She screens patients, too, for anxiety and depression. If someone is struggling with those conditions, she makes a plan to help with that, as well.",
+            "Varenicline is now another medicine that McGee could suggest for her 16- and 17-year-old patients and their parents. As a twice-a-day pill, it can be taken outside of school hours, she notes. \u201cI\u2019m glad to know that there is something else potentially in my toolbox.\u201d"
         ]
     },
     {
@@ -1616,34 +1592,6 @@
             "Searching for particles as strange as tauonium might sound like fantasy. But this work helps scientists study matter at the tiniest scales.",
             "Scientists have proposed a method for hunting down tauonium atoms.",
             "Check out the full list of\u00a0Scientists Say."
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/varenicline-help-teens-quit-vaping",
-        "title": "\n\tThis medicine could help teens quit vaping",
-        "content": [
-            "*a_pile_of_e-cigarettes_for_sale_for_vaping",
-            "E-cigarettes like those shown here contain nicotine, a highly addictive drug. When paired with counseling and text-messaging support, an anti-smoking drug may help teens and young adults quit vaping.",
-            "A large number\u00a0of U.S. high school students vape e-cigarettes. Many of these vaping teens want to quit. A new study suggests that a drug used to stop smoking can help.",
-            "Most vape pens contain nicotine, a highly addictive drug.",
-            "The new study followed 88 teens and young adults for three months. All took the drug varenicline. They also received text messages that offered counseling and support. By the last month of treatment, nearly half had been able to stop vaping.",
-            "Another 87 young people during that time got support but took a placebo drug. Only 14 percent of them had quit vaping by the last month. This suggests varenicline played a key role in helping the first group give up their use of e-cigarettes.",
-            "The work appears in the June 3 issue of the\u00a0Journal of the American Medical Association.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "The team also checked in with study participants monthly for three months after their treatment ended. In the group that had gotten varenicline, 28 percent continued to not vape. Only 7 percent of kids who took the placebo were vape-free at the end of that time.",
-            "To have lasted a half year, \u201cthe 28 percent quit rate is pretty good,\u201d says Lindy McGee. Keep in mind, she notes, nicotine is \u201cone of the most addictive substances we have.\u201d",
-            "McGee works at Baylor College of Medicine in Houston and Texas Children\u2019s Hospital. A pediatrician, she had no role in the new study.",
-            "Adolescence is a crucial time for brain development. It\u2019s when links between some neurons strengthen and others weaken. Those altered links will become the basis of our ability to think, reason, remember and control emotions as adults. Nicotine can disrupt those vital changes. And teens are especially vulnerable to becoming addicted to such a drug.",
-            "Last year, a survey found that a little more than one in every 12 U.S.\u00a0high school students had vaped\u00a0in the past 30 days. That amounted to about 1.2 million teens. Almost a\u00a0third of these said they vaped daily.",
-            "But data also show that many teens want to give up vaping. A 2020 survey found that 64 percent of high school vapers\u00a0intended to quit. And two in every three teen vapers had tried to quit in the past year.",
-            "A challenge in helping under-18 U.S. vapers give up e-cigarettes is how state laws can differ, McGee says. Some states let doctors prescribe anti-nicotine drugs to teens without their parents\u2019 consent. Others don\u2019t. McGee encourages her patients to talk to their parents about quitting, unless it feels unsafe to do so.",
-            "The school day can also pose issues for teens trying to kick nicotine. The main medicine option for teens right now is what\u2019s known as nicotine-replacement therapy. That involves using lozenges or gum to soothe cravings. But using those items during the day may require the school nurse to be involved, McGee says.",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
-            "Varenicline \u2014 sold under the brand name Chantix \u2014 has helped adults stop smoking. A doctor must prescribe this medicine, which binds to nicotine receptors in the brain. After taking it, exposure to nicotine doesn\u2019t feel as good. The drug also soothes the unpleasant symptoms of nicotine withdrawal.",
-            "In a study with a small group of adults, this drug appeared to\u00a0help people quit vaping, too.",
-            "The new study recruited younger volunteers \u2014 people 16 to 25 years old. They were not regular smokers. All, however, had vaped five or more days each week for the past three months. As had been seen in smokers, vapers who received varenicline now had less severe nicotine cravings and withdrawal symptoms.",
-            "McGee helps patients work out plans to quit vaping. Those plans can include counseling. They also can include support through text messages and medication. She screens patients, too, for anxiety and depression. If someone is struggling with those conditions, she makes a plan to help with that, as well.",
-            "Varenicline is now another medicine that McGee could suggest for her 16- and 17-year-old patients and their parents. As a twice-a-day pill, it can be taken outside of school hours, she notes. \u201cI\u2019m glad to know that there is something else potentially in my toolbox.\u201d"
         ]
     }
 ]
