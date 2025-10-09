@@ -1,5 +1,46 @@
 [
     {
+        "URL": "https://www.snexplores.org/article/tiny-insects-fly-comb-wings",
+        "title": "\n\tComb-like wings help the tiniest insects swim through \u2018syrupy\u2019 air",
+        "content": [
+            "*black_and_white_image_of_a_Paratuposa_placentis_beetle",
+            "Some of the world\u2019s smallest insects, like the featherwing beetle in this microscope image, have wings that look more like combs than membranes.",
+            "The wings of many flying insects \u2014 bees, butterflies and dragonflies, for instance \u2014 seem to follow the same blueprint: A solid surface or membrane pushes against the air to keep these animals aloft. But new data show that for the tiniest fliers, there\u2019s a better way: brushes.",
+            "The littlest insects are smaller than a grain of rice. Their wings look like tiny bristles or feather dusters, with visible air gaps throughout. It\u2019s a clever adaptation for flying when you\u2019re incredibly small, the new work shows.",
+            "Bristled wings are light and surprisingly stiff. They also use less effort to flap than solid wings. This makes it easier for miniature insects to flap quickly and stay airborne \u2014\u00a0 important for moving through air that feels very different at their tiny scale.",
+            "And understanding how these unusual wings work could also inspire new technology.",
+            "\u201cCurrently, we have robotic insects the size of normal flying insects. But what would be nice is ultra-miniature robots, things you can\u2019t even see,\u201d says Mostafa Nabawy. He works at the University of Manchester in England and had no role in the new research. Bristled wings, this aerospace engineer suspects, might help make such super-mini robots possible.",
+            "For more than a decade, Dmitry Kolomenskiy has been part of a team puzzling over why small insects evolved bristled wings. A computational scientist, he works at Skolkovo Institute of Science and Technology. That\u2019s in Moscow, Russia.",
+            "For answers, his team gathered data on 38 species of tiny beetles. Their wings ranged in length from just 0.3 to 5 millimeters (0.01 to 0.2 inch). That\u2019s very small \u2014 from the width of a couple hairs to about the size of a few grains of sand laid end to end. Many of the beetles came from Russia and Vietnam.",
+            "Back in the lab, the researchers used microscopes to measure the shape of each wing and count its bristles. And with high-speed cameras, they tracked how fast the beetles\u2019 wings flapped in flight.",
+            "To their surprise, the beetles flapped at about the same speed regardless of the wings\u2019 size. That\u2019s unusual, Kolomenskiy says. Among birds and larger insects, smaller wings usually flap faster.",
+            "iFhttps://www.youtube.com/embed/txPvulerOW4?feature=oembed",
+            "This featherwing beetle flaps its bristled wings in a wide stroke. In 2022, Kolomenskiy and other scientists found that bristled wings help these tiny beetles fly very fast. Now, their research shows how the tiny bristles work and how their size and structure changes with a species\u2019 size.",
+            "It comes down to how these wings interact with air, Kolomenskiy now concludes. To humans and other large animals, air feels light and breezy. But insects that are just a few millimeters long experience air very differently, he points out. \u201cAt these small scales, they really feel air like a very viscous media,\u201d he explains.",
+            "\u201cThink of maple syrup,\u201d he says. \u201cYou get [that] kind of flow for air, if you are very small.\u201d",
+            "Fluids, it turns out, behave differently at small scales. Viscous forces now dominate. Here, air doesn\u2019t easily slip through small gaps the way it does at larger scales. Instead, it flows slowly and sticks to surfaces, like syrup clinging to a spoon.",
+            "As a result, tiny insects \u201care almost not flying in the air,\u201d says Nabawy, the aerospace engineer. \u201cThey are actually swimming in the air.\u201d",
+            "Because the air acts like a thick, syrupy liquid, it doesn\u2019t flow through the gaps in a tiny wing\u2019s bristles. Instead, it gets \u201cstuck\u201d and flows around the bristles.",
+            "\u201cVisually, it looks like there\u2019s a lot of void between [the bristles],\u201d says Kolomenskiy. \u201cBut for the [air], it\u2019s not transparent. The flow goes around.\u201d",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "The smaller the insect, the stickier the air can feel. So the researchers created a computer model. It analyzed what design would allow these tiny insects to flap with the least effort before their flight performance suffers.",
+            "This model looked at how stiff the bristles need to be so they won\u2019t bend. It also tested how widely bristles can be spaced without leaking air.",
+            "*a_composite_image_showing_a_micrographic_image_of_a_tiny_beetle_and_the_shape_of_it's_bristled_wings",
+            "fCThe body and bristled wing of a tiny insect from the genus Cylindrosella. This is one of the smallest beetles in the world. At about 0.05 millimeter (two thousandths of an inch), it is about half the thickness of a human hair! It lives in mushrooms and probably eats tiny bits of fungus.",
+            "Gaps between bristles increased as a wing got smaller, they found. The tiniest wings (0.3 to 0.5 millimeter) had the fewest bristles, and they were spaced farthest apart. Wings with fewer bristles weigh less. That helps these insects flap at high speeds without using much energy, Kolomenskiy observes.",
+            "Longer wings \u2014 those more than about 1.7 millimeters \u2014 evolved more bristles and ones that are more closely spaced. As those bristles get very tightly packed, they eventually start to look more like a membrane.",
+            "*a_composite_image_showing_a_micrographic_image_of_a_tiny_beetle_and_the_shape_of_it's_bristled_wings",
+            "fCBody and wing of the tiny beetle Primoskiella anodonta. It\u2019s around 0.1 millimeter (0.004 inch) long. This little insect lives in moss and damp places.",
+            "Lastly, the team looked at wing stiffness. Wings that bend too much as they flap don\u2019t push hard enough against the air to generate lift. That\u2019s the force needed to keep things aloft. The computer model showed that both the bristles and what they attach to need enough rigidity to hold the wing\u2019s shape during each flap.",
+            "The researchers shared their discoveries Aug. 22 in the Proceedings of the National Academy of Sciences.",
+            "*a_composite_image_showing_a_micrographic_image_of_a_tiny_beetle_and_the_shape_of_it's_bristled_wings",
+            "fCThe body and wing of a tiny beetle called Nephanes titan. At about 0.1 millimeter (just four thousandths of an inch) long, it\u2019s about the size of a single grain of table salt. This little bug lives in soil and leaf litter.",
+            "\u201cBristled wings are a clever mechanical optimization,\u201d says Kolomenskiy. Light yet stiff, they can move through a thick, viscous air environment, getting enough lift for flight.",
+            "Engineers might borrow the same tricks to design miniature flying robots, he believes. For instance, swarms of tiny flying robots \u2014 sometimes called \u201crobobees\u201d \u2014 could flit through greenhouses to pollinate crops. Alternatively, squadrons of micro-drones might search collapsed buildings for survivors or monitor things in the environment.",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/pinecone-temperature-seeds-activity",
         "title": "\n\tUnlock pinecone secrets with this science activity",
         "content": [
@@ -156,6 +197,31 @@
         ]
     },
     {
+        "URL": "https://www.snexplores.org/article/quantum-computers-circuits-physics-nobel",
+        "title": "\n\tDiscoveries behind quantum computers win the Nobel Prize in physics",
+        "content": [
+            "*An_illustration_shows_three_men,_John_Clarke,_Michel_Devoret_and_John_Martinis,_who_collectively_won",
+            "John Clarke, Michel Devoret and John Martinis share the 2025 Nobel Prize in physics. They won for demonstrating quantum effects in an electric circuit.",
+            "For bringing quantum effects to a scale once thought impossible, three physicists will take home the 2025 Nobel Prize in physics.",
+            "In the 1980s, John Clarke, Michel Devoret and John Martinis turned up weird effects in special types of electric circuits. The effects involved billions of electrons. And they took place on a device big enough to hold in one\u2019s hand.",
+            "Their discoveries challenged what scientists had believed. Previously, they had thought that quantum effects mainly showed up in tiny objects such as single atoms.",
+            "Quantum theory describes the behavior of particles or energy on the smallest scale. It predicts that particles can do some unexpected tricks. One of those tricks is called quantum tunneling. That\u2019s when a particle slips through a barrier that\u2019s seemingly impassible.",
+            "Imagine rolling a ball partway up a hill, but not enough to reach the top. Normally, it would roll back down. But in the quantum world, it\u2019s as if the ball somehow appeared on the other side of the hill.",
+            "Since the discovery of this behavior in a circuit, tech companies and researchers have used similar circuits as the quantum bits (or qubits) that make up quantum computers.",
+            "Quantum computers\u2019 power rests in the rules of quantum mechanics. On small scales, stuff acts much differently than in larger, everyday objects. But those weird behaviors give quantum computers\u00a0the potential to perform special feats. Those devices could help find new medicines or useful materials. Or they could break the internet. They could even hack the standard type of encryption\u00a0used to keep people from spying on your communication.\u00a0",
+            "\u201cThe basis of quantum computing relies to quite an extent on our discovery,\u201d said Clarke on Oct. 7.\u00a0He spoke during an announcement of his win by the Royal Swedish Academy of Sciences. Clarke works at the University of California, Berkeley. Martinis works at the University of California, Santa Barbara. Devoret works there, too, and at Yale University. All three physicists will split 11 million Swedish kronor (more than $1.1 million) in prize money.",
+            "iFhttps://www.youtube.com/embed/Yg0LT3n4mYY?feature=oembed",
+            "Three physicists won the 2025 Nobel Prize in physics for their work in demonstrating quantum tunneling. For an explanation of what that is, watch this short video.",
+            "The trio studied a special type of electric circuit. It uses a material called a superconductor. In a superconductor, electricity can flow without any resistance. But only if it\u2019s chilled to very cold temperatures.",
+            "The researchers took a superconductor and layered it with an insulator. That\u2019s a material that doesn\u2019t conduct electricity. It was like a sandwich with superconductor as the bread and insulator as the filling. This makes what is called a Josephson junction. (The junction, here, is the boundary between the superconductor and the insulator.)",
+            "In 1985, the trio reported finding for the first time that a\u00a0circuit could switch\u00a0between states in which there is \u2014 and isn\u2019t \u2014 a voltage crossing the junction. That\u2019s thanks to quantum tunneling.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "The three scientists also showed that this circuit\u00a0absorbed energy in discrete chunks. That\u2019s known as quantization.",
+            "\u201cIt\u2019s the foundation for why superconducting qubits work,\u201d says Andreas Wallraff. A physicist, he works in this field at ETH Zurich. It\u2019s in Switzerland. And the researchers didn\u2019t stop at those early findings. \u201cThe thing that was special,\u201d he says, is they also \u201ccontinued to push the field forward throughout the years in different ways.\u201d",
+            "Take Martinis. He was a central figure in the quest to demonstrate that a quantum computer could perform a calculation that would be out of reach for a traditional computer. At the time, he was the leader of Google\u2019s quantum computing work. His team claimed, controversially, to have\u00a0hit that benchmark in 2019. Competing for proof of that milestone\u00a0has continued ever since."
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/tech-shrinking-people-possible",
         "title": "\n\tCould we ever build the tech to shrink ourselves?",
         "content": [
@@ -185,35 +251,6 @@
             "Transistors are devices that act as building blocks for your computer, phone and other devices. They allow computers to process information using the numbers \u201c0\u201d and \u201c1.\u201d Electronic machines need a lot of them to work.\u00a0\u00a0",
             "There can be billions of transistors in your phone and in your computer. Each one used to be the size of a person\u2019s fingernail, Kakalios notes. Now, they can be engineered to be even smaller than viruses.\u00a0",
             "This feat of downsizing has given us world-changing modern technologies. And it\u2019s all thanks to the same physics that prevents shrinking technology for people from existing. \u201cThe world is a knowable place,\u201d Kakalios says. \u201cBy figuring out the rules by how the world works, we can then use these rules to make our lives better.\u201d\u00a0",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/astronomer-seti-search-alien-life",
-        "title": "\n\tThis astronomer searches for alien chemistry and tech\u00a0",
-        "content": [
-            "*Chenoa_Tremblay_stands_in_front_of_a_row_of_supercomputer_servers_She_is_a_white_woman_with_brown,_s",
-            "Chenoa Tremblay uses radio telescopes to look for signs of life outside our solar system. Her team searches for molecules such as methane and water in the gas layers surrounding distant stars. They also look for technosignatures \u2014 molecules, such as nitrous oxide, and energy signatures given off by extraterrestrial technology. ",
-            "One of the main ways that scientists look for extraterrestrial life is by detecting radio waves. When people hear this, they often think it involves snooping on aliens, says Chenoa Tremblay. \u201cThat\u2019s not what we\u2019re doing. We\u2019re not trying to eavesdrop or invade anybody\u2019s privacy.\u201d Instead, Tremblay uses radio telescopes to study molecules in the gas layers around stars. A radio astronomer, she works for the SETI Institute in Mountain View, Calif.",
-            "Tremblay relies on a technique called spectroscopy. When different molecules interact with energy from nearby stars, the molecules absorb and re-emit that energy in specific frequencies. \u201cEvery molecule has its own fingerprint,\u201d she says. Some, such as water and methane, act as biosignatures. These are signs that life may be producing these molecules on exoplanets.",
-            "Tremblay uses the Karl G. Jansky Very Large Array telescope in New Mexico to pick up these signals. \u201cWe [then] use computers to translate that information into images using complex mathematics,\u201d she says. That lets her team \u201cstudy the universe in a way that we can\u2019t use our eyes to do.\u201d In this interview, Tremblay shares her experiences with\u202fScience News Explores. (This interview has been edited for content and readability.)\u00a0",
-            "I grew up in a small town of about 600 people in New Hampshire. There wasn\u2019t a lot of expectation of girls doing much outside of the home. But I was a naturally very curious child. Throughout high school, I tried exploring subjects I liked. In general, learning was hard for me most of the time. But math was always fairly easy for me, and I enjoyed chemistry.",
-            "I decided to study business and accounting in college. It seemed logical, but I really wasn\u2019t sure what I\u2019d do with it. I ended up hating the coursework. My roommate was studying chemistry, and I found myself helping her with her homework. My friends finally convinced me that I should study chemistry instead.",
-            "After earning my bachelor\u2019s degree, I worked at various companies doing research for about 25 years. That\u2019s where I realized that I didn\u2019t have to just study the chemistry of things here on Earth. I could study the chemistry of the universe.\u00a0\u00a0",
-            "*A_row_of_radio_telescope_dishes_are_pointed_toward_the_night_sky",
-            "fCThe Karl G. Jansky Very Large Array is located in the desert of New Mexico to avoid radio interference from cities or humidity in the air.",
-            "I started volunteering for university projects to learn from mentors. That helped me figure out how to become a radio astronomer. In 2016, I got into a doctoral program for physics and astronomy in Australia. In high school and my first years in college, I really struggled with physics. So it\u2019s really funny that I ended up with a Ph.D. in the subject. At some point in the learning process, things just started to click.\u00a0",
-            "During my program, I was using a brand-new radio telescope in Western Australia. We used a set of wavelength ranges that we hadn\u2019t used before. We found some molecules that are super important to the early stages of life. But these popped up in environments that wouldn\u2019t necessarily indicate life, like around a newborn star. That suggested that these molecules do exist and could be available for life to develop elsewhere.",
-            "This is also when I started looking into technosignatures. These are signs of technology from far-off worlds. The techniques used to study the chemistry of space are very similar to those used to study whether technology exists beyond Earth. We can look for both in the same data set by analyzing them in slightly different ways. So, I ended up using the telescope data to study both.\u00a0",
-            "After finishing my Ph.D., I continued some of that work on a different telescope, the Australian Square Kilometer Array Pathfinder in Western Australia. I then moved back to New Mexico to develop a brand-new computer system on the Very Large Array. It\u2019s an iconic telescope that has appeared in different movies and TV shows.",
-            "Right now, we\u2019re using it to conduct one of the largest surveys for technosignatures ever. That\u2019s because we no longer have to dedicate time to using the telescope ourselves. Instead, we rely on commensal observations. That\u2019s when we receive a copy of the data from other projects using the telescope. Every time the telescope\u2019s on, we get to use the data to search for technosignatures.\u00a0",
-            "*Chenoa_Tremblay_gestures_to_an_array_of_spiderlike_antennae_stationed_in_the_Outback_",
-            "fCThese antennae are part of the Murchison Widefield Array in western Australia. Radio telescopes like this one detect radio waves through antennae tuned to specific frequencies.",
-            "I\u2019d say being able to build these commensal systems and sharing data. We need to spend as much time looking at as much of the sky as possible. That involves using as many wavelengths as we can. Even if a civilization is sending out a bright signal, we can\u2019t expect that beacon to be on all the time.",
-            "Our galaxy alone is huge. If we had to take our turn on telescopes all the time, it might take up to 60 years to observe every star once. And that might be something like every star within 100 light-years of us (about 60,000 stars).\u00a0",
-            "We are using the Very Large Array telescope in New Mexico and the MeerKAT telescope in South Africa for these commensal programs. These two let us look at both the northern and southern hemispheres, as well as a little bit of overlapping sky. This gives us one of the broadest views that we\u2019ve ever accomplished in trying to find our place in the universe.\u00a0",
-            "The career you decide on now doesn\u2019t have to be what you do later. You can change your mind and switch paths. My parents\u2019 generation expected that you stay at the same job until you retire. There wasn\u2019t this understanding that you could switch careers if you were unhappy.",
-            "You also don\u2019t have to know what you want to do from a young age. My siblings knew since they were little what exactly they wanted to do. I sometimes feel like I\u2019m still not 100 percent sure what I want to do. And that\u2019s okay, too. You can explore what you find interesting about the world.\u00a0",
             "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
         ]
     },
@@ -888,59 +925,10 @@
         ]
     },
     {
-        "URL": "https://www.snexplores.org/article/lets-learn-about-tardigrades",
-        "title": "\n\tLet\u2019s learn about tardigrades",
-        "content": [
-            "*_Let\u2019s_learn_about_tardigrades0",
-            "Tardigrades, like the one seen under a microscope, can only be in active in water. Adaptations they have evolved to survive drying out may give them the ability to survive other extreme conditions. ",
-            "Tardigrades \u2014 also known as water bears or moss piglets \u2014 are pretty adorable. Under a microscope, each one looks a bit like a plump caterpillar, wriggling around on eight legs tipped with dainty clawed feet. But don\u2019t let their cuteness fool you. These salt grain\u2013sized animals are some of the toughest beasts on Earth.",
-            "Water bears can brave days in space without air. They can cope with temperatures colder than any ever measured on Earth. They have been known to survive hundreds of times the X-ray radiation that would kill a human. And they\u2019ve even withstood getting blasted out of a gun at more than 1,800 miles per hour. Basically, tardigrades are the ultimate extremophiles.",
-            "Why did these wee creatures evolve to be so durable? Some 1,300 species of tardigrades have been found. They thrive in ponds, streams and damp soil and clumps of moss. Many of those places can dry out in the summer. So tardigrades need ways to survive being parched. Adaptations they evolved to survive dehydration may have bestowed tardigrades with the power to survive other harsh conditions.",
-            "For instance, water bears make a special protein that could shield their DNA from damage when their cells get dehydrated. This protein may also protect their DNA from radiation damage. Similarly, water bears make proteins that act like tiny packing peanuts to keep their cells from collapsing as they dry out. Those same proteins might help the critters\u2019 cells hold up against a deep freeze.",
-            "Learning what makes tardigrades so hardy could help people. For instance, these discoveries could lead to new ways to help cancer patients cope with radiation therapy. It might also offer clues about how astronauts \u2014 and crops \u2014 could survive long trips in outer space.\u00a0",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "Living mysteries: Why teeny-weeny tardigrades are tough as nails Tardigrades can somehow survive 500 times as much radiation as would kill a human. (1/27/2022) Readability: 7.0",
-            "Tardigrades survive harsh conditions by almost dying. Here\u2019s how Under stress, chemical changes signal these water bears to enter a dormant state. (4/3/2024) Readability: 7.4\u00a0",
-            "A tiny microbe inspired this scientist\u2019s big dreams Marc Mapalo looks at fossils to understand how tardigrades, or water bears, have changed over time. (9/19/2022) Readability: 6.9",
-            "Reply to @brettrowland6  First time I have EVER seen waterbears hatch \ud83d\udc23 \u2764\ufe0f #TikTokPartner #LearnOnTikTok #waterbears #microscope #life #borntoglow",
-            "Watch a brood of baby tardigrades hatch from eggs and start to explore the world.\u00a0",
-            "Scientists Say: Extremophile",
-            "Scientists Say: Species",
-            "Scientists Say: X-ray",
-            "Scientists Say: Adaptation",
-            "Scientists Say: Protein",
-            "Scientists Say: DNA",
-            "This tiny animal is apocalypse-proof",
-            "Phoenixes aren\u2019t the only creatures to survive the flames",
-            "A tardigrade protein helped reduce radiation damage in mice (from Science News)",
-            "Near-invincible tardigrades may see only in black and white (from Science News)",
-            "Glowing blue helps shield this tardigrade from harmful ultraviolet light (from Science News)",
-            "Word find",
-            "Where there\u2019s moss, there\u2019s likely moss piglets. That means the odds of finding tardigrades in potted plants, sidewalk cracks and other environments near your own home is pretty good. Learn more about how you can use household materials to find tardigrades and view them under a microscope in this YouTube video.\u00a0\u00a0"
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/scientists-say-element-definition-pronunciation",
-        "title": "\n\tScientists Say: Element",
-        "content": [
-            "*_Scientists_Say_Element1",
-            "On Earth, we know helium \u2014 the second lightest element on the periodic table \u2014 as a gas. This lighter-than-air element gives balloons their lift.",
-            "iFhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2173284006&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
-            "An element is a pure substance made of only one type of atom.",
-            "Each atom consists of three smaller particles. These are electrons, neutrons and protons. The number of protons determines what element an atom is. (For example, all carbon atoms have six protons.) That\u2019s why chemists give the number of protons a special name: atomic number. (Carbon\u2019s atomic number is six.) Atoms of the same element can contain different numbers of neutrons. Their electron number can vary too.",
-            "Ninety-two elements occur naturally on Earth. The lightest is hydrogen. Each of its atoms has only one proton. One of the heaviest elements on Earth is uranium. Each atom of uranium contains 92 protons. An atom of uranium weighs about as much as 238 hydrogen atoms.",
-            "Scientists can create new elements in the lab. Curium \u2014 with 97 protons \u2014 is one example. This element doesn\u2019t occur naturally on Earth.",
-            "A chart called the periodic table organizes all known elements. They are arranged according to their atomic number and other properties. The table also groups similar elements into chemical families. One example is the noble gases. This family includes helium, neon and krypton. With very few exceptions, these elements do not carry out chemical reactions. That sets them apart from other chemical families.",
-            "Scientists study ancient black holes to learn more about how our lightest elements \u2014 hydrogen and helium \u2014 might have formed.",
-            "Check out the full list of\u00a0Scientists Say.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
-        ]
-    },
-    {
         "URL": "https://www.snexplores.org/article/lets-learn-about-the-nobel-prize-chemistry-physics-physiology-medicine",
         "title": "\n\tLet\u2019s learn about the Nobel Prize",
         "content": [
-            "*_Let\u2019s_learn_about_the_Nobel_Prize2",
+            "*_Let\u2019s_learn_about_the_Nobel_Prize0",
             "Here, two 2021 Nobel laureates hold up chocolate versions of their gold Nobel medals. On the left is Benjamin List, who won a Nobel Prize in chemistry for developing a tool for building molecules. On the right is Klaus Hasselmann, who won a Nobel Prize in physics for his work on climate modeling. ",
             "Early October is an exciting time for science. It\u2019s when the annual Nobel Prizes for physics, chemistry and physiology or medicine are announced. These awards are widely considered the highest honors in science. The winners don\u2019t just take home gold medals and hefty cash prizes. They become instant international celebrities.",
             "*IRVINE,_CALIFORNIA_-_DECEMBER_08_David_Julius_poses_with_his_medal_after_receiving_Nobel_Prize_in_Ph",
@@ -1091,9 +1079,9 @@
             "Most spiders subdue their dinner by injecting it with venom from fangs. But cross sections of\u00a0the heads of feather-legged lace weavers revealed rounded blobs of muscles where venom glands should be.",
             "The lace weavers do have fangs \u2014 but they lack ducts needed to inject anything. Instead, the researchers found a different clue in the spiders\u2019 gut tissue. There, they found signs of genes that lead to producing ample, potent toxins.",
             "See how the fangs on a feather-legged lace-weaver spider (A) differ from those of a venomous spider (B). Toggle back and forth to compare. These close-ups offer one clue to the unusual way the lace-weavers kill their prey: Rather than injecting poisons into them, they vomit a lethal slurry onto them.",
-            "*_Here\u2019s_a_spider_whose_barf_is_worse_than_its_bite3",
+            "*_Here\u2019s_a_spider_whose_barf_is_worse_than_its_bite1",
             "fCLacking ducts, this fang from a feather-legged lace-weaver delivers nothing deadly. Arrows in the close-up point to pits \u2014 not to any plumbing that could release venom.",
-            "*_Here\u2019s_a_spider_whose_barf_is_worse_than_its_bite4",
+            "*_Here\u2019s_a_spider_whose_barf_is_worse_than_its_bite2",
             "fCAn exit hole near the tip of a typical spider fang delivers venom.",
             "Biologists reserve the term venom for an injected poison. The upchucked toxins, particularly from the spider\u2019s midgut, proved as deadly as the venom of common house spiders. In tests, injecting the barfed-up toxins into fruit flies killed them.",
             "And come meal time, the small predators take no chances when it comes to dosing. They don\u2019t just drool a bit on their silk-prepped entree, Zancolli says. They instead liberally slather it all over their restrained meal.",
@@ -1174,7 +1162,7 @@
         "URL": "https://www.snexplores.org/article/lets-learn-about-rivers",
         "title": "\n\tLet\u2019s learn about rivers",
         "content": [
-            "*_Let\u2019s_learn_about_rivers5",
+            "*_Let\u2019s_learn_about_rivers3",
             "The Nile River is the longest river in the world, running nearly 6,700 kilometers (more than 4,000 miles) through East Africa. ",
             "What has a bed but doesn\u2019t sleep, a mouth but doesn\u2019t speak, and a bank but no money? A river!",
             "Rivers are big, natural flows of water that snake across every continent. They vary widely in size and terrain but share a few basic features.",
@@ -1210,7 +1198,7 @@
         "URL": "https://www.snexplores.org/article/scientists-say-heat-dome-definition-pronunciation",
         "title": "\n\tScientists Say: Heat dome",
         "content": [
-            "*_Scientists_Say_Heat_dome6",
+            "*_Scientists_Say_Heat_dome4",
             "A heat dome is a weather phenomenon that can cause record-breaking and ground-baking high temperatures.",
             "iFhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2123244438&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
             "A heat dome occurs when hot weather stalls over an area for days or weeks at a time. It forms when warm air at Earth\u2019s surface gets trapped and cannot rise. Heat domes can cause periods of unusually hot weather called heat waves.",
@@ -1223,6 +1211,35 @@
             "As the Earth\u2019s climate changes, heat domes \u2014 and the extreme temperatures that come with them \u2014 become more common.",
             "Heat domes trap record-breaking temperatures over regions dangerously unprepared to handle the highs.",
             "Check out the full list of\u00a0Scientists Say."
+        ]
+    },
+    {
+        "URL": "https://www.snexplores.org/article/astronomer-seti-search-alien-life",
+        "title": "\n\tThis astronomer searches for alien chemistry and tech\u00a0",
+        "content": [
+            "*Chenoa_Tremblay_stands_in_front_of_a_row_of_supercomputer_servers_She_is_a_white_woman_with_brown,_s",
+            "Chenoa Tremblay uses radio telescopes to look for signs of life outside our solar system. Her team searches for molecules such as methane and water in the gas layers surrounding distant stars. They also look for technosignatures \u2014 molecules, such as nitrous oxide, and energy signatures given off by extraterrestrial technology. ",
+            "One of the main ways that scientists look for extraterrestrial life is by detecting radio waves. When people hear this, they often think it involves snooping on aliens, says Chenoa Tremblay. \u201cThat\u2019s not what we\u2019re doing. We\u2019re not trying to eavesdrop or invade anybody\u2019s privacy.\u201d Instead, Tremblay uses radio telescopes to study molecules in the gas layers around stars. A radio astronomer, she works for the SETI Institute in Mountain View, Calif.",
+            "Tremblay relies on a technique called spectroscopy. When different molecules interact with energy from nearby stars, the molecules absorb and re-emit that energy in specific frequencies. \u201cEvery molecule has its own fingerprint,\u201d she says. Some, such as water and methane, act as biosignatures. These are signs that life may be producing these molecules on exoplanets.",
+            "Tremblay uses the Karl G. Jansky Very Large Array telescope in New Mexico to pick up these signals. \u201cWe [then] use computers to translate that information into images using complex mathematics,\u201d she says. That lets her team \u201cstudy the universe in a way that we can\u2019t use our eyes to do.\u201d In this interview, Tremblay shares her experiences with\u202fScience News Explores. (This interview has been edited for content and readability.)\u00a0",
+            "I grew up in a small town of about 600 people in New Hampshire. There wasn\u2019t a lot of expectation of girls doing much outside of the home. But I was a naturally very curious child. Throughout high school, I tried exploring subjects I liked. In general, learning was hard for me most of the time. But math was always fairly easy for me, and I enjoyed chemistry.",
+            "I decided to study business and accounting in college. It seemed logical, but I really wasn\u2019t sure what I\u2019d do with it. I ended up hating the coursework. My roommate was studying chemistry, and I found myself helping her with her homework. My friends finally convinced me that I should study chemistry instead.",
+            "After earning my bachelor\u2019s degree, I worked at various companies doing research for about 25 years. That\u2019s where I realized that I didn\u2019t have to just study the chemistry of things here on Earth. I could study the chemistry of the universe.\u00a0\u00a0",
+            "*A_row_of_radio_telescope_dishes_are_pointed_toward_the_night_sky",
+            "fCThe Karl G. Jansky Very Large Array is located in the desert of New Mexico to avoid radio interference from cities or humidity in the air.",
+            "I started volunteering for university projects to learn from mentors. That helped me figure out how to become a radio astronomer. In 2016, I got into a doctoral program for physics and astronomy in Australia. In high school and my first years in college, I really struggled with physics. So it\u2019s really funny that I ended up with a Ph.D. in the subject. At some point in the learning process, things just started to click.\u00a0",
+            "During my program, I was using a brand-new radio telescope in Western Australia. We used a set of wavelength ranges that we hadn\u2019t used before. We found some molecules that are super important to the early stages of life. But these popped up in environments that wouldn\u2019t necessarily indicate life, like around a newborn star. That suggested that these molecules do exist and could be available for life to develop elsewhere.",
+            "This is also when I started looking into technosignatures. These are signs of technology from far-off worlds. The techniques used to study the chemistry of space are very similar to those used to study whether technology exists beyond Earth. We can look for both in the same data set by analyzing them in slightly different ways. So, I ended up using the telescope data to study both.\u00a0",
+            "After finishing my Ph.D., I continued some of that work on a different telescope, the Australian Square Kilometer Array Pathfinder in Western Australia. I then moved back to New Mexico to develop a brand-new computer system on the Very Large Array. It\u2019s an iconic telescope that has appeared in different movies and TV shows.",
+            "Right now, we\u2019re using it to conduct one of the largest surveys for technosignatures ever. That\u2019s because we no longer have to dedicate time to using the telescope ourselves. Instead, we rely on commensal observations. That\u2019s when we receive a copy of the data from other projects using the telescope. Every time the telescope\u2019s on, we get to use the data to search for technosignatures.\u00a0",
+            "*Chenoa_Tremblay_gestures_to_an_array_of_spiderlike_antennae_stationed_in_the_Outback_",
+            "fCThese antennae are part of the Murchison Widefield Array in western Australia. Radio telescopes like this one detect radio waves through antennae tuned to specific frequencies.",
+            "I\u2019d say being able to build these commensal systems and sharing data. We need to spend as much time looking at as much of the sky as possible. That involves using as many wavelengths as we can. Even if a civilization is sending out a bright signal, we can\u2019t expect that beacon to be on all the time.",
+            "Our galaxy alone is huge. If we had to take our turn on telescopes all the time, it might take up to 60 years to observe every star once. And that might be something like every star within 100 light-years of us (about 60,000 stars).\u00a0",
+            "We are using the Very Large Array telescope in New Mexico and the MeerKAT telescope in South Africa for these commensal programs. These two let us look at both the northern and southern hemispheres, as well as a little bit of overlapping sky. This gives us one of the broadest views that we\u2019ve ever accomplished in trying to find our place in the universe.\u00a0",
+            "The career you decide on now doesn\u2019t have to be what you do later. You can change your mind and switch paths. My parents\u2019 generation expected that you stay at the same job until you retire. There wasn\u2019t this understanding that you could switch careers if you were unhappy.",
+            "You also don\u2019t have to know what you want to do from a young age. My siblings knew since they were little what exactly they wanted to do. I sometimes feel like I\u2019m still not 100 percent sure what I want to do. And that\u2019s okay, too. You can explore what you find interesting about the world.\u00a0",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
         ]
     },
     {
@@ -1410,29 +1427,6 @@
             "Long\u2019s team is using advanced machine learning to find patterns among the bird talk. They hope this will help them figure out what each warble and chirp means. Perhaps their language \u2014 not just how the birds\u2019 brains create it \u2014 resembles that in people.",
             "Through these kinds of experiments, Long says, people may come to challenge the idea that complex language is a particularly human behavior. Parakeets might be telling us that people aren\u2019t the sole species with a gift of gab.",
             "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/acoustic-sound-rainbow-device",
-        "title": "\n\tThis device creates rainbows of sound",
-        "content": [
-            "*An_illustration_shows_a_rainbow_of_colors,_meant_to_represent_different_sound_pitches,_emanating_fro",
-            "A new gadget (illustrated at center) creates an acoustic rainbow. It splits sound (produced at the center of the device) into different pitches (shown here as different colors).",
-            "No rainstorm is needed for this new type of rainbow \u2014 it\u2019s made of sounds.",
-            "A normal rainbow separates light waves of different hues, or wavelengths. The different colors that make up sunlight fan out to appear side-by-side in the sky. Now, an oddly shaped plastic device does the same thing with sound waves. It sends the different wavelengths \u2014 or pitches \u2014 that make up white noise into distinct places around the device. In effect, it creates an acoustic rainbow.",
-            "Rasmus Christiansen is part of a team that described the new invention June 13 in Science Advances. A physicist, Christiansen works at the Technical University of Denmark. It\u2019s located in Kongens Lyngby.",
-            "Tools such as this could be used for a variety of things, his group says. For instance, it could help control the acoustics of a room by sending certain pitches into a sound absorber.",
-            "The new device was inspired by the structure of human ears. The outer ear doesn\u2019t split noise up into pitches. But it does help people determine where different pitches are coming from.",
-            "A source at the center of the gadget makes noise from about 8 to 13 kilohertz. Those sound like very high notes. (The highest note on a piano is around 4 kilohertz.) Zeroing in on those frequencies let researchers keep their acoustic rainbow generator small. It\u2019s about the size of a human ear. To handle lower notes, it would have to be bigger. \u00a0",
-            "The gizmo works thanks to a smattering of misshapen pillars. Those pillars reflect sound waves in a way that makes them cross paths, or interfere. When waves interfere, they can reinforce or cancel each other out. The result of this complex dance is that sound waves of different pitches get amplified at different places around the device.",
-            "iFhttps://www.youtube.com/embed/AwlEGQPRfmQ?feature=oembed",
-            "An acoustic rainbow spreads the different pitches that make up white noise into different places. You can hear an example in this simulation, in which the device rotates relative to a listener (red dot).",
-            "Building a structure that can create an acoustic rainbow is complex. Why? Because juggling sound waves of varying wavelengths is such an intricate process.",
-            "To overcome that challenge, Christiansen\u2019s group did something called inverse design.",
-            "First, they used a computer model to see what field of sound waves a given design would create. Then, they compared that output with the acoustic rainbow they were going for. They kept tweaking their blueprint until its sound field matched the rainbow.",
-            "Once the design was fine-tuned, a 3-D printer produced a prototype. Lab tests showed that it worked as intended.",
-            "The pillars inside the device may seem \u201cvery random-looking or weird-looking,\u201d says Christiansen. \u201cBut they really serve their purpose well, because they\u2019ve been tailored for providing exactly what we asked for.\u201d",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
         ]
     },
     {
