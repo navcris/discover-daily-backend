@@ -7,8 +7,6 @@ from scraper import *
 from jsonConvert import *
 from urlFind import *
 from jsonCombiners import *
-import schedule
-import time
 
 app = Flask(__name__)
 CORS(app)
