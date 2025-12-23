@@ -1,5 +1,50 @@
 [
     {
+        "URL": "https://www.snexplores.org/article/ai-generated-virus-genome",
+        "title": "\n\tAI can now write working genetic instruction books from scratch",
+        "content": [
+            "*an_illustration_of_DNA_double_helixes_against_a_blue_background",
+            "Two AI models generated \u2014 from scratch \u2014 multiple genomes for bacteria-killing viruses. In lab dishes, some of these AI-designed viruses were more effective assassins of bacteria than a well-studied phage (virus) is.",
+            "Artificial intelligence can dash off more than emails and essays. It has now written entire genetic instruction manuals, or genomes.\u00a0",
+            "Two AI models designed complete sets of DNA for 16 viruses\u00a0that can attack\u00a0Escherichia coli\u00a0bacteria in lab dishes. Such viruses that infect and replicate inside bacteria are known as bacteriophages (Bak-TEER-ee-oh-FAHZ-es). Just call them phages.",
+            "A mix of these AI-designed phages stopped the growth of E. coli\u00a0strains that ordinarily can resist death by virus. This hints that AI-made phages might offer new ways to fight tough-to-treat infections.",
+            "It\u2019s the first time that AI has created an entire genome, says Brian Hie. And even though scientists debate whether viruses are alive or not, the work is a step toward using AI to design living things.",
+            "Hie is a computational biologist at Stanford University in California. He\u2019s part of a team that shared its new findings September 17 on bioRxiv.org. (Studies posted to that site have not yet been vetted by other scientists.)",
+            "In the past, AI models have been used to design individual genes and proteins. Creating an entire genome from scratch, however, adds a new layer of complexity. It requires many genes and proteins to team up.",
+            "To try to create genomes for bacteria-killing viruses, Hie\u2019s team turned to two of its own AI models. These models had trained on billions of pairs of DNA\u2019s basic units \u2014 abbreviated A, C, G and T \u2014 from existing phage genomes. (This is similar to the way\u00a0ChatGPT has trained on the billions of letters in books and internet posts.)",
+            "The researchers turned to a known bacteria-killing phage \u2014 \u03a6X174 \u2014 as a guide to help their AI design a similar genome. Scientists first read out the complete set of genetic instructions for \u03a6X174 in 1977. Its DNA is now very well known and studied. This meant the scientists could easily compare how phage genomes designed by AI differed from that of \u03a6X174, Hie explains.",
+            "One reason his team decided to test their genome-designing AI on phages: They don\u2019t infect people. That means it was safe to work with them in the lab. The researchers also did not train their models on viruses known to cause disease. In this way, they made sure their AI wouldn\u2019t design viruses that might harm people.",
+            "The two AI models came up with roughly 300 potential phage genomes. Of those, 16 produced viruses that could infect\u00a0E. coli. Some of them even killed\u00a0E. coli\u00a0faster than \u03a6X174 did.",
+            "What\u2019s more, \u03a6X174 failed to kill three strains of\u00a0E. coli\u00a0on its own. But mixtures of AI-generated phages quickly evolved to take out even those bacteria.\u00a0",
+            "The new findings suggest AI could help develop new\u00a0viruses for use in medicine. Indeed, such phages might offer a way to treat bacterial infections that no longer respond to antibiotics.",
+            "\u201cThe need to find a phage that targets [such a \u2018superbug\u2019] strain would be very urgent,\u201d says Kimberly Davis. \u201cAI could be a powerful way of rapidly generating a phage match to treat patients.\u201d Davis is a microbiologist at the Johns Hopkins Bloomberg School of Public Health in Baltimore, Md. She did not take part in the AI genome work.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "However, Davis adds, \u201cUse of AI-generated phages would need to be tightly controlled.\u201d Extensive tests would need to make sure such phages don\u2019t harm good microbes in the body, ones that keep us healthy.",
+            "Ideally, AI-made phages would not just kill one harmful type of bacteria, Hie says. They might also evolve to keep up with virus-resistant bacteria. Using AI to design entire organisms also could make microbes that speed up antibiotic production, Hie notes. Or they might allow the design of microbes to break down plastics.\u00a0",
+            "AI may even help researchers make sense of genomes \u2014 and treat diseases \u2014 that are more complex than viral ones, Hie says. Our genome is more than half a million times the size of \u03a6X174\u2019s genome, he notes. \u201cSo there\u2019s a lot of work to go.\u201d",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
+        ]
+    },
+    {
+        "URL": "https://www.snexplores.org/article/scientists-say-river-piracy-definition-pronunciation",
+        "title": "\n\tScientists Say: River Piracy",
+        "content": [
+            "*_Scientists_Say_River_Piracy0",
+            "A river system of glacial meltwater braids through the Icelandic terrain. Climate change can lead to rapid changes in meltwater flow, allowing one river to steal another\u2019s source water. ",
+            "iFhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2231526854&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+            "River piracy, or stream capture, is when one river steals water from another.",
+            "*_Scientists_Say_River_Piracy1",
+            "fCRiver piracy can happen when one river cuts across another, diverting its water onto a new path. ",
+            "This can happen several different ways. For example, it may happen when two rivers cross paths. The more powerful river can cut into the channel of a weaker one. Water flows down the path of least resistance. So, the stronger river may begin diverting water away from the weaker one. This kind of river piracy is called point capture. There is a specific point where the two river channels meet.",
+            "Even when river channels do not connect, a stronger river can still take water from a weaker one. One river may shift into the region that provides water to another river. This region is called a drainage basin. If one river moves into another\u2019s drainage basin, water may begin draining into the new river.",
+            "River piracy can be a slow and gradual process. But sometimes, it happens fast. Climate change can rapidly alter a river\u2019s course.",
+            "In 2016, glacial melt allowed one river to drain another in a matter of months. This happened in northwestern Canada in the Yukon territory. A glacier once separated two nearby rivers. These were the Slims River and the Kaskawulsh River. But as temperatures have risen with climate change, this glacier has melted and shrunk. The meltwater carved a new stream channel. This new channel diverted water away from the Slims River. It flowed instead into the Kaskawulsh River. This left the Slims River abandoned and changed the ecosystem downstream.",
+            "River avulsion is another example of how freshwater channels change over time.\u00a0",
+            "Check out the full list of\u00a0Scientists Say.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/brain-combine-taste-smell-flavor",
         "title": "\n\tBrain scans reveal where taste and smell combine to become flavor",
         "content": [
@@ -49,34 +94,6 @@
         ]
     },
     {
-        "URL": "https://www.snexplores.org/article/polar-bears-food-scraps-arctic",
-        "title": "\n\tPolar bears leave thousands of tons of food scraps for other species",
-        "content": [
-            "*a_polar_bear_stands_on_a_sheet_of_ice_with_a_bloody_carcass_of_a_dead_animal_in_front_of_it,_while_s",
-            "A polar bear in Norway picks at its prey. Gulls nearby and other animals will eat the leftovers. Polar bears typically leave about 30 percent of edible animal\u2019s remains.",
-            "Polar bears are picky eaters. And that\u2019s great news for other hungry Arctic critters.",
-            "In one year, a polar bear can leave roughly 300 kilograms (660 pounds) of scraps behind on which other animals can dine. Altogether, that comes to an estimated 7.6 million kilograms (8,375 U.S. tons) of bear leftovers, researchers now estimate.",
-            "This leftover meat, called carrion, points to the crucial role these bears \u2014 top predators \u2014 play in feeding other species.",
-            "The research also sounds a warning. As climate change warms the Arctic, polar bears are at risk. A decline in their numbers could greatly threaten other species that are part of the Arctic food web.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "Polar bears eat mainly seals, especially ringed seals. Scientists have long known these bears mostly eat the blubber of their prey. These diners often leave much of the rest behind. Until now, scientists have overlooked the size of those leftovers and their importance, says Nicholas Pilfold, A large-carnivore biologist, Pilfold works at the San Diego Zoo Wildlife Alliance in California. He has done research in the Arctic for 15 years.",
-            "As part of a team, Pilfold pored over studies, observations and anecdotes about scavenging activity around carcasses. These data went back as far as the 1930s. The researchers also analyzed studies on how many calories seals can provide. Then they also looked at studies that had tallied how many seals a polar bear consumes each year.",
-            "During its hunting season peak, they found, a bear kills roughly one seal every three to five days. That comes to some 1,000 kilograms (2,200 pounds) of prey each year. A bear eats about 70 percent of that mass. The remaining 30 percent is up for grabs.",
-            "Today\u2019s Arctic hosts an estimated 26,000 polar bears. So all those leftovers add up to millions of kilograms \u2014 thousands of tons \u2014 of food for scavengers.",
-            "Pilfold\u2019s team shared its new findings October 28 in Oikos.",
-            "*a_white_arctic_fox_walks_through_the_snow",
-            "fCArctic foxes are one species that benefit from carrion scraps left behind by polar bears.",
-            "Those who benefit from the leftovers include Arctic foxes, gulls, ravens and other polar bears. Occasionally even snowy owls, wolves and grizzly bears will feast on the remains.",
-            "Pilfold has seen that \u201cfoxes will follow in the tracks of where the polar bears have gone,\u201d waiting for the bears to abandon their meal. Birds also fly overhead, waiting their turn, he says. \u201cThere\u2019s just this cacophony of sound of gulls,\u201d he notes. \u201cThey\u2019re all trying to get some of that seal.\u201d",
-            "Other species couldn\u2019t access this type of food if the polar bears hadn\u2019t left it behind, says study coauthor Holly Gamblin. She is a wildlife biologist in Canada at the University of Manitoba in Winnipeg.",
-            "The new findings don\u2019t surprise Jon Aars. A polar bear expert, he works at the Norwegian Polar Institute in Troms\u00f8. Bear leftovers are probably a \u201crather important\u201d food source for other species, he says \u2014 \u201cparticularly at a time of the year when alternative food is not so easy to get.\u201d",
-            "Polar bears often swim to find seals at sea or on ice floes. As the Arctic has been warming, the ice has been melting, too. This gives bears fewer rest stops to catch their meals, dine and rest. Earlier work by Pilfold\u2019s team showed that the bears often have to swim exhaustingly long distances between meals. They tracked one female who swam 400 kilometers (249 miles) nonstop over a period of nine days.",
-            "Such long treks are weakening bears and have led some to starve. This can reduce polar bear populations. If this happens, the carrion they provide will likely decrease as well, Pilfold now says.",
-            "His team looked at two regions where polar bears have been declining. Here, they calculate, about 323,000 kilograms (710,000 pounds) of carrion are likely being lost each year. Melting ice might also make it harder for some scavengers to reach bear leftovers.",
-            "It\u2019s hard to predict how reduced leftovers might affect other species, Aars says. But \u201cit will have [an] impact one way or another.\u201d And how big an impact, he says, will depend on the species and which \u201cpart of the Arctic we look at.\u201d"
-        ]
-    },
-    {
         "URL": "https://www.snexplores.org/article/human-eggs-from-skin-cells",
         "title": "\n\tScientists created human egg cells from skin cells",
         "content": [
@@ -102,6 +119,34 @@
             "\u201cIt was not the outcome we wanted,\u201d Amato says. \u201cBut it was more proof-of-concept. \u2018Hey, we can kind of make this process happen now.\u2019\u201d",
             "The team is now working to craft eggs with the right sets of chromosomes. But Amato suspects it will be at least a decade before the technique could be tested in clinical trials. Even then, such trials would probably not take place in the United States, Amato notes. U.S. law forbids tweaking the DNA of human embryos.",
             "One drawback to the new technique: It requires donor egg cells, Hayashi notes. Reprogramming cells as his team has done does not need egg cells to make other egg cells. Still, he says, \u201cthis technology has made a significant breakthrough.\u201d And, he predicts, \u201cnew technologies will stem from this achievement.\u201d"
+        ]
+    },
+    {
+        "URL": "https://www.snexplores.org/article/polar-bears-food-scraps-arctic",
+        "title": "\n\tPolar bears leave thousands of tons of food scraps for other species",
+        "content": [
+            "*a_polar_bear_stands_on_a_sheet_of_ice_with_a_bloody_carcass_of_a_dead_animal_in_front_of_it,_while_s",
+            "A polar bear in Norway picks at its prey. Gulls nearby and other animals will eat the leftovers. Polar bears typically leave about 30 percent of edible animal\u2019s remains.",
+            "Polar bears are picky eaters. And that\u2019s great news for other hungry Arctic critters.",
+            "In one year, a polar bear can leave roughly 300 kilograms (660 pounds) of scraps behind on which other animals can dine. Altogether, that comes to an estimated 7.6 million kilograms (8,375 U.S. tons) of bear leftovers, researchers now estimate.",
+            "This leftover meat, called carrion, points to the crucial role these bears \u2014 top predators \u2014 play in feeding other species.",
+            "The research also sounds a warning. As climate change warms the Arctic, polar bears are at risk. A decline in their numbers could greatly threaten other species that are part of the Arctic food web.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "Polar bears eat mainly seals, especially ringed seals. Scientists have long known these bears mostly eat the blubber of their prey. These diners often leave much of the rest behind. Until now, scientists have overlooked the size of those leftovers and their importance, says Nicholas Pilfold, A large-carnivore biologist, Pilfold works at the San Diego Zoo Wildlife Alliance in California. He has done research in the Arctic for 15 years.",
+            "As part of a team, Pilfold pored over studies, observations and anecdotes about scavenging activity around carcasses. These data went back as far as the 1930s. The researchers also analyzed studies on how many calories seals can provide. Then they also looked at studies that had tallied how many seals a polar bear consumes each year.",
+            "During its hunting season peak, they found, a bear kills roughly one seal every three to five days. That comes to some 1,000 kilograms (2,200 pounds) of prey each year. A bear eats about 70 percent of that mass. The remaining 30 percent is up for grabs.",
+            "Today\u2019s Arctic hosts an estimated 26,000 polar bears. So all those leftovers add up to millions of kilograms \u2014 thousands of tons \u2014 of food for scavengers.",
+            "Pilfold\u2019s team shared its new findings October 28 in Oikos.",
+            "*a_white_arctic_fox_walks_through_the_snow",
+            "fCArctic foxes are one species that benefit from carrion scraps left behind by polar bears.",
+            "Those who benefit from the leftovers include Arctic foxes, gulls, ravens and other polar bears. Occasionally even snowy owls, wolves and grizzly bears will feast on the remains.",
+            "Pilfold has seen that \u201cfoxes will follow in the tracks of where the polar bears have gone,\u201d waiting for the bears to abandon their meal. Birds also fly overhead, waiting their turn, he says. \u201cThere\u2019s just this cacophony of sound of gulls,\u201d he notes. \u201cThey\u2019re all trying to get some of that seal.\u201d",
+            "Other species couldn\u2019t access this type of food if the polar bears hadn\u2019t left it behind, says study coauthor Holly Gamblin. She is a wildlife biologist in Canada at the University of Manitoba in Winnipeg.",
+            "The new findings don\u2019t surprise Jon Aars. A polar bear expert, he works at the Norwegian Polar Institute in Troms\u00f8. Bear leftovers are probably a \u201crather important\u201d food source for other species, he says \u2014 \u201cparticularly at a time of the year when alternative food is not so easy to get.\u201d",
+            "Polar bears often swim to find seals at sea or on ice floes. As the Arctic has been warming, the ice has been melting, too. This gives bears fewer rest stops to catch their meals, dine and rest. Earlier work by Pilfold\u2019s team showed that the bears often have to swim exhaustingly long distances between meals. They tracked one female who swam 400 kilometers (249 miles) nonstop over a period of nine days.",
+            "Such long treks are weakening bears and have led some to starve. This can reduce polar bear populations. If this happens, the carrion they provide will likely decrease as well, Pilfold now says.",
+            "His team looked at two regions where polar bears have been declining. Here, they calculate, about 323,000 kilograms (710,000 pounds) of carrion are likely being lost each year. Melting ice might also make it harder for some scavengers to reach bear leftovers.",
+            "It\u2019s hard to predict how reduced leftovers might affect other species, Aars says. But \u201cit will have [an] impact one way or another.\u201d And how big an impact, he says, will depend on the species and which \u201cpart of the Arctic we look at.\u201d"
         ]
     },
     {
@@ -183,47 +228,6 @@
             "Get started making your own games. That could be making them on paper in a way similar to Dungeons and Dragons. Or you could use free game engines such as Scratch and Twine. Make games with your friends and play. Playing and practicing is what it\u2019s about.\u00a0\u00a0",
             "Making games requires a lot of repetition. You\u2019ll come up with a game idea and then try it out. That lets you find what isn\u2019t quite working. You then make changes and play again. You repeat those steps until you\u2019re satisfied. We call that \u201cplay testing.\u201d That\u2019s what we do when we make games.\u00a0\u00a0",
             "Sometimes it takes years for us to make games. We go through hundreds or even thousands of tests to get it quite how we want. There\u2019s no failure in games. There\u2019s a restart, right? When Mario falls down the hole, you go back a bit and try again.\u00a0\u00a0"
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/levitation-physics-no-magic",
-        "title": "\n\tHere\u2019s how to levitate something without magic",
-        "content": [
-            "*a_girl_in_a_parka,_gloves_and_boots_stands_on_a_sheet_of_ice_and_snow_with_her_hands_out_in_front_of",
-            "In Avatar: The Last Airbender, waterbenders can levitate liquid water and solid ice.",
-            "With a simple swish-and-flick of his wand, Ron Weasley yanks a troll\u2019s club high above its head in Harry Potter and the Sorcerer\u2019s Stone. Through graceful martial arts moves, element benders in TV\u2019s Avatar series launch boulders and waves of water skyward. And a casual gesture is all Marvel hero Scarlet Witch needs to fling away her enemies.",
-            "Fictional heroes require magic or superpowers to lift objects without touching them. In the real world, you need physics. Sound, magnets and electricity, it turns out, can all create upward forces strong enough to cancel out the downward pull of gravity.",
-            "This ability to suspend objects in midair could transform lab experiments, transportation and more. Just don\u2019t expect any real levitation technique to toss boulders or bad guys through the sky. At least, not without some outrageous \u2014 and dangerous \u2014 upgrades.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "If you\u2019ve ever been to a concert where the music was so loud you felt it thumping in your chest, then you know firsthand how strong sound waves can be. Acoustic levitation devices use those vibrations to hold objects aloft.",
-            "\u201cYou can think of it as a very complicated surround-sound system,\u201d says Luke Cox. An acoustic levitator may contain hundreds of little speakers. Those speakers typically blare noise at a frequency of 40 kilohertz. Humans can\u2019t hear these sounds. \u201cBut if you look at the sound-pressure levels, it\u2019s louder than a jet engine,\u201d notes Cox. A mechanical engineer, he leads the company Impulsonics in Bristol, England.",
-            "Sound waves from an acoustic levitator create alternating spots in the air of high- and low-intensity noise. The force of sound pushes objects away from the loud areas. As a result, items placed in quiet areas will stay there, as if tucked into invisible pockets. Fine-tuning the noise blasted by each speaker can steer those pockets around.",
-            "iFhttps://www.youtube.com/embed/S8IiUkJslbU?feature=oembed",
-            "This acoustic levitator uses sound waves to steer millimeter-sized objects through the air. It can juggle up to 25 objects at once. The device is shown in a computer simulation on the right. It uses two grids of ultrasonic speakers (rainbow-colored dots at top and bottom) to create a field of sound waves (reddish pattern in the middle). In this sound field, particles get trapped in fairly quiet regions (black) between very loud regions (white).",
-            "Acoustic levitation can lift all types of materials, solid or liquid. But it can only support very small, lightweight things. Some of the heaviest stuff to ever surf sound waves were Styrofoam puffs (like those inside beanbag chairs).",
-            "Taller and wider objects need longer, lower-frequency sound waves to cradle them. Say you wanted to levitate a person \u2014 even someone curled into a ball. Cox estimates that would take at least 275-hertz waves, which are 1.25 meters (some 4 feet) long. Bass guitars play notes about that low. But the music from a bass-guitar levitator would also have to be devastatingly loud to lift someone off their feet.\u00a0",
-            "\u201cI\u2019m probably going to need quite a few power plants\u201d to run the device, Cox muses. \u201cBut maybe a big nuclear one could do it.\u201d",
-            "On top of that, you\u2019d need to shield anyone you levitated from the heat generated by that amount of power. Otherwise, your gnarly, nuclear-powered bass solo might literally melt their face off.",
-            "Magnets, meanwhile, already safely lift objects much bigger than people off the ground.",
-            "Perhaps the most striking display of that brute strength is a maglev train. Magnets on its cars and tracks interact to create an upward force. It lets the train hover about 10 centimeters (4 inches) above the track. This allows the train to glide nearly friction-free and travel twice as fast as trains that roll on rails. \u00a0",
-            "Magnetic levitation is not limited to magnetic metals, notes Eric Severson. He\u2019s a mechanical engineer at the University of Minnesota in Minneapolis. Diamagnetic materials also can accomplish this feat. Around a strong magnet, these materials can become weakly magnetized and start to repel the magnet. This repulsive force, though feeble, can win a fight against gravity.",
-            "Graphite, gold and many other substances are diamagnetic. Water, proteins and other molecules in living tissue are, too.",
-            "iFhttps://www.youtube.com/embed/KlJsVqc0ywM?start=32&feature=oembed",
-            "fCScience News",
-            "In 1997, two scientists famously used that fact to levitate a frog. They placed the creature inside a magnet made from two nested coils of wire. The field created by the device was 16 teslas. That\u2019s about 10 times as strong as the magnets used to pick up cars in junkyards. And it was just enough to buoy the frog near the top of the inner coil of wire. That coil was 18 centimeters (7 inches) tall.",
-            "\u201cYou could theoretically make a person float,\u201d Severson says. But you\u2019d need one heck of a magnet.\u00a0In 1998, one of the frog floaters estimated that\u00a0you\u2019d need a 40-tesla\u00a0field created by a magnet running on 1 gigawatt of power.\u00a0That\u2019s roughly\u00a0half the power produced by the Hoover Dam.\u00a0",
-            "There\u2019s another catch with magnetism: its short range. You have to be close to a magnet to feel its effects. So making something soar through the sky would likely require some other tech.",
-            "Ballooning spiders already have high-flying levitation figured out. A flock of these critters once impressed and perplexed Charles Darwin by alighting on his ship some 100 kilometers (60 miles) out to sea.",
-            "\u201cThey spin out a very long thread of spider silk and then, in the process, charge themselves up electrically,\u201d explains Igor Bargatin. This happens thanks to triboelectricity. \u201cThey lift off in the Earth\u2019s electric field,\u201d Bargatin says. \u201cAfter that, they\u2019re just carried by the wind.\u201d Sometimes, airborne arachnids are swept kilometers (miles) into the atmosphere.",
-            "Bargatin is a physicist and engineer at the University of Pennsylvania in Philadelphia. When he first heard about ballooning spiders, he wanted to build something that would mimic their wingless flight. But he realized this spidey levitation won\u2019t work for large objects.",
-            "Imagine trying to float a human. \u201cThe charge that they would need to accumulate is so large that you would start creating basically lightning all around you,\u201d Bargatin says. That wouldn\u2019t just be dangerous. It also would keep you from ever building up enough charge to take off.",
-            "iFhttps://www.youtube.com/embed/Ja4oMFOoK50?feature=oembed",
-            "When you think of flying animals, spiders probably aren\u2019t the first ones that come to mind. Yet ballooning spiders harness the power of Earth\u2019s electric field to soar miles high through the sky. Here\u2019s how.",
-            "All told, real-world levitation likely won\u2019t ever measure up to the superpowers seen on screen. Still, it needn\u2019t be flashy to be useful.",
-            "Acoustic levitation could handle tiny electronic components or lab samples without touching them. That would cut the risk of contaminating them. Severson uses magnetic levitation to make parts of motors float. That way they can spin faster without wearing down.",
-            "Scientists are still dreaming up new uses for levitation, too \u2014 ones that play to different techniques\u2019 natural strengths and won\u2019t risk frying anything during takeoff.",
-            "iFhttps://www.youtube.com/embed/bvYUq6Ox0Hc?feature=oembed",
-            "Magnetic levitation may not be able to lift things very high \u2014 but it doesn\u2019t have to in order to bring sci-fi tech like hoverboards to life."
         ]
     },
     {
@@ -818,6 +822,47 @@
         ]
     },
     {
+        "URL": "https://www.snexplores.org/article/levitation-physics-no-magic",
+        "title": "\n\tHere\u2019s how to levitate something without magic",
+        "content": [
+            "*a_girl_in_a_parka,_gloves_and_boots_stands_on_a_sheet_of_ice_and_snow_with_her_hands_out_in_front_of",
+            "In Avatar: The Last Airbender, waterbenders can levitate liquid water and solid ice.",
+            "With a simple swish-and-flick of his wand, Ron Weasley yanks a troll\u2019s club high above its head in Harry Potter and the Sorcerer\u2019s Stone. Through graceful martial arts moves, element benders in TV\u2019s Avatar series launch boulders and waves of water skyward. And a casual gesture is all Marvel hero Scarlet Witch needs to fling away her enemies.",
+            "Fictional heroes require magic or superpowers to lift objects without touching them. In the real world, you need physics. Sound, magnets and electricity, it turns out, can all create upward forces strong enough to cancel out the downward pull of gravity.",
+            "This ability to suspend objects in midair could transform lab experiments, transportation and more. Just don\u2019t expect any real levitation technique to toss boulders or bad guys through the sky. At least, not without some outrageous \u2014 and dangerous \u2014 upgrades.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "If you\u2019ve ever been to a concert where the music was so loud you felt it thumping in your chest, then you know firsthand how strong sound waves can be. Acoustic levitation devices use those vibrations to hold objects aloft.",
+            "\u201cYou can think of it as a very complicated surround-sound system,\u201d says Luke Cox. An acoustic levitator may contain hundreds of little speakers. Those speakers typically blare noise at a frequency of 40 kilohertz. Humans can\u2019t hear these sounds. \u201cBut if you look at the sound-pressure levels, it\u2019s louder than a jet engine,\u201d notes Cox. A mechanical engineer, he leads the company Impulsonics in Bristol, England.",
+            "Sound waves from an acoustic levitator create alternating spots in the air of high- and low-intensity noise. The force of sound pushes objects away from the loud areas. As a result, items placed in quiet areas will stay there, as if tucked into invisible pockets. Fine-tuning the noise blasted by each speaker can steer those pockets around.",
+            "iFhttps://www.youtube.com/embed/S8IiUkJslbU?feature=oembed",
+            "This acoustic levitator uses sound waves to steer millimeter-sized objects through the air. It can juggle up to 25 objects at once. The device is shown in a computer simulation on the right. It uses two grids of ultrasonic speakers (rainbow-colored dots at top and bottom) to create a field of sound waves (reddish pattern in the middle). In this sound field, particles get trapped in fairly quiet regions (black) between very loud regions (white).",
+            "Acoustic levitation can lift all types of materials, solid or liquid. But it can only support very small, lightweight things. Some of the heaviest stuff to ever surf sound waves were Styrofoam puffs (like those inside beanbag chairs).",
+            "Taller and wider objects need longer, lower-frequency sound waves to cradle them. Say you wanted to levitate a person \u2014 even someone curled into a ball. Cox estimates that would take at least 275-hertz waves, which are 1.25 meters (some 4 feet) long. Bass guitars play notes about that low. But the music from a bass-guitar levitator would also have to be devastatingly loud to lift someone off their feet.\u00a0",
+            "\u201cI\u2019m probably going to need quite a few power plants\u201d to run the device, Cox muses. \u201cBut maybe a big nuclear one could do it.\u201d",
+            "On top of that, you\u2019d need to shield anyone you levitated from the heat generated by that amount of power. Otherwise, your gnarly, nuclear-powered bass solo might literally melt their face off.",
+            "Magnets, meanwhile, already safely lift objects much bigger than people off the ground.",
+            "Perhaps the most striking display of that brute strength is a maglev train. Magnets on its cars and tracks interact to create an upward force. It lets the train hover about 10 centimeters (4 inches) above the track. This allows the train to glide nearly friction-free and travel twice as fast as trains that roll on rails. \u00a0",
+            "Magnetic levitation is not limited to magnetic metals, notes Eric Severson. He\u2019s a mechanical engineer at the University of Minnesota in Minneapolis. Diamagnetic materials also can accomplish this feat. Around a strong magnet, these materials can become weakly magnetized and start to repel the magnet. This repulsive force, though feeble, can win a fight against gravity.",
+            "Graphite, gold and many other substances are diamagnetic. Water, proteins and other molecules in living tissue are, too.",
+            "iFhttps://www.youtube.com/embed/KlJsVqc0ywM?start=32&feature=oembed",
+            "fCScience News",
+            "In 1997, two scientists famously used that fact to levitate a frog. They placed the creature inside a magnet made from two nested coils of wire. The field created by the device was 16 teslas. That\u2019s about 10 times as strong as the magnets used to pick up cars in junkyards. And it was just enough to buoy the frog near the top of the inner coil of wire. That coil was 18 centimeters (7 inches) tall.",
+            "\u201cYou could theoretically make a person float,\u201d Severson says. But you\u2019d need one heck of a magnet.\u00a0In 1998, one of the frog floaters estimated that\u00a0you\u2019d need a 40-tesla\u00a0field created by a magnet running on 1 gigawatt of power.\u00a0That\u2019s roughly\u00a0half the power produced by the Hoover Dam.\u00a0",
+            "There\u2019s another catch with magnetism: its short range. You have to be close to a magnet to feel its effects. So making something soar through the sky would likely require some other tech.",
+            "Ballooning spiders already have high-flying levitation figured out. A flock of these critters once impressed and perplexed Charles Darwin by alighting on his ship some 100 kilometers (60 miles) out to sea.",
+            "\u201cThey spin out a very long thread of spider silk and then, in the process, charge themselves up electrically,\u201d explains Igor Bargatin. This happens thanks to triboelectricity. \u201cThey lift off in the Earth\u2019s electric field,\u201d Bargatin says. \u201cAfter that, they\u2019re just carried by the wind.\u201d Sometimes, airborne arachnids are swept kilometers (miles) into the atmosphere.",
+            "Bargatin is a physicist and engineer at the University of Pennsylvania in Philadelphia. When he first heard about ballooning spiders, he wanted to build something that would mimic their wingless flight. But he realized this spidey levitation won\u2019t work for large objects.",
+            "Imagine trying to float a human. \u201cThe charge that they would need to accumulate is so large that you would start creating basically lightning all around you,\u201d Bargatin says. That wouldn\u2019t just be dangerous. It also would keep you from ever building up enough charge to take off.",
+            "iFhttps://www.youtube.com/embed/Ja4oMFOoK50?feature=oembed",
+            "When you think of flying animals, spiders probably aren\u2019t the first ones that come to mind. Yet ballooning spiders harness the power of Earth\u2019s electric field to soar miles high through the sky. Here\u2019s how.",
+            "All told, real-world levitation likely won\u2019t ever measure up to the superpowers seen on screen. Still, it needn\u2019t be flashy to be useful.",
+            "Acoustic levitation could handle tiny electronic components or lab samples without touching them. That would cut the risk of contaminating them. Severson uses magnetic levitation to make parts of motors float. That way they can spin faster without wearing down.",
+            "Scientists are still dreaming up new uses for levitation, too \u2014 ones that play to different techniques\u2019 natural strengths and won\u2019t risk frying anything during takeoff.",
+            "iFhttps://www.youtube.com/embed/bvYUq6Ox0Hc?feature=oembed",
+            "Magnetic levitation may not be able to lift things very high \u2014 but it doesn\u2019t have to in order to bring sci-fi tech like hoverboards to life."
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/lets-learn-about-lab-grown-meat",
         "title": "\n\tLet\u2019s learn about lab-grown meat",
         "content": [
@@ -856,7 +901,7 @@
         "URL": "https://www.snexplores.org/article/why-skis-long-glide-snow",
         "title": "\n\tWhy are skis so long?",
         "content": [
-            "*_Why_are_skis_so_long0",
+            "*_Why_are_skis_so_long2",
             "Why would you put planks under your shoes to slide around? Do this activity to find out!",
             "Key concepts: Weight, pressure, force, balance, center of mass",
             "Credits: Sabine De Brabandere, PhD, Science Buddies",
@@ -973,7 +1018,7 @@
             "When the humidity is higher, droplets dry slowly. Such slow drying concentrates salt and other things in the droplets that can harm a virus. That kills viruses such as influenza A and SARS-CoV-2. Marr and her colleagues reported that finding last July in a paper posted on bioRxiv.org. (Studies posted there have not yet been vetted by other scientists.)",
             "Meanwhile, in low humidity, droplets dry fast. That flash-drying in parched air preserves viruses. \u201cIf the air is very dry, the water quickly evaporates. Everything is dried down, and it\u2019s almost like things are frozen in place,\u201d Marr says.",
             "Viruses often travel through the air inside airborne droplets, or aerosols. When the air is dry, aerosols dry quickly (left). This drying encloses viruses in a layer of crystals that look like feathers (as this microscope image shows). That flash-drying protects viruses, although scientists don\u2019t know exactly how. At medium levels of humidity, crystals form inside liquid droplets (middle). Those crystals may inactivate viruses, not protect them. At high humidity levels (right), aerosols remain liquid. This also allows viruses to survive better than at mid-level humidity.",
-            "*_Explainer_Why_it\u2019s_easier_to_get_sick_in_the_winter1",
+            "*_Explainer_Why_it\u2019s_easier_to_get_sick_in_the_winter3",
             "Drier, smaller aerosols also are more buoyant than large droplets. So, those aerosols can hang in the air longer. That ups the chance someone will be able to breathe them in, Fisman says.",
             "What\u2019s more, dry air can tear down some of our defenses against viruses. Dry air can trigger the death of some cells lining the airways. That could leave cracks where viruses can invade. Scientists know this from studies in lab animals.",
             "Mucus in the airways can trap viruses and help protect against infection. That mucus carries germs out of the body through a runny nose or hacked-up phlegm. But breathing cold, dry air can slow the system that moves mucus out of the body. That slowdown may give viruses time to break out of the mucus trap and invade cells, Fisman says.",
@@ -982,7 +1027,7 @@
             "The virus that docks with one of the bubbles is in for a surprise. Inside the vesicles are virus-killing bits of genetic material. They\u2019re called microRNAs. One type of microRNA in the bubbles is known as miR-17. It can kill multiple types of cold-causing viruses. Bleier\u2019s team shared those findings December 6, 2022, in the Journal of Allergy and Clinical Immunology.",
             "Cold temps may impede the body\u2019s ability to make such virus-killing decoy bubbles. Bleier\u2019s team grew human nasal cells in lab dishes at 37\u00b0 Celsius (98.6\u00b0 Fahrenheit). That is our typical body temperature. The researchers measured how many bubbles the cells released. Then, the scientists lowered the thermostat to 32\u00b0 C (89.6\u00b0 F). Cells released about 42 percent fewer bubbles at the cooler temperature. What\u2019s more, those vesicles carried fewer virus-killing weapons. Vesicles can pack in about 24 percent more microRNA at body temperature than when it is cooler.",
             "The body\u2019s immune system uses a clever trick to keep viruses from infecting cells in the nose. When the body detects viruses (black and gray spheres), cells in the nose release bubbles (blue circles). These bubbles are called extracellular vesicles. The bubbles sport proteins (red, blue and black shapes on blue circles) like ones found on nasal cells. This makes them effective decoys: Viruses may go after the bubbles instead of infecting real cells. But when it gets cold (right), cells release fewer bubbles. This makes it easier for viruses to find and infect real nasal cells.",
-            "*_Explainer_Why_it\u2019s_easier_to_get_sick_in_the_winter2",
+            "*_Explainer_Why_it\u2019s_easier_to_get_sick_in_the_winter4",
             "What can people do to protect themselves from viruses in the winter? Some experts suggest using a humidifier to raise moisture levels in the air. If they raise it high enough, that might slow the drying of airborne droplets. Such a slow drying might help kill any viruses in the droplets.",
             "\u201cAny increase in humidity should be beneficial,\u201d says Shaman. \u201cYou get a lot of bang for your buck if you go from very dry [air] to dry.\u201d",
             "But Donald Milton doesn\u2019t think it\u2019s a good idea to pump a lot of moisture into a house when it is cold outside. \u201cThat humidity is going to find \u2026 cold spaces in your house and condense there.\u201d Condensation creates a breeding ground for mold and rot, says Milton. He studies viruses in the air. He works at the University of Maryland School of Public Health. That\u2019s in College Park.",
@@ -1010,7 +1055,7 @@
             "High in a cloud, there have to be some tiny floating particles for snow crystals to develop. When the right conditions do emerge, supercooled drops of water will latch onto these nuclei (NOO-klee-eye). They do it one by one, building an ice crystal.",
             "To understand what\u2019s behind a snowflake\u2019s intricate and complex shape, scientists turn to chemistry \u2014 the action of atoms.",
             "A molecule of water, or H2O, is made of two hydrogen atoms bound to an oxygen atom. This trio\u00a0combines into a \u201cMickey Mouse\u201d pattern. That\u2019s due to polar covalent (Koh-VAY-lent) bonds. The term refers to three atoms that each share electrons with one another, but unevenly.",
-            "*_Explainer_The_making_of_a_snowflake3",
+            "*_Explainer_The_making_of_a_snowflake5",
             "Snowflakes come in an endless variety of shapes and sizes \u2014 but all have six sides.",
             "The oxygen\u2019s nucleus is larger, so it has more pull. It yanks more strongly at the negatively charged electrons that they share. This brings those electrons a little closer. It also gives the oxygen a relative negative electric charge. The two hydrogen atoms end up a tad positive, in terms of charge.",
             "Alone, the structure of a water molecule resembles a wide V. But when multiple H2O molecules find themselves close to one another, they begin to pivot so that their electrical charges pair up. Opposite charges attract. So a negative hydrogen aims itself towards a positive oxygen. The shape that tends to result: a hexagon.",
@@ -1020,7 +1065,7 @@
             "Depending on the temperature, these hexagons join with each other and grow in different ways. Sometimes, they make needles. Others may form branch-like dendrites. All are beautiful. And all have their own unique story of crystal growth.",
             "Snowflake structure has been a scientific curiosity since Wilson Alwyn \u201cSnowflake\u201d Bentley attached a microscope to his camera in 1885 and became the first person to photograph them.",
             "These short-lived crystals still enthrall scientists. To better capture their shape and movement, Tim Garrett at the University of Utah in Salt Lake City recently built a better snowflake camera. He\u2019s been using it to get an inside view of the\u00a0 variety of flakes that fall.",
-            "*_Explainer_The_making_of_a_snowflake4",
+            "*_Explainer_The_making_of_a_snowflake6",
             "This diagram shows how temperature and humidity affect the shape of a snowflake. Note the six-sided shape. It\u2019s instrumental in how the crystals form and grow. The largest flakes tend to occur at temps close to freezing. As temperatures drop, flakes with fewer branches become more common. Scientists are still probing how temperature and humidity affect a flake\u2019s shape.",
             "1. A typical snowflake may contain 1,000,000,000,000,000,000, or one\u00a0quintillion\u00a0water molecules.\u00a0That\u2019s a million times a million times a million! Those building blocks can configure themselves in a virtually infinite array of patterns. So it stands to reason that no two snowflakes that you encounter will ever be exactly the same.",
             "2. Snowflakes tend to be less than a coin\u2019s width in diameter. But once in a while, true whoppers form. In January 1887, a Montana rancher reported snowflakes \u201clarger than milkpans.\u201d That would make them some 38 centimeters (15 inches) across. As that was back before portable home cameras, this number can be challenged. But snowflakes larger than 15.2 centimeters (6 inches) do sometimes develop. Biggies tend to form when temps are near freezing and the air humid. A snowflake\u2019s size also reflects other factors. These include wind speed and direction, dew point \u2014 even how electrified different layers of the atmosphere are. But nobody has ever really conducted measurements when gigantic flakes were flying.3. Most snowflakes fall at roughly a walking pace \u2014 between 1.6 and 6.4 kilometers (1 and 4 miles) per hour.",
@@ -1186,25 +1231,6 @@
             "If teens are struggling with acne, some over-the-counter products can be helpful, she notes. However, it\u2019s important to choose products that target the right problem. At that point, she advises teens to talk to their doctor. \u201cPediatricians are usually very equipped to manage mild to moderate acne,\u201d says Hales. If it\u2019s anything more severe, she recommends seeing a dermatologist.",
             "For kids who enjoy watching skincare routines online, Hales notes three steps to be a savvy consumer. First, she says, make sure you\u2019re putting on sunscreen every single day. Second, read the labels of the products you\u2019re using and see what kind of active ingredients they have. Third, look for fragrance-free products, since fragrance is the most common cause of skin allergy.",
             "Hales sees no harm in spending money on safe products that you put on from time to time because it feels luxurious or you enjoy it. But know that you don\u2019t need elaborate skincare routines to take care of your skin. \u201cIn most cases,\u201d she says, \u201cthose products are probably making the skin less healthy, rather than more healthy.\u201d"
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/scientists-say-supermoon-definition-pronunciation",
-        "title": "\n\tScientists Say: Supermoon",
-        "content": [
-            "*A_supermoon_rises_over_a_lighthouse_on_Kidston_Island_off_the_coast_of_Nova_Scotia,_Canada",
-            "A supermoon rises over a lighthouse on Kidston Island off the coast of Nova Scotia, Canada.",
-            "iFhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2208510212&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
-            "A supermoon is a full moon that appears larger and brighter than usual. It occurs when the moon is full and at its closest point to Earth. The word can also refer to a new moon \u2014 normally not visible \u2014 that occurs when Earth and the moon are closest together.",
-            "Our moon doesn\u2019t remain at a constant distance from Earth. That\u2019s because it orbits Earth in the shape of an ellipse \u2014 like a squashed oval. Sometimes the moon\u2019s orbit takes it farther away. Sometimes it draws the moon closer. When the moon swings closer to Earth, it can appear larger than usual. Sometimes this event coincides with phases of the moon that amplify the effect.",
-            "iFhttps://www.youtube.com/embed/wz01pTvuMa0?feature=oembed",
-            "This video illustrates the phases of Earth\u2019s moon.",
-            "A supermoon comes in two forms: a full supermoon and a new supermoon. Both happen when the moon comes within about 90 percent of its closest point to Earth. This point \u2014 when the moon\u2019s orbit is closest to Earth \u2014 is called perigee. When it\u2019s so close to Earth, the moon\u2019s disk is about 14 percent larger in the sky than normal.",
-            "The moon makes no light of its own. What we call moonlight is actually sunlight reflecting off the moon\u2019s surface. A full moon is when the side of the moon facing Earth is completely lit up. It looks like a full circle, or disk. When a supermoon occurs during a full moon, astronomers call it a full supermoon. With the moon\u2019s fully illuminated disk looking supersized, it really stands out in the night sky.",
-            "A new moon occurs when the side of the moon facing Earth is not lit up, so we cannot see it at night. When a supermoon occurs during a new moon, scientists call it a new supermoon.",
-            "Particles ejected from an Indonesian volcano painted a 2019 supermoon with rosy-red hues.",
-            "Check out the full list of\u00a0Scientists Say.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
         ]
     },
     {
