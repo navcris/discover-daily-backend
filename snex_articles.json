@@ -45,32 +45,6 @@
         ]
     },
     {
-        "URL": "https://www.snexplores.org/article/ai-generated-virus-genome",
-        "title": "\n\tAI can now write working genetic instruction books from scratch",
-        "content": [
-            "*an_illustration_of_DNA_double_helixes_against_a_blue_background",
-            "Two AI models generated \u2014 from scratch \u2014 multiple genomes for bacteria-killing viruses. In lab dishes, some of these AI-designed viruses were more effective assassins of bacteria than a well-studied phage (virus) is.",
-            "Artificial intelligence can dash off more than emails and essays. It has now written entire genetic instruction manuals, or genomes.\u00a0",
-            "Two AI models designed complete sets of DNA for 16 viruses\u00a0that can attack\u00a0Escherichia coli\u00a0bacteria in lab dishes. Such viruses that infect and replicate inside bacteria are known as bacteriophages (Bak-TEER-ee-oh-FAHZ-es). Just call them phages.",
-            "A mix of these AI-designed phages stopped the growth of E. coli\u00a0strains that ordinarily can resist death by virus. This hints that AI-made phages might offer new ways to fight tough-to-treat infections.",
-            "It\u2019s the first time that AI has created an entire genome, says Brian Hie. And even though scientists debate whether viruses are alive or not, the work is a step toward using AI to design living things.",
-            "Hie is a computational biologist at Stanford University in California. He\u2019s part of a team that shared its new findings September 17 on bioRxiv.org. (Studies posted to that site have not yet been vetted by other scientists.)",
-            "In the past, AI models have been used to design individual genes and proteins. Creating an entire genome from scratch, however, adds a new layer of complexity. It requires many genes and proteins to team up.",
-            "To try to create genomes for bacteria-killing viruses, Hie\u2019s team turned to two of its own AI models. These models had trained on billions of pairs of DNA\u2019s basic units \u2014 abbreviated A, C, G and T \u2014 from existing phage genomes. (This is similar to the way\u00a0ChatGPT has trained on the billions of letters in books and internet posts.)",
-            "The researchers turned to a known bacteria-killing phage \u2014 \u03a6X174 \u2014 as a guide to help their AI design a similar genome. Scientists first read out the complete set of genetic instructions for \u03a6X174 in 1977. Its DNA is now very well known and studied. This meant the scientists could easily compare how phage genomes designed by AI differed from that of \u03a6X174, Hie explains.",
-            "One reason his team decided to test their genome-designing AI on phages: They don\u2019t infect people. That means it was safe to work with them in the lab. The researchers also did not train their models on viruses known to cause disease. In this way, they made sure their AI wouldn\u2019t design viruses that might harm people.",
-            "The two AI models came up with roughly 300 potential phage genomes. Of those, 16 produced viruses that could infect\u00a0E. coli. Some of them even killed\u00a0E. coli\u00a0faster than \u03a6X174 did.",
-            "What\u2019s more, \u03a6X174 failed to kill three strains of\u00a0E. coli\u00a0on its own. But mixtures of AI-generated phages quickly evolved to take out even those bacteria.\u00a0",
-            "The new findings suggest AI could help develop new\u00a0viruses for use in medicine. Indeed, such phages might offer a way to treat bacterial infections that no longer respond to antibiotics.",
-            "\u201cThe need to find a phage that targets [such a \u2018superbug\u2019] strain would be very urgent,\u201d says Kimberly Davis. \u201cAI could be a powerful way of rapidly generating a phage match to treat patients.\u201d Davis is a microbiologist at the Johns Hopkins Bloomberg School of Public Health in Baltimore, Md. She did not take part in the AI genome work.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "However, Davis adds, \u201cUse of AI-generated phages would need to be tightly controlled.\u201d Extensive tests would need to make sure such phages don\u2019t harm good microbes in the body, ones that keep us healthy.",
-            "Ideally, AI-made phages would not just kill one harmful type of bacteria, Hie says. They might also evolve to keep up with virus-resistant bacteria. Using AI to design entire organisms also could make microbes that speed up antibiotic production, Hie notes. Or they might allow the design of microbes to break down plastics.\u00a0",
-            "AI may even help researchers make sense of genomes \u2014 and treat diseases \u2014 that are more complex than viral ones, Hie says. Our genome is more than half a million times the size of \u03a6X174\u2019s genome, he notes. \u201cSo there\u2019s a lot of work to go.\u201d",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
-        ]
-    },
-    {
         "URL": "https://www.snexplores.org/article/air-pollution-harm-vision",
         "title": "\n\tAir pollution might harm children\u2019s eye health",
         "content": [
@@ -202,6 +176,32 @@
             "In 2023, astronomers detected radiation belts similar to Earth\u2019s Van Allen belts on a planet beyond our solar system.",
             "Check out the full list of\u00a0Scientists Say.",
             "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
+        ]
+    },
+    {
+        "URL": "https://www.snexplores.org/article/ai-generated-virus-genome",
+        "title": "\n\tAI can now write working genetic instruction books from scratch",
+        "content": [
+            "*an_illustration_of_DNA_double_helixes_against_a_blue_background",
+            "Two AI models generated \u2014 from scratch \u2014 multiple genomes for bacteria-killing viruses. In lab dishes, some of these AI-designed viruses were more effective assassins of bacteria than a well-studied phage (virus) is.",
+            "Artificial intelligence can dash off more than emails and essays. It has now written entire genetic instruction manuals, or genomes.\u00a0",
+            "Two AI models designed complete sets of DNA for 16 viruses\u00a0that can attack\u00a0Escherichia coli\u00a0bacteria in lab dishes. Such viruses that infect and replicate inside bacteria are known as bacteriophages (Bak-TEER-ee-oh-FAHZ-es). Just call them phages.",
+            "A mix of these AI-designed phages stopped the growth of E. coli\u00a0strains that ordinarily can resist death by virus. This hints that AI-made phages might offer new ways to fight tough-to-treat infections.",
+            "It\u2019s the first time that AI has created an entire genome, says Brian Hie. And even though scientists debate whether viruses are alive or not, the work is a step toward using AI to design living things.",
+            "Hie is a computational biologist at Stanford University in California. He\u2019s part of a team that shared its new findings September 17 on bioRxiv.org. (Studies posted to that site have not yet been vetted by other scientists.)",
+            "In the past, AI models have been used to design individual genes and proteins. Creating an entire genome from scratch, however, adds a new layer of complexity. It requires many genes and proteins to team up.",
+            "To try to create genomes for bacteria-killing viruses, Hie\u2019s team turned to two of its own AI models. These models had trained on billions of pairs of DNA\u2019s basic units \u2014 abbreviated A, C, G and T \u2014 from existing phage genomes. (This is similar to the way\u00a0ChatGPT has trained on the billions of letters in books and internet posts.)",
+            "The researchers turned to a known bacteria-killing phage \u2014 \u03a6X174 \u2014 as a guide to help their AI design a similar genome. Scientists first read out the complete set of genetic instructions for \u03a6X174 in 1977. Its DNA is now very well known and studied. This meant the scientists could easily compare how phage genomes designed by AI differed from that of \u03a6X174, Hie explains.",
+            "One reason his team decided to test their genome-designing AI on phages: They don\u2019t infect people. That means it was safe to work with them in the lab. The researchers also did not train their models on viruses known to cause disease. In this way, they made sure their AI wouldn\u2019t design viruses that might harm people.",
+            "The two AI models came up with roughly 300 potential phage genomes. Of those, 16 produced viruses that could infect\u00a0E. coli. Some of them even killed\u00a0E. coli\u00a0faster than \u03a6X174 did.",
+            "What\u2019s more, \u03a6X174 failed to kill three strains of\u00a0E. coli\u00a0on its own. But mixtures of AI-generated phages quickly evolved to take out even those bacteria.\u00a0",
+            "The new findings suggest AI could help develop new\u00a0viruses for use in medicine. Indeed, such phages might offer a way to treat bacterial infections that no longer respond to antibiotics.",
+            "\u201cThe need to find a phage that targets [such a \u2018superbug\u2019] strain would be very urgent,\u201d says Kimberly Davis. \u201cAI could be a powerful way of rapidly generating a phage match to treat patients.\u201d Davis is a microbiologist at the Johns Hopkins Bloomberg School of Public Health in Baltimore, Md. She did not take part in the AI genome work.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "However, Davis adds, \u201cUse of AI-generated phages would need to be tightly controlled.\u201d Extensive tests would need to make sure such phages don\u2019t harm good microbes in the body, ones that keep us healthy.",
+            "Ideally, AI-made phages would not just kill one harmful type of bacteria, Hie says. They might also evolve to keep up with virus-resistant bacteria. Using AI to design entire organisms also could make microbes that speed up antibiotic production, Hie notes. Or they might allow the design of microbes to break down plastics.\u00a0",
+            "AI may even help researchers make sense of genomes \u2014 and treat diseases \u2014 that are more complex than viral ones, Hie says. Our genome is more than half a million times the size of \u03a6X174\u2019s genome, he notes. \u201cSo there\u2019s a lot of work to go.\u201d",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
         ]
     },
     {
@@ -1326,22 +1326,6 @@
             "Lin\u2019s team also showed that people were better at forming new memories after receiving a big reward. After a big event, the brain is alert. It\u2019s open to new information. So now, Lin says, new memories are more likely to stick around.",
             "Sorting out what\u2019s going on in the brain while memories form will take more time.",
             "In the meantime, therapists could use these findings to help people enhance the everyday memories that occurred before a trauma. This might dull the pain of what came after, Lin says. Teachers might also use the findings to help students retain more of what they learn. For instance, Lin suggests, if Susie surprisingly jumps up and down in a math word problem, perhaps the class should jump up and down, too."
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/brain-activity-see-color-red",
-        "title": "\n\tTo our brains, your red is my red",
-        "content": [
-            "*a_bunch_of_red_apples",
-            "Colors evoke similar neural activity across different people, a brain scanning study finds.",
-            "Is my red the same as your red?",
-            "It\u2019s a classic puzzler, one that\u2019s fun to debate with your friends and family. Do colors look the same to you as they do to me? Now two neuroscientists weigh in \u2014 with a resounding maybe.",
-            "There were two possibilities when it comes to how brains react to color, says Andreas Bartels. He works at the University of T\u00fcbingen and the Max Planck Institute for Biological Cybernetics in Germany. Perhaps everyone\u2019s brain is unique. Each might have its own snowflake pattern of nerve cells responding when someone sees red. Or it could be that seeing red kicks off a standard, predictable pattern of brain activity. And that pattern might not vary much from you to me.",
-            "The answer is overwhelmingly the second option, Bartels and Michael Bannert (also at T\u00fcbingen and the Max Planck Institute) report in the October 15 Journal of Neuroscience. They found \u201ccommonalities across brains,\u201d Bartels says.",
-            "He and Bannert started with 15 people. Each viewed shades of reds, greens and yellows. As they did, the scientists monitored nerve-cell activity across visual areas of the participants\u2019 brains. The researchers then used these data to predict which color each person saw.",
-            "The results showed that neural reactions to colors are somewhat standard. They don\u2019t seem to vary much from person to person.",
-            "But these findings can\u2019t answer how it feels to see red, Bartels says. How your brain creates inner experiences that are unique to you is a much bigger question about consciousness. And it\u2019s one that will no doubt continue to be debated for a long time.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
         ]
     },
     {
