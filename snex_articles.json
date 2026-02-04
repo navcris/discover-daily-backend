@@ -1,22 +1,5 @@
 [
     {
-        "URL": "https://www.snexplores.org/article/scientists-say-hallucination-definition-pronunciation",
-        "title": "\n\tScientists Say: Hallucination",
-        "content": [
-            "*a_person_holds_up_a_phone_with_a_chatbot_icon_on_the_screen,_and_the_chatbot_saying_'hello!_ask_me_a",
-            "Experts warn that without scrutiny, a person might miss made-up information \u2014 or hallucinations\u2014 in AI chatbot responses.",
-            "iFhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2257084043&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
-            "The word \u201challucination\u201d can mean different things depending on the context. In psychology, a hallucination is when someone senses something that is not there. In computer science, it refers to a type of artificial intelligence, or AI, error. It\u2019s when an AI system generates an incorrect or misleading response that may appear plausible.",
-            "In psychology, hallucinations are a form of psychosis. That is a mental state in which a person becomes disconnected from reality. Hallucinations can involve any of the senses. A person may see, hear, smell, taste or feel things that are not there.",
-            "Some mental conditions can come with hallucinations. Schizophrenia, for example, is a mental condition is marked by hallucinations \u2014 especially sound-related ones. About 75 percent of people with this condition report hearing things that do not exist. Drug use, poor sleep or illness \u2014 especially with a high fever \u2014 can trigger hallucinations, too.",
-            "In computer science, a hallucination refers to an AI mistake. Sometimes an AI system will generate incorrect or misleading responses. These errors can be hard to catch, even for experts.",
-            "Here\u2019s an example. In 2023, Google released ads showing off an AI chatbot. The AI was called Bard. However, the ads contained errors. Google asked Bard, \u201cWhat new discoveries from the James Webb Space Telescope (JWST) can I tell my 9-year-old about?\u201d Bard claimed that the JWST had taken the first-ever picture of an exoplanet. That\u2019s a planet outside our solar system. But this was not true. The first such image was captured by the VLT. That\u2019s the European Southern Observatory\u2019s Very Large Telescope.",
-            "AI experts warn that chatbot hallucinations may mislead you.",
-            "Check out the full list of\u00a0Scientists Say.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
-        ]
-    },
-    {
         "URL": "https://www.snexplores.org/article/chicago-rat-hole-likely-squirrel",
         "title": "\n\tChicago\u2019s Rat Hole? Science concludes it\u2019s likely not from a rat",
         "content": [
@@ -37,6 +20,23 @@
             "\u201cIt\u2019s so rare to get such a fun story,\u201d he says. \u201cIt really speaks to what we do in my lab \u2014 which is take data and package it in a way that is accessible.\u201d",
             "As for the Rat Hole? It gained so much attention that some neighbors began to complain about the crowds on their quiet street. A few months after its initial fame, the city carefully removed that slab of sidewalk. But it\u2019s not gone. Today, it sits protected in a display case at Chicago\u2019s City Hall.",
             "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
+        ]
+    },
+    {
+        "URL": "https://www.snexplores.org/article/scientists-say-hallucination-definition-pronunciation",
+        "title": "\n\tScientists Say: Hallucination",
+        "content": [
+            "*a_person_holds_up_a_phone_with_a_chatbot_icon_on_the_screen,_and_the_chatbot_saying_'hello!_ask_me_a",
+            "Experts warn that without scrutiny, a person might miss made-up information \u2014 or hallucinations\u2014 in AI chatbot responses.",
+            "iFhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2257084043&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+            "The word \u201challucination\u201d can mean different things depending on the context. In psychology, a hallucination is when someone senses something that is not there. In computer science, it refers to a type of artificial intelligence, or AI, error. It\u2019s when an AI system generates an incorrect or misleading response that may appear plausible.",
+            "In psychology, hallucinations are a form of psychosis. That is a mental state in which a person becomes disconnected from reality. Hallucinations can involve any of the senses. A person may see, hear, smell, taste or feel things that are not there.",
+            "Some mental conditions can come with hallucinations. Schizophrenia, for example, is a mental condition is marked by hallucinations \u2014 especially sound-related ones. About 75 percent of people with this condition report hearing things that do not exist. Drug use, poor sleep or illness \u2014 especially with a high fever \u2014 can trigger hallucinations, too.",
+            "In computer science, a hallucination refers to an AI mistake. Sometimes an AI system will generate incorrect or misleading responses. These errors can be hard to catch, even for experts.",
+            "Here\u2019s an example. In 2023, Google released ads showing off an AI chatbot. The AI was called Bard. However, the ads contained errors. Google asked Bard, \u201cWhat new discoveries from the James Webb Space Telescope (JWST) can I tell my 9-year-old about?\u201d Bard claimed that the JWST had taken the first-ever picture of an exoplanet. That\u2019s a planet outside our solar system. But this was not true. The first such image was captured by the VLT. That\u2019s the European Southern Observatory\u2019s Very Large Telescope.",
+            "AI experts warn that chatbot hallucinations may mislead you.",
+            "Check out the full list of\u00a0Scientists Say.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
         ]
     },
     {
@@ -253,6 +253,27 @@
         ]
     },
     {
+        "URL": "https://www.snexplores.org/article/mosquito-mouth-3d-print-nozzle",
+        "title": "\n\tA mosquito\u2019s mouth can \u2018print\u2019 lines thinner than a human hair",
+        "content": [
+            "*A_scanning_electron_micrograph_shows_an_mosquito_head_with_a_compound_eye_and_two_long,_hair-covered",
+            "The proboscis of a mosquito (seen in this scanning electron microscope image of one insect\u2019s head) is used for piercing skin. It\u2019s also perfect for precision 3-D printing.",
+            "A mosquito bite is really more of a poke. These insects use a long, needle-like mouthpart known as a proboscis (Pr\u0259-BOSS-sis) to pierce the skin. But this tiny straw could be good for more than just sucking blood. Its unique shape also makes it a great nozzle for fine 3-D printing, new research shows.",
+            "Engineer Changhong Cao led research into this at McGill University in Montreal, Canada. His team calls it \u201c3-D necroprinting.\u201d The term comes from necrobotics, the use of animal parts in machines.\u00a0(Other engineers, for instance, have turned\u00a0spider legs into grippers.)",
+            "By using the proboscis from a mosquito as a nozzle, Cao\u2019s team 3-D printed lines as narrow as 20 micrometers. That\u2019s about half the width of a really fine human hair! The scientists shared their achievement November 21\u00a0in Science Advances.",
+            "Daniel Preston is an engineer at Rice University in Houston, Texas, who did not take part in the work. Nozzle tips used in really fine-line 3-D printing can be expensive and hard to build, he notes. Borrowing parts from nature can help lower the cost, he says. And that, in turn, may make it accessible to more people.",
+            "*A_tiny,_layered_3-D_printed_structure_shaped_like_a_maple_leaf_rests_on_a_smooth_surface",
+            "fCScientists printed this 3-D structure shaped like a maple leaf using a mosquito-proboscis nozzle. Each line on the structure is about 18 micrometers wide, less than half the thickness of a fine human hair.",
+            "Cao\u2019s team looked at many animal parts that might work as printer nozzles. These included stingers, fangs and harpoons. But the team eventually zeroed in on\u00a0the proboscis of the female\u00a0Aedes aegypti\u00a0mosquito. This organ is fairly straight, with an inner diameter between 10 and 20 micrometers. And it can withstand the pressure of ink being pushed through it.",
+            "At first, the plan was to use the proboscis as the nozzle for an existing 3-D printer. But pushing ink through the narrow tip might need more pressure than those printers could handle, says Cao.\u00a0So his group designed a printer around the mosquito\u2019s mouthpart. They coated the proboscis with resin to make it extra stable.",
+            "The device printed a honeycomb shape, the outline of a maple leaf and a structure to hold cell samples. All were created with existing bioink. This is a special ink used to 3-D print biological structures.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "\u201cThis biological, nature-derived sample is much better than engineered material,\u201d says team member Jianyu Li. He\u2019s an engineer who specializes in biological materials at McGill. The best 3-D printing tips on the market have inner diameters of 35 to 40 micrometers. The mosquito proboscis nozzle is half that wide.",
+            "\u201cI\u2019m looking forward to seeing other biotic materials [added] in the 3-D printing process,\u201d Preston says. Moving in that direction could \u201cenable new capabilities,\u201d he says. And, he adds, it could make microscopic engineering more sustainable.",
+            "Li would like to use the mosquito proboscis in biomedicine. For example, his lab wants to develop ways to use the proboscis as a tiny needle to deliver drugs."
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/chatbots-shallow-learning",
         "title": "\n\tChatbots may make learning feel easy \u2014 but it\u2019s shallow",
         "content": [
@@ -273,85 +294,6 @@
             "When people use web searches, they synthesize information. That means they figure out how info from different sources fits together. \u201cLLMs can reduce the load of having to synthesize information for oneself,\u201d Melumad concludes. \u201cThis ease comes at the cost of developing deeper knowledge on a topic.\u201d However, she notes, developers could design AI-using search tools that encourage users to dig deeper.\u00a0",
             "Daniel Oppenheimer is a psychologist at Carnegie Mellon University in Pittsburgh, Pa. The new study shows that LLMs reduce the motivation for people to do their own thinking, he says.",
             "People could follow the links given by ChatGPT. Or they could fact-check the information ChatGPT gives. Those actions would provide some of the benefits received by those who used web searches. So Oppenheimer doesn\u2019t think people need to abandon LLMs. \u201cThe effectiveness of the tool depends on how you use it,\u201d he says. The new research just shows people don\u2019t naturally use LLMs as well as they might, he says."
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/gold-nanoparticle-stencils",
-        "title": "\n\t\u2018Stenciling\u2019 tiny gold particles gives them new properties",
-        "content": [
-            "*an_illustration_of_brightly_colored_particles_in_various_patterns",
-            "These drawings show some of the designs that scientists could stencil onto tiny gold particles. Using a mixture of chemicals, a team of researchers made more than 20 different patterns on the nanoparticles.",
-            "A popular technique for decorating pottery is helping scientists \u201cpaint\u201d intricate patterns on nanosized bits of gold. This teeny tiny art technique could give the gold specks exciting new properties.",
-            "The new nanoparticles could have a wide range of uses. They could go into tiny electronic circuits. They could help tote drugs to specific parts of the body. They could even assemble themselves into \u201cmetamaterials.\u201d Such materials might interact with light or sound in new ways.",
-            "But building the right types of nanoparticles for such jobs is no easy feat. Scientists must carefully craft the particles\u2019 surfaces. This controls how they will interact with each other and with other things. That\u2019s quite difficult when each particle is less than 100 nanometers across. That\u2019s just one-thousandth as thick as a typical sheet of paper!",
-            "Nanoscientist Ahyoung Kim got her idea for this solution in a pottery class. Kim used handmade stencils to decorate her pieces. First, she drew a design on the ceramic pottery with wax. Then, she colored over the pot with ink. That ink stuck everywhere except where the wax was, leaving the design behind.",
-            "Kim had been trying to find a way to decorate nanoparticles of gold. Scientists had reliable ways to make the tiny gold bits, but not decorate them. \u201cAt that point, I thought, \u2018Oh, maybe I need some kind of mask-like thing\u2019\u201d \u2014 like the wax she used on pottery. Kim stenciled nanoparticles as a student at the University of Illinois Urbana-Champaign. Now, she\u2019s working at the California Institute of Technology in Pasadena.",
-            "*a_photo_of_Ahyoung_Kim,_a_young_Asian_woman_stenciling_a_design_on_a_pot",
-            "fCNanoscientist Ahyoung Kim got the idea for stenciling nanoparticles in an art class. In that class, Kim used wax to stencil a design onto a piece of pottery. Gold nanoparticles are too small to draw on with wax, so Kim used a chemical called iodide instead.",
-            "Kim was part of a team that used chemicals to carefully stencil patterns on nanosize nuggets of gold. The gold bits were too small to draw on with wax. So she used something called iodide. When she mixed it with the nanobits, the iodide covered some parts of the gold, but left other areas exposed.",
-            "Kim also added a material called 2-NAT. It stuck to the still-exposed gold surfaces, but not to areas covered with iodide. Finally, she \u201cpainted\u201d the gold nanobits with long, hair-like chemicals. A type of polymer, they clung to areas covered with 2-NAT, but not to areas covered with iodide. The iodide had acted like the wax stencil in her pottery class, limiting where the polymer \u201cpaint\u201d could stick.",
-            "By changing the amounts of iodide and 2-NAT, the team could stencil nanoparticles with different designs. The shapes of the particles also affected those final designs.",
-            "Computer models helped predict what the designs would look like with different recipes of gold, iodide and 2-NAT. These simulations also predicted how the gold bits would arrange themselves into larger structures. After running those models, the scientists whipped up more than 20 of the designs in the lab.",
-            "This stenciling is \u201cpushing the frontiers of what\u2019s possible with nanocrystals and how they can be modified,\u201d says Sara Skrabalak. She\u2019s a chemist at Indiana University Bloomington. Skrabalak did not take part in the new study. But she does work with other tiny materials.",
-            "Kim\u2019s team described its tiny stenciling trick in the October 16 Nature.",
-            "iFhttps://www.youtube.com/embed/82M2sMzv52A?feature=oembed",
-            "Decorating tiny nanoparticle surfaces is no simple task. Here, Kim and her colleague Qian Chen discuss their approach to stenciling the nanoparticles. Chen is a materials scientist at the University of Illinois Urbana-Champaign.",
-            "Gold nanobits can group to make bigger structures. And different stencils affect how.",
-            "Normally, gold nanobits cluster closely, like a stack of oranges at the grocery store. But with the polymer patches stenciled on, that changes. The polymers stick out from each gold bit, pushing other gold nanobits away. Instead of packing tightly, the stenciled gold bits pack more loosely. That could change some of their traits.",
-            "For instance, it might change how they interact with light, says Maria Rosaria Plutino. She studies nanoscale materials at the Italian National Research Council in Messina. Rosaria Plutino did not take part in the new research. She does, however, study how tiny particles like these might work in fabrics, medicines and other applications. Adding stenciled nanoparticles, for example, might change a fabric\u2019s color, she says.",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
-            "And that\u2019s just the beginning. Researchers might stencil nanobits with different polymers and decorate metals other than gold.",
-            "Such stenciled nanobits might help make stealth coatings, Skrabalak says. These might hide things from radar, making them harder to spot.",
-            "Kim says her team is now exploring combos that could affect how medicines react in the body. The goal: Use the stencil to help direct a drug to where it\u2019s needed.",
-            "\u201cIt\u2019s a very nice approach,\u201d Rosaria Plutino says. \u201cIt opens a lot of different ways to apply this kind of stencil.\u201d",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/conservation-energy-forms-law",
-        "title": "\n\tEnergy may seem to disappear, but there\u2019s a law against that",
-        "content": [
-            "*a_red_hardback_book_on_a_wood_table",
-            "Bounce, bounce, stop: Each ball\u2019s energy converts from potential to kinetic to heat \u2014 proving that energy never vanishes, just transforms.",
-            "A bouncing ball eventually will roll to a stop. After a long day of scrolling, a phone battery will die. Eventually, every campfire will burn out. In each case, it seems like some energy disappeared. Except it can\u2019t \u2014 not even a little bit. A law of physics prohibits that.",
-            "\u201cEnergy can never disappear nor appear,\u201d explains Krista Freeman. She is a physicist who works at Case Western Reserve University in Cleveland, Ohio. There, she uses physics to study living things, such as viruses.",
-            "\u201cYou can\u2019t make it and you can\u2019t destroy it,\u201d she says of energy. It \u201ccan only ever be converted from one form to another.\u201d That\u2019s known as the law of energy conservation.",
-            "A cornerstone of science, it applies to everything, from exploding stars to each cell in your body.",
-            "Here, we explain why it can\u2019t disappear when your phone dies or those campfire embers finally turn cold.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "The Merriam-Webster dictionary defines energy as anything from \u201cvigorous exertion\u201d to \u201cthe capacity of acting or being active.\u201d That\u2019s rather arm-wavy. But in physics, the term energy means something quite specific and measurable. It simply means the ability to do work.",
-            "Energy is what allows a car to move, a light bulb to glow or your muscles to lift your backpack. Without energy, nothing in the universe could change or move.",
-            "Energy can exist as light, heat, sound, movement \u2014 even the position of an object. Think of it like money. You might have cash in your wallet, a gift card or a nice balance in some bank account. It\u2019s all money \u2014 just in different forms.",
-            "fCAs coal and wood burn, their stored energy gets converted into heat and light, which radiate outward into the surroundings. That energy will be released and dispersed into the air, a demonstration of energy conservation. ",
-            "Energy works the same way.",
-            "A moving skateboard has kinetic energy \u2014 the energy of motion. A book sitting on a shelf has potential energy because of its height. (It has the potential to fall off the shelf, turning the energy stored in its height into kinetic energy.) Even sitting on the ground, a book\u2019s pages have energy; they can fuel a fire. Our sun radiates energy in the form of heat and light. Sound from your phone\u2019s speaker moves in waves of energy.",
-            "Just as you can save money in a bank for later, energy can be stored, too. Batteries store chemical energy, as does food. Your body stores energy in fat cells for later use.",
-            "So energy is all around you \u2014 in motion, in heat, in sound, in light, stored in food and fuel. But here\u2019s the puzzle: When a rolling ball stops or a battery \u201cdies,\u201d where does all that energy go?",
-            "Energy doesn\u2019t go anywhere. It just transforms.",
-            "Take that ball. \u201cWhen we see a ball stop bouncing, it is easy to think that the energy it has has disappeared,\u201d Freeman says. But that\u2019s a mistake, she adds. \u201cEnergy can never disappear nor appear.\u201d",
-            "What actually happens is that the energy converts from potential to kinetic to frictional energy, or heat. Let\u2019s break it down.",
-            "*a_red_hardback_book_on_a_wood_table",
-            "fCA book sitting on a table contains potential energy. But its pages also hold stored energy that later can be used as fuel. When burned, that energy converts to heat and light. This demonstrates how the same object can contain energy in many different forms. ",
-            "A ball falls from a height. While the ball is up high, it has potential energy due to its position. But as gravity pulls it down, that potential energy converts into the energy of motion.",
-            "When the ball slams onto the pavement, its kinetic energy splits up. Some turns into the sound energy you hear as a sharp thwack. Some gets absorbed by the ground as heat. But the ball doesn\u2019t immediately come to a stop. Some of its kinetic energy remains, bouncing it back upward. It rises, but not as high as before \u2014 because it no longer has the energy that was transformed into sound and heat. With less energy, the bounce cannot push the ball as far upward.",
-            "The ball falls and bounces again. Each time it hits the ground, more of its energy converts into sound and heat. Eventually, all of its initial potential energy will have morphed into heat and sound. This allows the ball to roll to a stop.",
-            "In each step, energy is transformed from one type to another \u2014 spreading through the ground as heat and the air as sound waves.",
-            "That physical law on the conservation of energy holds that energy can change forms. It just can never be created or destroyed.",
-            "\u201cConservation of energy is so important to science because it is the one thing that is always true in the world as we experience it,\u201d Freeman says. \u201cIt applies equally to an elephant and to an ant.\u201d",
-            "And it shows up everywhere. Consider fusion reactions, which power the sun and other stars. Here, two atoms combine to form a larger atom, releasing energy in the process.",
-            "\u201cIn the case of fusion, you\u2019re actually getting energy from nuclear bonds, which are [very strong],\u201d explains Uri Shumlak. He co-founded Zap Energy in Everett, Wash. This company is developing fusion as a potential energy source.",
-            "Nuclear bonds are the forces that hold atoms together. These bonds store enormous amounts of energy. When hydrogen atoms fuse into helium, for instance, some of the hydrogen atoms\u2019 energy will radiate out as light and heat.",
-            "*an_image_showing_a_huge_burst_of_energy_in_the_form_of_a_solar_flare_on_the_sun's_surface",
-            "fCThe sun and other stars are powered by fusion reactions. The bright spot seen here on the surface of the sun is a solar flare \u2014 a huge burst of energy.",
-            "If you lit a regular wooden matchstick and a matchstick-sized piece of fusion fuel, Shumlak says, the fusion fuel would release about 10 million times more energy than the matchstick.",
-            "Fusion can sustain a star\u2019s steady emission of light and heat for billions of years. This is why fusion energy interests scientists so much. If it could be controlled on Earth, small amounts of fuel could power entire cities.",
-            "A lot of the confusion surrounding energy comes from how we all use it in everyday language. We\u2019ve all learned to use the term in a very non-scientific way. To say batteries \u201cdie\u201d or that power plants \u201cgenerate\u201d energy is a misnomer. These phrases don\u2019t accurately describe what\u2019s happening.",
-            "A \u201cdead\u201d battery no longer works because its stored chemical energy has been converted to heat and electricity. That electricity powered your phone. Similarly, when we say power plants \u201cgenerate\u201d energy, it\u2019s not being created out of nowhere. Instead, power plants convert energy from a solid \u2014 usually a fossil fuel (such as coal) or uranium (a radioactive element) \u2014 into heat and light. That heat then drives a turbine, which transforms mechanical energy into a flow of electrons: electricity.",
-            "This leads to another misunderstood term: renewable energy.",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
-            "\u201cRenewable energy isn\u2019t really a scientific term,\u201d Shumlak explains. \u201cAs far as the universe is concerned, all energy is conserved.\u201d In a sense, then, it\u2019s all renewable.",
-            "We use the term renewable energy to refer to energy sources that effectively won\u2019t run out (at least in humanity\u2019s lifetime). That makes solar, wind, geothermal and hydropower essentially unlimited resources.",
-            "\u201cWords like renewable, sustainable, green or clean, they all mean slightly different things,\u201d Shumlak says. Still, they \u201cget at the idea that humans will exist longer and have better lives if we can find ways to [use energy sources] that have less detrimental effects on the planet.\u201d"
         ]
     },
     {
@@ -1392,30 +1334,6 @@
         ]
     },
     {
-        "URL": "https://www.snexplores.org/article/glue-gun-heal-broken-bones",
-        "title": "\n\tA modified glue gun squirts a material to help heal broken bones",
-        "content": [
-            "*an_X-ray_of_a_broken_arm_bone,_the_area_of_the_break_is_red",
-            "A handheld 3-D printer might someday print bone grafts directly onto fractures. Researchers prototyped the idea with a modified glue gun. They included antibiotics in the material to ease healing.",
-            "A repurposed glue gun has helped repair broken bones in rabbits. Instead of a regular glue stick, it melts a material that helps bones heal.",
-            "Some breaks in bones need a little help to mend. So surgeons sometimes take a bit of bone from elsewhere in the body to make a patch called a graft. Or they can use a synthetic \u2014 human-made \u2014 material that mimics bone.",
-            "Synthetic grafts are often 3-D printed. Usually, X-ray scans and measurements of injuries are needed to make sure the graft will fit just right. Designing and making the graft takes time and can delay repairs.",
-            "But the glue gun method doesn\u2019t require images of the fracture. And it doesn\u2019t need any special graft design. The handheld device can simply squirt the graft material right onto a break. ",
-            "The idea was to design a printing system that could be easily used in operating rooms, says Jung Seung Lee. He\u2019s a biomedical engineer at Sungkyunkwan University. That\u2019s in Seoul, South Korea. Compared with regular bone grafts, he says, this system can save time, cost and complex procedures.",
-            "The printing device holds sticks of a specially made \u201cbioink.\u201d It\u2019s safe to use in the body. It consists of two compounds commonly used for 3-D printing implants. One, hydroxyapatite, is a mineral found in bones. The other is a body-safe plastic called polycaprolactone, or PCL. That\u2019s included to support new bone as it grows. In an implant, it \u201cgradually degrades in our body over months,\u201d Lee says. Over time, newly grown bone will fill in as the graft breaks down.",
-            "The ratio of the two compounds in the bioink determines the material\u2019s strength and stiffness. So the researchers can tailor the mixture for each use. They also added antibiotics into the bioink to prevent infections.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "Like the glue sticks used for crafting, the bioink fits in the handheld printer. It can be squeezed out where it\u2019s needed. But regular hot glue guns work at temperatures far too high for living tissues.",
-            "So the researchers modified their glue gun to work at lower temperatures. They also adjusted the tip for better control. Thanks to the low melting point of PCL, the bioink can be applied at about 60\u00b0 Celsius (140\u00b0 Fahrenheit). It cools to body temperature within 40 seconds. The whole process takes just a few minutes.",
-            "Lee\u2019s team tested the printer and bioink on broken leg bones in rabbits. Another set of rabbits got a material called bone cement, which is used to attach implants to bones. The rabbits that got the bioink had better healing and regrowth of bone tissue. And the animals showed no signs of infection during the 12 weeks after surgery. The team shared its results September 5 in Device.",
-            "For now, the printer is still a proof-of-concept for people. Lee aims to develop it into a multi-use printing system. For instance, it might apply chemicals that promote healing during surgeries. But first, researchers will have to do more studies to make sure the technology is safe. They\u2019ll also need to figure out how to disinfect the device between uses.",
-            "There may be other limitations. \u201cThe high temperature of the extruded material is likely to stress or kill the cells,\u201d says Deborah Mason. She\u2019s a molecular and cell biologist at Cardiff University in Wales. She wasn\u2019t involved in the study. Lee\u2019s team is working to modify the tip of the device. That could help the bioink cool more quickly after extrusion.",
-            "In the future, this sort of device could help surgeons with more complex repairs, suggests Nieves Cubo-Mateo. She\u2019s a biomaterials engineer at Nebrija University in Madrid, Spain. She wasn\u2019t part of the study.",
-            "But there is a long way to go for that to happen, she says. The printer would need to work with other tools that surgeons use. Those include imaging technologies and robotic devices used during surgeries. That would take the new device beyond just a \u201cdefect-filler,\u201d she says. Someday, it could be a \u201cbone printer pen\u201d useful for many types of surgeries.",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
-        ]
-    },
-    {
         "URL": "https://www.snexplores.org/article/heat-waves-trees-worsen-air-pollution",
         "title": "\n\tDuring heat waves, trees spew chemicals that worsen air pollution",
         "content": [
@@ -1478,6 +1396,53 @@
             "The insula monitors organs such as the stomach and intestines. And it subtly influences our eating habits and how we feel about our bodies. But sitting deep in the brain, the insula is hard to study.",
             "In the past, it wasn\u2019t possible to dig into what it does in people because the advanced methods used in this study weren\u2019t available, says Ivan de Araujo. But methods such as machine learning are changing that. De Araujo, who did not take part in the new study, is a neuroscientist. He works at the Max Planck Institute for Biological Cybernetics in T\u00fcbingen, Germany.",
             "The new findings could help explain why people crave certain foods and may be repulsed by others, de Araujo says. The new study tested only smells picked up by receptors in the back of the nose. But smells that trigger food cravings when we pass a bakery or restaurant stick to receptors in the front of our noses. He is now testing whether these smells also fire up the insula."
+        ]
+    },
+    {
+        "URL": "https://www.snexplores.org/article/conservation-energy-forms-law",
+        "title": "\n\tEnergy may seem to disappear, but there\u2019s a law against that",
+        "content": [
+            "*a_red_hardback_book_on_a_wood_table",
+            "Bounce, bounce, stop: Each ball\u2019s energy converts from potential to kinetic to heat \u2014 proving that energy never vanishes, just transforms.",
+            "A bouncing ball eventually will roll to a stop. After a long day of scrolling, a phone battery will die. Eventually, every campfire will burn out. In each case, it seems like some energy disappeared. Except it can\u2019t \u2014 not even a little bit. A law of physics prohibits that.",
+            "\u201cEnergy can never disappear nor appear,\u201d explains Krista Freeman. She is a physicist who works at Case Western Reserve University in Cleveland, Ohio. There, she uses physics to study living things, such as viruses.",
+            "\u201cYou can\u2019t make it and you can\u2019t destroy it,\u201d she says of energy. It \u201ccan only ever be converted from one form to another.\u201d That\u2019s known as the law of energy conservation.",
+            "A cornerstone of science, it applies to everything, from exploding stars to each cell in your body.",
+            "Here, we explain why it can\u2019t disappear when your phone dies or those campfire embers finally turn cold.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "The Merriam-Webster dictionary defines energy as anything from \u201cvigorous exertion\u201d to \u201cthe capacity of acting or being active.\u201d That\u2019s rather arm-wavy. But in physics, the term energy means something quite specific and measurable. It simply means the ability to do work.",
+            "Energy is what allows a car to move, a light bulb to glow or your muscles to lift your backpack. Without energy, nothing in the universe could change or move.",
+            "Energy can exist as light, heat, sound, movement \u2014 even the position of an object. Think of it like money. You might have cash in your wallet, a gift card or a nice balance in some bank account. It\u2019s all money \u2014 just in different forms.",
+            "fCAs coal and wood burn, their stored energy gets converted into heat and light, which radiate outward into the surroundings. That energy will be released and dispersed into the air, a demonstration of energy conservation. ",
+            "Energy works the same way.",
+            "A moving skateboard has kinetic energy \u2014 the energy of motion. A book sitting on a shelf has potential energy because of its height. (It has the potential to fall off the shelf, turning the energy stored in its height into kinetic energy.) Even sitting on the ground, a book\u2019s pages have energy; they can fuel a fire. Our sun radiates energy in the form of heat and light. Sound from your phone\u2019s speaker moves in waves of energy.",
+            "Just as you can save money in a bank for later, energy can be stored, too. Batteries store chemical energy, as does food. Your body stores energy in fat cells for later use.",
+            "So energy is all around you \u2014 in motion, in heat, in sound, in light, stored in food and fuel. But here\u2019s the puzzle: When a rolling ball stops or a battery \u201cdies,\u201d where does all that energy go?",
+            "Energy doesn\u2019t go anywhere. It just transforms.",
+            "Take that ball. \u201cWhen we see a ball stop bouncing, it is easy to think that the energy it has has disappeared,\u201d Freeman says. But that\u2019s a mistake, she adds. \u201cEnergy can never disappear nor appear.\u201d",
+            "What actually happens is that the energy converts from potential to kinetic to frictional energy, or heat. Let\u2019s break it down.",
+            "*a_red_hardback_book_on_a_wood_table",
+            "fCA book sitting on a table contains potential energy. But its pages also hold stored energy that later can be used as fuel. When burned, that energy converts to heat and light. This demonstrates how the same object can contain energy in many different forms. ",
+            "A ball falls from a height. While the ball is up high, it has potential energy due to its position. But as gravity pulls it down, that potential energy converts into the energy of motion.",
+            "When the ball slams onto the pavement, its kinetic energy splits up. Some turns into the sound energy you hear as a sharp thwack. Some gets absorbed by the ground as heat. But the ball doesn\u2019t immediately come to a stop. Some of its kinetic energy remains, bouncing it back upward. It rises, but not as high as before \u2014 because it no longer has the energy that was transformed into sound and heat. With less energy, the bounce cannot push the ball as far upward.",
+            "The ball falls and bounces again. Each time it hits the ground, more of its energy converts into sound and heat. Eventually, all of its initial potential energy will have morphed into heat and sound. This allows the ball to roll to a stop.",
+            "In each step, energy is transformed from one type to another \u2014 spreading through the ground as heat and the air as sound waves.",
+            "That physical law on the conservation of energy holds that energy can change forms. It just can never be created or destroyed.",
+            "\u201cConservation of energy is so important to science because it is the one thing that is always true in the world as we experience it,\u201d Freeman says. \u201cIt applies equally to an elephant and to an ant.\u201d",
+            "And it shows up everywhere. Consider fusion reactions, which power the sun and other stars. Here, two atoms combine to form a larger atom, releasing energy in the process.",
+            "\u201cIn the case of fusion, you\u2019re actually getting energy from nuclear bonds, which are [very strong],\u201d explains Uri Shumlak. He co-founded Zap Energy in Everett, Wash. This company is developing fusion as a potential energy source.",
+            "Nuclear bonds are the forces that hold atoms together. These bonds store enormous amounts of energy. When hydrogen atoms fuse into helium, for instance, some of the hydrogen atoms\u2019 energy will radiate out as light and heat.",
+            "*an_image_showing_a_huge_burst_of_energy_in_the_form_of_a_solar_flare_on_the_sun's_surface",
+            "fCThe sun and other stars are powered by fusion reactions. The bright spot seen here on the surface of the sun is a solar flare \u2014 a huge burst of energy.",
+            "If you lit a regular wooden matchstick and a matchstick-sized piece of fusion fuel, Shumlak says, the fusion fuel would release about 10 million times more energy than the matchstick.",
+            "Fusion can sustain a star\u2019s steady emission of light and heat for billions of years. This is why fusion energy interests scientists so much. If it could be controlled on Earth, small amounts of fuel could power entire cities.",
+            "A lot of the confusion surrounding energy comes from how we all use it in everyday language. We\u2019ve all learned to use the term in a very non-scientific way. To say batteries \u201cdie\u201d or that power plants \u201cgenerate\u201d energy is a misnomer. These phrases don\u2019t accurately describe what\u2019s happening.",
+            "A \u201cdead\u201d battery no longer works because its stored chemical energy has been converted to heat and electricity. That electricity powered your phone. Similarly, when we say power plants \u201cgenerate\u201d energy, it\u2019s not being created out of nowhere. Instead, power plants convert energy from a solid \u2014 usually a fossil fuel (such as coal) or uranium (a radioactive element) \u2014 into heat and light. That heat then drives a turbine, which transforms mechanical energy into a flow of electrons: electricity.",
+            "This leads to another misunderstood term: renewable energy.",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
+            "\u201cRenewable energy isn\u2019t really a scientific term,\u201d Shumlak explains. \u201cAs far as the universe is concerned, all energy is conserved.\u201d In a sense, then, it\u2019s all renewable.",
+            "We use the term renewable energy to refer to energy sources that effectively won\u2019t run out (at least in humanity\u2019s lifetime). That makes solar, wind, geothermal and hydropower essentially unlimited resources.",
+            "\u201cWords like renewable, sustainable, green or clean, they all mean slightly different things,\u201d Shumlak says. Still, they \u201cget at the idea that humans will exist longer and have better lives if we can find ways to [use energy sources] that have less detrimental effects on the planet.\u201d"
         ]
     },
     {
