@@ -1,5 +1,35 @@
 [
     {
+        "URL": "https://www.snexplores.org/article/lion-new-second-roar-ai",
+        "title": "\n\tLions have a second roar that scientists have only just discovered",
+        "content": [
+            "*a_lioness_opening_her_mouth_wide_to_roar",
+            "Think you know the sound of a lion\u2019s roar? This lioness, from Tanzania\u2019s Nyerere National Park, helped scientists uncover a second type that no one had noticed before.",
+            "The thunderous roar of the MGM lion has opened Hollywood films for nearly a century. That iconic sound has conditioned us to hear the big cat\u2019s call in a specific way. It\u2019s a booming blast that announces power and presence. But the real soundscape of a lion pride is far more intricate than what you hear at the movies, new research shows. And this finding challenges decades-old assumptions about lions.",
+            "Scientists used machine-learning techniques to analyze field recordings of lions in Africa. \u00a0",
+            "They found that African lions (Panthera leo) produce two distinct roars. There\u2019s the familiar, guttural one that anchors a roaring bout. It carries vocal signatures that are unique to each animal. But they also found an overlooked \u201cintermediary\u201d roar. It\u2019s shorter and lower-pitched than the classic full-throated type.",
+            "Biologists long have known that a lion\u2019s roar helps advertise territory. It also attracts mates and helps pride members locate each other. A complete roaring bout begins with moans and ends with grunts. But scientists had treated everything in the middle as a single roar.",
+            "The new data let biologists separate that roar into its parts. And it might help train artificial intelligence (AI) to tell the voice of one lion from the next. That could let conservation groups count and track lions by sound alone.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "\u201cThe new work makes the technique easier to understand and implement by non-specialists,\u201d Karen McComb says. She did not take part in the new study. But her work at the University of Sussex in England focuses on how lions and other animals talk to each other and how they think.",
+            "As lion habitat has been shrinking and more people have been killing these big cats, they\u2019ve declined by 90 percent through their historic range, says Jonathan Growcott. Being able to identify a lion by its roar could allow you to count them. A conservation technologist and large-carnivore biologist, Growcott works at the University of Exeter in England.",
+            "What lions might be saying with the newly identified intermediary roar remains unknown. \u201cUnfortunately, we don\u2019t speak lion,\u201d Growcott says. \u201cThere is no option of \u2018lion\u2019 on Duolingo.\u201d",
+            "His team shared its new roar discovery November 20 in Ecology and Evolution.",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
+            "The research began with tens of thousands of hours of audio. The sounds had been captured by remote recorders in Tanzania\u2019s Nyerere National Park. They also came from special collars fitted to lions in Zimbabwe.",
+            "Growcott\u2019s team ran more than 3,000 calls through a computer program. It was designed to detect patterns in the sound signals. And subtle differences jumped out.",
+            "Full-throated roars traced a clear arc. They rose in pitch before ending in a trailing fall. Intermediary roars were flatter and far less elaborate.",
+            "The researchers used the length and pitch of a sound to build an algorithm. It\u2019s a type of computer tool built around step-by-step rules for doing something, such as analyzing data. This algorithm classified each type of roar, moan and grunt with high precision. In at least one lion population, its accuracy topped 91 percent.",
+            "Roar types and the more informative full-throated call helped the tool identify which lion was roaring. The tool even outperformed human experts.",
+            "A lioness goes through her repertoire of roars as she walks a dirt road in the Bubye Valley Conservancy of Zimbabwe. You can hear the newly identified \u201cintermediary\u201d roar in the middle of her vocalizations. It\u2019s in between her starting moans, a full-throated sound and her final grunts.",
+            "fCMatt Wijers",
+            "Tanya Berger-Wolf is a computational ecologist. She works at Ohio State University in Columbus. This is one of the first clear demonstrations that machine learning can reliably interpret the vocalizations of a mammal, she says.",
+            "The recordings, however, lack context on what a lion had been doing at the time. So scientists still can\u2019t say why lions choose one roar type over the other.",
+            "This is an open question that intrigues lion experts like Craig Packer. He works at the University of Minnesota in St. Paul. \u201cIt would be interesting to have enough recordings in known contexts to know if lions roar more loudly in certain situations,\u201d he says.",
+            "As for the MGM lion, his iconic roar contains no hidden intermediary roar. That\u2019s because the sound doesn\u2019t belong to a lion at all. In a bit of Hollywood movie magic, sound designers opted for something even more ferocious, Growcott says. \u201cThe MGM lion is actually a tiger.\u201d"
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/scientists-say-hallucination-definition-pronunciation",
         "title": "\n\tScientists Say: Hallucination",
         "content": [
@@ -37,32 +67,6 @@
             "\u201cIt\u2019s so rare to get such a fun story,\u201d he says. \u201cIt really speaks to what we do in my lab \u2014 which is take data and package it in a way that is accessible.\u201d",
             "As for the Rat Hole? It gained so much attention that some neighbors began to complain about the crowds on their quiet street. A few months after its initial fame, the city carefully removed that slab of sidewalk. But it\u2019s not gone. Today, it sits protected in a display case at Chicago\u2019s City Hall.",
             "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/flower-smells-like-wounded-ants",
-        "title": "\n\tYum! Flies swarm to a flower that smells like wounded ants",
-        "content": [
-            "*A_small_black_fly_feeds_on_the_center_of_a_greenish-yellow_flower",
-            "Japanese dogsbane flowers like this one imitate the scent of attacked ants to trick hungry grass flies into becoming its pollinators.",
-            "A Japanese flower lures in pollinators with a strange perfume, new research finds.",
-            "The weird scent belongs to Vincetoxicum nakaianum. It\u2019s one of the flower species known as Japanese dogsbane. Botanist Ko Mochizuki of the University of Tokyo studies the plant. And he noticed clouds of grass flies hovering around its flowers.",
-            "The plant\u2019s scent, he found, matches signals released by injured ants. The smell dupes the flies \u2014 which feed on dead ants \u2014 into visiting the blooms. Once there, the flies pollinate the plants.",
-            "Mochizuki described his finding in the Oct. 20 Current Biology.",
-            "Mochizuki first noticed the grass flies at the Koishikawa Botanical Gardens. That\u2019s in Tokyo, Japan. The flies might be species that don\u2019t hunt their own prey, he realized. Instead, they might look to steal food from other predators.",
-            "Say, for instance, grass flies see honeybees or plant bugs injured from an attack. The flies might then swoop in and take the easy meal for themselves. This behavior is called kleptoparasitism (KLEP-toh-PAIR-uh-si-ti-zem).",
-            "Grass flies swarming around a flower is \u201creally weird and rare,\u201d Mochizuki notes. These flies \u201care known to feed on damaged insects,\u201d not nectar.",
-            "He suspected the flowers had tricked these insects by smelling like injured prey. When the flies land on the flower, they expect to swipe a snack. Instead they\u2019ll end up pollinating the plant.",
-            "A few plants are known to do this. Take the parachute plant (Ceropegia sandersonii). Its flowers smell like wounded honeybees. And smearworts (Aristolochia rotunda) mimic the odor of injured plant bugs.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "Mochizuki tested his hypothesis a few ways. First, he confirmed that pollen-carrying grass flies visited dogsbane in the wild. That showed that in nature, the flies behaved the same way as they did in botanical gardens.",
-            "He also tested scented chemicals released by the flowers. They perfectly matched the mix released by injured ants. The grass flies also showed interest in these chemicals. That suggested they could be after ants, not the flower.",
-            "In a final experiment, Mochizuki put the flies in a maze with ants killed by spiders. The flies found the ants. This proved that they\u2019re able to hunt by scent alone. Dogsbane flowers seem to be taking advantage of that skill.",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
-            "Mochizuki now wants to study related plant species. He wonders how they might evolve \u201csuch weird mimicry systems.\u201d Other plants that lure in kleptoparasites have trap-shaped flowers. These easily capture (and later release) the pollinating flies. In contrast, dogsbane blooms look rather plain.",
-            "It seems that flowers with weird shapes aren\u2019t the only ones that can play tricks, he concludes.",
-            "Robert Raguso notes that other species experience the world much differently than we do. A biologist, he works at Cornell University in Ithaca, N.Y., and did not take part in the new study.",
-            "\u201cWe can barely imagine the sensory realities perceived by other organisms,\u201d Raguso says. Dogsbane is \u201ccapable of conjuring the chemical essence of wounded ants. \u2026 It almost seems like a magic trick.\u201d"
         ]
     },
     {
@@ -325,6 +329,32 @@
             "\u201cThis biological, nature-derived sample is much better than engineered material,\u201d says team member Jianyu Li. He\u2019s an engineer who specializes in biological materials at McGill. The best 3-D printing tips on the market have inner diameters of 35 to 40 micrometers. The mosquito proboscis nozzle is half that wide.",
             "\u201cI\u2019m looking forward to seeing other biotic materials [added] in the 3-D printing process,\u201d Preston says. Moving in that direction could \u201cenable new capabilities,\u201d he says. And, he adds, it could make microscopic engineering more sustainable.",
             "Li would like to use the mosquito proboscis in biomedicine. For example, his lab wants to develop ways to use the proboscis as a tiny needle to deliver drugs."
+        ]
+    },
+    {
+        "URL": "https://www.snexplores.org/article/flower-smells-like-wounded-ants",
+        "title": "\n\tYum! Flies swarm to a flower that smells like wounded ants",
+        "content": [
+            "*A_small_black_fly_feeds_on_the_center_of_a_greenish-yellow_flower",
+            "Japanese dogsbane flowers like this one imitate the scent of attacked ants to trick hungry grass flies into becoming its pollinators.",
+            "A Japanese flower lures in pollinators with a strange perfume, new research finds.",
+            "The weird scent belongs to Vincetoxicum nakaianum. It\u2019s one of the flower species known as Japanese dogsbane. Botanist Ko Mochizuki of the University of Tokyo studies the plant. And he noticed clouds of grass flies hovering around its flowers.",
+            "The plant\u2019s scent, he found, matches signals released by injured ants. The smell dupes the flies \u2014 which feed on dead ants \u2014 into visiting the blooms. Once there, the flies pollinate the plants.",
+            "Mochizuki described his finding in the Oct. 20 Current Biology.",
+            "Mochizuki first noticed the grass flies at the Koishikawa Botanical Gardens. That\u2019s in Tokyo, Japan. The flies might be species that don\u2019t hunt their own prey, he realized. Instead, they might look to steal food from other predators.",
+            "Say, for instance, grass flies see honeybees or plant bugs injured from an attack. The flies might then swoop in and take the easy meal for themselves. This behavior is called kleptoparasitism (KLEP-toh-PAIR-uh-si-ti-zem).",
+            "Grass flies swarming around a flower is \u201creally weird and rare,\u201d Mochizuki notes. These flies \u201care known to feed on damaged insects,\u201d not nectar.",
+            "He suspected the flowers had tricked these insects by smelling like injured prey. When the flies land on the flower, they expect to swipe a snack. Instead they\u2019ll end up pollinating the plant.",
+            "A few plants are known to do this. Take the parachute plant (Ceropegia sandersonii). Its flowers smell like wounded honeybees. And smearworts (Aristolochia rotunda) mimic the odor of injured plant bugs.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "Mochizuki tested his hypothesis a few ways. First, he confirmed that pollen-carrying grass flies visited dogsbane in the wild. That showed that in nature, the flies behaved the same way as they did in botanical gardens.",
+            "He also tested scented chemicals released by the flowers. They perfectly matched the mix released by injured ants. The grass flies also showed interest in these chemicals. That suggested they could be after ants, not the flower.",
+            "In a final experiment, Mochizuki put the flies in a maze with ants killed by spiders. The flies found the ants. This proved that they\u2019re able to hunt by scent alone. Dogsbane flowers seem to be taking advantage of that skill.",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
+            "Mochizuki now wants to study related plant species. He wonders how they might evolve \u201csuch weird mimicry systems.\u201d Other plants that lure in kleptoparasites have trap-shaped flowers. These easily capture (and later release) the pollinating flies. In contrast, dogsbane blooms look rather plain.",
+            "It seems that flowers with weird shapes aren\u2019t the only ones that can play tricks, he concludes.",
+            "Robert Raguso notes that other species experience the world much differently than we do. A biologist, he works at Cornell University in Ithaca, N.Y., and did not take part in the new study.",
+            "\u201cWe can barely imagine the sensory realities perceived by other organisms,\u201d Raguso says. Dogsbane is \u201ccapable of conjuring the chemical essence of wounded ants. \u2026 It almost seems like a magic trick.\u201d"
         ]
     },
     {
