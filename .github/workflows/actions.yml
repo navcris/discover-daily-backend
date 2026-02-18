@@ -2,8 +2,8 @@ name: Schedule run_job.py
 
 on:
   schedule:
-    - cron: "0 8 * * *"
-  workflow_dispatch:
+    - cron: "0 8 * * *"  # every day at 8:00 UTC
+  workflow_dispatch:      # allows manual trigger
 
 permissions:
   contents: write  
@@ -16,7 +16,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Fetch full history so force pushes work
+          fetch-depth: 0  # fetch full history so push works
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -42,5 +42,4 @@ jobs:
           git commit -m "Update JSON files and images via GitHub Actions" || echo "No changes to commit"
 
       - name: Push changes
-        run: |
-          git push origin main --force
+        run: git push origin main --force
