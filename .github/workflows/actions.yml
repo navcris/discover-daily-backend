@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch full history so force pushes work
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -34,16 +36,11 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Add changes
-        run: git add .
-
       - name: Commit changes
         run: |
+          git add .
           git commit -m "Update JSON files and images via GitHub Actions" || echo "No changes to commit"
 
       - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          force: true
-          branch: main
+        run: |
+          git push origin main --force
