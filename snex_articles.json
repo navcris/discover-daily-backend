@@ -1,5 +1,22 @@
 [
     {
+        "URL": "https://www.snexplores.org/article/scientists-say-pollination-definition-pronunciation",
+        "title": "\n\tScientists Say: Pollination",
+        "content": [
+            "*a_bee_covered_in_fuzzy_yellow_sunflower_pollen_stands_on_the_surface_of_a_flower",
+            "Sunflower pollen clings to this bee, allowing the bee to transfer pollen to \u2014 or pollinate \u2014 the next flower.",
+            "iFhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2270250701&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+            "Pollination is a step in a plant\u2019s life cycle that allows it to make seeds. It is the transfer of pollen from the male parts of a plant to the female parts. Some plants supply their own pollen. Others require pollen from another plant of the same species.",
+            "Consider a flower. The male parts usually look like fluffy-tipped stalks. These are called anthers. Their job is to make pollen. The female part of a flower is called the pistil. It\u2019s often shaped like a little bowling pin. The pistil has a sticky tip that helps incoming pollen cling to it. Different plants rely on different strategies \u2014 such as wind, water or animals \u2014 to get pollen to their pistils.",
+            "Some plants, especially flowering ones, rely on living things to help transfer pollen. Living things that play a role in pollen transfer are called pollinators. They include bats, birds and many insects \u2014 such as bees, moths and butterflies.",
+            "Other plants mainly rely on wind for pollination. Corn, pine trees and most grasses are wind-pollinated. About 2 percent of plants rely on water for pollination. A group of aquatic plants called eelgrass (Vallisneria) is an example.",
+            "Almost 90 percent of wild flowering plants depend on pollinators to some extent. Yet, many pollinator species are declining. Experts estimate that more than 40 percent of bee species, for instance, may be threatened with extinction. Climate change, pesticide overuse and habitat loss threaten many of these species.",
+            "Japanese dogbane (Vincetoxicum nakaianum) uses the scent of wounded ants to attract flies to its flowers for pollination.",
+            "Check out the full list of\u00a0Scientists Say.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/scientists-say-cryogenic-definition-pronunciation",
         "title": "\n\tScientists Say: Cryogenic",
         "content": [
@@ -924,6 +941,36 @@
         ]
     },
     {
+        "URL": "https://www.snexplores.org/article/lion-new-second-roar-ai",
+        "title": "\n\tLions have a second roar that scientists have only just discovered",
+        "content": [
+            "*a_lioness_opening_her_mouth_wide_to_roar",
+            "Think you know the sound of a lion\u2019s roar? This lioness, from Tanzania\u2019s Nyerere National Park, helped scientists uncover a second type that no one had noticed before.",
+            "The thunderous roar of the MGM lion has opened Hollywood films for nearly a century. That iconic sound has conditioned us to hear the big cat\u2019s call in a specific way. It\u2019s a booming blast that announces power and presence. But the real soundscape of a lion pride is far more intricate than what you hear at the movies, new research shows. And this finding challenges decades-old assumptions about lions.",
+            "Scientists used machine-learning techniques to analyze field recordings of lions in Africa. \u00a0",
+            "They found that African lions (Panthera leo) produce two distinct roars. There\u2019s the familiar, guttural one that anchors a roaring bout. It carries vocal signatures that are unique to each animal. But they also found an overlooked \u201cintermediary\u201d roar. It\u2019s shorter and lower-pitched than the classic full-throated type.",
+            "Biologists long have known that a lion\u2019s roar helps advertise territory. It also attracts mates and helps pride members locate each other. A complete roaring bout begins with moans and ends with grunts. But scientists had treated everything in the middle as a single roar.",
+            "The new data let biologists separate that roar into its parts. And it might help train artificial intelligence (AI) to tell the voice of one lion from the next. That could let conservation groups count and track lions by sound alone.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "\u201cThe new work makes the technique easier to understand and implement by non-specialists,\u201d Karen McComb says. She did not take part in the new study. But her work at the University of Sussex in England focuses on how lions and other animals talk to each other and how they think.",
+            "As lion habitat has been shrinking and more people have been killing these big cats, they\u2019ve declined by 90 percent through their historic range, says Jonathan Growcott. Being able to identify a lion by its roar could allow you to count them. A conservation technologist and large-carnivore biologist, Growcott works at the University of Exeter in England.",
+            "What lions might be saying with the newly identified intermediary roar remains unknown. \u201cUnfortunately, we don\u2019t speak lion,\u201d Growcott says. \u201cThere is no option of \u2018lion\u2019 on Duolingo.\u201d",
+            "His team shared its new roar discovery November 20 in Ecology and Evolution.",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
+            "The research began with tens of thousands of hours of audio. The sounds had been captured by remote recorders in Tanzania\u2019s Nyerere National Park. They also came from special collars fitted to lions in Zimbabwe.",
+            "Growcott\u2019s team ran more than 3,000 calls through a computer program. It was designed to detect patterns in the sound signals. And subtle differences jumped out.",
+            "Full-throated roars traced a clear arc. They rose in pitch before ending in a trailing fall. Intermediary roars were flatter and far less elaborate.",
+            "The researchers used the length and pitch of a sound to build an algorithm. It\u2019s a type of computer tool built around step-by-step rules for doing something, such as analyzing data. This algorithm classified each type of roar, moan and grunt with high precision. In at least one lion population, its accuracy topped 91 percent.",
+            "Roar types and the more informative full-throated call helped the tool identify which lion was roaring. The tool even outperformed human experts.",
+            "A lioness goes through her repertoire of roars as she walks a dirt road in the Bubye Valley Conservancy of Zimbabwe. You can hear the newly identified \u201cintermediary\u201d roar in the middle of her vocalizations. It\u2019s in between her starting moans, a full-throated sound and her final grunts.",
+            "fCMatt Wijers",
+            "Tanya Berger-Wolf is a computational ecologist. She works at Ohio State University in Columbus. This is one of the first clear demonstrations that machine learning can reliably interpret the vocalizations of a mammal, she says.",
+            "The recordings, however, lack context on what a lion had been doing at the time. So scientists still can\u2019t say why lions choose one roar type over the other.",
+            "This is an open question that intrigues lion experts like Craig Packer. He works at the University of Minnesota in St. Paul. \u201cIt would be interesting to have enough recordings in known contexts to know if lions roar more loudly in certain situations,\u201d he says.",
+            "As for the MGM lion, his iconic roar contains no hidden intermediary roar. That\u2019s because the sound doesn\u2019t belong to a lion at all. In a bit of Hollywood movie magic, sound designers opted for something even more ferocious, Growcott says. \u201cThe MGM lion is actually a tiger.\u201d"
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/why-ice-is-slippery",
         "title": "\n\tScientists finally know why ice is so slippery",
         "content": [
@@ -958,59 +1005,6 @@
             "Pastewka\u2019s group has shown similar crystal defects in silicon and diamond. This can turn their surfaces slippery, too. Diamond has one critical difference, though. With water ice, \u201cthe harder you push, the easier it gets to turn it into a liquid-like goo,\u201d Pastewka says. In diamond, you get the opposite effect \u2014 which actually protects the surface.",
             "In theory, you could skate on diamond for the same reason you can on water ice. But you wouldn\u2019t leave as many marks on the surface of a diamond rink.",
             "So what\u2019s the solution to keep you from slipping on ice in winter? \u201cI would say, put on cleats,\u201d says M\u00fcser. \u201cThat\u2019s really the only way.\u201d",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/lion-new-second-roar-ai",
-        "title": "\n\tLions have a second roar that scientists have only just discovered",
-        "content": [
-            "*a_lioness_opening_her_mouth_wide_to_roar",
-            "Think you know the sound of a lion\u2019s roar? This lioness, from Tanzania\u2019s Nyerere National Park, helped scientists uncover a second type that no one had noticed before.",
-            "The thunderous roar of the MGM lion has opened Hollywood films for nearly a century. That iconic sound has conditioned us to hear the big cat\u2019s call in a specific way. It\u2019s a booming blast that announces power and presence. But the real soundscape of a lion pride is far more intricate than what you hear at the movies, new research shows. And this finding challenges decades-old assumptions about lions.",
-            "Scientists used machine-learning techniques to analyze field recordings of lions in Africa. \u00a0",
-            "They found that African lions (Panthera leo) produce two distinct roars. There\u2019s the familiar, guttural one that anchors a roaring bout. It carries vocal signatures that are unique to each animal. But they also found an overlooked \u201cintermediary\u201d roar. It\u2019s shorter and lower-pitched than the classic full-throated type.",
-            "Biologists long have known that a lion\u2019s roar helps advertise territory. It also attracts mates and helps pride members locate each other. A complete roaring bout begins with moans and ends with grunts. But scientists had treated everything in the middle as a single roar.",
-            "The new data let biologists separate that roar into its parts. And it might help train artificial intelligence (AI) to tell the voice of one lion from the next. That could let conservation groups count and track lions by sound alone.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "\u201cThe new work makes the technique easier to understand and implement by non-specialists,\u201d Karen McComb says. She did not take part in the new study. But her work at the University of Sussex in England focuses on how lions and other animals talk to each other and how they think.",
-            "As lion habitat has been shrinking and more people have been killing these big cats, they\u2019ve declined by 90 percent through their historic range, says Jonathan Growcott. Being able to identify a lion by its roar could allow you to count them. A conservation technologist and large-carnivore biologist, Growcott works at the University of Exeter in England.",
-            "What lions might be saying with the newly identified intermediary roar remains unknown. \u201cUnfortunately, we don\u2019t speak lion,\u201d Growcott says. \u201cThere is no option of \u2018lion\u2019 on Duolingo.\u201d",
-            "His team shared its new roar discovery November 20 in Ecology and Evolution.",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
-            "The research began with tens of thousands of hours of audio. The sounds had been captured by remote recorders in Tanzania\u2019s Nyerere National Park. They also came from special collars fitted to lions in Zimbabwe.",
-            "Growcott\u2019s team ran more than 3,000 calls through a computer program. It was designed to detect patterns in the sound signals. And subtle differences jumped out.",
-            "Full-throated roars traced a clear arc. They rose in pitch before ending in a trailing fall. Intermediary roars were flatter and far less elaborate.",
-            "The researchers used the length and pitch of a sound to build an algorithm. It\u2019s a type of computer tool built around step-by-step rules for doing something, such as analyzing data. This algorithm classified each type of roar, moan and grunt with high precision. In at least one lion population, its accuracy topped 91 percent.",
-            "Roar types and the more informative full-throated call helped the tool identify which lion was roaring. The tool even outperformed human experts.",
-            "A lioness goes through her repertoire of roars as she walks a dirt road in the Bubye Valley Conservancy of Zimbabwe. You can hear the newly identified \u201cintermediary\u201d roar in the middle of her vocalizations. It\u2019s in between her starting moans, a full-throated sound and her final grunts.",
-            "fCMatt Wijers",
-            "Tanya Berger-Wolf is a computational ecologist. She works at Ohio State University in Columbus. This is one of the first clear demonstrations that machine learning can reliably interpret the vocalizations of a mammal, she says.",
-            "The recordings, however, lack context on what a lion had been doing at the time. So scientists still can\u2019t say why lions choose one roar type over the other.",
-            "This is an open question that intrigues lion experts like Craig Packer. He works at the University of Minnesota in St. Paul. \u201cIt would be interesting to have enough recordings in known contexts to know if lions roar more loudly in certain situations,\u201d he says.",
-            "As for the MGM lion, his iconic roar contains no hidden intermediary roar. That\u2019s because the sound doesn\u2019t belong to a lion at all. In a bit of Hollywood movie magic, sound designers opted for something even more ferocious, Growcott says. \u201cThe MGM lion is actually a tiger.\u201d"
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/chicago-rat-hole-likely-squirrel",
-        "title": "\n\tChicago\u2019s Rat Hole? Science concludes it\u2019s likely not from a rat",
-        "content": [
-            "*Water_fills_the_crime_scene-like_outline_of_Chicago's_Rat_Hole,_a_rodent-shaped_crater_in_concrete_w",
-            "It may look like a rat went \u201csplat\u201d in this slab of a Chicago sidewalk, but a new study suggests the impression was more likely left by a squirrel.",
-            "For years, people in one Chicago neighborhood walked past an unusual sight: a hole in the sidewalk that looked as if a rat had belly-flopped into wet concrete. Dubbed \u201cSplatatouille\u201d \u2014 a riff on the name of the Disney movie Ratatouille \u2014 the Chicago Rat Hole went viral in 2024. Now research suggests that imprint is likely a squirrel squish.",
-            "The decades-old imprint became a sensation when artist Winslow Dumaine posted about the site.",
-            "After that, visitors left coins, flowers and other items beside the beloved landmark. They also shared plenty of pictures on social media. Those were key to a study published October 15 in Biology Letters.",
-            "In it, researchers borrowed methods from paleontology. They used fossil-investigating techniques to figure out which modern mammal made its mark in the city.",
-            "\u201cIt seemed like a fun project,\u201d says Michael Granatosky. They got \u201cto apply the scientific method to something that\u2019s lighthearted.\u201d Granatosky studies how evolution shapes the way animals move at the University of Tennessee in Knoxville. He was also part of a team who cracked the case.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "His group collected dozens of images of the rat hole shared on social media. From these, they measured features such as its nose-to-tail length and head width. Those data would help determine what actually made the critter crater.",
-            "Next, the team used the app iNaturalist. It identified eight small mammal species in Chicago. The researchers looked at measurements of museum specimens of those same eight species. Then they compared their sizes to those of the \u201crat hole.\u201d",
-            "Splatatouille\u2019s measurements most closely match those of a squirrel. What type? Most likely it was an eastern gray (Sciurus carolinensis) or fox squirrel (S. niger).",
-            "There don\u2019t appear to be footprints leading to the imprint. So Granatosky suggests the animal likely fell into the wet concrete from above. Perhaps a bird of prey in flight \u2014 such as a hawk or owl \u2014 dropped the rodent. Or it may have fallen from a tree that residents say once stood by the mystery mammal mark.",
-            "Rat purists note that there\u2019s no squirrel-like bushy tail in the impression. But Granatosky says it\u2019s not likely that concrete would capture such fine furry detail.",
-            "The museum specimens and photos from social media gave the team a lot of data to work with. Yet the researchers still can\u2019t be 100 percent sure what species made the beloved landmark. This shows just how hard it can be to analyze ancient specimens such as fossils. Granatosky hopes this case study will spark public curiosity.",
-            "\u201cIt\u2019s so rare to get such a fun story,\u201d he says. \u201cIt really speaks to what we do in my lab \u2014 which is take data and package it in a way that is accessible.\u201d",
-            "As for the Rat Hole? It gained so much attention that some neighbors began to complain about the crowds on their quiet street. A few months after its initial fame, the city carefully removed that slab of sidewalk. But it\u2019s not gone. Today, it sits protected in a display case at Chicago\u2019s City Hall.",
             "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
         ]
     },
@@ -1309,6 +1303,29 @@
             "There are also ways to improve outdoor air quality. For instance, communities can work to limit becoming \u201cheat islands.\u201d Two obvious ways: Increase shaded area, and limit how much heat-absorbing concrete they have.",
             "Anything that reduces the levels of nitrogen oxides helps. They\u2019re toxic by themselves. Plus they boost ozone to dangerous levels during heat waves. So walking, biking and taking a bus or train instead of driving can help limit traffic pollution. Switching from gasoline-powered to electric vehicles (EVs) also helps, because EVs don\u2019t emit exhaust. Even better if the power to charge them comes from green sources, such as solar or wind.",
             "A long-term strategy for improving air quality, says Dickerson, is \u201ccombating climate change itself.\u201d The hope, he says, is that this will mean \u201cheat waves happen less often, are less severe and are shorter.\u201d And one great way to address climate change? Planting trees.",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
+        ]
+    },
+    {
+        "URL": "https://www.snexplores.org/article/chicago-rat-hole-likely-squirrel",
+        "title": "\n\tChicago\u2019s Rat Hole? Science concludes it\u2019s likely not from a rat",
+        "content": [
+            "*Water_fills_the_crime_scene-like_outline_of_Chicago's_Rat_Hole,_a_rodent-shaped_crater_in_concrete_w",
+            "It may look like a rat went \u201csplat\u201d in this slab of a Chicago sidewalk, but a new study suggests the impression was more likely left by a squirrel.",
+            "For years, people in one Chicago neighborhood walked past an unusual sight: a hole in the sidewalk that looked as if a rat had belly-flopped into wet concrete. Dubbed \u201cSplatatouille\u201d \u2014 a riff on the name of the Disney movie Ratatouille \u2014 the Chicago Rat Hole went viral in 2024. Now research suggests that imprint is likely a squirrel squish.",
+            "The decades-old imprint became a sensation when artist Winslow Dumaine posted about the site.",
+            "After that, visitors left coins, flowers and other items beside the beloved landmark. They also shared plenty of pictures on social media. Those were key to a study published October 15 in Biology Letters.",
+            "In it, researchers borrowed methods from paleontology. They used fossil-investigating techniques to figure out which modern mammal made its mark in the city.",
+            "\u201cIt seemed like a fun project,\u201d says Michael Granatosky. They got \u201cto apply the scientific method to something that\u2019s lighthearted.\u201d Granatosky studies how evolution shapes the way animals move at the University of Tennessee in Knoxville. He was also part of a team who cracked the case.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "His group collected dozens of images of the rat hole shared on social media. From these, they measured features such as its nose-to-tail length and head width. Those data would help determine what actually made the critter crater.",
+            "Next, the team used the app iNaturalist. It identified eight small mammal species in Chicago. The researchers looked at measurements of museum specimens of those same eight species. Then they compared their sizes to those of the \u201crat hole.\u201d",
+            "Splatatouille\u2019s measurements most closely match those of a squirrel. What type? Most likely it was an eastern gray (Sciurus carolinensis) or fox squirrel (S. niger).",
+            "There don\u2019t appear to be footprints leading to the imprint. So Granatosky suggests the animal likely fell into the wet concrete from above. Perhaps a bird of prey in flight \u2014 such as a hawk or owl \u2014 dropped the rodent. Or it may have fallen from a tree that residents say once stood by the mystery mammal mark.",
+            "Rat purists note that there\u2019s no squirrel-like bushy tail in the impression. But Granatosky says it\u2019s not likely that concrete would capture such fine furry detail.",
+            "The museum specimens and photos from social media gave the team a lot of data to work with. Yet the researchers still can\u2019t be 100 percent sure what species made the beloved landmark. This shows just how hard it can be to analyze ancient specimens such as fossils. Granatosky hopes this case study will spark public curiosity.",
+            "\u201cIt\u2019s so rare to get such a fun story,\u201d he says. \u201cIt really speaks to what we do in my lab \u2014 which is take data and package it in a way that is accessible.\u201d",
+            "As for the Rat Hole? It gained so much attention that some neighbors began to complain about the crowds on their quiet street. A few months after its initial fame, the city carefully removed that slab of sidewalk. But it\u2019s not gone. Today, it sits protected in a display case at Chicago\u2019s City Hall.",
             "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
         ]
     },
