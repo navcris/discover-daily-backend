@@ -118,22 +118,28 @@
         ]
     },
     {
-        "URL": "https://www.snexplores.org/article/scientists-say-equilibrium-definition-pronunciation",
-        "title": "\n\tScientists Say: Equilibrium",
+        "URL": "https://www.snexplores.org/article/build-seismograph-earthquake",
+        "title": "\n\tBuild your own seismograph with this science activity",
         "content": [
-            "*_Scientists_Say_Equilibrium0",
-            "Together, this mother-daughter team maintains a steady, balanced state of equilibrium. By gripping hands and supporting one another, they steady themselves through equal opposition of forces.",
-            "iFhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2278787879&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
-            "Equilibrium refers to a state that remains steady or balanced over time. Such an unchanging state doesn\u2019t have to be at a total standstill. Instead, imagine equilibrium as a tug-of-war between equally matched opponents. The state remains steady because the opposing forces balance each other out.",
-            "Imagine, for instance, a bathtub with the faucet on and the drain open. If water flows into the tub at the same rate as it flows out, the water level in the tub stays the same. That steady water level is said to be in equilibrium.",
-            "This idea of a steady state appears in many fields of science. In chemistry, equilibrium refers to balance in a chemical reaction. In reactions, starting chemicals called reactants\u00a0turn into products. But products also react to form reactants again. Chemical equilibrium exists when the amounts of reactant and product remain the same, because the reaction rates match.",
-            "Biologists describe steady states in the body as in equilibrium. For example, our bodies maintain a constant temperature. When you get hot, you sweat. That cools you down. When you get cold, you shiver. That warms you back up. Biologists often use the word \u201chomeostasis\u201d (Ho-mee-oh-STAY-sis) to describe this type of equilibrium.",
-            "The idea of steady states is also important to ecologists. Consider predator-prey relationships. When there are more prey in an area, predators have more to eat. As a result, the number of predators spikes. Then, there are more predators to gobble up the prey, causing prey numbers to decrease. That offers less food for predators to eat, causing their numbers to drop \u2014 allowing prey numbers to rise again, and so on. These numbers change continually yet balance over time. This is a state of \u201cfluctuating equilibrium.\u201d",
-            "In physics, it may be hard to see the opposing forces acting on an object in equilibrium. Imagine a book resting on a desk. There is no back-and-forth movement like what we see in the predator-prey example. However, even in this \u201cstatic equilibrium,\u201d forces still balance. Gravity pushes down on the book. That force matches the \u201cnormal force\u201d of the desk holding it up.\u00a0",
-            "Equilibrium can even refer to steady states in climate science. Earth\u2019s global warming shows that our climate is not at a steady state. The gases entering and leaving the atmosphere are unbalanced. This results in a steady rise in global temperatures.",
-            "Our body\u2019s nervous system maintains equilibrium in the body, allowing us to alternate between responding to and recovering from stressful situations.",
-            "Check out the full list of\u00a0Scientists Say.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
+            "*a_seismograph_scribbles_out_earthquake_data_in_pink_pen",
+            "The scribbles that a seismograph scratches out may look like nonsense. But scientists can decode those zigzags to learn about the earthquakes that caused them.",
+            "Objective: Build your own seismograph",
+            "Time required: 20\u201330 minutes",
+            "Key concepts: earthquakes, mass, vibration",
+            "Credits: Ben Finio, PhD, Science Buddies",
+            "Scientists study earthquakes to be able to understand them better \u2014 and hopefully one day predict them so we can save thousands of lives. A seismograph is a tool scientists use to record earthquakes and measure their strength. In this activity, you will build your own seismograph using simple materials.",
+            "iFhttps://www.youtube.com/embed/41RzGwZINOk?feature=oembed",
+            "Follow these steps to build your own seismograph with materials at home.",
+            "When your helper pulls the paper through the box with no shaking, the marker should just draw a straight line on the paper. When you shake the box, it moves back and forth, and the paper moves along with it. Because of the heavy mass of the cup and the way it is suspended by strings, the cup does not move as much. This means that the paper moves back and forth under the (mostly) stationary marker, resulting in a squiggly line.",
+            "The size of these squiggles (their amplitude) corresponds to how hard you shook the box, just like how the line drawn by a real seismograph corresponds to the strength of the earthquake.",
+            "Earthquakes happen all the time. Most of them are so small that we can\u2019t feel them, and they do not cause any damage. However, large earthquakes can be quite catastrophic \u2014 destroying buildings and causing significant damage to property and loss of life.",
+            "An earthquake\u2019s strength is measured on the Richter scale. The Richter scale goes from 1 to 10. Each increase of 1 on the Richter scale means the earthquake is actually 10 times more powerful. For instance, a 2.0 earthquake is 10 times stronger than a 1.0 earthquake, not twice as strong. As of 2025, the strongest earthquake ever recorded measured 9.5 on the Richter scale.\u00a0",
+            "A seismograph is a machine used to measure the motion of the ground during an earthquake. Seismographs are very sensitive and can detect earthquakes that occurred very far away (along with other things that make the ground shake, like volcanic eruptions or large explosions) that might be too faint for humans to feel.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "Seismographs are made by hanging a heavy weight from a rigid frame connected to the ground. When the ground moves during an earthquake, the frame moves back and forth along with the ground. However, the heavy weight is not connected directly to the ground, and it wants to stay in place. The result is that the weight holds still, while the frame moves back and forth around it. The relative motion of the weight and frame can be turned into a recording called a seismogram. The seismogram can be analyzed later to find out when an earthquake happened and how strong it was.",
+            "While modern seismographs record this motion as an electrical signal, older seismographs would use a pen to draw the signal directly on paper. In this activity you built your own old-fashioned seismograph that used a marker to record an \u201cearthquake\u201d on a paper strip.",
+            "This activity is brought to you in partnership with\u00a0Science Buddies. Find\u00a0the original activity\u00a0on the Science Buddies website.",
+            "*A_banner_that_reads_SCIENCE_BUDDIES"
         ]
     },
     {
@@ -170,7 +176,7 @@
         "URL": "https://www.snexplores.org/article/scientists-say-spacetime-definition-pronunciation",
         "title": "\n\tScientists Say: Spacetime",
         "content": [
-            "*_Scientists_Say_Spacetime1",
+            "*_Scientists_Say_Spacetime0",
             "The model of spacetime helps explain how fast-moving clocks \u2014 and those in stronger gravitational fields \u2014 run slower.",
             "iFhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2261347964&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
             "Spacetime is a model that combines two ideas that most people think of as totally different: space and time.",
@@ -213,31 +219,6 @@
         ]
     },
     {
-        "URL": "https://www.snexplores.org/article/build-seismograph-earthquake",
-        "title": "\n\tBuild your own seismograph with this science activity",
-        "content": [
-            "*a_seismograph_scribbles_out_earthquake_data_in_pink_pen",
-            "The scribbles that a seismograph scratches out may look like nonsense. But scientists can decode those zigzags to learn about the earthquakes that caused them.",
-            "Objective: Build your own seismograph",
-            "Time required: 20\u201330 minutes",
-            "Key concepts: earthquakes, mass, vibration",
-            "Credits: Ben Finio, PhD, Science Buddies",
-            "Scientists study earthquakes to be able to understand them better \u2014 and hopefully one day predict them so we can save thousands of lives. A seismograph is a tool scientists use to record earthquakes and measure their strength. In this activity, you will build your own seismograph using simple materials.",
-            "iFhttps://www.youtube.com/embed/41RzGwZINOk?feature=oembed",
-            "Follow these steps to build your own seismograph with materials at home.",
-            "When your helper pulls the paper through the box with no shaking, the marker should just draw a straight line on the paper. When you shake the box, it moves back and forth, and the paper moves along with it. Because of the heavy mass of the cup and the way it is suspended by strings, the cup does not move as much. This means that the paper moves back and forth under the (mostly) stationary marker, resulting in a squiggly line.",
-            "The size of these squiggles (their amplitude) corresponds to how hard you shook the box, just like how the line drawn by a real seismograph corresponds to the strength of the earthquake.",
-            "Earthquakes happen all the time. Most of them are so small that we can\u2019t feel them, and they do not cause any damage. However, large earthquakes can be quite catastrophic \u2014 destroying buildings and causing significant damage to property and loss of life.",
-            "An earthquake\u2019s strength is measured on the Richter scale. The Richter scale goes from 1 to 10. Each increase of 1 on the Richter scale means the earthquake is actually 10 times more powerful. For instance, a 2.0 earthquake is 10 times stronger than a 1.0 earthquake, not twice as strong. As of 2025, the strongest earthquake ever recorded measured 9.5 on the Richter scale.\u00a0",
-            "A seismograph is a machine used to measure the motion of the ground during an earthquake. Seismographs are very sensitive and can detect earthquakes that occurred very far away (along with other things that make the ground shake, like volcanic eruptions or large explosions) that might be too faint for humans to feel.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "Seismographs are made by hanging a heavy weight from a rigid frame connected to the ground. When the ground moves during an earthquake, the frame moves back and forth along with the ground. However, the heavy weight is not connected directly to the ground, and it wants to stay in place. The result is that the weight holds still, while the frame moves back and forth around it. The relative motion of the weight and frame can be turned into a recording called a seismogram. The seismogram can be analyzed later to find out when an earthquake happened and how strong it was.",
-            "While modern seismographs record this motion as an electrical signal, older seismographs would use a pen to draw the signal directly on paper. In this activity you built your own old-fashioned seismograph that used a marker to record an \u201cearthquake\u201d on a paper strip.",
-            "This activity is brought to you in partnership with\u00a0Science Buddies. Find\u00a0the original activity\u00a0on the Science Buddies website.",
-            "*A_banner_that_reads_SCIENCE_BUDDIES"
-        ]
-    },
-    {
         "URL": "https://www.snexplores.org/article/light-activated-graphene-kill-germs",
         "title": "\n\tNew light-activated coating can kill stubborn germs",
         "content": [
@@ -272,6 +253,49 @@
         ]
     },
     {
+        "URL": "https://www.snexplores.org/article/how-objects-shatter-math-mystery",
+        "title": "\n\tWhy do objects shatter the same way? Math solves the mystery",
+        "content": [
+            "*several_graphs_showing_sugar_cube_fragments_by_size_and_share_of_fragments_for_weights_dropped_at_va",
+            "Strange similarities show up in smashups of all kinds \u2014 from broken dinner plates (here) to asteroid collisions. Math at last explains why.",
+            "When an object shatters, something strange happens. It doesn\u2019t matter whether the object is a dropped glass or plate. Or the nucleus of one atom smashing into another. Or even two asteroids colliding. When something splinters, the size of its fragments will follow the same trend. Math at last is able to explain why.",
+            "Scientists have been fascinated with fragmentation for a century. \u201cIt\u2019s a kind of magic,\u201d says Ferenc Kun. A physicist at the University of Debrecen in Hungary, Kun is an expert in fragmentation.",
+            "When you plot the number of fragments against their sizes, using logarithmic axes, you always get a straight, downward-sloping line. In other words, there are many more small pieces of debris than big ones. In math, this line is called a \u201cpower law.\u201d Here, power refers to the slope of the line \u2014 or how tilted it is.",
+            "The same straight line somehow emerges when graphing the smithereens of widely different things. If you froze a potato in liquid nitrogen and dropped it, Kun says, you\u2019d get the same spread of remnant sizes as if you exploded coal in a coal mine.",
+            "A longstanding question has been: why?",
+            "Emmanuel Villermaux has now come up with an explanation. His theory doesn\u2019t just show why a graph of the fragment sizes is a straight line. It also predicts what the slope of that line should be for different objects. Villermaux is a physicist at Aix Marseille University in France and Institut Universitaire de France. He shared his new findings last November in Physical Review Letters.",
+            "This theory does more than just solve a longstanding mystery, notes physicist Nicolas Vandenberghe. He, too, works at Aix Marseille University, but did not take part in the new research.",
+            "Many industrial processes \u201cneed to have the right size of a fragment,\u201d notes Vandenberghe. He points to coal. It doesn\u2019t burn well if the chunks are the wrong size. Another example is sandpaper. Its grit, made of shattered mineral pieces, needs to have a very specific and uniform size. So Villermaux\u2019s new theory could have plenty of uses in industry.",
+            "iFhttps://www.youtube.com/embed/X3o71W4uNHc?start=1111&feature=oembed",
+            "When glass heats up to a liquid and then drips into cold water, it forms a tadpole-shaped \u201cPrince Rupert drop.\u201d In this video, you see that when the tail is clipped, the entire drop explodes \u2014 an example of fragmentation. Note the huge number of pieces of differing sizes.",
+            "Before something breaks apart, cracks appear and spread through it. In the past, scientists often studied how those cracks develop as a way to understand fragmentation. But those theories had always depended on some particular collision. Researchers needed to use details of that specific collision to explain the effects.",
+            "Villermaux took a step back. He considered what would have to be true for all breakups.",
+            "And his work, Kun says, \u201cshows that actually, the mechanism [of shattering] is not important\u201d to the outcome.",
+            "Villermaux took two broad ideas. First was the concept of \u201cmaximal randomness.\u201d It comes from thermodynamics. That\u2019s a branch of physics that looks at how materials can have different forms of energy and how energy moves between these forms.",
+            "Maximal randomness predicts that the most likely outcome of any process is the one with the most ways it could occur.",
+            "Take the rolling of two dice. There are six ways you can throw the dice so that their numbers add up to seven: 1 and 6, 2 and 5, 3 and 4, 4 and 3, 5 and 2, and 6 and 1. But there is only one way you can roll dice that add up to two: 1 and 1. It\u2019s more likely, therefore, that you\u2019ll roll a seven.",
+            "Scientists now use this thinking for the outcome of fragmentation. The spread of sizes when something shatters is likely to be the spread that has the most ways of occurring.",
+            "Second, Villermaux knew that mass must be conserved. The mass of all fragments must equal the starting mass of the unbroken object. But he devised a simpler version. He showed that a form of density \u2014 mass per volume \u2014 must be approximately conserved, too, when something shatters.",
+            "Villermaux then figured out, using math, what size distribution of rubble you\u2019d get if both ideas were true. The answer turned out to be a power law!",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "Villermaux\u2019s formula also predicts the power law\u2019s slope when graphing fragment sizes for different objects. His slope didn\u2019t depend on how an object shattered, or its size, or its shape or what it was made of. It depended only on the object\u2019s so-called dimension.",
+            "Take objects that are shaped like a line \u2014 a pencil or a chopstick. A plot (or graph) of the fragment sizes for such roughly \u201cone-dimensional\u201d or \u201c1-D\u201d objects would have a slope of -1. In other words, as the size of the fragment increases, the number of fragments of that size decreases at about the same rate.",
+            "Some things, such as dinner plates, have notable length and width but little height. The slope of these more or less two-dimensional (2-D) objects would be about -2.2. So as the size of the fragments increases, the number of fragments drops off a bit faster than for 1-D objects.",
+            "And for truly 3-D objects \u2014 like bowling balls, with notable length, width and height \u2014 the slope would be -3.5.",
+            "These slope values agree across a wide array of experiments by Villermaux and other scientists. For example, crushing uncooked spaghetti (which is roughly 1-D) creates debris whose size plot has a slope of -1.3. Thin packaging materials torn apart in the ocean (roughly 2-D) show a slope of -2.4. And 3-D air bubbles under breaking waves give a slope of -3.5.",
+            "*several_graphs_showing_sugar_cube_fragments_by_size_and_share_of_fragments_for_weights_dropped_at_va",
+            "fCVillermaux\u2019s experiment dropped a weight onto sugar cubes (collected fragments in insets). Graphs show the share of fragments (vertical axis) versus fragment size, relative to the original sugar cube (horizontal axis). The weight was dropped from a height of 10, 50 and 150 centimeters (left to right, about 4, 20 and 60 inches). Black lines have slope -3.5. Note that all three experiments yield a roughly straight line with the same slope.",
+            "Some things do break these general rules. To account for them, Villermaux extended his theory in several ways.",
+            "For instance, the distribution of the largest fragments often falls below the predicted straight line. So Villermaux derived a more complex version of his formula. It accounts for the conservation of energy in addition to conservation of mass. Then he re-graphed some 90-year-old data on logarithmic axes. His more complex prediction of fragment sizes could now more fully explain that old experiment.\u00a0",
+            "\u201cIt is very nice\u201d to look at nearly century-old data with new thinking, he says. \u201cWhen you look at them more carefully, you discover something new.\u201d",
+            "Villermaux could even explain the fragmentation pattern of soft objects. They break apart differently than brittle ones. A Frisbee, for instance, doesn\u2019t shatter the same way as a ceramic dinner plate. That\u2019s because tiny cracks in plastic can \u201cheal\u201d or essentially close up. Villermaux thus assumed that some portion of smaller plastic fragments would not form.",
+            "He thus calculated an \u201ceffective\u201d slope for plastics. It\u2019s a flatter distribution, with fewer small fragments and more large ones. His extended theory predicts an effective slope for 3-D plastic objects of 1.5.",
+            "Villermaux\u2019s work agrees well with the results of a 2010 study by Kun and others. In that experiment, they\u2019d looked at the debris shed by plastic balls thrown against a wall and calculated an effective slope of 1.6.",
+            "Kun is thrilled that Villermaux\u2019s theory can explain what they saw. \u201cIn this very general mathematics, he can incorporate the effect of plasticity,\u201d Kun says. \u201cThis is amazing!\u201d",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/tamarin-monkeys-wild-behavior",
         "title": "\n\tBrazilian monkeys offer lessons on how to return species to the wild",
         "content": [
@@ -293,37 +317,6 @@
             "The tamarins that had trained in U.S. parks fared no better than those that hadn\u2019t. The monkeys needed a longer training period before release, the researchers determined.",
             "All this effort ultimately paid off. A 2023 census in Brazil found 4,800 wild tamarins. More than 2,500 of them descended from the reintroduced pioneers.",
             "The project has brought more tamarins into the world. It has also shown the importance of considering animal behavior when trying to save a species.",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/tree-bark-microbes-methane-climate",
-        "title": "\n\tMicrobes that dwell in tree bark devour major climate gases",
-        "content": [
-            "*An_image_of_wetlands_with_trees_with_peeling_bark_sitting_in_water",
-            "Wetlands, like the one seen here, are a major source of atmosphere-warming methane. Microbes living in tree bark consume this gas, providing an important climate benefit.",
-            "Carbon dioxide is a climate-warming greenhouse gas. Trees are renowned for capturing it as they grow. But through microbes in their bark, trees soak up other major climate gases, too, scientists now report.",
-            "These tree-bark microbes feast on hydrogen, methane and carbon monoxide. Over a 100-year period, methane\u2019s climate-warming potential is 28 times that of carbon dioxide. Carbon monoxide and hydrogen boost global warming indirectly. How? They help methane hang out longer in the atmosphere.",
-            "Getting rid of these gases \u201cis a hidden benefit of trees,\u201d says Luke Jeffrey. A biogeochemist, he studies how compounds move through the environment and living things. He works at Southern Cross University in Lismore, Australia. Until now, scientists didn\u2019t know that bark microbes were drawing down these gases. \u00a0",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "Known as the bark\u2019s microbiome, that community of microbes is big.",
-            "Some 6 trillion microbes inhabit every square meter (10.8 square feet) of tree bark, Jeffrey and his colleagues now estimate. And there\u2019s a lot of bark. Worldwide, trees host an estimated 41 million square kilometers (15.8 million square miles) of it. That\u2019s an area about equal to North and South America combined.",
-            "All this time, it was \u201chidden in plain sight,\u201d says Jonathan Gewirtzman. He\u2019s a forest ecologist at Yale University in New Haven, Conn., who did not take part in the project. This microbiome highlights bark as a part of the environment we still know \u201clittle about.\u201d",
-            "Chris Greening is a microbiologist at Monash University in Melbourne, Australia. He and Jeffrey learned about the new microbiome as they were studying methane. This gas is responsible for about one-third of human-caused climate warming.",
-            "Methane bubbles up from microbes living in the waterlogged sediments of lakes and wetlands.",
-            "Over the years, scientists had measured methane oozing up from the flooded lowlands of the Amazon. The amount leaving the ground was only about half what they had expected. Then, in 2017, other scientists realized that \u201cmissing\u201d methane was actually seeping out of Amazon tree trunks.",
-            "People thought the trees were like chimneys, spewing methane they\u2019d pulled from the soil. But in 2021, Jeffrey and Greening realized that wasn\u2019t quite right.",
-            "They\u2019d been working in Australia with broad-leaf paper-bark trees (Melaleuca quinquenervia). Their bark was emitting 35 percent less methane than the trees were picking up from the soil. Microbes in the bark must be eating some of the methane for energy, they concluded.",
-            "*An_image_looking_up_through_the_canopy_of_tall_trees",
-            "fCMethane isn\u2019t the only gas with a climate role that tree bark microbes consume. Others include hydrogen and carbon monoxide.",
-            "That meant these trees were removing some of an important greenhouse gas.",
-            "Jeffrey, Greening and their coworkers wanted to get a better sense of which microbes were consuming methane. They also wanted to see if bark microbes might be slurping up other gases, too. To do this, they first identified the DNA of thousands of microbial species living in paper bark trees. They also studied seven other common tree species in Australia.",
-            "The methane-eaters were a type of bacteria. Microbes that dine on hydrogen gas were even more common than the methane-eaters. Plenty of microbes ate carbon monoxide, too. The researchers shared these findings January 8 in Science.",
-            "And bark microbes don\u2019t just use the soil-derived gases seeping up through the trees, data from live trees showed. They also suck methane, hydrogen and carbon monoxide out of the air.",
-            "Though these gases exist in the atmosphere at super low levels, they have a big impact on how much Earth\u2019s climate warms. Worldwide, tree microbes likely consume vast amounts of them, the researchers now conclude. In terms of methane alone, they must be eating an estimated 25 million to 50 million tons (55 billion to 110 billion pounds). By removing other climate gases, tree-bark microbes boost the already big benefits that trees provide by stashing CO2.",
-            "One important approach to combating climate change is rebuilding forests. The new bark microbiome data could make forest restoration more effective.",
-            "The eight tree species examined in this study hosted different mixes of microbes in their bark. So their microbiomes ate different amounts of those trace gases. This new observation could help forest-building scientists choose tree species based on which will be best suited to blunt climate change.",
-            "The new idea here, Greening says, is that \u201cyou\u2019re not just thinking about the tree you\u2019re planting, but also the microbes within the tree.\u201d In some cases, that could mean removing three or four climate gases with one action.",
             "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
         ]
     },
@@ -893,6 +886,25 @@
         ]
     },
     {
+        "URL": "https://www.snexplores.org/article/scientists-say-equilibrium-definition-pronunciation",
+        "title": "\n\tScientists Say: Equilibrium",
+        "content": [
+            "*_Scientists_Say_Equilibrium1",
+            "Together, this mother-daughter team maintains a steady, balanced state of equilibrium. By gripping hands and supporting one another, they steady themselves through equal opposition of forces.",
+            "iFhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2278787879&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+            "Equilibrium refers to a state that remains steady or balanced over time. Such an unchanging state doesn\u2019t have to be at a total standstill. Instead, imagine equilibrium as a tug-of-war between equally matched opponents. The state remains steady because the opposing forces balance each other out.",
+            "Imagine, for instance, a bathtub with the faucet on and the drain open. If water flows into the tub at the same rate as it flows out, the water level in the tub stays the same. That steady water level is said to be in equilibrium.",
+            "This idea of a steady state appears in many fields of science. In chemistry, equilibrium refers to balance in a chemical reaction. In reactions, starting chemicals called reactants\u00a0turn into products. But products also react to form reactants again. Chemical equilibrium exists when the amounts of reactant and product remain the same, because the reaction rates match.",
+            "Biologists describe steady states in the body as in equilibrium. For example, our bodies maintain a constant temperature. When you get hot, you sweat. That cools you down. When you get cold, you shiver. That warms you back up. Biologists often use the word \u201chomeostasis\u201d (Ho-mee-oh-STAY-sis) to describe this type of equilibrium.",
+            "The idea of steady states is also important to ecologists. Consider predator-prey relationships. When there are more prey in an area, predators have more to eat. As a result, the number of predators spikes. Then, there are more predators to gobble up the prey, causing prey numbers to decrease. That offers less food for predators to eat, causing their numbers to drop \u2014 allowing prey numbers to rise again, and so on. These numbers change continually yet balance over time. This is a state of \u201cfluctuating equilibrium.\u201d",
+            "In physics, it may be hard to see the opposing forces acting on an object in equilibrium. Imagine a book resting on a desk. There is no back-and-forth movement like what we see in the predator-prey example. However, even in this \u201cstatic equilibrium,\u201d forces still balance. Gravity pushes down on the book. That force matches the \u201cnormal force\u201d of the desk holding it up.\u00a0",
+            "Equilibrium can even refer to steady states in climate science. Earth\u2019s global warming shows that our climate is not at a steady state. The gases entering and leaving the atmosphere are unbalanced. This results in a steady rise in global temperatures.",
+            "Our body\u2019s nervous system maintains equilibrium in the body, allowing us to alternate between responding to and recovering from stressful situations.",
+            "Check out the full list of\u00a0Scientists Say.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/sports-physics-athlete-injuries",
         "title": "\n\tUsing physics can help athletes avoid sports injuries\u00a0",
         "content": [
@@ -1265,34 +1277,6 @@
             "AI experts warn that chatbot hallucinations may mislead you.",
             "Check out the full list of\u00a0Scientists Say.",
             "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/lets-learn-how-sports-ball-soar-physics",
-        "title": "\n\tLet\u2019s learn how to make a sports ball soar",
-        "content": [
-            "*This_is_a_drawing_of_Maria_Temming_a_white_female_with_blue_eyes_and_smiling_Behind_her_is_a_space-t",
-            "Understanding the physics of flying balls could help improve athletes\u2019 game \u2014 and maybe inspire more fuel-efficient vehicles.",
-            "A basketball player\u2019s smooth, nothing-but-net shot. A softball pitcher\u2019s wicked curveball. A football quarterback\u2019s beautiful spiral toss. These aren\u2019t just athletic spectacles. They\u2019re feats of physics.",
-            "Making a ball take a specific path through the air is difficult, no matter the sport. That\u2019s because the tiny details of a ball\u2019s shape and spin can have a big impact on how it interacts with the air \u2014 and therefore its motion.",
-            "Some physicists study these nit-picky details to give athletes an edge in their game. For example, scientists are trying to use physics to help football players improve their spirals. Engineers, meanwhile, have gone different routes. Some have redesigned balls. While others have applied some of this knowledge to design better vehicles.",
-            "For instance, a ball or other object flying through the air experiences a type of friction called drag. This force acts against an object\u2019s motion, slowing it down. But adding dimples to the surface of an object \u2014 like those found on a golf ball \u2014 allows air to flow around the ball more smoothly and reduces drag. Engineers recently borrowed this concept to design dimpled surfaces that could help vehicles cut through air and water more easily.",
-            "A ball\u2019s path through the air also depends on how it spins. That\u2019s because a ball\u2019s spin causes air to flow differently around different sides of it. Softball and baseball players harness those effects to pitch balls that curve in various directions. These airflow affects also impact how other balls, including basketballs, arc through the air. Such effects could be used to improve the spinning cylinders that help power cargo ships.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "Precise tee placement can improve golf driving, teen finds This middle-school engineer built a golf-ball-hitting machine out of a clay-pigeon launcher. (2/10/2026) Readability: 6.0",
-            "How to make a pitched ball curve to your will Pitchers have many tricks up their sleeves. Physics explains how they work. (9/18/2025) Readability: 6.1",
-            "Holey basketballs! 3-D printing could be a game-changer An \u2018airless\u2019 design makes Wilson\u2019s new basketball quieter and puncture-proof. (7/1/2024) Readability: 7.2",
-            "iFhttps://www.youtube.com/embed/2OSrvzNW9FE?feature=oembed",
-            "This video shows how a physical phenomenon known as the Magnus effect impacts spinning balls \u2014 and could be used for better boat design.",
-            "Scientists Say: Force",
-            "Explainer: What is friction?",
-            "Pickleballs inspire a new way to reduce drag on vehicles",
-            "Aerodynamics involved in shooting hoops can make vehicles greener",
-            "Due to global warming, major league hitters are slugging more home runs",
-            "Researchers reveal the secret to the perfect football throw",
-            "These young researchers take aim at sports",
-            "Word find",
-            "Want an excuse to play around at the gym or outside while you do science? Check out our experiment from Science Buddies investigating where a basketball\u2019s energy goes as it loses its bounce.\u00a0\u00a0"
         ]
     },
     {
