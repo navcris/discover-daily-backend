@@ -153,6 +153,29 @@
         ]
     },
     {
+        "URL": "https://www.snexplores.org/article/engineer-fruit-picking-farm-device",
+        "title": "\n\tThis engineer designed a device to make farm work easier",
+        "content": [
+            "*Juan_Espinoza_stands_over_a_robotic_arm_in_a_lab_He_is_a_Mexican_American_man_with_brown_hair_and_ey",
+            "As a graduate student, Juan Espinoza designed an automated device\u00a0that makes citrus picking easier. Improper picking can damage fruit,\u00a0making it less valuable.\u00a0Now he has his sights set on improving the cars everyday people drive.",
+            "Mechanical engineer Juan Espinoza\u2019s work in agriculture runs deep. In the 1990s, his parents immigrated to California from Mexico. With little formal education, the only work available to them at the time was picking crops such as\u00a0almonds,\u00a0grapes\u00a0and roses. When Espinoza and his siblings reached working age \u2014 that was 15 for Espinoza \u2014 his parents required them to pick crops for at least one summer.\u00a0\u00a0",
+            "\u201cThey wanted to teach their children the value of a dollar,\u201d he says. \u201cThey wanted us to aspire for more.\u201d Espinoza would return to pick crops for several summers.\u00a0",
+            "That experience inspired his work as an engineer. Improper picking can damage fruit, he had noticed, making it less valuable. Espinoza, now at California State University, Fresno, designed a device called an end effector for a citrus-harvesting machine. Found at the end of robotic arms, this device acts like mechanical hands. It includes both a gripper and a cutter. The cutter employs the specialized shears farmworkers use to cut stems. The gripper delicately grips the fruit. \u201cIt worked out beautifully,\u201d he says. \u201cI got to combine the things I learned in the classroom with my personal experience.\u201d\u00a0\u00a0",
+            "The device could help farmers and workers alike. Working in California\u2019s intense summer heat leaves laborers at risk of heat-related illnesses and injury, he notes. Farmers are also struggling to find laborers. Espinoza hopes his citrus harvester can help with worker shortages as well as ease the physical demands on farmworkers. In this interview, he shares his experiences with\u202fScience News Explores.\u00a0(This interview has been edited for content and readability.)\u00a0",
+            "The spark to be an engineer started in high school.\u00a0There\u2019s\u00a0a program called Project Lead the Way that\u00a0teaches\u00a0students engineering and STEM technology. [STEM stands for\u00a0science,\u00a0technology,\u00a0engineering\u00a0and\u00a0math.] We had\u00a0computer-driven tools called CNC machines\u00a0in class and learned about robotics. Before that, I\u00a0didn\u2019t\u00a0even know what engineering was. Once I got a taste of it, it captivated my interest.\u00a0",
+            "Then my interest in mechanical engineering came from growing up around vehicles. I had a lot of older family members who were into the \u201890s Honda scene. They would buy older vehicles and fix them up. Paint them, install sound systems, swap engines \u2014 the whole nine yards. My cousins and I would all hang out and go to car meets together.\u00a0\u00a0",
+            "A big challenge for me was being a first-generation student. [A first-generation student is one who is in the first generation of their family to attend university.] Both of my older sisters started college, but neither of them finished due to\u00a0starting families. I never had anybody in my family who knew how to navigate higher education. My parents and siblings would give me advice that came from the heart. They meant well, but they\u00a0didn\u2019t\u00a0have the actual experience.\u00a0\u00a0",
+            "I had to figure it out on my own along the way.\u00a0To some extent, that\u00a0was better because I learned the hard way. That meant the lessons really stuck. If somebody\u00a0is\u00a0guiding you, you\u00a0can become dependent on them to make decisions.\u00a0You may not be able to\u00a0confidently\u00a0make decisions about what\u2019s right for you. I had to\u00a0be responsible for\u00a0the mistakes that I made. I was better able to grasp those lessons because I had to struggle my way through.\u00a0\u00a0",
+            "*Espinoza\u2019s_engineered_citrus-picking_device_grasps_an_orange_retrieved_from_a_tree_It_has_a_white_ar",
+            "fCEspinoza\u2019s citrus-picking device gently grasps the fruit with its clawlike gripper. A cutter then severs the stem right where it meets the fruit.",
+            "Historically, mechanical systems\u00a0have been\u00a0simple,\u00a0robust\u00a0and reliable. Unfortunately, that\u2019s not how technology progresses.\u00a0It\u00a0tends\u00a0to get more sophisticated and complex. Today,\u00a0there are\u00a0all kinds of technology that use sensors,\u00a0GPS\u00a0and automated controls.\u00a0They\u2019re\u00a0these massive pieces of equipment that cost millions of dollars. You run into issues with not being able to repair your own equipment. The \u201cright to repair\u201d has been a huge topic\u00a0across different sectors of tech.\u00a0Did you know,\u00a0when something breaks on your iPhone, you cannot buy or install an authentic Apple part directly as a consumer? You\u00a0must\u00a0either go through a third party or take it to Apple to fix.",
+            "In the past, repairing mechanical systems was very simple and straightforward. If something breaks, the farmer was the one to fix it. They had the tools and knowledge to service their equipment. Now, they can\u2019t fix broken machines because they don\u2019t have the right computer to hook up to them. They don\u2019t have the special diagnostic tools or, in some cases, even permission. It needs to go through a licensed dealership that is authorized to repair it.",
+            "Agricultural tech was never really a career aspiration of mine. I enjoy it and do it now because it adds to an industry that got me to where I am today. Thanks to agriculture, my parents could provide for\u00a0us\u00a0and I could get an education.\u00a0\u00a0",
+            "My passion, though, is in automobiles. I want to improve vehicles that see the hands of everyday people. I want to work on the Honda Civics and\u00a0the\u00a0Toyota Corollas of the world. Those base models that get everyday people to where they need to go. My long-term career goal is to improve the quality of life for the general population. I want to provide everyday people who earn a minimum wage with reliable vehicles that are inexpensive to fix.\u00a0",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/scientists-say-bolide-definition-pronunciation",
         "title": "\n\tScientists Say: Bolide",
         "content": [
@@ -247,40 +270,6 @@
             "While modern seismographs record this motion as an electrical signal, older seismographs would use a pen to draw the signal directly on paper. In this activity you built your own old-fashioned seismograph that used a marker to record an \u201cearthquake\u201d on a paper strip.",
             "This activity is brought to you in partnership with\u00a0Science Buddies. Find\u00a0the original activity\u00a0on the Science Buddies website.",
             "*A_banner_that_reads_SCIENCE_BUDDIES"
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/light-activated-graphene-kill-germs",
-        "title": "\n\tNew light-activated coating can kill stubborn germs",
-        "content": [
-            "*two_scientists_in_white_lab_coats_and_dark_glasses_demonstrating_their_new_graphene-based_material_t",
-            "Paula B\u00fcrgisser and Giacomo Reina, scientists at EMPA, helped develop a new material that can kill germs when activated by light.",
-            "Graphene is a wonder. This single layer of carbon atoms is stronger than steel and lighter than aluminum. It conducts electricity better than many other materials. And recent studies now show it can even kill germs. A new graphene-based material is being developed to harness that surprising superpower.",
-            "To turn on this germ killer, all you need is a little light. Exposing graphene to light starts a chemical reaction, says Giacomo Reina. That reaction produces molecules that can take down microbes such as bacteria, viruses or fungi.",
-            "A materials scientist, Reina works at EMPA, a research institute in St. Gallen, Switzerland. He was part of a team that unveiled the new material last year in EcoMat.",
-            "As a liquid, the substance could one day coat surfaces often rife with germs. Those might include doorknobs or handrails in hospitals. Right now, though, Reina\u2019s team wants to use it in the human mouth. It\u2019s a particularly germy place. Installing new dental implants can put someone at risk of infection. But coating the implant with this germ-fighting coating should greatly lower that risk.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "In the 22 years since graphene was discovered, scientists have probed and explored it in many ways. They\u2019ve even developed different types of useful graphene. It can add strength to concrete and tennis rackets. It can also boost the performance of electronic devices.",
-            "Nowadays, Reina says, graphene is more \u201ca family\u201d of materials. His team used a type called graphene oxide. It\u2019s a layer of carbon atoms with oxygen-containing molecules attached. This formula mixes easily with water to form an acid.",
-            "To that liquid, the EMPA team added a dash of nitrogen. When scientists place some extra stuff in a material, they call it \u201cdoping.\u201d So this new material is called nitrogen-doped graphene acid.",
-            "Making it requires high precision at a small scale. As such, graphene can be difficult to work with. Unplanned defects can make it unusable, Reina notes. The added nitrogen, he explains, helps keep it stable.",
-            "\u201cWhen I saw this [material], I fell in love,\u201d Reina says. \u201cI wanted to try to see if it [would] work\u201d as a germ-killer coating.",
-            "*A_pale_man_with_dark_hair_and_a_beard_is_holding_up_a_large_petri_dish_with_three_dark_circles_to_th",
-            "fCAn acid made from graphene is plated onto the dish held up here by Reina. The black circles mark where bacteria cannot grow. ",
-            "When light strikes it, the doped material responds in two ways. First, it warms \u2014 enough to kill certain microbes. But that light also triggers a chemical reaction between the doped graphene and oxygen in the air. This now creates a class of microbe-fighting molecules called radicals.",
-            "Turning the doped material into a liquid that could be used to coat surfaces took more than a year of trial and error. The scientists had to answer many questions about how the light was interacting with it, Reina says. \u201cWhat happened with oxygen? What happened without oxygen? What kind of reaction are we generating? Does it work many times?\u201d",
-            "To find out, the scientists compared the radicals produced by the doped material under different conditions. They also mixed the acid with a liquid plastic that could be easily spread on a surface.",
-            "The resulting material, Reina says, improves on past anti-germ coatings. For instance, unlike others, this one uses no metals (which may need ultraviolet radiation to activate their germ-killing action).",
-            "\u201cIt can become antimicrobial under just ambient light,\u201d says Sara Imani. She calls that a \u201cplus point\u201d for the new material. Imani is a mechanical engineer in Canada at McMaster University in Hamilton, Ontario. She, too, works on new antimicrobial coatings (although not this one).",
-            "*an_illustration_of_yellow_pill-shaped_bacteria",
-            "fCThe Porphyromonas gingivalis bacteria (illustrated above) occur naturally in the mouth and other places in the body. They play a role in gum disease and other oral infections. The new graphene-based material can kill those germs on contact.",
-            "Reina\u2019s group combined its material with bacteria in lab experiments and found that it could kill germs when bathed in infrared light. Those wavelengths are present in sunlight and some room lighting. They also tested the doped acid on a chemical that mimics living tissue, such as skin. It triggered no harmful reactions.",
-            "Those tests suggest that the new material is safe for the human body, including the mouth. That\u2019s critical for how Reina and his colleagues intend to use it.",
-            "Their team is now working with dentists and researchers to develop a \u201csplint.\u201d It\u2019s a type of tray filled with a liquid film that can fit over the teeth. Within a few minutes, the tray could coat teeth with the new graphene-based material. Then, light shined into the mouth would kick on its antimicrobial activity.",
-            "The researchers have been testing the material against common infectious agents in gum tissue. One day, after having a dental procedure, someone might wear the splint and expose it to light. \u201cIt\u2019s something the patient can do at home,\u201d too, Reina says, to kill harmful germs in their mouth.",
-            "He sees the new coating as a potent new tool in the ongoing fight against microbial \u201csuperbugs.\u201d Many harmful germs don\u2019t just spread easily. Some also have developed resistance to drugs, such as antibiotics. These infections are now very hard to knock out. In fact, resistant infections kill more than 1.25 million people each year, according to the World Health Organization.",
-            "Materials like graphene, which deliver germs a one-two punch, could offer new ways to quash such resistant germs.",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
         ]
     },
     {
@@ -1244,6 +1233,40 @@
             "fCAll: Maki Naro",
             "Read more science comics here.",
             "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
+        ]
+    },
+    {
+        "URL": "https://www.snexplores.org/article/light-activated-graphene-kill-germs",
+        "title": "\n\tNew light-activated coating can kill stubborn germs",
+        "content": [
+            "*two_scientists_in_white_lab_coats_and_dark_glasses_demonstrating_their_new_graphene-based_material_t",
+            "Paula B\u00fcrgisser and Giacomo Reina, scientists at EMPA, helped develop a new material that can kill germs when activated by light.",
+            "Graphene is a wonder. This single layer of carbon atoms is stronger than steel and lighter than aluminum. It conducts electricity better than many other materials. And recent studies now show it can even kill germs. A new graphene-based material is being developed to harness that surprising superpower.",
+            "To turn on this germ killer, all you need is a little light. Exposing graphene to light starts a chemical reaction, says Giacomo Reina. That reaction produces molecules that can take down microbes such as bacteria, viruses or fungi.",
+            "A materials scientist, Reina works at EMPA, a research institute in St. Gallen, Switzerland. He was part of a team that unveiled the new material last year in EcoMat.",
+            "As a liquid, the substance could one day coat surfaces often rife with germs. Those might include doorknobs or handrails in hospitals. Right now, though, Reina\u2019s team wants to use it in the human mouth. It\u2019s a particularly germy place. Installing new dental implants can put someone at risk of infection. But coating the implant with this germ-fighting coating should greatly lower that risk.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "In the 22 years since graphene was discovered, scientists have probed and explored it in many ways. They\u2019ve even developed different types of useful graphene. It can add strength to concrete and tennis rackets. It can also boost the performance of electronic devices.",
+            "Nowadays, Reina says, graphene is more \u201ca family\u201d of materials. His team used a type called graphene oxide. It\u2019s a layer of carbon atoms with oxygen-containing molecules attached. This formula mixes easily with water to form an acid.",
+            "To that liquid, the EMPA team added a dash of nitrogen. When scientists place some extra stuff in a material, they call it \u201cdoping.\u201d So this new material is called nitrogen-doped graphene acid.",
+            "Making it requires high precision at a small scale. As such, graphene can be difficult to work with. Unplanned defects can make it unusable, Reina notes. The added nitrogen, he explains, helps keep it stable.",
+            "\u201cWhen I saw this [material], I fell in love,\u201d Reina says. \u201cI wanted to try to see if it [would] work\u201d as a germ-killer coating.",
+            "*A_pale_man_with_dark_hair_and_a_beard_is_holding_up_a_large_petri_dish_with_three_dark_circles_to_th",
+            "fCAn acid made from graphene is plated onto the dish held up here by Reina. The black circles mark where bacteria cannot grow. ",
+            "When light strikes it, the doped material responds in two ways. First, it warms \u2014 enough to kill certain microbes. But that light also triggers a chemical reaction between the doped graphene and oxygen in the air. This now creates a class of microbe-fighting molecules called radicals.",
+            "Turning the doped material into a liquid that could be used to coat surfaces took more than a year of trial and error. The scientists had to answer many questions about how the light was interacting with it, Reina says. \u201cWhat happened with oxygen? What happened without oxygen? What kind of reaction are we generating? Does it work many times?\u201d",
+            "To find out, the scientists compared the radicals produced by the doped material under different conditions. They also mixed the acid with a liquid plastic that could be easily spread on a surface.",
+            "The resulting material, Reina says, improves on past anti-germ coatings. For instance, unlike others, this one uses no metals (which may need ultraviolet radiation to activate their germ-killing action).",
+            "\u201cIt can become antimicrobial under just ambient light,\u201d says Sara Imani. She calls that a \u201cplus point\u201d for the new material. Imani is a mechanical engineer in Canada at McMaster University in Hamilton, Ontario. She, too, works on new antimicrobial coatings (although not this one).",
+            "*an_illustration_of_yellow_pill-shaped_bacteria",
+            "fCThe Porphyromonas gingivalis bacteria (illustrated above) occur naturally in the mouth and other places in the body. They play a role in gum disease and other oral infections. The new graphene-based material can kill those germs on contact.",
+            "Reina\u2019s group combined its material with bacteria in lab experiments and found that it could kill germs when bathed in infrared light. Those wavelengths are present in sunlight and some room lighting. They also tested the doped acid on a chemical that mimics living tissue, such as skin. It triggered no harmful reactions.",
+            "Those tests suggest that the new material is safe for the human body, including the mouth. That\u2019s critical for how Reina and his colleagues intend to use it.",
+            "Their team is now working with dentists and researchers to develop a \u201csplint.\u201d It\u2019s a type of tray filled with a liquid film that can fit over the teeth. Within a few minutes, the tray could coat teeth with the new graphene-based material. Then, light shined into the mouth would kick on its antimicrobial activity.",
+            "The researchers have been testing the material against common infectious agents in gum tissue. One day, after having a dental procedure, someone might wear the splint and expose it to light. \u201cIt\u2019s something the patient can do at home,\u201d too, Reina says, to kill harmful germs in their mouth.",
+            "He sees the new coating as a potent new tool in the ongoing fight against microbial \u201csuperbugs.\u201d Many harmful germs don\u2019t just spread easily. Some also have developed resistance to drugs, such as antibiotics. These infections are now very hard to knock out. In fact, resistant infections kill more than 1.25 million people each year, according to the World Health Organization.",
+            "Materials like graphene, which deliver germs a one-two punch, could offer new ways to quash such resistant germs.",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
         ]
     },
     {
