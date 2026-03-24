@@ -121,6 +121,23 @@
         ]
     },
     {
+        "URL": "https://www.snexplores.org/article/scientists-say-cave-popcorn-definition-pronunciation",
+        "title": "\n\tScientists Say: Cave Popcorn",
+        "content": [
+            "*the_inside_of_a_cave_with_surfaces_covered_in_clusters_of_knobby_minerals",
+            "Many types of formations \u2014 including stalactites, stalagmites and cave popcorn \u2014 decorate the surfaces of Sonora Caverns (pictured). This beautiful, highly decorated cavern is near Sonora, Texas.",
+            "iFhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2286898436&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+            "Cave popcorn is a kind of cave formation. These knobby clusters of minerals decorate cave walls and ceilings. They can also cover other cave formations, such as stalactites and stalagmites. Sometimes, cave popcorn is made up of many tiny bumps bunched close together. This can create a cauliflower-like texture. Other times, cave popcorn features larger, cherry-like blobs. Cave popcorn is part of a larger group of bulbous cave formations known as coralloids.",
+            "Cave popcorn typically forms when mineral-rich water splashes or seeps onto cave surfaces over hundreds or thousands of years. As the water evaporates, it leaves minerals behind. Over time, these minerals build up and clump together.\u00a0",
+            "Most cave popcorn forms through evaporation. But some forms entirely underwater. This can occur when water is \u201csupersaturated\u201d with minerals. That is, it contains more dissolved minerals than it can hold. The dissolved minerals can \u201cfall out\u201d of the solution. And sometimes, that forms popcorn-like deposits.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "Like other cave formations, popcorn is thought to grow about 1 centimeter (about half an inch) every 100 years. Most cave popcorn consists of calcium minerals, such as calcite and gypsum. These minerals usually give the popcorn a whiteish color. However, some caves contain formations made of other minerals, such as salt.",
+            "Often, cave popcorn looks especially bright when growing. But as water flow changes, and the formation growth slows, it may darken. Some elements imbue cave popcorn with colorful hues. Iron may give it an earthy reddish color.",
+            "In Poland\u2019s Wieliczka Salt Mine, cave popcorn, straws and other formations \u2014 all made of salt crystals \u2014 adorn the surfaces.",
+            "Check out the full list of\u00a0Scientists Say."
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/engineer-fruit-picking-farm-device",
         "title": "\n\tThis engineer designed a device to make farm work easier",
         "content": [
@@ -213,6 +230,34 @@
             "When these effects are combined, the net time difference between clocks on Earth and in orbit is 38 microseconds. Engineers take this into account when setting satellite clocks. That way, when satellites get into orbit and start experiencing time differently, they\u2019ll stay in sync with clocks on the ground.",
             "Ripples in spacetime \u2014 also known as gravitational waves \u2014 allowed researchers to unlock secrets of the oldest black holes in the cosmos.",
             "Check out the full list of\u00a0Scientists Say."
+        ]
+    },
+    {
+        "URL": "https://www.snexplores.org/article/smallest-autonomous-smart-robots",
+        "title": "\n\tThese smart robots are smaller than a grain of salt",
+        "content": [
+            "*a_tiny_computer_chip_overs_above_the_vast_copper_expanse_of_a_penny's_surface",
+            "A tiny autonomous robot, less than a millimeter across, is pictured over a penny for scale. The image is so zoomed in that it\u2019s hard to identify the image on the penny.",
+            "You wouldn\u2019t know this teensy speck was a robot if you saw it. At less than a millimeter across, you might not notice it at all. But the itty-bitty machine offers big opportunities to explore the microscopic world. It\u2019s the smallest robot that can move, think and act on its own, its creators say.",
+            "The mini robot was inspired by nature\u2019s tiny, complex machines. \u201cCells and microorganisms are phenomenally sophisticated,\u201d says Marc Miskin. \u201cNature has chosen this length scale to organize all of life.\u201d An engineer, Miskin works at the University of Pennsylvania in Philadelphia. He hopes that similarly tiny robots will help uncover the secrets of the cellular realm.",
+            "The new robot is as small as a paramecium \u2014 a single-celled organism that lives in water. It isn\u2019t the first machine less than a millimeter long, Miskin says. But it\u2019s the first one that\u2019s fully autonomous. Once programmed, it decides where to go,  how to get there and what to do.",
+            "Such small robots might someday be able to travel through the human body to study cells or deliver drugs.",
+            "Designing the microbot was a challenge, says Miskin. Robots need sensors, computer processors and memory, power sources and pieces to control their motion. In large robots, these systems can be separated. But in tiny robots, everything is squished in close. And at such small scales, different forces affect how objects can move around. As a result, engineers had to rethink how to design this robot.",
+            "The new robot is powered by mini solar cells on its surface. From an LED overhead, it produces 100 nanowatts of power. Microwave ovens produce 10 billion times more! The tiny amount of power available to run the machine limited its design options. The team had to be clever about how the robot gets around and processes information, Miskin says.",
+            "fCThe robots, each smaller than a grain of salt, move through liquid using electrokinetic propulsion. They are powered by tiny solar cells and contain temperature sensors and computers.",
+            "To move, the robot needs to be in a liquid. It can\u2019t swim, though. At very small scales, objects interact differently with liquids than we do. For a cell-sized thing, swimming through water feels more like swimming through tar. So the microbot uses a low-power process called electrokinetic propulsion. That means electricity (\u201celectro\u201d) drives its motion (\u201ckinetic\u201d).",
+            "Four electrodes on the robot can send and receive electric current. As current travels through the liquid from one electrode to another, it generates a force on any charged particles that are in the liquid. The force pushes the particles in one direction, but the liquid tries to pull them back. This creates a flow that carries the robot along with it.",
+            "To move in different directions, the robot sends current between different electrode combinations. It changes speed by adjusting the current strength.",
+            "Once their robot could move, it was time for the team to give it sensors and a \u201cbrain.\u201d Temperature might be a useful thing for little robots to measure. That\u2019s because it can be an indicator of cells\u2019 health. To that end, the researchers attached a couple of tiny thermometers to their robot.",
+            "The microbot\u2019s \u201cbrain\u201d is a teeny computer with only a few hundred bits of memory. Most laptops, meanwhile, have at least 64 billion bits! Because of this, the designers had to write computer programs that used hardly any memory. They used tricks like organizing many small commands under one super command and writing programs on a normal desktop computer, then sending them to the robots.",
+            "In experiments, the cell-sized robot was programmed to measure the temperature of its surroundings and move from colder to warmer areas. When the liquid near the robot was cooled, the robot moved around until it found a warmer spot, just as programmed. When that area was cooled, the robot resumed its search for warmth.",
+            "Miskin\u2019s group shared these results in Science Robotics last December. The microbots are also cheap and easy to make, the researchers note. They estimate that if made in large batches, the robots would cost just a penny each.",
+            "*a_microscope_image_shows_a_bunch_of_tiny_robots_popped_out_of_a_printed_set",
+            "fCHundreds of robots can be built at the same time for a low cost. Researchers can program the tiny machines individually or all at once.",
+            "Miskin\u2019s team is now exploring whether these robots can safely travel inside the body. They\u2019re also studying how the robots might talk to one another. \u201cCells by themselves are amazing,\u201d Miskin says. But their real strength lies in working together, he notes.",
+            "These robots are a great development, says Veronika Magdanz. A biotechnologist at the University of Waterloo in Canada, she makes tiny medical robots. It\u2019s a new field with many possibilities, she says. Tiny robots could someday break up blood clots and help diagnose diseases. She appreciates that these new designs can sense, move and compute on their own.",
+            "A big challenge with this tech is power, Magdanz adds. She points out that light-powered robots may not work well in the body. Still, she expects challenges like this to be solved. Sixty years ago, \u201cnobody could think of making tiny robots smaller than what we can see,\u201d she says. \u201cNow we have the abilities and the technology to do that. That\u2019s really cool.\u201d",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
         ]
     },
     {
@@ -1106,23 +1151,6 @@
         ]
     },
     {
-        "URL": "https://www.snexplores.org/article/scientists-say-haboob-definition-pronunciation",
-        "title": "\n\tScientists Say: Haboob",
-        "content": [
-            "*A_massive_dust_storm_called_a_haboob_rolls_across_the_Arizona_desert",
-            "A massive dust storm \u2014 called a haboob \u2014 rolls across the Arizona desert.",
-            "iFhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2252831405&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
-            "A haboob is a kind of dust storm.",
-            "When a thunderstorm occurs in the desert, a haboob might form. These storms look like huge, sandy walls as they approach. That wall-like appearance is one thing that sets a haboob apart from other types of sandstorms. (A sandstorm is a broad term for windy storms that blow around sand and dust.)",
-            "Haboobs are common in dry places, such as the U.S. Southwest and the Sahara. They move fast and can extend for kilometers (miles). Their wind speeds vary. But they can reach speeds of more than 95 kilometers (60 miles) per hour! These storms may last only a few minutes. Or they may persist for hours.",
-            "Another thing that sets haboobs apart from other sandstorms is the way they form. Haboobs usually arise from thunderstorm downdrafts. A downdraft is when a thunderstorm quickly pushes air toward the ground in the area around the storm. This downward rush of air spreads out when it hits the ground, creating strong winds. In dry, dusty regions, those winds can pick up dust and sand. This creates a huge, moving cloud of sand and dust that can reach thousands of meters (feet) into the air.",
-            "When a haboob sweeps through, it can kick up so much sand and dust that it\u2019s hard to see through the grit. That makes driving very dangerous. Drivers are advised to pull over and turn off their lights to avoid confusing others on the road in the poor visibility conditions. Winds can also blow sand into a person\u2019s mouth, making it hard to breathe. As a haboob approaches, the safest thing to do is get inside and close all windows and doors.",
-            "While Earth has haboobs and other sandstorms, Mars is famous for its dust storms.",
-            "Check out the full list of\u00a0Scientists Say.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
-        ]
-    },
-    {
         "URL": "https://www.snexplores.org/article/interstellar-objects-stars-comic",
         "title": "\n\tThey came from other stars! [COMIC]",
         "content": [
@@ -1196,27 +1224,6 @@
             "This field is even useful for preserving food. Quick-freezing can often better retain food\u2019s qualities than just putting it in a freezer. In the freezer, teeny-tiny ice shards form in food, which can change its taste. Cryogenics allows for \u201cflash-freezing.\u201d This process quickly freezes food before these shards can form.\u00a0",
             "By turning fuels from gas into liquid, cryogenics can create high-density rocket propellant.",
             "Check out the full list of\u00a0Scientists Say."
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/mosquito-mouth-3d-print-nozzle",
-        "title": "\n\tA mosquito\u2019s mouth can \u2018print\u2019 lines thinner than a human hair",
-        "content": [
-            "*A_scanning_electron_micrograph_shows_an_mosquito_head_with_a_compound_eye_and_two_long,_hair-covered",
-            "The proboscis of a mosquito (seen in a scanning electron microscope image of one insect\u2019s head) is used for piercing skin. It\u2019s also perfect for precision 3-D printing.",
-            "A mosquito bite is really more of a poke. These insects use a long, needle-like mouthpart known as a proboscis (Pr\u0259-BOSS-sis) to pierce the skin. But this tiny straw could be good for more than just sucking blood. Its unique shape also makes it a great nozzle for fine 3-D printing, new research shows.",
-            "Engineer Changhong Cao led research into this at McGill University in Montreal, Canada. His team calls it \u201c3-D necroprinting.\u201d The term comes from necrobotics, the use of animal parts in machines.\u00a0(Other engineers, for instance, have turned\u00a0spider legs into grippers.)",
-            "By using the proboscis from a mosquito as a nozzle, Cao\u2019s team 3-D printed lines as narrow as 20 micrometers. That\u2019s about half the width of a really fine human hair! The scientists shared their achievement November 21\u00a0in Science Advances.",
-            "Daniel Preston is an engineer at Rice University in Houston, Texas, who did not take part in the work. Nozzle tips used in really fine-line 3-D printing can be expensive and hard to build, he notes. Borrowing parts from nature can help lower the cost, he says. And that, in turn, may make it accessible to more people.",
-            "*A_tiny,_layered_3-D_printed_structure_shaped_like_a_maple_leaf_rests_on_a_smooth_surface",
-            "fCScientists printed this 3-D structure shaped like a maple leaf using a mosquito-proboscis nozzle. Each line on the structure is about 18 micrometers wide, less than half the thickness of a fine human hair.",
-            "Cao\u2019s team looked at many animal parts that might work as printer nozzles. These included stingers, fangs and harpoons. But the team eventually zeroed in on\u00a0the proboscis of the female\u00a0Aedes aegypti\u00a0mosquito. This organ is fairly straight, with an inner diameter between 10 and 20 micrometers. And it can withstand the pressure of ink being pushed through it.",
-            "At first, the plan was to use the proboscis as the nozzle for an existing 3-D printer. But pushing ink through the narrow tip might need more pressure than those printers could handle, says Cao.\u00a0So his group designed a printer around the mosquito\u2019s mouthpart. They coated the proboscis with resin to make it extra stable.",
-            "The device printed a honeycomb shape, the outline of a maple leaf and a structure to hold cell samples. All were created with existing bioink. This is a special ink used to 3-D print biological structures.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "\u201cThis biological, nature-derived sample is much better than engineered material,\u201d says team member Jianyu Li. He\u2019s an engineer who specializes in biological materials at McGill. The best 3-D printing tips on the market have inner diameters of 35 to 40 micrometers. The mosquito proboscis nozzle is half that wide.",
-            "\u201cI\u2019m looking forward to seeing other biotic materials [added] in the 3-D printing process,\u201d Preston says. Moving in that direction could \u201cenable new capabilities,\u201d he says. And, he adds, it could make microscopic engineering more sustainable.",
-            "Li would like to use the mosquito proboscis in biomedicine. For example, his lab wants to develop ways to use the proboscis as a tiny needle to deliver drugs."
         ]
     },
     {
