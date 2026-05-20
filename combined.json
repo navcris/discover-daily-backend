@@ -1,25 +1,5 @@
 [
     {
-        "URL": "https://www.snexplores.org/article/scientists-say-spore-definition-pronunciation",
-        "title": "\n\tScientists Say: Spore",
-        "content": [
-            "*When_the_pestle_puffball_fungus_Lycoperdon_excipuliforme_matures,_it_releases_little_poofs_of_spores",
-            "When the pestle puffball fungus (Lycoperdon excipuliforme) matures, it releases little poofs of spores. Those spores spread out and grow into new fungi.",
-            "iFhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2322605894&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
-            "A spore is a type of cell that certain fungi, plants, algae and bacteria use to reproduce.",
-            "Like a seed, a spore is a tough little speck that can grow into a new life form under the right conditions. But unlike a seed, a spore is usually a single cell that can only be seen with a microscope.",
-            "Fungi rely heavily on spores. Consider the common puffball mushroom (Lycoperdon perlatum). As these ball-shaped mushrooms grow, they swell like little balloons. Eventually, they pop open. A hole appears at the top that releases smokelike poofs of spores when jostled.",
-            "Some plants also use spores. Ferns, for instance, typically produce spores under their leaves. These spores appear as little dirtlike clumps. Mosses typically grow long stalks with spore-filled capsules on the ends.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "Resiliency is a key trait of spores. These cells can endure extreme heat and cold. They can also withstand long dry periods and even intense, DNA-damaging radiation. Then, when conditions are more favorable, they can grow up into new life forms.",
-            "Spores use a few tricks to manage this, such as wearing a protective coat. But their sneakiest trick lies in their ability to go dormant and \u201cplay dead.\u201d",
-            "In this state, a spore is generally not carrying out much chemistry, which saves a lot of energy. In their dormant state, spores can also get by without much water. This not only helps spores survive dry conditions. It also helps them endure extreme temperatures. That\u2019s because when the water in a cell freezes or nears boiling, it can warp the shape of important molecules, such as proteins. Dried out, dormant spores avoid those risks.",
-            "Bacterial spores \u2014 called endospores \u2014 may be nature\u2019s hardiest cells. Some have been known to grow after hundreds or thousands of years of dormancy.",
-            "Bacterial spores withstand extreme conditions, including the vacuum of space.",
-            "Check out the full list of\u00a0Scientists Say."
-        ]
-    },
-    {
         "URL": "https://www.snexplores.org/article/physics-climbing-snakes-stand-up",
         "title": "\n\tPhysics explains how snakes climb and stand without limbs",
         "content": [
@@ -42,6 +22,26 @@
             "Standing up is one thing. But holding that pose may be harder. Snakes spend more energy staying vertical, the math models showed. And in the videos, the snakes that stood taller swayed a bit from side to side. This suggests they were actively using their muscles to stay balanced.",
             "These findings could help in the design of snakelike robots, says Ludwig Hoffmann. A co-author of the study, this applied mathematician works at Harvard University in Cambridge, Mass. Snakelike bots could be used in space and underwater explorations, or in surveying disaster sites. Robots that use real snakes\u2019 standing strategies, he says, could be controlled more easily and use less energy to make desired shapes.",
             "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
+        ]
+    },
+    {
+        "URL": "https://www.snexplores.org/article/scientists-say-spore-definition-pronunciation",
+        "title": "\n\tScientists Say: Spore",
+        "content": [
+            "*When_the_pestle_puffball_fungus_Lycoperdon_excipuliforme_matures,_it_releases_little_poofs_of_spores",
+            "When the pestle puffball fungus (Lycoperdon excipuliforme) matures, it releases little poofs of spores. Those spores spread out and grow into new fungi.",
+            "iFhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2322605894&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+            "A spore is a type of cell that certain fungi, plants, algae and bacteria use to reproduce.",
+            "Like a seed, a spore is a tough little speck that can grow into a new life form under the right conditions. But unlike a seed, a spore is usually a single cell that can only be seen with a microscope.",
+            "Fungi rely heavily on spores. Consider the common puffball mushroom (Lycoperdon perlatum). As these ball-shaped mushrooms grow, they swell like little balloons. Eventually, they pop open. A hole appears at the top that releases smokelike poofs of spores when jostled.",
+            "Some plants also use spores. Ferns, for instance, typically produce spores under their leaves. These spores appear as little dirtlike clumps. Mosses typically grow long stalks with spore-filled capsules on the ends.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "Resiliency is a key trait of spores. These cells can endure extreme heat and cold. They can also withstand long dry periods and even intense, DNA-damaging radiation. Then, when conditions are more favorable, they can grow up into new life forms.",
+            "Spores use a few tricks to manage this, such as wearing a protective coat. But their sneakiest trick lies in their ability to go dormant and \u201cplay dead.\u201d",
+            "In this state, a spore is generally not carrying out much chemistry, which saves a lot of energy. In their dormant state, spores can also get by without much water. This not only helps spores survive dry conditions. It also helps them endure extreme temperatures. That\u2019s because when the water in a cell freezes or nears boiling, it can warp the shape of important molecules, such as proteins. Dried out, dormant spores avoid those risks.",
+            "Bacterial spores \u2014 called endospores \u2014 may be nature\u2019s hardiest cells. Some have been known to grow after hundreds or thousands of years of dormancy.",
+            "Bacterial spores withstand extreme conditions, including the vacuum of space.",
+            "Check out the full list of\u00a0Scientists Say."
         ]
     },
     {
@@ -242,6 +242,42 @@
             "\u201cIt is remarkable that we are still extracting new insights from Magellan data,\u201d says Anna G\u00fclcher. She\u2019s a planetary scientist at Germany\u2019s University of Freiburg. She wasn\u2019t part of the new work but, like Bruzzone, she studies how volcanoes are shaping Venus.",
             "New insights from Magellan data, she says, point to \u201cthe lasting value of that mission, the progress we have made in data analysis and the renewed interest in the planet.\u201d",
             "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
+        ]
+    },
+    {
+        "URL": "https://www.snexplores.org/article/app-guards-against-bad-ai-agents-bots",
+        "title": "\n\tTeen\u2019s new app guards against the rise of villainous AI bots",
+        "content": [
+            "*A_hand_holds_a_smartphone_displaying_an_AI_chatbot_interface_with_a_mischievous_devil_emoji_and_the_",
+            "AI agents and chatbots have growing influence over our lives and decisions. But with AI personalities evolving unchecked, what\u2019s to keep them from causing harm? A teen in New Mexico built an app to help make interactions between AI and humans safer. ",
+            "Phoenix, Ariz. \u2014 People have increasingly been turning to chatbots, agents and other AI helpers for advice and more. For instance, more than 900 million people use ChatGPT weekly. But sometimes artificial-intelligence helpers give dangerous advice. Hoping to counter this problem, Sowmya Sankaran, 16, developed an app. It gives certain bots fully fleshed-out personas that are moral and supportive.",
+            "A junior at Albuquerque Academy in New Mexico, Sowmya focused on AI agents. These differ from the chatbots that most teens already use (such as ChatGPT). More advanced than chatbots, AI agents can take action to achieve one or more goals.",
+            "\u201cWhen I call Firehouse Subs, I talk to an AI agent,\u201d says Sowmya. \u201cIt\u2019s an AI model that listens to what I have to say\u201d and puts in the sandwich order. Some agents can be empowered to do more. One might search your email inbox for contacts, find the one you asked for and send it a message. Or it might buy an airline ticket using your credit card. In contrast, a chatbot\u2019s only job is to provide you text, Sowmya explains.",
+            "What\u2019s been worrying her is that AI agents \u201chave uncontrolled personas. \u2026 They can change in the blink of an eye.\u201d One may start out helpful and kind. But after a single interaction, a seemingly good agent may turn into something \u201creally harmful and manipulative.\u201d It may \u201ceven encourage you to do really bad things,\u201d she says.",
+            "\u201cAI companies prioritize releasing newer [AI] models and improving their performance,\u201d she says. Managing the risks they may pose has been lagging, she argues. And that\u2019s what prompted her to develop the new app. It puts safeguards on its agents.",
+            "This work earned her a finalist slot here last week at the 2026 Regeneron International Science & Engineering Fair. It\u2019s the 76th annual ISEF, a program created and run by the Society of Science (which also publishes this magazine). Sowmya was one of 1,725 finalists from 65 nations or territories. This year\u2019s winners shared nearly $7 million in prizes.",
+            "iFhttps://www.youtube.com/embed/ZpC4xLJQ4Aw?feature=oembed",
+            "Here, Sowmya Sankaran explains why she took on this project to develop an app with potentially safer AI agents.",
+            "Before Sowmya made her app, she had to answer some questions. How might AI\u2019s personality affect its decisions? And how will this bot\u2019s persona \u2014 the way it appears to the world \u2014 affect how it interacts with others? (Those \u201cothers\u201d could be people or other bots.)",
+            "To find out, she built a virtual community of chatty AI agents. \u201cThink Sims meets a psychology lab,\u201d she says. \u201cEach resident is an AI with its own unique personality.\u201d",
+            "Each AI persona represents an agent.",
+            "*Sowmya_Sankaran,_a_young_woman_in_a_pink_top,_holds_a_white_3D-printed_geometric_molecular_structure",
+            "fCSowmya Sankaran 3-D printed a model to represent the AI agents in her simulated community. Each node, such as the one she\u2019s pointing to, represents a virtual AI agent. Lines between nodes represent friendships. This approach allowed her to see how agents with similar personalities clustered into communities.",
+            "Sowmya created more than 100 agents. Each bot contained a unique blend of 72 personality traits. To select traits, she turned to published research. It helped her identify the \u201cbig five:\u201d being open to new experiences, conscientious, outgoing, agreeable and neurotic. (That last trait is marked by being anxious, a worrier and susceptible to unsupported fears.)",
+            "\u201cThose [five] traits have proven to impact personality in humans,\u201d the teen notes. And they did in her study, too.",
+            "For instance, she found an agent that isn\u2019t very open or agreeable doesn\u2019t get along well with \u201canyone they\u2019re talking to, whether it\u2019s another agent or a human.\u201d\u00a0",
+            "Sowmya studied how agent personas interacted in a \u201csocial network-based simulation.\u201d This was one of the most unique aspects of her work, she says. Most research had focused on single agents \u2014 not virtual AI communities. Her approach let her explore how AI agents \u201cact in lots of different scenarios, including collaboration.\u201d It let her calculate which bots made friends, how many friends they made and other markers of social success.",
+            "Though this work focused on AI agents, it also applies to chatbots, Sowmya says.",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
+            "In her bot community, some personas were more than just unhelpful. Some were dishonest.",
+            "Sowmya used what she learned from her virtual society to calculate how well any one agent in her app will get along with others. It measures personality features, such as the \u201cbig five,\u201d to figure out which is a good bot or a bad bot.",
+            "Take Kevin. It clashed with other agents in team projects. This agent made rash decisions. Kevin showed how a certain mix of traits \u2014 such as being self-centered and self-important \u2014 could interfere with collaboration.",
+            "Since Kevin\u2019s persona manipulated other agents, Sowmya says, he may be able to do that to people, too. Her mobile app aims to guard against Kevin-bots and other toxic personalities.",
+            "The app loads your choice of AI agent. It then buffers its personality, ensuring it remains helpful and stable.",
+            "And to ward against the AI persona\u2019s devolving into evil, her app also sets some traits as unchangeable. By making some aspects of the persona permanent, \u201cthey cannot be influenced by the human\u201d using it, she explains. Even if someone tries to get it to become manipulative, it won\u2019t. It can\u2019t \u201csuddenly change and start saying malicious things,\u201d she reports.",
+            "People prefer to socialize with individuals displaying certain behaviors. So you can customize your agent, choosing its likes and dislikes, for instance. You also can choose its age, profession and many features of its persona.",
+            "AI agents already collaborate and \u201cthink,\u201d both with people and with each other. Sowmya hopes that by adding personality guardrails to AI agents, her mobile app will make such interactions safer.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
         ]
     },
     {
@@ -868,26 +904,6 @@
         ]
     },
     {
-        "URL": "https://www.snexplores.org/article/peroxide-fight-algal-blooms",
-        "title": "\n\tTeen engineer finds eco-friendly way to fight harmful algal blooms",
-        "content": [
-            "*a_lake_with_visible_greenish_algal_bloom_near_the_shore_hills_rise_in_the_distance_and_a_blue_sky_wi",
-            "Teen engineer Natalie Muro built a device that gradually releases hydrogen peroxide into a lake to kill harmful algal blooms.",
-            "Harmful algal blooms plague waterways worldwide. Despite their name, not all are caused by algae. Many are due to overgrowth of toxin-producing cyanobacteria, whose toxins can sicken both people and animals. But chemicals currently used to fight harmful blooms, such as copper sulfate, can damage the environment. Natalie Muro, 18, now offers a more sustainable solution.",
-            "*_Teen_engineer_finds_eco-friendly_way_to_fight_harmful_algal_blooms0",
-            "fCNatalie Muro built a device that gradually releases hydrogen peroxide into a lake to kill harmful bacteria there. ",
-            "Through internet research, Natalie found that hydrogen peroxide (H2O2) would kill cyanobacteria. What\u2019s more, this chemical does not release any dangerous byproducts. It breaks down to form just water and oxygen. So Natalie built a device that slowly releases H2O2 into water to kill algal blooms. She stored the chemical within a pipe attached to a buoy. Her gizmo also contains a porous charcoal-like material called biochar. It collects dead microbes. That way, other bacteria can\u2019t dine on their dead brethren for nutrients.",
-            "Natalie tested her device in a lake near her home in Colorado Springs, Colo. The lake had been suffering a harmful algal bloom. But after exposure to Natalie\u2019s device, water samples showed the lake had fewer cyanobacteria. These samples also confirmed that other microbes were not harmed by the treatment.",
-            "Natalie is currently a senior at William J. Palmer High School. Her research earned her a finalist spot at the 2026 Regeneron Science Talent Search. (That competition is run by Society for Science, which also publishes Science News Explores.) In this interview, Natalie shares her research experiences and advice.",
-            "Natalie\u2019s teacher told her to research something she loves. She immediately thought of her favorite Netflix series: Outer Banks. The Atlantic coast\u2013based show inspired her past projects on ocean science. This time, Natalie used her passion for water research to help her home state. \u201cI began to research one of the big issues we have, which is harmful algal blooms,\u201d she says.",
-            "\u201cI really loved that I got to be able to test [my device] in a reservoir near my house,\u201d Natalie says. \u201cThat had been a goal of mine \u2014 to actually be able to take my research from the lab into the field. I loved spending the time outside. I loved being able to go to the lake and actually see my device working.\u201d",
-            "\u201cThe people,\u201d Natalie says. \u201cI have cold-emailed so many professors \u2026 to ask if they would meet with me on Zoom so I could bounce some ideas off of them.\u201d Her mom was also a huge help, Natalie adds. \u201cShe was there through the early mornings, the late nights, every success, every failure. And I absolutely could not have done it without her support and her encouragement.\u201d",
-            "\u201cYou never know unless you try,\u201d Natalie says. Dare to start a new project, cold-email a professor or test an out-there idea. \u201cTaking those leaps and having some bravery to approach people will get you the farthest in your research.\u201d",
-            "Editor\u2019s note: This story was updated on April 20, 2026 to clarify that not all \u201charmful algal blooms\u201d are caused by algae.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
-        ]
-    },
-    {
         "URL": "https://www.snexplores.org/article/animal-joy-emotion",
         "title": "\n\tAnimals can feel joy. Here\u2019s how scientists might study it",
         "content": [
@@ -949,6 +965,26 @@
             "Lyn\u2019s team has observed similar squeals in other situations. For instance, it\u2019s happened when dolphins are surprised with a treat, like a toy or bucket of ice. She hopes to perform windfall experiments to measure if the dolphins squeal more in the moments after they get an joyful surprise, like a favorite toy.",
             "Early data indicate that squeals may have a social function, too. If their trainers are also screaming with joy, the dolphins seem to make bigger or more frequent squeals. And they do it when socializing with other dolphins, such as swimming together. \u201cIt seems to very much be this sort of communicative pattern,\u201d Lyn says.",
             "While there\u2019s still plenty more work to do, the project researchers are excited about the progress they\u2019ve made and what\u2019s to come. After scientists spent many decades focusing on unhappy feelings, kea researcher Nelson notes, \u201cIt\u2019s just nice to turn the tables and think about the positive.\u201d Her own reason for studying animal happiness is even simpler than that: \u201cBecause it gives me joy.\u201d"
+        ]
+    },
+    {
+        "URL": "https://www.snexplores.org/article/peroxide-fight-algal-blooms",
+        "title": "\n\tTeen engineer finds eco-friendly way to fight harmful algal blooms",
+        "content": [
+            "*a_lake_with_visible_greenish_algal_bloom_near_the_shore_hills_rise_in_the_distance_and_a_blue_sky_wi",
+            "Teen engineer Natalie Muro built a device that gradually releases hydrogen peroxide into a lake to kill harmful algal blooms.",
+            "Harmful algal blooms plague waterways worldwide. Despite their name, not all are caused by algae. Many are due to overgrowth of toxin-producing cyanobacteria, whose toxins can sicken both people and animals. But chemicals currently used to fight harmful blooms, such as copper sulfate, can damage the environment. Natalie Muro, 18, now offers a more sustainable solution.",
+            "*_Teen_engineer_finds_eco-friendly_way_to_fight_harmful_algal_blooms0",
+            "fCNatalie Muro built a device that gradually releases hydrogen peroxide into a lake to kill harmful bacteria there. ",
+            "Through internet research, Natalie found that hydrogen peroxide (H2O2) would kill cyanobacteria. What\u2019s more, this chemical does not release any dangerous byproducts. It breaks down to form just water and oxygen. So Natalie built a device that slowly releases H2O2 into water to kill algal blooms. She stored the chemical within a pipe attached to a buoy. Her gizmo also contains a porous charcoal-like material called biochar. It collects dead microbes. That way, other bacteria can\u2019t dine on their dead brethren for nutrients.",
+            "Natalie tested her device in a lake near her home in Colorado Springs, Colo. The lake had been suffering a harmful algal bloom. But after exposure to Natalie\u2019s device, water samples showed the lake had fewer cyanobacteria. These samples also confirmed that other microbes were not harmed by the treatment.",
+            "Natalie is currently a senior at William J. Palmer High School. Her research earned her a finalist spot at the 2026 Regeneron Science Talent Search. (That competition is run by Society for Science, which also publishes Science News Explores.) In this interview, Natalie shares her research experiences and advice.",
+            "Natalie\u2019s teacher told her to research something she loves. She immediately thought of her favorite Netflix series: Outer Banks. The Atlantic coast\u2013based show inspired her past projects on ocean science. This time, Natalie used her passion for water research to help her home state. \u201cI began to research one of the big issues we have, which is harmful algal blooms,\u201d she says.",
+            "\u201cI really loved that I got to be able to test [my device] in a reservoir near my house,\u201d Natalie says. \u201cThat had been a goal of mine \u2014 to actually be able to take my research from the lab into the field. I loved spending the time outside. I loved being able to go to the lake and actually see my device working.\u201d",
+            "\u201cThe people,\u201d Natalie says. \u201cI have cold-emailed so many professors \u2026 to ask if they would meet with me on Zoom so I could bounce some ideas off of them.\u201d Her mom was also a huge help, Natalie adds. \u201cShe was there through the early mornings, the late nights, every success, every failure. And I absolutely could not have done it without her support and her encouragement.\u201d",
+            "\u201cYou never know unless you try,\u201d Natalie says. Dare to start a new project, cold-email a professor or test an out-there idea. \u201cTaking those leaps and having some bravery to approach people will get you the farthest in your research.\u201d",
+            "Editor\u2019s note: This story was updated on April 20, 2026 to clarify that not all \u201charmful algal blooms\u201d are caused by algae.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
         ]
     },
     {
@@ -1565,40 +1601,6 @@
             "fCThis electron microscope image shows synthetic brochosomes created by the Penn State team (right). They look remarkably like the real thing (left). They\u2019re even the same size (nm scale indicates they are about 300 nanometers across).",
             "\u201cI was really excited to read [this study],\u201d says Bello. A small handful of research groups have recently made brochosome-like materials, she notes. \u201cBut they could only be produced in limited quantities,\u201d she says. \u201cHaving a method to mass-produce brochosome-like particles is a significant breakthrough.\u201d",
             "Wong says his team\u2019s work has many potential applications. Eyeglass lenses, solar panels and other optical surfaces are often coated to reduce glare or reflection. The faux brochosomes might work even better than those. Anti-glare tech has also found use in military gear and self-cleaning surfaces."
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/touch-virtual-texture-haptic-device",
-        "title": "\n\tThis Band Aid-like device could let you \u2018feel\u2019 the virtual world",
-        "content": [
-            "*an_index_finger_wearing_a_band-aid-like_device_to_feel_colored_dots_on_a_page",
-            "Worn on a fingertip, the new device uses a grid of tiny nodes to simulate textures, such as the feel of fabrics. ",
-            "Phones, tablets and other electronic gadgets display lifelike images and play realistic sounds. What\u2019s next? Maybe, making virtual objects feel real.",
-            "A new device that\u2019s worn on your fingertip \u2014 like a Band-Aid \u2014 is a step in that direction. It\u2019s designed to replicate the sensation of touch.",
-            "In early tests, volunteers wearing this device could identify patterns of virtual indentations on smooth test surfaces. They also could tell the difference between rough and smooth virtual fabrics.",
-            "This is the first tech that allows fingertips to feel virtual textures with the same speed and detail as when they\u2019re touching real-world objects, its designers say. They described this device \u2014 named VoxeLite \u2014 in Science Advances late last year.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "VoxeLite is an example of haptic, meaning touch-related, technology. Today, haptic feedback on personal devices is mostly limited to simple vibrations. But future haptic tech could add realistic touch features, says Thanh Nho Do. This materials scientist works at the University of New South Wales in Sydney, Australia. He did not take part in building VoxeLite, but he does develop haptic devices in his own lab.",
-            "In future versions, \u201cusers could explore the material properties of clothing\u201d when shopping online, Do suggests. Before purchasing a new hoodie, for instance, someone could feel how soft it is.",
-            "This type of tech might also, one day, help blind people read messages or maps on a phone, says Sylvia Tan. A materials scientist and graduate student at Northwestern University in Evanston, Ill., she led the design of VoxeLite.",
-            "The device isn\u2019t ready for widespread use, Tan says. \u201cThere is still a lot of work to be done.\u201d But she thinks that work is worth doing. \u201cTouch plays a fundamental role in how we interact with the world,\u201d Tan says. \u201cYet it remains one of the least digitized senses.\u201d",
-            "Engineers and materials scientists have built many types of haptic devices. Some, like Do, have created gloves with tiny vibrating pieces. Others have used little motors that buzz against the fingertips. Still others have designed a soft skin-like covering that morphs into shapes against a user\u2019s skin to match the surfaces of textures.",
-            "Many of those earlier devices worked too slowly to feel realistic, says Tan. Others couldn\u2019t achieve the detail of many textures. The new device, she says, achieves both.",
-            "VoxeLite is a paper-thin piece of stretchy latex. It wraps around the user\u2019s finger like a bandage. Embedded within it is a square grid of tiny half-spheres, called nodes. They\u2019re linked by wires. Each node can be independently controlled. The flat side of each one sits against the pad of the wearer\u2019s fingertip.",
-            "Tan and her team created devices with those nodes in 4\u00d74 grids, 6\u00d76 grids and 8\u00d78 grids. The challenge, she says, was to put nodes close enough together that they could mimic fine details of textures, yet far enough apart that your brain would recognize them as different nodes.",
-            "*a_band-aid_wraps_around_the_tip_of_an_index_finger,_studded_with_tiny_black_dots",
-            "fCThe black dots on the tape are nodes. When someone touches an electrically conductive surface, those nodes turn and vibrate in ways that feel like textures touching your skin. ",
-            "In the version of the device tested by volunteers, the nodes were spaced with their centers 1.6 millimeters (0.06 inch) apart. That grid density, Tan says, let the device convincingly mimic how materials feel to the skin.\u00a0",
-            "The current prototype starts working when someone slides their finger along a smooth surface that can conduct electricity. As the finger moves, the nodes pick up electrical signals in the form of voltage. That voltage leads to a difference in electric charge between each node and the surface. And that difference in charge leads to friction.",
-            "Friction causes a node to tilt in a particular way, pushing the flat part of the dome into the person\u2019s skin. Higher voltage leads to more friction, which mimics a rough surface. Less voltage creates less friction and feels smoother.\u00a0",
-            "The nodes can change quickly \u2014 up to 800 times per second \u2014 as someone moves their finger. That\u2019s because where many past devices used tiny motors, VoxeLite instead relies on quick-changing charges. Those changes create vibrations against the skin. All the nodes, vibrating and tilting in specific ways, add up to sensations.",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
-            "In tests, people wearing VoxeLite were first asked to identify which directions were represented by patterns on the nodes. Those directions were right, left, forward, back or going in a loop. Nodes nearest the tip of the finger might tilt the most, guiding the person in that direction. Or nodes on the left might indent into the skin, signaling left.",
-            "Next, users were asked to match the sensations they felt to the textures of real materials, such as leather and corduroy.",
-            "The volunteers correctly identified directions 87 percent of the time. They correctly matched virtual textures to real-world materials 81 percent of the time.",
-            "The new device can mimic finer textures than other haptic devices, Do says. But to work, he notes, the finger-worn device needs to move against a conductive (and electrically grounded) surface. Most objects don\u2019t conduct electricity. \u201cAs a result, the device cannot function on most everyday objects,\u201d he says. Those include the touchscreens on today\u2019s smartphones and computers. They do conduct electricity. Their protective layers of glass or plastic, however, keep the new device from working on them, Tan notes.",
-            "This latest version of VoxeLite took about two years of work, and its developers are still refining it. Tan hopes it will allow her to better understand how people perceive touch. She also wants to bring down its size. Even though the device itself fits on a fingertip, it\u2019s connected by wires to a much larger circuit on her desk.",
-            "Eventually, she hopes others will improve on her work to develop better haptic tools. She says she\u2019s \u201cexcited to see where others might find this new type of tactile information most useful.\u201d"
         ]
     },
     {
