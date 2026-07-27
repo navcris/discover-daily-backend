@@ -1,5 +1,34 @@
 [
     {
+        "URL": "https://www.snexplores.org/article/plant-leaves-veins-geometric-pattern",
+        "title": "\n\tA geometric pattern lurks in Chinese money plant leaves",
+        "content": [
+            "*Backlit_round_leaves_of_a_Chinese_money_plant_show_branching_veins_and_tiny_pores,_with_a_blurred_ou",
+            "Here, light filters through the leaves of a Chinese money plant. You can see a mosaic of veins and pores that form a mathematical pattern called a Voronoi diagram.",
+            "A common houseplant hides a splendid geometric pattern.",
+            "This design, called a Voronoi diagram, appears on the leaves of the Chinese money plant. The layout may arise as waves of a plant hormone spread across a leaf during its development. A similar process may shape the vein patterns in leaves of other plants, too.",
+            "Researchers shared these findings May 12 in Nature Communications.",
+            "This is a \u201cbeautiful\u201d showcase of how plant veins develop to move water across leaves most efficiently, says Lawren Sack. He did not take part in the research. But he does study plant biology at the University of California, Los Angeles. Veins of leaves \u201chave so much to tell us\u201d about how to get resources where they need to go, he says.",
+            "Leaves of the Chinese money plant (Pilea peperomioides)\u00a0are speckled with pores. Called hydathodes, these pores release water. Each one is fenced in by veins to form a mosaic.",
+            "While in high school, Elijah Blum discovered a curious pattern in those leaf veins. He noticed it while plant-sitting for his sister. At the time, Blum was an intern at Cold Spring Harbor Laboratory in New York. (He\u2019s now in college at New York University.) He shared what he\u2019d found with his internship supervisor, computer scientist Saket Navlakha.",
+            "\u201cHe showed the plant to me, and he said, \u2018Look, the veins look kind of interesting here,\u2019\u201d Navlakha says. \u201cWe sort of held it up to the light \u2014 and we saw that \u2026 Voronoi diagram.\u201d",
+            "*Side-by-side_images_compare_a_Chinese_money_plant_leaf_with_a_computer_simulation,_showing_similar_c",
+            "fCThe layout of veins and pores on a Chinese money plant leaf (left, in false color) closely matches a computer model of a Voronoi diagram (right). Scientists made the computer model using the leaf\u2019s pore positions as an array of dots. Colors show the regions on the actual leaf that correspond to regions in the computer model.",
+            "In a Voronoi diagram, a surface is split up into zones. Each zone contains a designated point. And every spot within a zone must be closer to that zone\u2019s point than any other.",
+            "Urban planners use the same idea to decide which fire department a house should be assigned to. This helps each house in a city or town be closer to the fire station in its zone than any other station.",
+            "Patterns that look similar to Voronoi diagrams appear elsewhere in nature. The tiles on giraffe fur look like this type of design. So do\u00a0the scales of dragonfly wings. But in a true Voronoi diagram, the mosaic must form around a set of points. In the Chinese money plant, the water-oozing pores serve as those points.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "Blum and the others were curious how this pattern might develop.",
+            "Similar leaf veins are thought to form through canalization. In this process, a hormone involved in plant development \u2014 auxin \u2014 branches out across leaves. As it does, it creates a treelike network of channels that become veins.",
+            "But that wouldn\u2019t produce a Voronoi diagram around a leaf\u2019s pores, the team found. Computer models instead showed that as\u00a0Pilea\u00a0leaves develop, waves of auxin spread out from each pore. Those waves collide to form ridges. Eventually, they become a leaf\u2019s major veins.",
+            "More research is needed to find out why\u00a0Pilea\u00a0leaves follow this pattern, says team member CiCi Zheng. She studies the math of living things at the Allen Institute in Seattle, Wash.",
+            "The Voronoi diagram layout might be useful for plants, she says. This pattern keeps a leaf\u2019s major veins \u2014 which transport water \u2014 as far as possible from its water-leaking pores. \u201cYou might want to place the veins not directly close to any of those locations where water evaporates super-fast,\u201d Zheng says.",
+            "Sack at UCLA is excited about what new tech this finding might inspire. Past studies of leaf veins, he says, have helped\u00a0engineers reimagine how to distribute resources such as water and energy. Such insights have improved solar panels, electronic circuits and irrigation systems.",
+            "\u201cThe more we know about leaf veins,\u201d Sack says, \u201cthe more we can build functional and beautiful systems around us.\u201d",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/otzi-iceman-living-microbes-yeast",
         "title": "\n\tDormant microbes from \u00d6tzi the Iceman\u2019s body can grow in the lab",
         "content": [
@@ -52,35 +81,6 @@
         ]
     },
     {
-        "URL": "https://www.snexplores.org/article/talking-animals-speak-language-tech",
-        "title": "\n\tChatty cats\u00a0and talking dogs\u00a0could one day \u2018speak\u2019 in our language\u00a0",
-        "content": [
-            "*An_illustration_shows_a_woman_holding_a_tablet_and_appearing_to_talk_with_a_variety_of_animals_a_bea",
-            "Imagine talking to \u2014 and understanding \u2014 other animals. Advances in decoding animal sounds might someday make that a possibility.",
-            "In the animated movie\u00a0Up, a yellow, tail-wagging dog\u00a0shows up\u00a0wearing an electronic collar. The main character, a curious and cheerful 8-year-old boy named Russell, tells the dog to sit. The dog sits. Russell tells the dog to shake. The dog extends a paw. Russell then tells the dog to speak.\u00a0\u00a0",
-            "\u201cHi there,\u201d says the dog.\u00a0\u00a0",
-            "To Russell\u2019s amazement, the dog\u2019s collar translates his doggy thoughts into actual human words. \u201cMy master made me this collar,\u201d Dug the dog tells his new acquaintances. \u201cHe is a good and smart master,\u00a0and he made me this collar so I may talk \u2014 SQUIRREL!\u201d\u00a0",
-            "This is\u00a0a common piece of technology\u00a0in stories\u00a0\u2014 a translator that can decode animals\u2019 barks, squeaks, meows, clicks and such, into human language.\u00a0\u00a0",
-            "Back here in the nonfiction world, anyone with a pet has probably wondered at some point what\u2019s going on in that cute little animal head. Scientists can\u2019t say. But there are reasons to think that an animal-human translator won\u2019t stay a work of science fiction forever. \u201cI think these things may be one day doable,\u201d says Erich Jarvis. He\u2019s a neurogeneticist at The Rockefeller University in New York City.",
-            "One day, pets may wear little devices like Dug\u2019s collar. Or an app on a phone might translate pet sounds into words. This neat trick could finally let you learn the answer to why your cat is staring at that empty corner of the living room.",
-            "Advances in computing power, artificial intelligence\u00a0(AI)\u00a0and fancy tools that measure sounds promise to bring\u00a0people\u00a0closer to\u00a0conversing\u00a0with other animals. These advances could turn animal chatter into bits of information that\u00a0can\u00a0be decoded by humans.\u00a0\u00a0",
-            "Of course, some animals can already talk to us \u2014 in our preferred languages, too. Jarvis tells\u00a0the\u00a0story of a parrot that left its California home. It returned years later speaking Spanish,\u00a0he\u00a0says.\u00a0\u00a0",
-            "Such\u00a0language skills are rare.\u00a0Thinking\u00a0up a message and\u00a0making\u00a0intricate vocal sounds to convey it\u00a0take special\u00a0mental skills and\u00a0a\u00a0great\u00a0flexibility\u00a0of body systems. These\u00a0traits\u00a0are\u00a0present in fewer than 1 percent of vertebrate species, says Michael Long.\u00a0He\u2019s\u00a0a neuroscientist at New York University in New York City.\u00a0\u00a0",
-            "Not all animals may be good conversationalists. Take vervet monkeys. \u201cTheir cognitive abilities are huge,\u201d Long says. But they flounder when it comes to producing complex sounds. \u201cSo\u00a0they have one of those requirements, but they need to get the other one,\u201d Long says.\u00a0\u00a0",
-            "And with rare exceptions, none really\u00a0speak\u00a0our language. But that gap\u00a0can be overcome. It may just\u00a0take\u00a0a slight shift in what we consider\u00a0talking. \u201cAnimals are speaking, often \u2014 to use speaking in a very loose way \u2014 more vibrantly than we had ever given them credit for,\u201d Long says.\u00a0",
-            "*A_video_still_from_the_movie_Up_shows_Carl,_an_older_adult_man,_sitting_on_a_porch_with_the_golden_r",
-            "fCIn the Pixar movie Up, a golden retriever named Dug wears a collar that translates his thoughts to speech. Dug\u2019s collar translates all of his thoughts, even mid-sentence distractions like \u201cSQUIRREL!\u201d",
-            "Like parrots,\u00a0dolphins and whales may similarly make good conversation partners with people. In 2023, scientists used\u00a0a decoded whale \u201chello\u201d to enjoy a short conversation with an Alaskan humpback.\u00a0This\u00a0exchange consisted of a volley of whale whups, translated\u00a0into\u00a0English\u00a0as \u201chello.\u201d Still, both parties engaged\u00a0in this\u00a0interspecies chat.\u00a0",
-            "Another group of researchers has since discovered that whale language shares statistical properties with those spoken by humans. With these sorts of advances,\u00a0perhaps we\u2019ll soon be swapping krill recipes.",
-            "Some of Jarvis\u2019 research includes mice that have been genetically changed to produce more complex sounds. He is part of a team that\u2019s closely examining key genes that are active in good vocal learners. Mice with a human version of a protein called NOVA1, for instance, made more complex vocalizations. To be clear, this is not yet a talking mouse. But the research is moving fast.",
-            "Some animal messages are clear even without a fancy sci-fi gadget. \u201cAnimals are broadly expressive,\u201d Long points out. Anguished yowls of a cat sitting by her unfilled food dish are no great mystery.\u00a0\u00a0",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "Messages\u00a0don\u2019t\u00a0even require a vocal tract. Mongolian gerbils, for instance, beat out messages by thumping the ground percussively. Dances, posture,\u00a0color\u00a0and even objects can all carry messages. Just think about it: You can\u00a0probably figure\u00a0out the message when a dog holds his leash in his mouth and sits by the front door.\u00a0",
-            "So while we wait for a gizmo that translates our pets\u2019 thoughts into words, consider the wildly variable ways animals already communicate. Long\u2019s formerly stray Brooklyn cats, for instance, have plenty to say. Their needs and wants are \u201cvery, very transparent,\u201d he says.",
-            "Should a cat-human translator ever exist, Long\u2019s message to one of his cats would be short,\u00a0sweet\u00a0and practical: \u201cI would tell him not to sit too close to the stove when\u00a0I\u2019m\u00a0cooking. I think\u00a0that\u2019s\u00a0it.\u201d\u00a0\u00a0"
-        ]
-    },
-    {
         "URL": "https://www.snexplores.org/article/laos-plain-of-jars-burial-mystery",
         "title": "\n\tThe mystery of the \u2018Plain of Jars\u2019 in Laos may now be solved",
         "content": [
@@ -106,6 +106,24 @@
             "Colani had estimated that the oldest jars could have been made in the 5th century B.C. That would be up to 2,500 years ago. More recent radiocarbon dating indicates the remains are less than half that old \u2014 about 1,000 years old. Some jars contained ashes and burned bone fragments, a sign of cremations. This practice is a later, Buddhist tradition. Perhaps the jars were reused for burials after Buddhism took hold in this region, Skopal suggests.",
             "\u201cThis is a collective mortuary assemblage,\u201d says Miriam Stark, who did not take part in the new work. \u201cI find that very interesting.\u201d An anthropologist and archaeologist, Stark works at the University of Hawaii at Manoa. She says she had been hoping a jar like the newly studied one would be found.",
             "No sign yet exists of which people might have used the jars for burials, she notes. \u201cI do wonder, where did these people live?\u201d",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
+        ]
+    },
+    {
+        "URL": "https://www.snexplores.org/article/scientists-say-fjord-definition-pronunciation",
+        "title": "\n\tScientists Say: Fjord",
+        "content": [
+            "*_Scientists_Say_Fjord0",
+            "New Zealand\u2019s Fiordland National Park represents one dramatic example of a fjord. The staggering, vertical cliffs and mountains provided backdrops for many scenes in the Lord of the Rings movies.",
+            "iFhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2366786702&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+            "Fjords are long, narrow arms of the sea that often reach far inland. They are typically flanked by tall, steep cliffs on either side. Below water, their trenches often plunge much deeper than the open sea to which they connect.",
+            "Fjords are usually formed by glaciers. This sets them apart from other types of narrow valleys, or gorges. As glaciers slowly make their way to the ocean, they can carve deep channels through the terrain. These channels remain even after the glaciers have melted and filled with water, creating fjords.",
+            "*This_breathtaking_image_captures_the_majestic_sunrise_over_a_Norwegian_fjord_The_warm,_golden_rays_o",
+            "fCFjords are long, narrow arms of the sea that often stretch far inland. ",
+            "These dramatic landscapes offer sweeping vistas of craggy cliffs and majestic mountains that inspire awe. Some scenes in The Lord of the Rings movies were filmed in the fjords of New Zealand. For instance, aerial shots showing the fictional River Anduin get their steep, forested terrains from Fiordland National Park. \u00a0",
+            "However, Norway holds the record for most fjords. It has over 1,200. The largest is Sognefjord. This fjord stretches 205 kilometers (127 miles) inland. Steep mountains and cliffs rise up to two kilometers (1.2 miles) above the water below. This water hides a deep underwater trench that plunges up to 1.3 kilometers (0.8 mile) below sea level.",
+            "In 2023, a landslide triggered a tsunami that wiped out vegetation along Greenland\u2019s Dickson Fjord.",
+            "Check out the full list of\u00a0Scientists Say.",
             "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
         ]
     },
@@ -228,6 +246,35 @@
         ]
     },
     {
+        "URL": "https://www.snexplores.org/article/talking-animals-speak-language-tech",
+        "title": "\n\tChatty cats\u00a0and talking dogs\u00a0could one day \u2018speak\u2019 in our language\u00a0",
+        "content": [
+            "*An_illustration_shows_a_woman_holding_a_tablet_and_appearing_to_talk_with_a_variety_of_animals_a_bea",
+            "Imagine talking to \u2014 and understanding \u2014 other animals. Advances in decoding animal sounds might someday make that a possibility.",
+            "In the animated movie\u00a0Up, a yellow, tail-wagging dog\u00a0shows up\u00a0wearing an electronic collar. The main character, a curious and cheerful 8-year-old boy named Russell, tells the dog to sit. The dog sits. Russell tells the dog to shake. The dog extends a paw. Russell then tells the dog to speak.\u00a0\u00a0",
+            "\u201cHi there,\u201d says the dog.\u00a0\u00a0",
+            "To Russell\u2019s amazement, the dog\u2019s collar translates his doggy thoughts into actual human words. \u201cMy master made me this collar,\u201d Dug the dog tells his new acquaintances. \u201cHe is a good and smart master,\u00a0and he made me this collar so I may talk \u2014 SQUIRREL!\u201d\u00a0",
+            "This is\u00a0a common piece of technology\u00a0in stories\u00a0\u2014 a translator that can decode animals\u2019 barks, squeaks, meows, clicks and such, into human language.\u00a0\u00a0",
+            "Back here in the nonfiction world, anyone with a pet has probably wondered at some point what\u2019s going on in that cute little animal head. Scientists can\u2019t say. But there are reasons to think that an animal-human translator won\u2019t stay a work of science fiction forever. \u201cI think these things may be one day doable,\u201d says Erich Jarvis. He\u2019s a neurogeneticist at The Rockefeller University in New York City.",
+            "One day, pets may wear little devices like Dug\u2019s collar. Or an app on a phone might translate pet sounds into words. This neat trick could finally let you learn the answer to why your cat is staring at that empty corner of the living room.",
+            "Advances in computing power, artificial intelligence\u00a0(AI)\u00a0and fancy tools that measure sounds promise to bring\u00a0people\u00a0closer to\u00a0conversing\u00a0with other animals. These advances could turn animal chatter into bits of information that\u00a0can\u00a0be decoded by humans.\u00a0\u00a0",
+            "Of course, some animals can already talk to us \u2014 in our preferred languages, too. Jarvis tells\u00a0the\u00a0story of a parrot that left its California home. It returned years later speaking Spanish,\u00a0he\u00a0says.\u00a0\u00a0",
+            "Such\u00a0language skills are rare.\u00a0Thinking\u00a0up a message and\u00a0making\u00a0intricate vocal sounds to convey it\u00a0take special\u00a0mental skills and\u00a0a\u00a0great\u00a0flexibility\u00a0of body systems. These\u00a0traits\u00a0are\u00a0present in fewer than 1 percent of vertebrate species, says Michael Long.\u00a0He\u2019s\u00a0a neuroscientist at New York University in New York City.\u00a0\u00a0",
+            "Not all animals may be good conversationalists. Take vervet monkeys. \u201cTheir cognitive abilities are huge,\u201d Long says. But they flounder when it comes to producing complex sounds. \u201cSo\u00a0they have one of those requirements, but they need to get the other one,\u201d Long says.\u00a0\u00a0",
+            "And with rare exceptions, none really\u00a0speak\u00a0our language. But that gap\u00a0can be overcome. It may just\u00a0take\u00a0a slight shift in what we consider\u00a0talking. \u201cAnimals are speaking, often \u2014 to use speaking in a very loose way \u2014 more vibrantly than we had ever given them credit for,\u201d Long says.\u00a0",
+            "*A_video_still_from_the_movie_Up_shows_Carl,_an_older_adult_man,_sitting_on_a_porch_with_the_golden_r",
+            "fCIn the Pixar movie Up, a golden retriever named Dug wears a collar that translates his thoughts to speech. Dug\u2019s collar translates all of his thoughts, even mid-sentence distractions like \u201cSQUIRREL!\u201d",
+            "Like parrots,\u00a0dolphins and whales may similarly make good conversation partners with people. In 2023, scientists used\u00a0a decoded whale \u201chello\u201d to enjoy a short conversation with an Alaskan humpback.\u00a0This\u00a0exchange consisted of a volley of whale whups, translated\u00a0into\u00a0English\u00a0as \u201chello.\u201d Still, both parties engaged\u00a0in this\u00a0interspecies chat.\u00a0",
+            "Another group of researchers has since discovered that whale language shares statistical properties with those spoken by humans. With these sorts of advances,\u00a0perhaps we\u2019ll soon be swapping krill recipes.",
+            "Some of Jarvis\u2019 research includes mice that have been genetically changed to produce more complex sounds. He is part of a team that\u2019s closely examining key genes that are active in good vocal learners. Mice with a human version of a protein called NOVA1, for instance, made more complex vocalizations. To be clear, this is not yet a talking mouse. But the research is moving fast.",
+            "Some animal messages are clear even without a fancy sci-fi gadget. \u201cAnimals are broadly expressive,\u201d Long points out. Anguished yowls of a cat sitting by her unfilled food dish are no great mystery.\u00a0\u00a0",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "Messages\u00a0don\u2019t\u00a0even require a vocal tract. Mongolian gerbils, for instance, beat out messages by thumping the ground percussively. Dances, posture,\u00a0color\u00a0and even objects can all carry messages. Just think about it: You can\u00a0probably figure\u00a0out the message when a dog holds his leash in his mouth and sits by the front door.\u00a0",
+            "So while we wait for a gizmo that translates our pets\u2019 thoughts into words, consider the wildly variable ways animals already communicate. Long\u2019s formerly stray Brooklyn cats, for instance, have plenty to say. Their needs and wants are \u201cvery, very transparent,\u201d he says.",
+            "Should a cat-human translator ever exist, Long\u2019s message to one of his cats would be short,\u00a0sweet\u00a0and practical: \u201cI would tell him not to sit too close to the stove when\u00a0I\u2019m\u00a0cooking. I think\u00a0that\u2019s\u00a0it.\u201d\u00a0\u00a0"
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/brain-flying-virtual-wings",
         "title": "\n\tVR can train the human brain to treat wings like real limbs",
         "content": [
@@ -269,7 +316,7 @@
             "The surrounding soil, meanwhile, vibrated more slowly. It shuddered a little more than once every two seconds.",
             "Because the natural frequencies of the building materials and the soil differ, the structure is less likely to experience resonance. That\u2019s when the pyramid absorbs energy from the soil\u2019s movements. Resonance would boost the strength of the vibrations and the risk of damage during an earthquake.",
             "Spaces inside the pyramid also helped ease the shaking.",
-            "*_Mystery_solved_Why_earthquakes_haven\u2019t_wrecked_Egypt\u2019s_Great_Pyramid0",
+            "*_Mystery_solved_Why_earthquakes_haven\u2019t_wrecked_Egypt\u2019s_Great_Pyramid1",
             "fCA researcher measures vibrations in a pressure-relieving chamber inside the Great Pyramid.",
             "Ancient Egyptian builders constructed pressure-relieving chambers above the pharaoh\u2019s tomb. This distributes the pyramid\u2019s weight and protects the burial chamber in case of a collapse. Those chambers also decreased the strength of vibrations near the top of the pyramid, the team found.",
             "The researchers shared their findings May 21 in Scientific Reports.",
@@ -1117,7 +1164,7 @@
         "URL": "https://www.snexplores.org/article/slow-sharp-cuts-onion-crying",
         "title": "\n\tChopping an onion? Sharp knives can keep its juice out of your eyes",
         "content": [
-            "*_Chopping_an_onion_Sharp_knives_can_keep_its_juice_out_of_your_eyes1",
+            "*_Chopping_an_onion_Sharp_knives_can_keep_its_juice_out_of_your_eyes2",
             "A chemical in flying onion juice is the culprit for a cook\u2019s stinging tears. Changing how the onion is chopped can eliminate those tears. ",
             "Crying over chopped onions could be a thing of the past. Slicing with sharper blades and slower cuts can eliminate those painful tears, a new study finds.",
             "A chemical formed from onion juice (propanethial S-oxide) triggers those tears. Slicing the onion ruptures its cells, triggering a chemical reaction that forms this compound. Chopping can fling tiny droplets of it into the air. If they bind to sensory nerves in a cook\u2019s eyes, they\u2019ll cause that well-known stinging \u2014 and tears.\u00a0",
@@ -1144,7 +1191,7 @@
         "URL": "https://www.snexplores.org/article/first-cow-tool-use",
         "title": "\n\tThis tool-using cow stunned scientists with her smarts",
         "content": [
-            "*_This_tool-using_cow_stunned_scientists_with_her_smarts2",
+            "*_This_tool-using_cow_stunned_scientists_with_her_smarts3",
             "A pet Brown Swiss cow named Veronika learned to use a deck brush (shown) as a tool to scratch hard-to-reach parts of her body.",
             "A deck brush can be a good tool for the right task. Just ask Veronika, a Brown Swiss cow. She uses both ends of a deck brush to scratch various body parts. This makes her the first cow reported to use a tool.",
             "Researchers shared Veronika\u2019s clever itch-scratching trick on January 19 in Current Biology. People don\u2019t often think of cows as especially intelligent, the scientists say. So spotting tool use in this species is pretty surprising.",
@@ -1367,14 +1414,14 @@
             "In this project, you will investigate how baker\u2019s\u00a0yeast\u00a0(Saccharomyces cerevisiae) can be used as a flocculant to sediment microplastics in contaminated water. For the microplastics, you will use plastic glitter.",
             "iFhttps://www.youtube.com/embed/uAyVcR17COs?feature=oembed",
             "Microbes can help remove pollution from the environment, a process known as bioremediation.",
-            "*_Experiment_Remove_microplastics_from_water_with_yeast3",
-            "fCFigure 2. Scale being used to weigh out the glitter.",
             "*_Experiment_Remove_microplastics_from_water_with_yeast4",
+            "fCFigure 2. Scale being used to weigh out the glitter.",
+            "*_Experiment_Remove_microplastics_from_water_with_yeast5",
             "fCFigure 3. Jar prepared with glitter, yeast and water.",
             "fCTable 1.",
-            "*_Experiment_Remove_microplastics_from_water_with_yeast5",
-            "fCS. Zielinski",
             "*_Experiment_Remove_microplastics_from_water_with_yeast6",
+            "fCS. Zielinski",
+            "*_Experiment_Remove_microplastics_from_water_with_yeast7",
             "fCS. Zielinski",
             "Figure 4.\u00a0Set up with a coffee filter sitting inside a strainer, both placed over a large container to collect the liquid that flows through.",
             "fCTable 2. ",
@@ -1415,7 +1462,7 @@
             "*a_lake_with_visible_greenish_algal_bloom_near_the_shore_hills_rise_in_the_distance_and_a_blue_sky_wi",
             "Teen engineer Natalie Muro built a device that gradually releases hydrogen peroxide into a lake to kill harmful algal blooms.",
             "Harmful algal blooms plague waterways worldwide. Despite their name, not all are caused by algae. Many are due to overgrowth of toxin-producing cyanobacteria, whose toxins can sicken both people and animals. But chemicals currently used to fight harmful blooms, such as copper sulfate, can damage the environment. Natalie Muro, 18, now offers a more sustainable solution.",
-            "*_Teen_engineer_finds_eco-friendly_way_to_fight_harmful_algal_blooms7",
+            "*_Teen_engineer_finds_eco-friendly_way_to_fight_harmful_algal_blooms8",
             "fCNatalie Muro built a device that gradually releases hydrogen peroxide into a lake to kill harmful bacteria there. ",
             "Through internet research, Natalie found that hydrogen peroxide (H2O2) would kill cyanobacteria. What\u2019s more, this chemical does not release any dangerous byproducts. It breaks down to form just water and oxygen. So Natalie built a device that slowly releases H2O2 into water to kill algal blooms. She stored the chemical within a pipe attached to a buoy. Her gizmo also contains a porous charcoal-like material called biochar. It collects dead microbes. That way, other bacteria can\u2019t dine on their dead brethren for nutrients.",
             "Natalie tested her device in a lake near her home in Colorado Springs, Colo. The lake had been suffering a harmful algal bloom. But after exposure to Natalie\u2019s device, water samples showed the lake had fewer cyanobacteria. These samples also confirmed that other microbes were not harmed by the treatment.",
@@ -1463,7 +1510,7 @@
         "URL": "https://www.snexplores.org/article/scientists-say-synesthesia-definition-pronunciation",
         "title": "\n\tScientists Say: Synesthesia",
         "content": [
-            "*_Scientists_Say_Synesthesia8",
+            "*_Scientists_Say_Synesthesia9",
             "19th-century artist Vincent van Gogh is believed by many experts to have had chromesthesia. That is a type of synesthesia in which a person\u2019s brain entangles sounds with sights. ",
             "iFhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2333951258&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
             "Synesthesia is a trait that some people have in which one kind of sensory input triggers other senses. To someone with synesthesia, different colors may have different tastes. Or hearing certain sounds may cause them to see certain shapes.",
