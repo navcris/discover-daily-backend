@@ -121,7 +121,7 @@
             "*This_breathtaking_image_captures_the_majestic_sunrise_over_a_Norwegian_fjord_The_warm,_golden_rays_o",
             "fCFjords are long, narrow arms of the sea that often stretch far inland. ",
             "These dramatic landscapes offer sweeping vistas of craggy cliffs and majestic mountains that inspire awe. Some scenes in The Lord of the Rings movies were filmed in the fjords of New Zealand. For instance, aerial shots showing the fictional River Anduin get their steep, forested terrains from Fiordland National Park. \u00a0",
-            "However, Norway holds the record for most fjords. It has over 1,200. The largest is Sognefjord. This fjord stretches 205 kilometers (127 miles) inland. Steep mountains and cliffs rise up to two kilometers (1.2 miles) above the water below. This water hides a deep underwater trench that plunges up to 1.3 kilometers (0.8 mile) below sea level.",
+            "However, Norway holds the record for most fjords. It has more than 1,200. The largest is Sognefjord. This fjord stretches 205 kilometers (127 miles) inland. Steep mountains and cliffs rise up to two kilometers (1.2 miles) above the water below. This water hides a deep underwater trench that plunges up to 1.3 kilometers (0.8 mile) below sea level.",
             "In 2023, a landslide triggered a tsunami that wiped out vegetation along Greenland\u2019s Dickson Fjord.",
             "Check out the full list of\u00a0Scientists Say.",
             "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
@@ -326,23 +326,6 @@
             "Modern builders can use similar strategies as they plan projects, choose materials and create enduring structures, ElGabry says. \u201cWhen we design our buildings, we design for 100 years [or] for 500 years,\u201d he says. To figure out how structures could last far longer, \u201cit\u2019s important to understand how this building has survived.\u201d",
             "Editor\u2019s note: This story was updated on July 8, 2026 to correct the magnitude of the 1847 earthquake. It was 5.9, not 5.8, according to official records.",
             "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/why-gold-does-not-rust-physics",
-        "title": "\n\tPhysics explains why gold doesn\u2019t \u2018rust\u2019",
-        "content": [
-            "*Shiny_gold_pellets",
-            "Unlike other metals, which tarnish in air, gold (pictured) doesn't react much with oxygen. Now scientists better understand why.",
-            "Steel rusts over time. Copper turns green. But gold stays shiny, seemingly forever. Scientists have now discovered a property that explains why gold stays spotless.",
-            "Oxidation is a type of chemical reaction that can cause a metal to rust or tarnish when it meets oxygen. Atoms on gold\u2019s surface, new data show, rearrange into a geometry that hinders that oxidation. If they didn\u2019t, gold would begin to oxidize in seconds.",
-            "Santu Biswas and Matthew Montemore shared their new finding May 21 in Physical Review Letters. These researchers work at Tulane University in New Orleans, La.",
-            "In air, oxygen is bundled into molecules, each consisting of two oxygen atoms. For a metal to oxidize, it first has to split those oxygen pairings. Then the single oxygen atoms can form compounds that stick to the surface of a metal. The researchers calculated how well gold\u2019s surfaces could split oxygen. They found that it depends on what happens on gold\u2019s surface.",
-            "Imagine cutting a piece of gold in two. That would create a new surface that was once in the center of the gold hunk. Atoms on the newly exposed surface then shift from their original locations in the metal.",
-            "There are a few different possible arrangements those atoms can take. The researchers studied two common ones. In both, atoms that had been laid out in squares rearranged into hexagons.",
-            "The researchers did calculations to understand the effect of such shapeshifting. The hexagonal arrangement, they found, was much worse at splitting oxygen than the square one. To split oxygen, the hexagonal structure would first need to distort back into the original square shape. That\u2019s a hurdle that stalls oxidation. (A third common surface structure of gold was already known to be bad at oxidizing. It\u2019s hexagonal from the start.)",
-            "But there\u2019s more to the story. Under certain conditions, gold can react with oxygen. When it does, it forms gold oxide. That\u2019s unstable. So even if gold were able to split oxygen, the material would form only a thin layer of oxide, notes Montemore, a chemical engineer. His team\u2019s new findings, he says, could help scientists understand how to design better catalysts. Those are materials that speed up chemical reactions.",
-            "Just how much slower the rearranged gold atoms oxidize was \u201cdefinitely a surprise,\u201d Montemore says. The tiny position shifts made a huge difference. \u201cIt\u2019s something like a billion to a trillion times slower oxidation once you rearrange.\u201d"
         ]
     },
     {
@@ -1004,6 +987,23 @@
         ]
     },
     {
+        "URL": "https://www.snexplores.org/article/why-gold-does-not-rust-physics",
+        "title": "\n\tPhysics explains why gold doesn\u2019t \u2018rust\u2019",
+        "content": [
+            "*Shiny_gold_pellets",
+            "Unlike other metals, which tarnish in air, gold (pictured) doesn't react much with oxygen. Now scientists better understand why.",
+            "Steel rusts over time. Copper turns green. But gold stays shiny, seemingly forever. Scientists have now discovered a property that explains why gold stays spotless.",
+            "Oxidation is a type of chemical reaction that can cause a metal to rust or tarnish when it meets oxygen. Atoms on gold\u2019s surface, new data show, rearrange into a geometry that hinders that oxidation. If they didn\u2019t, gold would begin to oxidize in seconds.",
+            "Santu Biswas and Matthew Montemore shared their new finding May 21 in Physical Review Letters. These researchers work at Tulane University in New Orleans, La.",
+            "In air, oxygen is bundled into molecules, each consisting of two oxygen atoms. For a metal to oxidize, it first has to split those oxygen pairings. Then the single oxygen atoms can form compounds that stick to the surface of a metal. The researchers calculated how well gold\u2019s surfaces could split oxygen. They found that it depends on what happens on gold\u2019s surface.",
+            "Imagine cutting a piece of gold in two. That would create a new surface that was once in the center of the gold hunk. Atoms on the newly exposed surface then shift from their original locations in the metal.",
+            "There are a few different possible arrangements those atoms can take. The researchers studied two common ones. In both, atoms that had been laid out in squares rearranged into hexagons.",
+            "The researchers did calculations to understand the effect of such shapeshifting. The hexagonal arrangement, they found, was much worse at splitting oxygen than the square one. To split oxygen, the hexagonal structure would first need to distort back into the original square shape. That\u2019s a hurdle that stalls oxidation. (A third common surface structure of gold was already known to be bad at oxidizing. It\u2019s hexagonal from the start.)",
+            "But there\u2019s more to the story. Under certain conditions, gold can react with oxygen. When it does, it forms gold oxide. That\u2019s unstable. So even if gold were able to split oxygen, the material would form only a thin layer of oxide, notes Montemore, a chemical engineer. His team\u2019s new findings, he says, could help scientists understand how to design better catalysts. Those are materials that speed up chemical reactions.",
+            "Just how much slower the rearranged gold atoms oxidize was \u201cdefinitely a surprise,\u201d Montemore says. The tiny position shifts made a huge difference. \u201cIt\u2019s something like a billion to a trillion times slower oxidation once you rearrange.\u201d"
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/break-light-photon-quantum-mess",
         "title": "\n\tTrying to break a photon would create a quantum mess",
         "content": [
@@ -1054,30 +1054,6 @@
             "Another possibility is a bit like how flutes and organ pipes work. A sharp cartilage rim at the sac\u2019s entrance may be deflecting air, producing the tone.",
             "Inflatable sacs in airways have evolved multiple times. Primates, birds, reptiles, frogs and other animals have them. But in those cases, air sacs alter or amplify sound produced elsewhere in the respiratory tract. (That\u2019s the system of organs that are involved in breathing.) The songs of the singing mice, on the other hand, are made by the sacs themselves.",
             "\u201cOur study expands our understanding of the ways in which [air sacs] can shape vocal communication,\u201d Smith says.\u00a0Studying different features of rodent air sacs may help reveal how these songs first evolved \u2014 no Disney magic needed."
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/deet-repellent-attract-mosquitoes",
-        "title": "\n\tMosquitoes may learn to like DEET, a common insect repellent",
-        "content": [
-            "*A_mosquito_with_a_belly_full_of_blood_takes_a_meal_from_a_white_person",
-            "Repellents can fend off yellow-fever mosquitoes (Aedes aegypti, shown) on the hunt for blood. But a new study suggests that these insects can learn to view the common repellent DEET as the equivalent to a dinner bell.",
-            "Pesky mosquitoes on the hunt for blood may find the smell of a common repellent attractive, not repulsive. That\u2019s the finding of new lab tests.",
-            "The chemical is known as DEET. It\u2019s been one of the most effective insect repellents for decades. But in new lab tests, yellow-fever mosquitoes (Aedes aegypti) exposed to DEET learned to associate the chemical with food. This suggests these insects can link unpleasant odors with rewards. That turns a bad experience into an inviting one.",
-            "For now, it\u2019s not clear if this might happen outside the lab, too.",
-            "How DEET works, exactly, is a bit unclear, says Cl\u00e9ment Vinauger at Virginia Tech in Blacksburg. He studies animals\u2019 brains and behaviors. Some studies have suggested mosquitoes don\u2019t like DEET\u2019s smell or taste. Others hinted that the repellent scrambles mosquito senses. That would keep the insects from detecting the otherwise enticing body odors that normally lure them in for a blood meal.",
-            "The new results suggest that mosquitoes do detect DEET, Vinauger says. They also can learn, changing their behaviors based on prior experiences.",
-            "Vinauger\u2019s team ran tests to see how mosquitoes acted when they encountered DEET several times.",
-            "They housed mosquitoes in a central container connected to two flasks. One flask held clean air. The other contained DEET. At first, the mosquitoes fed on blood from an artificial feeder while exposed to only clean air. Then, the researchers cranked up the DEET dial.",
-            "They aimed to train the mosquitoes to associate the repellent with blood.\u00a0",
-            "To test how well the training worked, the researchers put trained and untrained mosquitoes in narrow tubes. A team member sprayed DEET on one hand but not the other. They placed a hand near each end of a tube with a mosquito inside. Then the team watched what happened.",
-            "Mosquitoes that earlier had experienced DEET while allowed to feed on blood attempted to bite the repellent-treated hand. But untrained mosquitoes steered clear. The researchers shared their findings May 28 in the Journal of Experimental Biology.",
-            "fCResearchers tested whether mosquitoes can learn to associate the chemical DEET with food. Here, a female yellow-fever mosquito attempts to bite an artificial feeder filled with warm water.",
-            "The findings suggest mosquitoes are smelling DEET, concludes Anandasankar Ray. He\u2019s a neuroscientist at the University of California, Riverside. Ray did not take part in the work. \u201cAnd [mosquitoes] can be trained to be attracted to it by offering a reward with it.\u201d",
-            "The chemical is not masking our scent, Ray says. But he notes that mosquitoes pick up odors with their legs as well as using their antennae. In the new tests, they couldn\u2019t land on the repellent-treated hand. Because the insects must land to slurp blood, DEET should rebuff the mosquitoes before they can start to feed. DEET\u2019s scent would be \u201cpaired with a bitter-touch contact,\u201d Ray says. \u201cIt would be a punishment for them rather than a reward.\u201d",
-            "Vinauger suspects mosquitoes could learn to link DEET with a meal when its repellent effects have largely worn off. That could happen several hours after people first put it on their skin. There might be traces of DEET left, but not enough to deter the insects, he says. \u201cMosquitoes might still land, drink some blood and not be repelled.\u201d",
-            "If they manage to snag blood, the insects might learn to link the smell with the meal. Afterward, they might begin hunting for a combination of human odor and DEET.\u00a0",
-            "The results don\u2019t suggest that people should stop using DEET, Vinauger says. \u201cIt\u2019s still the gold standard in terms of protection.\u201d It\u2019s an important option for deterring mosquitoes where they commonly spread disease. But the chemical is sold by different manufacturers at varying concentrations. And each product may come with unique instructions. Following those instructions is key to using enough DEET to keep the irksome insects from landing."
         ]
     },
     {
