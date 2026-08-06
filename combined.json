@@ -91,6 +91,57 @@
         ]
     },
     {
+        "URL": "https://www.snexplores.org/article/explainer-what-is-bioprinting",
+        "title": "\n\tExplainer: What is bioprinting?",
+        "content": [
+            "*an_illustration_of_a_machine_printing_a_heart",
+            "One goal of bioprinting is to make new organs for patients who need them. Scientists cannot yet 3-D print full working hearts \u2014 but they\u2019re working toward a future where that\u2019s possible.",
+            "With the help of 3-D printers, even hobbyists can make model rockets or gaming accessories out of seemingly nothing. What if that printer could make new body parts, such as an ear, lung or skin? This may sound like science fiction. But scientists are already using living cells to \u201cink\u201d prototypes of these tissues.\u00a0",
+            "This 3-D bioprinting uses the same basic strategy now used to print toys, sculptures, metal pieces or even basketballs. Specialized printers just swap out plastic or metal for living cells.",
+            "Actually, there\u2019s a bit more to it than that. In most cases, you can\u2019t use the same devices to make tissues. And you can\u2019t just spew cells onto a surface, layer by layer, and expect them to link up into working organs. The cells have to be mixed with some soft, gel-like materials to make them unite with their neighbors.",
+            "Although still experimental, some devices have already printed skin, cartilage and even early-stage blood vessels. In 2025, researchers in Australia used an experimental robot to bioprint ink made from a patient\u2019s own skin cells directly onto her burn wounds.",
+            "iFhttps://www.youtube.com/embed/RWrJdOHmzts?feature=oembed",
+            "One of the doctors who pioneered the bioprinting of skin onto burn wounds describes how it\u2019s done and why her team is excited about it.",
+            "In most 3-D printers, a resin, plastic filament or metal serves as the ink. Bioprinters instead use cells \u2014 and something to keep them alive.",
+            "\u201cBioinks are specialized soft gels that can have living cells mixed inside them,\u201d explains Ryan Martin. He works on this tech at Virginia Commonwealth University, or VCU, in Richmond. Think of these inks like Jell-O: wobbly, soft materials that can hold their shape while protecting what\u2019s inside.",
+            "Scientists make these hydrogels from materials such as alginate (AL-jin-ate) and collagen. Alginate comes from seaweed. Collagen is a protein found in skin and bones.",
+            "But bioinks contain more than just cells and hydrogel. That extra stuff \u2014 part of a complex matrix \u2014 helps the mix mimic the material that surrounds cells in the body, explains Ankita Pramanick. She\u2019s a biomedical engineer at Utrecht University in the Netherlands.",
+            "*a_photo_of_Jonny_Kim_working_with_bioprinted_liver_tissues_on_the_International_Space_Station",
+            "fCNASA Johnson Space Center/Wikimedia Commons",
+            "NASA astronaut Jonny Kim treats bioprinted liver tissue on September 17, 2025, in a portable glove-bag on the International Space Station. These samples later went into another research device so researchers could study the effects of microgravity on blood vessel formation in engineered tissues.",
+            "What makes bioinks different from most other 3-D inks is that they host living cells. And those cells must survive the printing process, where they\u2019ll get squeezed through nozzles and exposed to temperature changes. The matrix is designed with these challenges in mind.",
+            "After printing, the inked structures go into incubators, which are containers that maintain ideal conditions to help cells grow. There, the newly printed cells can mature, strengthen and grow together to form tissues \u2014 perhaps cartilage for joints or layered skin with blood vessels.",
+            "Engineers have been developing several different ways to turn bioinks into tissue. Which one they choose depends on what they\u2019re building.",
+            "Most times, a \u201cbioink is pushed through a nozzle like toothpaste from a tube,\u201d Martin explains. This process is known as extrusion. A machine controls how fast the ink comes out, building up a tissue layer by layer.",
+            "For example, to create skin tissue, you\u2019d first print fibroblasts (FY-broh-blasts) \u2014 the cells that make up the inner layer of your skin. Later, you\u2019d layer on keratinocytes (Kare-uh-TIN-oh-sites). These are the cells that make up our skin\u2019s protective outer layer. Once printed, this combined structure matures within an incubator.",
+            "Extrusion works well for thicker, structured tissues. These include skin and cartilage. But it\u2019s relatively slow. Squeezing cells through a nozzle can also stress them.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "Inkjet bioprinting is faster and gentler. It sprays tiny droplets of bioink onto a surface in much the same way an office printer sprays ink onto paper. It works best with a very liquid matrix. That\u2019s why it\u2019s often used for thin cell layers, such as those that line the insides of blood vessels.",
+            "Another type of bioprinting creates entire structures at once instead of building them layer by layer. To start, a laser shines its light into a spinning tube of light-sensitive gel and cells. This solidifies them into the precise shape needed.",
+            "With this, scientists might print a small network of blood vessels all at once \u2014 complete with all its branches. It could take just seconds. And that\u2019s important, because speed matters. The faster tissues are printed, the less time their cells spend outside their ideal environment.",
+            "*a_photo_of_a_3-D_printed_ear_implant_made_of_a_polymer",
+            "fCThis 3-D printed ear implant was made from polycaprolactone (PCL), a biodegradable polymer. The implant is custom-designed to match a patient\u2019s own ear and is shown next to a ruler for scale. The goal is to transition from plastic, as here, to implants made from living cells.",
+            "In 2022, a patient received a 3-D\u2013printed ear made from their own cells. In late 2025, surgeons successfully implanted a bioprinted cornea \u2014 the clear outer layer of the eye \u2014 into someone who had been legally blind.",
+            "Skin grafting is perhaps the most advanced application. A skin graft is a type of transplant where healthy skin is used to cover missing or injured skin. A 2025 trial in Australia tested bioprinted skin on burn patients. In a news conference with her doctor, the first patient to receive such a graft showed it had successfully worked on her leg.",
+            "Bone is trickier to print. Unlike skin or cartilage, it contains hard minerals mixed with living cells. Scientists have used 3-D printing to create bone scaffolds \u2014 frameworks that encourage the body\u2019s own bone cells to grow and fill in the gaps. But no one has yet bioprinted actual bone with living cells in it for people.",
+            "Complex, fully-functioning organs such as hearts and kidneys are still a work in progress. Tissues thicker than a few millimeters (about a tenth of an inch) face a critical problem: Shortly after printing, their cells quickly start dying from a lack of oxygen and nutrients.",
+            "*a_section_of_bioprinted_heartlike_tissue_under_a_microscope_with_false_coloration",
+            "fCA Pramanick et al./Advanced Functional Materials 2025 (CC BY 4.0)",
+            "The image shows bioprinted heartlike tissue after 14 days in an incubator. The different colors help show the position of different types of cells inside the tissue.",
+            "The missing piece: blood vessels. These are needed for bringing oxygen to cells deep inside thick tissues and carrying away wastes. Without that oxygen and waste removal, cells will die. That\u2019s why building blood vessels into tissues is the biggest hurdle standing in the way of fully printed organs.",
+            "The problem comes down to diffusion \u2014 the movement of molecules from areas of high concentrations to low concentrations. Oxygen can diffuse only a few millimeters into tissue. In thicker tissues, cells in the center would suffocate before oxygen could reach them. Imagine a big, densely populated city with no roads. Food trucks can\u2019t bring in supplies. Garbage trucks can\u2019t haul away waste.",
+            "Scientists have tried ways to avoid this problem. One method uses sacrificial inks. These serve as temporary placeholders. The inks are printed in the shape of vessels, then tissue is printed around them. Once the tissue solidifies, the sacrificial ink dissolves. In its place sit hollow channels through which blood can flow.",
+            "Scientists are also looking for a way to print blood vessels directly into tissue as it\u2019s being built up.",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
+            "iFhttps://www.youtube.com/embed/J6DEVozSM74?feature=oembed",
+            "This short overview describes what bioprinting is, how advanced it\u2019s become and where it might go.",
+            "In September 2025, researchers made a promising advance with a 3-D bioprinting system they\u2019re calling GRACE. \u201dThis technology enables the printing of blood vessels directly around [the printed tissue itself],\u201d explains Pramanick at Utrecht. She works in the lab that\u2019s developing GRACE.\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+            "Here\u2019s how it works. A computer-vision system \u201csees\u201d where cells are located. It then asks artificial intelligence to figure out the best pattern of blood vessels to deliver oxygen-rich blood to all those cells. In seconds, bioprinting then creates pipe-shaped structures to begin delivering that blood.",
+            "Speed matters enormously here. Traditional methods might take hours to print vessel networks layer by layer. Because GRACE does it in seconds, cells spend little time without oxygen.",
+            "Full organs remain years away. Forming stable, treelike structures in different sizes \u2014 from big arteries down to the tiniest vessels known as capillaries \u2014 to seamlessly work with a patient\u2019s blood-vessel system remains a big challenge, notes Martin at VCU. As bioinks and printing speeds improve, the prospect of integrating printed tissues with blood vessels into the body appears ever nearer. Today, the question is no longer if 3-D bioprinting can create replacement organs \u2014 it\u2019s when."
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/new-sunscreen-option-bemotrizinol",
         "title": "\n\tU.S. sunscreen users are finally getting a new option \u00a0",
         "content": [
@@ -154,33 +205,6 @@
             "fCTable 1.",
             "This activity is brought to you in partnership with\u00a0Science Buddies. Find\u00a0the original activity\u00a0on the Science Buddies website.",
             "*A_banner_that_reads_SCIENCE_BUDDIES"
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/otzi-iceman-living-microbes-yeast",
-        "title": "\n\tDormant microbes from \u00d6tzi the Iceman\u2019s body can grow in the lab",
-        "content": [
-            "*A_image_of_Otzi_the_Iceman's_feet",
-            "Microbes might still grow on \u00d6tzi\u2019s carefully chilled body. This finding could help scientists protect the mummy from being decomposed.",
-            "For a long time, scientists considered \u00d6tzi the Iceman a messenger from the Copper Age. But new research shows this frozen mummy wasn\u2019t alone. He hosts small companions \u2014 dormant, cold-adapted yeasts. In other words, his remains might not be as frozen in time as researchers once thought.",
-            "Since \u00d6tzi\u2019s discovery in the Italian Alps in 1991, his body has been housed in a specialized facility in Bolzano, Italy. Scientists there held his remains at \u20136\u00b0 Celsius (21.2\u00b0 Fahrenheit). This has been to keep his body from degrading. It\u2019s a temp close to that of the glacier in which he\u2019d been found.",
-            "Four ancient species of yeast have now been found in his remains. And they\u2019re still able to grow in the lab, reports Albert Zink. His team isolated \u201cancient DNA from these species,\u201d he notes. An anthropologist, until recently, he worked at the Eurac research center in Bolzano, Italy. (He\u2019s now at Ludwig Maximilian University of Munich, in Germany.)",
-            "Those DNA show the yeast \u201caccompanied [\u00d6tzi] over thousands of years while he was preserved in the ice,\u201d Zink says.",
-            "Scientists suspect \u00d6tzi thawed and refroze several times \u2014 especially in the first 1,500 years after his death. That could help explain why his remains still host microbes.",
-            "Zink\u2019s team shared its results on June 3 in Microbiome.",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
-            "Researchers thawed \u00d6tzi\u2019s body to 4 \u00b0C (39.2 \u00b0F) for five hours. Then, they collected the liquid that melted off his remains. They also swabbed parts of \u00d6tzi\u2019s body and took samples of his skin and other tissues.",
-            "Four colonies of yeast grew from these samples. Scientists compared these yeasts to those in soil near the glacier where \u00d6tzi was found. They also checked air and the water that the museum had used to keep the mummy\u2019s chamber humid.",
-            "These tests showed those four yeast species really came from the mummy. They were effectively time capsules of \u00d6tzi\u2019s time in the ice after his death. Bacteria were also extracted from internal tissues. None of these grew in the lab.",
-            "The new findings suggest the iceman\u2019s remains seem to still be interacting with the environment.",
-            "*A_petri_dish_of_microbes_grown_from_Otzi",
-            "fCScientists grew colonies (shown) from four species of yeast found on the mummy\u2019s body.",
-            "Those microbes could pose a problem. If they don\u2019t stay dormant, they could end up decomposing the mummy.",
-            "This conclusion is \u201cright on the mark,\u201d says Patrick Hunt. He\u2019s an alpine archaeologist at Stanford University in California who did not take part in the new study.",
-            "\u00d6tzi is \u201cthe most important archaeological-science finding of the 20th century,\u201d Hunt says.",
-            "\u00d6tzi\u2019s mummy has offered an incredible window into the man\u2019s former life. From many studies, scientists know he wore leather clothes, had multiple tattoos and would have likely gone bald. Past work even shows he ate a high-fat meal before he died and carried an ax made of copper derived from far away.",
-            "More such discoveries may emerge only if \u00d6tzi\u2019s body remains preserved. That requires getting to know the cold-loving and potentially damaging microbes on his body. It also makes the new findings essential, Hunt says. They\u2019ll help scientists preserve this iceman for the ages.\u00a0",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
         ]
     },
     {
@@ -430,6 +454,35 @@
         ]
     },
     {
+        "URL": "https://www.snexplores.org/article/first-atomic-nuclear-clock",
+        "title": "\n\tScientists made clocks from an atomic nucleus",
+        "content": [
+            "*A_translucent_blue_cylindrical_crystal_mounted_on_a_post_used_to_create_the_first_nuclear_clock",
+            "A crystal that contains thorium atoms (shown) is at the heart of a new nuclear clock.",
+            "For the first time, scientists have used an atomic nucleus as a clock.",
+            "Clocks need to keep a steady rhythm. (Think of the swinging pendulum in a grandfather clock.) The new clocks are based on how light interacts with an atomic nucleus \u2014 the collection of protons and neutrons at the center of an atom. This technique could allow scientists to make clocks that tick more precisely than any before.",
+            "The world\u2019s most precise timepieces are already made using atoms. Existing atomic clocks rely on their electrons. Clocks based on atomic nuclei might perform even better. Now, two teams of scientists have finally made the first nuclear clocks.",
+            "This tech is still at an early stage. So nuclear clocks don\u2019t yet tick more precisely than atomic clocks. But these new clocks can already test physics in novel ways.",
+            "A research team used one of these clocks to search for dark matter. That\u2019s an unidentified substance that makes up much of the universe. The team describes its new clock \u2014 and the search \u2014 in a paper submitted June 3 to arXiv.org. This nuclear clock didn\u2019t find any dark matter. But it seems to be more sensitive to some types than atomic clocks. In that search, \u201cwe\u2019re already outperforming all of the atomic clocks,\u201d reports Thorsten Schumm. He\u2019s a physicist on the project at Vienna University of Technology in Austria.",
+            "\u201cThis is an outstanding result,\u201d says Victor Flambaum, who did not take part in the work. A theoretical physicist, he works at the University of New South Wales in Sydney, Australia. The new feat should spur more progress, he says. \u201cThis is only the first step. [The] race for building super-accurate nuclear clocks just started.\u201d",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
+            "Nuclear clocks have the potential to weigh in on other weird physics, too. That\u2019s why they\u2019re \u201cone of the most actively pursued frontiers,\u201d says Shiqian Ding. He\u2019s a physicist at Tsinghua University in Beijing, China. Ding\u2019s team made a nuclear clock based on a technology similar to Schumm\u2019s. They described this second clock in a paper submitted June 7 to arXiv.org. (Neither paper has been peer reviewed.)",
+            "Both clocks contain crystals of calcium fluoride. Embedded in those crystals are atoms of thorium-229, a radioactive isotope. That thorium is key. In the entire periodic table, it\u2019s the only element whose atomic nucleus can be used to make a clock.",
+            "Scientists hit that thorium-229 with a laser. The wiggling electromagnetic waves of laser light acted like a clock\u2019s swinging pendulum. Thorium\u2019s role was to make sure that the frequency of those waves didn\u2019t change. This kept the \u201cticking\u201d of these clocks from slowing or speeding up.",
+            "The way this works is based on quantum physics, the branch of science that describes atoms and similarly tiny stuff. According to quantum physics, a nucleus can hold only certain amounts of energy. That gives each nucleus a set of energy levels. A jump between two particular energy levels of a given atom always takes the same amount of energy.",
+            "So the laser\u2019s frequency was locked to a jump between energy levels in the thorium nucleus. Only the right frequency of light will make that jump take place. Scientists used the jump to readjust the laser. They did this over and over to keep the ticks steady.",
+            "Thorium-229 is the only atomic nucleus that has an energy jump of a size that will be initiated by a laser. So it\u2019s the only one that can be used to make a clock.",
+            "Although scientists have previously gotten close to making nuclear clocks, this readjustment step had never been done before.",
+            "\u201cThis was the final missing step before calling it an actual clock,\u201d says Lars von der Wense, who also was not involved with the research. A physicist, he works at Johannes Gutenberg University Mainz in Germany. With improvements to lasers and crystals on the horizon, he says, nuclear-clock technology is expected to advance rapidly.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "Nuclear clocks have been hotly anticipated. Compared with atomic clocks, they\u2019re less sensitive to stray electromagnetic fields that can throw them off. And they can be made out of solid materials. The atoms in atomic clocks must be suspended in a cumbersome vacuum chamber. These traits have scientists hoping for more portable, robust clocks.",
+            "And atomic nuclei respond to different forces than electrons. Electrons mainly are subject to electromagnetic forces. In contrast, the strong nuclear force holds protons and neutrons together. That opens up new possibilities for study.",
+            "Numbers called fundamental constants determine the relative strength of those forces. Comparisons of an atomic clock to a nuclear one could be used to check if those numbers really stay constant over time.",
+            "It\u2019s been a long wait \u2014 almost a quarter century \u2014 since scientists first dreamt of a thorium nuclear clock. But \u201cI have always been optimistic about the success of this project,\u201d says Ekkehard Peik. He\u2019s a physicist at the National Metrology Institute in Braunschweig, Germany. Peik is one of the scientists who proposed the idea for such a clock and was a coauthor with Schumm on a paper describing the new clocks.",
+            "After initially slow progress, researchers have made rapid advances in recent years. Now, Peik says, \u201ca great deal of interesting research \u2026 is only just beginning.\u201d"
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/plant-leaves-veins-geometric-pattern",
         "title": "\n\tA geometric pattern lurks in Chinese money plant leaves",
         "content": [
@@ -456,6 +509,33 @@
             "Sack at UCLA is excited about what new tech this finding might inspire. Past studies of leaf veins, he says, have helped\u00a0engineers reimagine how to distribute resources such as water and energy. Such insights have improved solar panels, electronic circuits and irrigation systems.",
             "\u201cThe more we know about leaf veins,\u201d Sack says, \u201cthe more we can build functional and beautiful systems around us.\u201d",
             "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
+        ]
+    },
+    {
+        "URL": "https://www.snexplores.org/article/otzi-iceman-living-microbes-yeast",
+        "title": "\n\tDormant microbes from \u00d6tzi the Iceman\u2019s body can grow in the lab",
+        "content": [
+            "*A_image_of_Otzi_the_Iceman's_feet",
+            "Microbes might still grow on \u00d6tzi\u2019s carefully chilled body. This finding could help scientists protect the mummy from being decomposed.",
+            "For a long time, scientists considered \u00d6tzi the Iceman a messenger from the Copper Age. But new research shows this frozen mummy wasn\u2019t alone. He hosts small companions \u2014 dormant, cold-adapted yeasts. In other words, his remains might not be as frozen in time as researchers once thought.",
+            "Since \u00d6tzi\u2019s discovery in the Italian Alps in 1991, his body has been housed in a specialized facility in Bolzano, Italy. Scientists there held his remains at \u20136\u00b0 Celsius (21.2\u00b0 Fahrenheit). This has been to keep his body from degrading. It\u2019s a temp close to that of the glacier in which he\u2019d been found.",
+            "Four ancient species of yeast have now been found in his remains. And they\u2019re still able to grow in the lab, reports Albert Zink. His team isolated \u201cancient DNA from these species,\u201d he notes. An anthropologist, until recently, he worked at the Eurac research center in Bolzano, Italy. (He\u2019s now at Ludwig Maximilian University of Munich, in Germany.)",
+            "Those DNA show the yeast \u201caccompanied [\u00d6tzi] over thousands of years while he was preserved in the ice,\u201d Zink says.",
+            "Scientists suspect \u00d6tzi thawed and refroze several times \u2014 especially in the first 1,500 years after his death. That could help explain why his remains still host microbes.",
+            "Zink\u2019s team shared its results on June 3 in Microbiome.",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
+            "Researchers thawed \u00d6tzi\u2019s body to 4 \u00b0C (39.2 \u00b0F) for five hours. Then, they collected the liquid that melted off his remains. They also swabbed parts of \u00d6tzi\u2019s body and took samples of his skin and other tissues.",
+            "Four colonies of yeast grew from these samples. Scientists compared these yeasts to those in soil near the glacier where \u00d6tzi was found. They also checked air and the water that the museum had used to keep the mummy\u2019s chamber humid.",
+            "These tests showed those four yeast species really came from the mummy. They were effectively time capsules of \u00d6tzi\u2019s time in the ice after his death. Bacteria were also extracted from internal tissues. None of these grew in the lab.",
+            "The new findings suggest the iceman\u2019s remains seem to still be interacting with the environment.",
+            "*A_petri_dish_of_microbes_grown_from_Otzi",
+            "fCScientists grew colonies (shown) from four species of yeast found on the mummy\u2019s body.",
+            "Those microbes could pose a problem. If they don\u2019t stay dormant, they could end up decomposing the mummy.",
+            "This conclusion is \u201cright on the mark,\u201d says Patrick Hunt. He\u2019s an alpine archaeologist at Stanford University in California who did not take part in the new study.",
+            "\u00d6tzi is \u201cthe most important archaeological-science finding of the 20th century,\u201d Hunt says.",
+            "\u00d6tzi\u2019s mummy has offered an incredible window into the man\u2019s former life. From many studies, scientists know he wore leather clothes, had multiple tattoos and would have likely gone bald. Past work even shows he ate a high-fat meal before he died and carried an ax made of copper derived from far away.",
+            "More such discoveries may emerge only if \u00d6tzi\u2019s body remains preserved. That requires getting to know the cold-loving and potentially damaging microbes on his body. It also makes the new findings essential, Hunt says. They\u2019ll help scientists preserve this iceman for the ages.\u00a0",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
         ]
     },
     {
@@ -1171,39 +1251,6 @@
         ]
     },
     {
-        "URL": "https://www.snexplores.org/article/giant-octopuses-cretaceous-kraken",
-        "title": "\n\tGiant school bus\u2013sized octopuses may have once ruled the oceans",
-        "content": [
-            "*An_illustration_shows_a_giant_pinkish_octopus_in_the_deep_sea_with_webbing_between_its_tentacles_and",
-            "This artwork shows the gigantic octopus Nanaimoteuthis haggarti. This invertebrate, which may have been as big as a school bus, stalked the seas at the time dinosaurs roamed on land.",
-            "The kraken \u2014 a giant, tentacled sea monster that dragged ships into the depths \u2014 is a creature of Norwegian myth. But millions of years ago, a similar, real-life animal roamed the oceans, a new study finds.",
-            "The new analysis of jaw fossils suggests that as dinosaurs ruled the land, whale-sized octopuses ruled the seas. These super-sized cephalopods would have been the largest marine animals of the Late Cretaceous Period. That\u2019s from about 66 million to 100 million years ago.",
-            "Researchers reported their findings April 23 in Science.",
-            "It\u2019s difficult to study fossil octopuses, notes Yasuhiro Iba. He\u2019s a paleontologist at Hokkaido University. That\u2019s in Sapporo, Japan. With soft bodies, these animals tend to break down before becoming fossils. Very few hard parts remain to fossilize. Fortunately, both ancient and modern-day octopuses have a hard, beak-like jaw. This structure is made of chitin (KY-tin). This material is strong enough to survive the animal\u2019s death and fossilize.",
-            "The jaws appeared to come from an octopus-like creature. But until now, details of the body size and animal\u2019s role in the ocean ecosystem had been a mystery, Iba says.",
-            "To find those details, Iba was part of a team that examined 15 fossil jaws. Found in Japan and Canada\u2019s Vancouver Island, they date to near the end of the age of dinosaurs.",
-            "Iba\u2019s team took careful measurements. They also compared the mystery jaws to those from other species of octopus and squid. The team also found 12 jaw fossils embedded in rocks in Japan. Some were too fragile to dig out. So they examined them with a technique called digital fossil mining. It records fossils as detailed 3-D digital images.",
-            "To make these images, they ground down the rocks layer by layer. Each layer exposed a new bit of the fossils. The researchers then took photographs of each layer. Afterward, the team used these images \u2014 with some help from artificial intelligence \u2014 to make digital models of the fossils.",
-            "Researchers once thought these 27 cephalopods belonged to five extinct species. But as Iba and his colleagues learned more about them, they divided them into just two. There was Nanaimoteuthis jeletzkyi (Nuh-NY-moh-TOOTH-is Jeh-LETZ-skee-eye) and the much larger N. haggarti. The new analyses suggest the behemoths were early finned octopuses.",
-            "This group of deep-sea animals has webbing between their arms and flapping fins on the other end of their body. Finned octopuses still exist. One example is the dumbo octopus. The ancient ones were much, much larger.",
-            "Perhaps the largest invertebrate ever known, the giant dinosaur-era octopus lived more than 72 million years ago. This predator dwarfed even the giant marine reptiles, such as plesiosaurs, not to mention today\u2019s largest invertebrate, the giant squid.",
-            "*A_chart_compares_the_size_of_the_newly_described_ancient_octopuses_to_other_Cretaceous_predators,_in",
-            "fCHokkaido University",
-            "The largest lower jaw from an N. haggarti was big enough to hold a grapefruit. It also was about 50 percent bigger than that of the modern giant squid. At 12 meters (39 feet) long, that squid is one of the largest cephalopods alive today.",
-            "Iba estimates that N. haggarti could have spanned seven to 19 meters (23 to 63 feet) from its head to the tips of its arms. That\u2019s between the length of an ambulance and a school bus.",
-            "The animal \u201cmay have been among the largest invertebrates in Earth\u2019s history,\u201d Iba now concludes.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "N. haggarti appears to have been bigger than even the largest ocean predators of its time. These would have included huge reptiles, such as mosasaurs and long-necked plesiosaurs.",
-            "Clues in the fossil jaws suggest the ancient giant octopuses competed with those top predators for a spot in the food chain. The researchers found wear and damage to the animals\u2019 jaws. These scrapes and scuffs suggest the octopuses had been powerful predators. Biting on shells and bones likely roughed up their jaws.",
-            "That discovery seems to shed new light on ancient marine ecosystems. It suggests that a wider range of predators roamed the ancient seas than once thought.",
-            "\u201cFor a long time, the top of the marine food web has been thought to be dominated by large vertebrates,\u201d Iba says. By mosasaurs and plesiosaurs, for example. \u201cOur study shows that giant invertebrates \u2014 octopuses \u2014 also occupied that role in the Cretaceous,\u201d he says.",
-            "It\u2019s possible that Nanaimoteuthis was a bit smaller, notes Christian Klug. He\u2019s a paleontologist at the University of Zurich, in Switzerland. The fossil remains are incomplete, he notes. Iba\u2019s team used only the jaw fossils as it estimated total-body length.",
-            "Still, he says, \u201cthere is no doubt that these animals ranged among the top predators.\u201d Future findings, he adds, may help pinpoint their roles in those ancient seas.",
-            "Paleontologist Adi\u00ebl Klompmaker works at the University of Alabama in Tuscaloosa. He hopes some giant octopus fossils will turn up with well-preserved stomach contents. \u201cThat would tell us what they ate,\u201d he says. Were they hunting shelled invertebrates, such as large ammonites? \u201cOr did they also go after large vertebrates?\u201d",
-            "Only time and more work by paleontologists will reveal such \u201ckraken\u201d secrets."
-        ]
-    },
-    {
         "URL": "https://www.snexplores.org/article/why-dogs-wag-tails-animal-behavior-communication",
         "title": "\n\tScientists still aren\u2019t always sure why dogs wag their tails",
         "content": [
@@ -1593,33 +1640,6 @@
             "Taria Camerino \u2014 a chef based in Atlanta, Ga. \u2014 was born with a form of synesthesia that links certain sounds with flavors.",
             "Check out the full list of\u00a0Scientists Say.",
             "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/break-light-photon-quantum-mess",
-        "title": "\n\tTrying to break a photon would create a quantum mess",
-        "content": [
-            "*A_black_background_with_white_wavy_lines_in_patterns_and_white_dots_at_the_top_of_each_line,_meant_t",
-            "Dropping the guillotine on a single photon would spawn a messy mix of up to infinite light particles, a new model shows.",
-            "When it comes to making a mess, not even the world\u2019s crumbliest cookie would compare to a photon.",
-            "Photons are fundamental particles of light. As fundamental particles, they cannot really be broken down into smaller bits. But physicists have now shown what would happen \u2014 in theory \u2014 if you tried to crack a photon in half.",
-            "You wouldn\u2019t just end up with a second photon, their calculations show. Rather, up to an infinite number of new light particles would sprinkle out of thin air.",
-            "The researchers shared their findings in a paper that will be published in Physical Review Letters.",
-            "Daniele Faccio\u2019s first reaction to the study was: nonsense. \u201cThen you read it, and I enjoyed it,\u201d he says. Faccio is a physicist at the University of Glasgow in Scotland who did not take part in the work. \u201cThe technique is legit,\u201d he says. \u201cThe results look absolutely reasonable.\u201d",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "The key to the analysis is that photons don\u2019t just act as pointlike particles. They also behave like extended waves. That got Johannes Skaar wondering: What would happen if you had a device fast enough to snip the wave of a single photon in half?",
-            "Skaar is a physicist at the University of Oslo in Norway. His team modeled a scenario where a photon is traveling toward a mirror. The front half of the light wave hits the mirror first. It gets bounced back in the direction it came from. But then, the mirror is suddenly removed. The back half of the light wave is then free to pass through.",
-            "This, the math shows, would spew out a complex mix \u2014 or superposition \u2014 of different possible numbers of photons.",
-            "Removing the mirror infinitely fast would conjure an infinity of new light particles. Infinite speed is, of course, impossible. But even pulling the mirror away more slowly has striking effects. \u201cYou end up with a possibility of several photons, or a bunch of photons,\u201d Skaar says. You\u2019re just much more likely to create small numbers of them than huge swarms.",
-            "\u201cThis is a bit strange,\u201d allows Skaar. But in the quantum realm, he adds, it\u2019s not actually that weird.",
-            "Quantum physics is the science that describes how the very smallest things, such as photons, behave. And it has already shown that supposedly \u201cempty\u201d space is not truly empty. There is some structure to the fabric of \u201cempty\u201d space, and disturbing it is known to knock new photons loose.",
-            "In this case, the mirror\u2019s motion could provide the energy to spawn new light particles.",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
-            "To Skaar, a possible cascade of new light particles isn\u2019t the oddest outcome of the model. To him, the weirdest part is the math that describes what you\u2019d see if you observed the system from different perspectives.",
-            "If you could view both sides of the mirror at once, you\u2019d witness the messy eruption of up to bajillions of photons. But if you could only see one side of the mirror, you\u2019d observe just one \u2014 or empty space.",
-            "\u201cThat is really crazy,\u201d says Skaar. He hopes to probe what\u2019s going on more deeply in future work. He also wants to explore what would happen if you tried to sever other types of fundamental particles. In quantum physics, particles such as electrons also act like waves. Attempting to snip them in half might lead to similarly bizarre results.",
-            "It\u2019s not super clear what uses this research might have. \u201cI\u2019m going to speculate wildly here,\u201d Faccio says. But \u201cit might matter because there are funky things that people do with [photons] for sensing and measuring.\u201d Gravitational-wave catchers, for example, play with light waves to detect ripples in the fabric of our universe.",
-            "Probing the nature of photons, Faccio says, may be helpful in fields that use such quantum sensors."
         ]
     },
     {
