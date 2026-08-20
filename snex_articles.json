@@ -27,7 +27,8 @@
             "\u201cEverything was supporting the same conclusion,\u201d Baer says. Bees do more than feed the queen: They \u201cactively engineer them.\u201d",
             "Exactly how that engineering works remains unclear. Kai Wang is an apiologist, or bee scientist, in Beijing. He works at the Chinese Academy of Agricultural Sciences and a co-author of the new study. He finds the scents inside the cells especially intriguing.",
             "\u201cAre [those scents] influencing the developing queen\u2019s senses, preparing her for mating and life after emergence?\u201d he asks. \u201cAre some produced by the larva herself? And could the future queen be actively communicating with the workers constructing her chamber?\u201d ",
-            "The researchers hope to find out by answering: When and how does the wax affect a bee\u2019s development? Their findings could affect more than a queen\u2019s evolution, Baer says. \u201cThese superorganisms [beehives] mobilize specialized workers that collectively shape the next generation,\u201d he says. \u201cThe division of labor in bees might be much more complex than we have acknowledged so far.\u201d"
+            "The researchers hope to find out by answering: When and how does the wax affect a bee\u2019s development? Their findings could affect more than a queen\u2019s evolution, Baer says. \u201cThese superorganisms [beehives] mobilize specialized workers that collectively shape the next generation,\u201d he says. \u201cThe division of labor in bees might be much more complex than we have acknowledged so far.\u201d",
+            ""
         ]
     },
     {
@@ -153,7 +154,8 @@
             "In September 2025, researchers made a promising advance with a 3-D bioprinting system they\u2019re calling GRACE. \u201dThis technology enables the printing of blood vessels directly around [the printed tissue itself],\u201d explains Pramanick at Utrecht. She works in the lab that\u2019s developing GRACE.\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
             "Here\u2019s how it works. A computer-vision system \u201csees\u201d where cells are located. It then asks artificial intelligence to figure out the best pattern of blood vessels to deliver oxygen-rich blood to all those cells. In seconds, bioprinting then creates pipe-shaped structures to begin delivering that blood.",
             "Speed matters enormously here. Traditional methods might take hours to print vessel networks layer by layer. Because GRACE does it in seconds, cells spend little time without oxygen.",
-            "Full organs remain years away. Forming stable, treelike structures in different sizes \u2014 from big arteries down to the tiniest vessels known as capillaries \u2014 to seamlessly work with a patient\u2019s blood-vessel system remains a big challenge, notes Martin at VCU. As bioinks and printing speeds improve, the prospect of integrating printed tissues with blood vessels into the body appears ever nearer. Today, the question is no longer if 3-D bioprinting can create replacement organs \u2014 it\u2019s when."
+            "Full organs remain years away. Forming stable, treelike structures in different sizes \u2014 from big arteries down to the tiniest vessels known as capillaries \u2014 to seamlessly work with a patient\u2019s blood-vessel system remains a big challenge, notes Martin at VCU. As bioinks and printing speeds improve, the prospect of integrating printed tissues with blood vessels into the body appears ever nearer. Today, the question is no longer if 3-D bioprinting can create replacement organs \u2014 it\u2019s when.",
+            ""
         ]
     },
     {
@@ -320,6 +322,50 @@
         ]
     },
     {
+        "URL": "https://www.snexplores.org/article/ai-math-tutor-learning",
+        "title": "\n\tAI can be a helpful math tutor if used right \u2014 and harmful if not",
+        "content": [
+            "*top_down_view_of_a_girl_doing_homework_and_holding_a_phone_The_phone_screen_reads_'Hello!_Can_I_do_s",
+            "Some students are turning to AI for math help. That can be good or bad, a new survey finds. It depends on what they ask AI to do for them.",
+            "Is it a good idea to use artificial intelligence (AI) for math help? Yes \u2014 and no. That\u2019s based on the results of a new survey. AI can be a great tutor, it finds, but only if you use it in certain ways.\u00a0",
+            "The data come from a poll of 1,300 high school students from across the United States, England and Wales. The Society for Industrial and Applied Mathematics surveyed some top math students in each nation. The goal was to identify the habits behind their academic success.\u00a0",
+            "AI has many strengths as a math tutor, the study found. Students can use AI to explain things in different ways and to check their homework answers. It can answer \u201cwhy\u201d questions about material to deepen their understanding. AI can tailor learning by identifying a student\u2019s knowledge gaps. Using AI as a tutor could even reduce math anxiety, some students said.",
+            "But there are potential downsides to AI tutoring as well, notes Robbie Torney. AI was designed to reduce friction \u2014 meaning it aims to do things quickly and efficiently. But learning \u201crequires friction,\u201d says Torney, who was not involved in the survey. He heads up AI & Digital Assessments at Common Sense Media. It\u2019s a nonprofit group working to make the digital world safer for children and teens.",
+            "Science shows that learning requires grappling with problems, Torney notes. You have to work through things that feel hard and come up with your own answers.",
+            "Tiago C.P. agrees. To this Colorado high-school senior (who did not take part in the survey), the most important thing is \u201ctrying the problem first.\u201d This is where students struggle, he adds, but \u201cthat\u2019s when you get the learning down.\u201d\u00a0Says Tiago, \u201cI won\u2019t use AI before I\u2019ve fully attempted a problem.\u201d\u00a0",
+            "*an_illustration_with_a_girl_doing_homework_in_front_of_a_laptop,_in_the_background_is_an_illustratio",
+            "fCUsing AI for help with homework or when studying for tests can be fine \u2014 as long as you keep thinking, doing the work and using a range of other resources, too.",
+            "The teens in the study had all taken part in an international math contest. Afterward, they gave their take on whether AI could be an effective math tutor. About half said yes \u2014 if the AI was used in specific ways. More than 200 math teachers also took part. More than six in every 10 agreed that an AI tutor could be beneficial. But AI could also decrease learning if used improperly, they noted.",
+            "Almost two thirds of students surveyed (63 percent) said they would always try a math problem on their own before seeking help from AI. If they were struggling, where would the students turn? Most recommended first asking teachers (58 percent), followed by classmates (50 percent). Others said they\u2019d continue to try on their own (48 percent) or look for tutorials on the internet (46 percent). At 39 percent, AI came in fifth place.",
+            "That suggests using AI after trying most other sources of help. The number one suggestion for how to do well in math was doing regular practice problems. That\u2019s according to both students (67 percent) and teachers (62 percent).",
+            "Overall, about half of the students said they believe AI has a place in math education. But they added that it is best used along with \u2014 not in place of \u2014 help from their classroom teacher. For one thing, \u201cIt\u2019s hard to get AI to teach you the same way your teacher would,\u201d says Amelie M., another Colorado senior (who did not participate in the survey).",
+            "*a_teacher_leans_over_to_explain_something_to_a_group_of_students_working_at_a_table",
+            "fCAsk questions of your human teachers, not just of your AI tutor. A range of teaching styles can boost understanding. Also, people can understand each other better than AI can. ",
+            "More than half of the teachers in the study (55 percent) said AI\u2019s biggest benefit is its ability to explain \u2014 step by step \u2014 how to solve a problem.",
+            "But relying on it can harm learning in the long run. Almost three in every four teachers surveyed said their biggest concern was that AI can quickly become a crutch.",
+            "Amanda Brown teaches math at Broomfield High School in Colorado. When learning something new, you can use AI for help, she says. But as you become more familiar with the subject, studies show, you should turn to AI less and less.\u00a0",
+            "Torney recommends asking yourself (or even the AI): \u201cWho\u2019s doing most of the work?\u201d Whenever it\u2019s AI, he says, that likely points to a problem.",
+            "\u201cI see kids that have perfect homework scores,\u201d Brown says, who later \u201cdon\u2019t pass their test.\u201d AI might have helped them ace the homework. But in the end, Brown notes, \u201cYou\u2019re gonna have to take the test [without AI].\u201d And that\u2019s when it comes out: Do you know the material or not?",
+            "The trick is using AI in moderation, agrees Amelie. Try to ask it very specific questions, she says, such as: \u201cWhat are different ways I could solve this?\u201d Amelie also suggests adding to your prompt: \u201cDon\u2019t give me the answer.\u201d\u00a0",
+            "Tiago warns that you also need to check whether AI is correct. Although chatbots keep improving, they sometimes \u201challucinate\u201d (make errors). This is because AI doesn\u2019t actually know the answer. It just predicts what is the most likely answer from the data it has ingested. \u201cAt least a quarter of the time,\u201d Tiago says, \u201cI can catch a mistake it\u2019s made.\u201d",
+            "Remember that you can also work on problems with classmates. And teachers are likely your best source for homework help. \u201cLearning has always been a social task,\u201d Torney points out \u2014 \u201csomething that we do with other people.\u201d",
+            "*a_photo_of_a_group_of_diverse_students_participating_in_a_study_group",
+            "fCStudying in groups can turn learning into a \u201csocial task.\u201d Those who understand something better can coach peers. People have different ways of learning and can benefit from others\u2019 approaches. ",
+            "AI can be a good helper as you prepare for tests, Tiago finds. It can\u00a0generate sample problems, create flash cards or drill you on concepts.\u00a0Or if you were out sick for a few days, AI might help you catch up on topics you missed.",
+            "But AI will \u201cpull from so many things,\u201d says Amelie, that it can return \u201clong, long paragraphs\u201d of info. This \u201cmight actually be more overwhelming\u201d than helpful, she points out. What might prove more beneficial are YouTube instructional videos that AI references, she says. Such videos show someone actually teaching you.",
+            "A math hack: You can also ask AI to tell you about your own thinking and learning. The surveyed teachers suggested letting AI test you to find gaps in your knowledge. Students recommended asking AI \u201cwhy\u201d questions about math. These could make you a better learner.",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
+            "Math is a bit like learning a sport. You have to learn certain skills and in a certain order. Consider ice hockey. Until you learn how to skate \u2014 and how to stop \u2014 you\u2019ll have a tough time mastering a slap shot.",
+            "In math, if you don\u2019t learn factoring, you\u2019ll have trouble in algebra. If you don\u2019t learn algebra well, calculus will be a bear. This is why Torney advises that you \u201ckeep your eye on the long game.\u201d",
+            "And learning takes work. \u201cWhen it\u2019s easy,\u201d Torney says, \u201clearning is probably not happening.\u201d If you\u2019re using AI for help with math and don\u2019t feel like you\u2019re working very hard, change how or where you get help.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "Torney offers a last tip: Choose your AI platform wisely. Chatbots such as ChatGPT, Gemini, Claude and Copilot are \u201cmulti-use\u201d systems. They can tackle any topic \u2014 not just math. Platforms such as Mathos and Wolfram|Alpha answer questions just on math. And the discontinued (but still available) Khanmigo focuses on education.",
+            "Some students who use multi-use systems for math can start relying on them for social advice or emotional support, too. This can lead to dependency in some people. That\u2019s why systems focused on a single topic, Torney says, \u201ctend to be less risky for kids and teens.\u201d",
+            "Using AI to help you understand math better can be a great thing. Just keep in mind this mantra from the teacher survey: \u201cIt\u2019s critical for students to arrive at the correct answers themselves.\u201d Use AI to learn concepts, not get answers.",
+            ""
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/talking-animals-speak-language-tech",
         "title": "\n\tChatty cats\u00a0and talking dogs\u00a0could one day \u2018speak\u2019 in our language\u00a0",
         "content": [
@@ -345,32 +391,8 @@
             "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
             "Messages\u00a0don\u2019t\u00a0even require a vocal tract. Mongolian gerbils, for instance, beat out messages by thumping the ground percussively. Dances, posture,\u00a0color\u00a0and even objects can all carry messages. Just think about it: You can\u00a0probably figure\u00a0out the message when a dog holds his leash in his mouth and sits by the front door.\u00a0",
             "So while we wait for a gizmo that translates our pets\u2019 thoughts into words, consider the wildly variable ways animals already communicate. Long\u2019s formerly stray Brooklyn cats, for instance, have plenty to say. Their needs and wants are \u201cvery, very transparent,\u201d he says.",
-            "Should a cat-human translator ever exist, Long\u2019s message to one of his cats would be short,\u00a0sweet\u00a0and practical: \u201cI would tell him not to sit too close to the stove when\u00a0I\u2019m\u00a0cooking. I think\u00a0that\u2019s\u00a0it.\u201d\u00a0\u00a0"
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/brain-flying-virtual-wings",
-        "title": "\n\tVR can train the human brain to treat wings like real limbs",
-        "content": [
-            "*A_pelican_in_flight_shows_how_its_wings_have_many_overlapping_rows_of_feathers",
-            "In a new training study, volunteers learned to move wings in virtual reality. Here, neuroscientist and study coauthor Yiyang Cai (top left) uses the system. Real-time visual feedback inside the VR head-mounted display (center) matches her physical motions.",
-            "In X-Men, Warren Worthington III sprouts huge white wings from his back and shoots into the sky. Scientists have yet to fully turn that comic-book trick from fiction to fact. But virtual reality, or VR, is offering hints of what it\u2019s like to fly.",
-            "Yanchao Bi is a cognitive neuroscientist at Peking University in Beijing, China. She long had dreamed of flying. \u201cIt would be amazing,\u201d she says. \u201cYour whole world would become different.\u201d",
-            "In spring 2023, Bi shared this wish over coffee with Kunlin Wei. Wei leads the university\u2019s motor-control lab. There, researchers use VR to study how people perceive movement. The conversation sparked questions: Could people learn to fly with wings in VR? And how would their brains change?",
-            "To answer those questions, Bi and Wei teamed up with neuroscientist Yiyang Cai. In a new experiment, the Beijing team coached 25 people via VR on how to move virtual wings.",
-            "After training, the recruits\u2019 brains responded almost as if the fake wings had been real limbs, the researchers now report. They shared their findings in the May Cell Reports.",
-            "This study shows how adaptable the brain is, says Jane Aspell. It\u2019s interesting that the brain can adjust to \u201csomething as unhuman as a wing,\u201d she says.",
-            "It also suggests, she adds, that the brain may adapt to other kinds of limb features. A cognitive neuroscientist at Anglia Ruskin University in Cambridge, England, Aspell did not take part in the new work.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "Cai designed a weeklong training program for the human recruits. It was based on bird flight.",
-            "Participants wore VR headsets and motion-tracking gear as they looked into a virtual mirror. In it, they saw themselves as birdlike figures with huge, rust-colored, feathered wings. When they rotated their wrists and flapped their arms, the wings moved too.",
-            "Across a series of tasks, the 25 recruits learned to move their virtual wings. They flapped away from falling airballs. They stayed airborne over steep cliffs. They even steered themselves through rings in the air.",
-            "Some participants learned to fly on the first try. Others needed a few sessions to get it right. \u201cYou could clearly see them improving,\u201d says Ziyi Xiong. One of the study\u2019s authors, he\u2019s a neuroscientist at Beijing Normal University.",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
-            "Bi\u2019s team also scanned the participants\u2019 visual cortex. Some parts of this brain region are especially sensitive to images of our limbs. After training, those parts responded more strongly to pictures of wings. And their response to wings began to resemble their response to the upper limbs.",
-            "\u201cParticipants began to see the wings as part of their own bodies,\u201d Bi concludes. This discovery could mean the brain adapts in response to change more readily than once thought. \u00a0",
-            "The training did more than reshape the brain. It transformed how these people understood flight in ways that abstract knowledge cannot, Wei says. This might apply to other technologies and artificial senses, too. People might experience \u201creality\u201d in ever more varied ways.",
-            "\u201cIn the future, we may spend a great deal of time in VR,\u201d Wei says. \u201cWe are very interested in what that could mean for the human brain.\u201d"
+            "Should a cat-human translator ever exist, Long\u2019s message to one of his cats would be short,\u00a0sweet\u00a0and practical: \u201cI would tell him not to sit too close to the stove when\u00a0I\u2019m\u00a0cooking. I think\u00a0that\u2019s\u00a0it.\u201d\u00a0\u00a0",
+            ""
         ]
     },
     {
@@ -396,7 +418,8 @@
             "Giants can return to their former size by lopsided splitting. Normal-size\u00a0E. gigatrox\u00a0divide just once per day. Shrinking Hulks, in contrast, can produce nine normal-size offspring in the first day. Over five days, they can generate up to 16 offspring.",
             "Each time a giant cell divides, it shrinks somewhat. Eventually it returns to normal size and behavior.",
             "Up to 42 percent of the species\u2019 genes are involved in shifting from regular size to giant and back again. Learning how these protists do this may offer clues about how simple life forms develop complex behaviors. It might even point to how many-celled life first evolved.",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
+            ""
         ]
     },
     {
@@ -1123,33 +1146,6 @@
         ]
     },
     {
-        "URL": "https://www.snexplores.org/article/otzi-iceman-living-microbes-yeast",
-        "title": "\n\tDormant microbes from \u00d6tzi the Iceman\u2019s body can grow in the lab",
-        "content": [
-            "*A_image_of_Otzi_the_Iceman's_feet",
-            "Microbes might still grow on \u00d6tzi\u2019s carefully chilled body. This finding could help scientists protect the mummy from being decomposed.",
-            "For a long time, scientists considered \u00d6tzi the Iceman a messenger from the Copper Age. But new research shows this frozen mummy wasn\u2019t alone. He hosts small companions \u2014 dormant, cold-adapted yeasts. In other words, his remains might not be as frozen in time as researchers once thought.",
-            "Since \u00d6tzi\u2019s discovery in the Italian Alps in 1991, his body has been housed in a specialized facility in Bolzano, Italy. Scientists there held his remains at \u20136\u00b0 Celsius (21.2\u00b0 Fahrenheit). This has been to keep his body from degrading. It\u2019s a temp close to that of the glacier in which he\u2019d been found.",
-            "Four ancient species of yeast have now been found in his remains. And they\u2019re still able to grow in the lab, reports Albert Zink. His team isolated \u201cancient DNA from these species,\u201d he notes. An anthropologist, until recently, he worked at the Eurac research center in Bolzano, Italy. (He\u2019s now at Ludwig Maximilian University of Munich, in Germany.)",
-            "Those DNA show the yeast \u201caccompanied [\u00d6tzi] over thousands of years while he was preserved in the ice,\u201d Zink says.",
-            "Scientists suspect \u00d6tzi thawed and refroze several times \u2014 especially in the first 1,500 years after his death. That could help explain why his remains still host microbes.",
-            "Zink\u2019s team shared its results on June 3 in Microbiome.",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
-            "Researchers thawed \u00d6tzi\u2019s body to 4 \u00b0C (39.2 \u00b0F) for five hours. Then, they collected the liquid that melted off his remains. They also swabbed parts of \u00d6tzi\u2019s body and took samples of his skin and other tissues.",
-            "Four colonies of yeast grew from these samples. Scientists compared these yeasts to those in soil near the glacier where \u00d6tzi was found. They also checked air and the water that the museum had used to keep the mummy\u2019s chamber humid.",
-            "These tests showed those four yeast species really came from the mummy. They were effectively time capsules of \u00d6tzi\u2019s time in the ice after his death. Bacteria were also extracted from internal tissues. None of these grew in the lab.",
-            "The new findings suggest the iceman\u2019s remains seem to still be interacting with the environment.",
-            "*A_petri_dish_of_microbes_grown_from_Otzi",
-            "fCScientists grew colonies (shown) from four species of yeast found on the mummy\u2019s body.",
-            "Those microbes could pose a problem. If they don\u2019t stay dormant, they could end up decomposing the mummy.",
-            "This conclusion is \u201cright on the mark,\u201d says Patrick Hunt. He\u2019s an alpine archaeologist at Stanford University in California who did not take part in the new study.",
-            "\u00d6tzi is \u201cthe most important archaeological-science finding of the 20th century,\u201d Hunt says.",
-            "\u00d6tzi\u2019s mummy has offered an incredible window into the man\u2019s former life. From many studies, scientists know he wore leather clothes, had multiple tattoos and would have likely gone bald. Past work even shows he ate a high-fat meal before he died and carried an ax made of copper derived from far away.",
-            "More such discoveries may emerge only if \u00d6tzi\u2019s body remains preserved. That requires getting to know the cold-loving and potentially damaging microbes on his body. It also makes the new findings essential, Hunt says. They\u2019ll help scientists preserve this iceman for the ages.\u00a0",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
-        ]
-    },
-    {
         "URL": "https://www.snexplores.org/article/new-sunscreen-option-bemotrizinol",
         "title": "\n\tU.S. sunscreen users are finally getting a new option \u00a0",
         "content": [
@@ -1173,6 +1169,34 @@
             "Bemotrizinol, which is a big molecule, is less likely to pass through skin than these other chemicals. It\u2019s \u201ctoo big to squeeze through the skin cells to get down into your bloodstream,\u201d Stein says. \u00a0",
             "FDA classifies bemotrizinol as GRASE (short for generally recognized as safe and effective). Titanium dioxide and zinc oxide are the only other U.S. sunscreen ingredients with this rating.",
             "Bemotrizinol\u2019s U.S. approval goes into effect on August 9. So sunscreens using it could hit shelves later this summer. But a new sunscreen is not the only way to stay safe from the sun. There are plenty of low-tech options, too: long sleeves, hats, sunglasses and staying in the shade. \u201cThe more clothing you\u2019re wearing,\u201d Stein emphasizes, \u201cthe less you have to depend on sunscreen.\u201d"
+        ]
+    },
+    {
+        "URL": "https://www.snexplores.org/article/otzi-iceman-living-microbes-yeast",
+        "title": "\n\tDormant microbes from \u00d6tzi the Iceman\u2019s body can grow in the lab",
+        "content": [
+            "*A_image_of_Otzi_the_Iceman's_feet",
+            "Microbes might still grow on \u00d6tzi\u2019s carefully chilled body. This finding could help scientists protect the mummy from being decomposed.",
+            "For a long time, scientists considered \u00d6tzi the Iceman a messenger from the Copper Age. But new research shows this frozen mummy wasn\u2019t alone. He hosts small companions \u2014 dormant, cold-adapted yeasts. In other words, his remains might not be as frozen in time as researchers once thought.",
+            "Since \u00d6tzi\u2019s discovery in the Italian Alps in 1991, his body has been housed in a specialized facility in Bolzano, Italy. Scientists there held his remains at \u20136\u00b0 Celsius (21.2\u00b0 Fahrenheit). This has been to keep his body from degrading. It\u2019s a temp close to that of the glacier in which he\u2019d been found.",
+            "Four ancient species of yeast have now been found in his remains. And they\u2019re still able to grow in the lab, reports Albert Zink. His team isolated \u201cancient DNA from these species,\u201d he notes. An anthropologist, until recently, he worked at the Eurac research center in Bolzano, Italy. (He\u2019s now at Ludwig Maximilian University of Munich, in Germany.)",
+            "Those DNA show the yeast \u201caccompanied [\u00d6tzi] over thousands of years while he was preserved in the ice,\u201d Zink says.",
+            "Scientists suspect \u00d6tzi thawed and refroze several times \u2014 especially in the first 1,500 years after his death. That could help explain why his remains still host microbes.",
+            "Zink\u2019s team shared its results on June 3 in Microbiome.",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
+            "Researchers thawed \u00d6tzi\u2019s body to 4 \u00b0C (39.2 \u00b0F) for five hours. Then, they collected the liquid that melted off his remains. They also swabbed parts of \u00d6tzi\u2019s body and took samples of his skin and other tissues.",
+            "Four colonies of yeast grew from these samples. Scientists compared these yeasts to those in soil near the glacier where \u00d6tzi was found. They also checked air and the water that the museum had used to keep the mummy\u2019s chamber humid.",
+            "These tests showed those four yeast species really came from the mummy. They were effectively time capsules of \u00d6tzi\u2019s time in the ice after his death. Bacteria were also extracted from internal tissues. None of these grew in the lab.",
+            "The new findings suggest the iceman\u2019s remains seem to still be interacting with the environment.",
+            "*A_petri_dish_of_microbes_grown_from_Otzi",
+            "fCScientists grew colonies (shown) from four species of yeast found on the mummy\u2019s body.",
+            "Those microbes could pose a problem. If they don\u2019t stay dormant, they could end up decomposing the mummy.",
+            "This conclusion is \u201cright on the mark,\u201d says Patrick Hunt. He\u2019s an alpine archaeologist at Stanford University in California who did not take part in the new study.",
+            "\u00d6tzi is \u201cthe most important archaeological-science finding of the 20th century,\u201d Hunt says.",
+            "\u00d6tzi\u2019s mummy has offered an incredible window into the man\u2019s former life. From many studies, scientists know he wore leather clothes, had multiple tattoos and would have likely gone bald. Past work even shows he ate a high-fat meal before he died and carried an ax made of copper derived from far away.",
+            "More such discoveries may emerge only if \u00d6tzi\u2019s body remains preserved. That requires getting to know the cold-loving and potentially damaging microbes on his body. It also makes the new findings essential, Hunt says. They\u2019ll help scientists preserve this iceman for the ages.\u00a0",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            ""
         ]
     },
     {
@@ -1271,10 +1295,12 @@
             "Unlike a brick wall that stands rigidly in place, barrier islands constantly morph. Ocean currents move sand along the shoreline. Those currents wear down the beach in some areas, building it in others.",
             "\u201cWaves are strong in winter, so they wash sand off of beaches and it piles up underwater,\u201d says Hilary Stockdon. She studies coastal change for the U.S. Geological Survey in St. Petersburg, Fla. (This agency\u2019s scientists study Earth, its resources and natural hazards.) \u201cIn summer,\u201d Stockdon says, \u201cgentler waves push sand back onto the shore, so the beach grows.\u201d",
             "If you landed on a barrier island from the side facing the open ocean, you would come ashore on a flat beach. Moving by foot toward the mainland, you would climb over sand dunes. Next you might pass through dense thickets of hardy trees and shrubs at the island\u2019s center. Emerging on the other side, you would slosh through salt marshes, then wade or swim across a bay (sometimes called a sound) to the mainland.",
+            "",
             "*This_cross-section_of_a_typical_barrier_island_shows_the_land_and_plant_types_running_from_the_ocean",
             " This cross-section of a typical barrier island shows the land and plant types running from the ocean side (far right) to mainland side of the island (far left).  ",
             "These different zones provide homes to many types of wildlife. Seabirds scurry along beaches, plucking treats from the wet sand, including clams and other mollusks. Rabbits and deer browse in the islands\u2019 underbrush. Crabs, shrimp and fish spawn in the marshes, which protect the sea creatures\u2019 young from ocean surf. Once a year, sea turtles may crawl ashore to lay their eggs.",
             "The biggest changes to barrier islands occur during strong storms. When large waves and stiff winds lash ocean-side beaches, they transport sand up over the dunes and down into marshes on the far side. While the beach erodes, the other side of the island grows. As this process repeats over centuries, the island eventually rolls over itself, moving slowly toward the mainland.",
+            "",
             "*In_2011,_Hurricane_Irene\u2019s_winds_and_surf_eroded_the_beach_at_Cape_Lookout,_NC_The_storm_threw_beach",
             " In 2011, Hurricane Irene\u2019s winds and surf eroded the beach at Cape Lookout, N.C. The storm threw beach sand back onto the central part of the island. Eventually, such storm damage can remove the beach facing the open ocean. Over time, this will help to roll the entire island backward, bringing it closer to the mainland.  ",
             "One island, two directions",
@@ -1283,6 +1309,7 @@
             "Sixty kilometers (37 miles) long, Assateague used to stretch 16 kilometers farther north. A 1933 hurricane changed that. The storm sent ashore waves so powerful that they cut a channel, or breach, straight across the island. The breach cut off Ocean City, Md. \u2014 already a popular beach resort \u2014 from the rest of Assateague. Today, it\u2019s hard to believe Assateague and Ocean City ever were connected.",
             "State and federal agencies now protect Assateague as a wild seashore. It has campgrounds, but no stores or restaurants, and few roads. Meanwhile, Ocean City is a bustling vacation town, with high-rise hotels and shopping centers. Pavement covers nearly everything but its beaches.",
             "Photographs taken from the air reveal how Assateague and Ocean City have gone their separate ways. Assateague has gradually shifted westward, toward the mainland, as storms have rolled over it. \u201cSomeday Assateague will merge into the mainland,\u201d says Kelly Taylor. She is a science educator for the National Park Service. But that won\u2019t be for a long time, Taylor adds. Meanwhile, the park \u201cis home for lots of animals and birds now. They can live there as the island moves, because it shifts very slowly.\u201d",
+            "",
             "*A_1933_hurricane_hit_the_East_Coast_of_the_United_States_It_created_a_breach_in_Assateague_Island_Th",
             " A 1933 hurricane hit the East Coast of the United States. It created a breach in Assateague Island. The new channel cut off Ocean City, Md., (at right) from the rest of the barrier island. Left largely wild and undeveloped, Assateague (at left) has steadily shifted closer to shore.  ",
             "North of Assateague, in Ocean City, acres of concrete and asphalt anchor the island in place. Of course, storms roll over it too. Each washes some sand from the beaches onto the streets. City crews clear away that sand, so it won\u2019t block traffic \u2014 or fill in any marshland. That means the island can\u2019t roll over, as Assateague does. Without new sand, Ocean City should be shrinking.",
@@ -1294,6 +1321,7 @@
             "Since Hurricane Sandy, many scientists have worked to gauge the damage it caused to the U.S. East Coast. Some researchers used a laser-based tool called LIDAR (LY dahr), short for light detection and ranging. From a plane, the scientists repeatedly bounced a pulse of laser light off the ground. LIDAR measured how long (and how far) each laser pulse traveled. Those measurements helped map storm-related changes to the shape of islands.",
             "Thanks to good planning, some scientists mapped different East Coast barrier islands with LIDAR one or two days before Sandy struck. The experts rushed in just as people who lived on the islands were rushing out to safety. Scientists came back with LIDAR again right after the storm.",
             "Comparing their detailed before-and-after measurements reveals how much erosion Sandy caused to whole islands, as well as to individual beaches. On some parts of New York\u2019s Fire Island, for example, Sandy eroded more than 3 meters of sand off of the top of ocean beaches and dunes. LIDAR images show that the storm piled up this sand near the center and shoreline on the mainland side of the island.",
+            "",
             "*These_before-and-after_LIDAR_images_show_Hurricane_Sandy_damage_to_Fire_Island,_NY_The_after_image_s",
             " These before-and-after LIDAR images show Hurricane Sandy damage to Fire Island, N.Y. The after image shows a newly opened breach and highlights changes to the elevation of the island. In both images, orange and red colors indicate higher elevations while yellow and green colors indicate lower elevations.  ",
             "Combining these observations with computer programs, scientists now can better predict how future storms may affect barrier islands. Those studies will help government agencies decide when and where to restore beaches and dunes after storms hit. \u201cWe can\u2019t protect everything,\u201d says Young. \u201cWe don\u2019t have enough money, and there isn\u2019t enough sand.\u201d",
@@ -1302,6 +1330,7 @@
             "On some other barrier islands, there simply isn\u2019t enough sand to go around. In the Gulf of Mexico, rising seas and heavy storms are eroding barrier islands off the coast of Louisiana. There isn\u2019t enough sediment flowing through coastal marshes to replenish the islands. And that\u2019s because people have built huge walls, called levees, to contain the Mississippi River.",
             "The Mississippi spills into the Gulf of Mexico. Each year, the river carries hundreds of millions of tons of sediment down from Midwest farmlands. For centuries, the river would often overflow its banks, washing sediment into Louisiana marshes. Because those floods threatened towns, engineers built levees to hold back the river. But those levees also channel the river\u2019s load of sediment far offshore into the Gulf of Mexico. As a result, Louisiana\u2019s marshes and barrier islands are being starved of the sediment they need to rebuild.",
             "Louisiana\u2019s barrier islands don\u2019t just protect its coast from storms. They also provide important nesting and breeding spots for many types of fish and birds. They are so important that the state is using $320 million from the oil company BP \u2014 money paid to help repair damages from a huge oil spill in 2010 \u2014 to restore four barrier islands. Engineers will rebuild beaches and dunes on the islands and build up their marshes.",
+            "",
             "*The_long-billed_curlew,_here,_is_one_of_the_birds_found_at_Padre_Island_National_Seashore_This_barri",
             " The long-billed curlew, here, is one of the birds found at Padre Island National Seashore. This barrier island sits off of the Texas coast. Managed by the National Park Service, its wilderness not only hosts plenty of birds, but also white-tailed deer, coyotes and nests of the Kemp\u2019s ridley sea turtle.  ",
             "That\u2019s a lot of money for four islands. However, healthy barrier islands are a good investment, experts say. Without barrier islands to absorb the force of storms, many cities and towns along the Atlantic and Gulf coasts would be in much greater danger from winds, waves and flooding during storms.",
@@ -1518,7 +1547,8 @@
             "He thus calculated an \u201ceffective\u201d slope for plastics. It\u2019s a flatter distribution, with fewer small fragments and more large ones. His extended theory predicts an effective slope for 3-D plastic objects of 1.5.",
             "Villermaux\u2019s work agrees well with the results of a 2010 study by Kun and others. In that experiment, they\u2019d looked at the debris shed by plastic balls thrown against a wall and calculated an effective slope of 1.6.",
             "Kun is thrilled that Villermaux\u2019s theory can explain what they saw. \u201cIn this very general mathematics, he can incorporate the effect of plasticity,\u201d Kun says. \u201cThis is amazing!\u201d",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
+            ""
         ]
     },
     {
@@ -1566,7 +1596,8 @@
             "Perhaps an icy body like a comet recently smashed into 2002 XV93. That could have released a plume of gas around the object. Or maybe 2002 XV93 releases gas regularly from icy volcanoes on its surface.",
             "The astronomers can\u2019t be certain what\u2019s going on just from viewing 2002 XV93 pass in front of one star. The data couldn\u2019t show what the atmosphere is made of. So the small body might even be swaddled in dust, not gas, Arimatsu notes. Nor could they show how high above the body\u2019s surface any atmosphere extends.",
             "\u201cFuture observations will be important,\u201d he says. Say its atmosphere fades over the next few years. That could mean he had detected a plume kicked up by an impact. If it sticks around or varies over time, that might make a case for surface volcanoes.",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
+            ""
         ]
     },
     {
@@ -1610,7 +1641,8 @@
             "*two_young_men_are_getting_their_engine_nozzle_aparatus_ready_for_a_test,_they're_in_a_field",
             "fCDevin Wanchoo and Michael Obeng prepare to conduct a cold-flow test of their new engine nozzle. They believe they are the first high schoolers to do so with a linear nitrogen oxide/ethanol aerospike system.",
             "ICARUS can also offer design tips beyond rocketry, Mazon says. For instance, the surface patterns designed to manage heat could even be applied to homes. \u201cIf you were to put [these patterns] on wood and you built the house, then it\u2019s very likely to be safer\u201d in terms of withstanding wildfires, he says.",
-            "For their work, Devin, Michael and Mazon took home fourth place \u2014 and $600 \u2014 in ISEF\u2019s Engineering Technology: Statics and Dynamics division."
+            "For their work, Devin, Michael and Mazon took home fourth place \u2014 and $600 \u2014 in ISEF\u2019s Engineering Technology: Statics and Dynamics division.",
+            ""
         ]
     },
     {
@@ -1737,7 +1769,33 @@
             "Alexandra Cones wonders if there are other genetic and cellular ways for animals to adapt to heat. Cones is an evolutionary behavioral ecologist at Ludwig Maximilian University. It\u2019s in Munich, Germany. She did not take part in the new finch study. But her own research has shown that adult house sparrows can change how their chicks\u2019 metabolisms respond to temperature.",
             "Cones\u2019s team never uncovered exactly how this happens. But, she says, the zebra finch data \u201cforces us to consider a broader range\u201d of possibilities for how such a flexibility evolved.",
             "Zebra finches may not be alone in their brain-bending musical abilities, George concludes. Perhaps there\u2019s a whole playlist of heat-busting birdsongs yet to be discovered.",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
+            ""
+        ]
+    },
+    {
+        "URL": "https://www.snexplores.org/article/brain-flying-virtual-wings",
+        "title": "\n\tVR can train the human brain to treat wings like real limbs",
+        "content": [
+            "*A_pelican_in_flight_shows_how_its_wings_have_many_overlapping_rows_of_feathers",
+            "In a new training study, volunteers learned to move wings in virtual reality. Here, neuroscientist and study coauthor Yiyang Cai (top left) uses the system. Real-time visual feedback inside the VR head-mounted display (center) matches her physical motions.",
+            "In X-Men, Warren Worthington III sprouts huge white wings from his back and shoots into the sky. Scientists have yet to fully turn that comic-book trick from fiction to fact. But virtual reality, or VR, is offering hints of what it\u2019s like to fly.",
+            "Yanchao Bi is a cognitive neuroscientist at Peking University in Beijing, China. She long had dreamed of flying. \u201cIt would be amazing,\u201d she says. \u201cYour whole world would become different.\u201d",
+            "In spring 2023, Bi shared this wish over coffee with Kunlin Wei. Wei leads the university\u2019s motor-control lab. There, researchers use VR to study how people perceive movement. The conversation sparked questions: Could people learn to fly with wings in VR? And how would their brains change?",
+            "To answer those questions, Bi and Wei teamed up with neuroscientist Yiyang Cai. In a new experiment, the Beijing team coached 25 people via VR on how to move virtual wings.",
+            "After training, the recruits\u2019 brains responded almost as if the fake wings had been real limbs, the researchers now report. They shared their findings in the May Cell Reports.",
+            "This study shows how adaptable the brain is, says Jane Aspell. It\u2019s interesting that the brain can adjust to \u201csomething as unhuman as a wing,\u201d she says.",
+            "It also suggests, she adds, that the brain may adapt to other kinds of limb features. A cognitive neuroscientist at Anglia Ruskin University in Cambridge, England, Aspell did not take part in the new work.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "Cai designed a weeklong training program for the human recruits. It was based on bird flight.",
+            "Participants wore VR headsets and motion-tracking gear as they looked into a virtual mirror. In it, they saw themselves as birdlike figures with huge, rust-colored, feathered wings. When they rotated their wrists and flapped their arms, the wings moved too.",
+            "Across a series of tasks, the 25 recruits learned to move their virtual wings. They flapped away from falling airballs. They stayed airborne over steep cliffs. They even steered themselves through rings in the air.",
+            "Some participants learned to fly on the first try. Others needed a few sessions to get it right. \u201cYou could clearly see them improving,\u201d says Ziyi Xiong. One of the study\u2019s authors, he\u2019s a neuroscientist at Beijing Normal University.",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
+            "Bi\u2019s team also scanned the participants\u2019 visual cortex. Some parts of this brain region are especially sensitive to images of our limbs. After training, those parts responded more strongly to pictures of wings. And their response to wings began to resemble their response to the upper limbs.",
+            "\u201cParticipants began to see the wings as part of their own bodies,\u201d Bi concludes. This discovery could mean the brain adapts in response to change more readily than once thought. \u00a0",
+            "The training did more than reshape the brain. It transformed how these people understood flight in ways that abstract knowledge cannot, Wei says. This might apply to other technologies and artificial senses, too. People might experience \u201creality\u201d in ever more varied ways.",
+            "\u201cIn the future, we may spend a great deal of time in VR,\u201d Wei says. \u201cWe are very interested in what that could mean for the human brain.\u201d"
         ]
     },
     {
@@ -1768,7 +1826,8 @@
             "These findings don\u2019t surprise Stephen Kosslyn. Since the prompts didn\u2019t ask people to imagine detailed sights or sounds, he says it makes sense that the brain regions linked to those tasks didn\u2019t light up. Kosslyn is a neuroscientist at Harvard University in Cambridge, Mass. He did not take part in the new work.",
             "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
             "Open-ended prompts are a strength of the study, says Alfredo Spagna. A psychologist, he works at John Cabot University in Rome, Italy, and did not take part in the study.\u00a0Everyday mental imagery\u00a0is likely closer to imagining a castle on a hill than it is to picturing the tiny details of something you just saw, he says. So the open-ended prompts used here probably closely mimic what\u2019s happening in our brains day-to-day.",
-            "But there\u2019s still much to learn about how the brain conjures sights and sounds that feel so real. \u201cThis is one of the many papers that will come out in the next years that try to break down this obscure concept of vividness,\u201d says Spagna."
+            "But there\u2019s still much to learn about how the brain conjures sights and sounds that feel so real. \u201cThis is one of the many papers that will come out in the next years that try to break down this obscure concept of vividness,\u201d says Spagna.",
+            ""
         ]
     },
     {
@@ -1786,7 +1845,8 @@
             "Scientists are not sure exactly what causes synesthesia. But they believe it is at least partly linked to a person\u2019s genes.",
             "Taria Camerino \u2014 a chef based in Atlanta, Ga. \u2014 was born with a form of synesthesia that links certain sounds with flavors.",
             "Check out the full list of\u00a0Scientists Say.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            ""
         ]
     },
     {
@@ -1869,7 +1929,8 @@
             "In the future, the teens want to find ways to market their gum and test in people its ability to relieve anxiety.",
             "\u201cMedicated chewing gum is not a new thing,\u201d says Sara. Energy-boosting gums, which release a stimulant, already exist. Smoking-cessation gum contains nicotine. And you can buy passionflower teas. But \u201cnowhere on the market is there a gum for anxiety,\u201d says Sara.",
             "She hopes their recipe could help anyone who feels a bout of nervousness coming on. Maybe you\u2019re \u201cgoing into an interview or a presentation,\u201d she says. \u201cYou can just [chew] this and you know, chill out.\u201d",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
+            ""
         ]
     }
 ]
