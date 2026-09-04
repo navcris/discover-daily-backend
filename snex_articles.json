@@ -86,6 +86,40 @@
         ]
     },
     {
+        "URL": "https://www.snexplores.org/article/tracking-wildfire-infrasound-rumble",
+        "title": "\n\tWildfires can be tracked by their distinctive rumble",
+        "content": [
+            "*Smoke_and_flames_rise_from_a_controlled_fire_along_a_ridge_of_dry,_rolling_hills_under_a_blue_sky",
+            "Researchers tracked this prescribed fire in Idaho using acoustic sensors they devised themselves.",
+            "Most flame spotters scout for wildfires with their eyes. But researchers have shown they can now map distant flames with electronic ears, too.",
+            "Even a low-intensity grassland fire \u201chums\u201d loudly enough\u00a0to be monitored just by sound. That\u2019s the finding of a new study in the July 16\u00a0Geophysical Research Letters.",
+            "Researchers deployed acoustic sensors near a prescribed burn in Idaho. That was a fire set intentionally to remove dried vegetation that might otherwise fuel a later wildfire.",
+            "As the fire burned, those sensors picked up a low-frequency rumble.",
+            "By tracking this infrasound \u2014 frequencies too low for the human ear to hear \u2014 the sensors mapped the flames\u2019 spread. These data show the technique can detect even relatively weak fires, such as those in the early stages of taking hold.",
+            "It\u2019s not the first time acoustic monitoring has detected a blaze. Last year, another group\u00a0reported using it to map a prescribed burn\u00a0in a Florida forest. But that fire had burned far hotter. Because the Idaho fire was in a damp landscape, it burned less intensely.",
+            "The new Idaho data are \u201cencouraging for the broader use\u201d of the technique, says Jake Anderson. He\u2019s a geophysicist at Boise State University in Idaho who led the new study.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "In their early stages, wildfires can be very hard to spot. They often are far from towns and low to the ground. That\u2019s why many forests have lookout stations. Fire spotters used to perch in these structures, high above the ground, scanning the horizon for telltale smoke or flames. Today, satellites and airborne platforms track most fires.",
+            "\u201cA lot of those things require direct line of sight,\u201d says Cody Evers. He\u2019s an environmental scientist at Portland State University in Oregon who did not take part in the new work. Such line-of-sight tech has its limits: Clouds and trees can shroud smoke and flames.",
+            "One alternative is to scan for unseen flames with sound waves, especially those at frequencies below the range of human hearing. ",
+            "Fires emit pressure waves due to a process called puffing. They steadily emit plumes of hot gas as they also draw in cold air. The resulting waves oscillate with frequencies ranging from 1 to 20 hertz. (Human ears are sensitive to frequencies between roughly 20 and 20,000 hertz.)",
+            "Infrasound allows you to get \u201cvery fast alerts about how a fire is changing,\u201d Anderson says. \u201cAnd it can do so in poor-visibility conditions.\u201d",
+            "fCWinds whipping at 129 to 177 kilometers per hour (80 to 110 miles per hour) in this 2021 Colorado blaze hastened the fire\u2019s spread. Such winds \u2014 even those outside the burning area \u2014 create their own infrasound howl that could complicate tracking rumbles from a fire. ",
+            "To field test the idea, Anderson and his co-workers placed more than 90 infrasound sensors across a swath of southwestern Idaho. This area was due to undergo a prescribed burn. The team designed and built its instruments. Each sensor weighed less than a kilogram (2.2 pounds) and was roughly the size of a paperback book. The team set the units up in eight arrays, each having from three to 44 sensors.",
+            "By having sensors in spread-out arrays, a computer can use their data to estimate where a sound is coming from, explains Madeline Hunt. She\u2019s a geophysicist at Boise State and a coauthor of the new study. This concept should be familiar, she says: \u201cWith two ears, you can get a better idea of the direction to something, more than if you were just listening with one ear.\u201d",
+            "The largest array, located nearly 2 kilometers (1.2 miles) from the fire, accurately tracked the flames\u2019 spread over several hours. A low rumble tended to arrive from the same direction as the helicopter that had ignited the fire. The rumble persisted, however, even after the helicopter left to refuel. That shows the fire emitted that infrasound, the team concludes.",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
+            "The next step will be to study a true wildfire. That\u2019s far more challenging than an intentional burn, Anderson notes. After all, researchers may not be able to safely access all the affected terrain. The ideal solution would be to have tech \u201cthat\u2019s installable by firefighters themselves\u201d as they deploy into the field.",
+            "But, warns Evers at Portland State, winds might still limit this system\u2019s success. Why? Large fires often develop in the presence of high winds. And wind produces lots of infrasound, too. So lots of wind around these sensors, Evers says, \u201ccould create all sorts of problems.\u201d",
+            "iFhttps://www.youtube.com/embed/R2SvpfrZRmU?feature=oembed",
+            "See how sound pressure waves are being used to starve fires of the oxygen they need to drive combustion.",
+            "This new tech might find use beyond just tracking a fire. For instance, in some cases it might also help fight one.",
+            "Sonic Fire Tech, a company based in Cleveland, Ohio, is marketing fire-suppression systems based on infrasound. Earlier this year, the company showed how a small indoor cooking fire\u00a0could be extinguished using its tech. There\u2019s no mess from overhead sprinklers. And the sound waves don\u2019t pose a danger to people or pets, the company says.",
+            "It\u2019s highly unlikely, however, that such technology would work well on prescribed fires or blazes in nature, Anderson says. Sound waves spread spherically, he explains. So they will dramatically lose power if they\u2019re not confined.",
+            "\u201cI would be surprised,\u201d he says, \u201cif anytime soon we see a long-range, outdoor infrasound tool for extinguishing fires.\u201d"
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/cosmic-oddity-moon-planet-definition",
         "title": "\n\tThis cosmic oddity blurs the line between planet and moon",
         "content": [
@@ -1477,26 +1511,6 @@
         ]
     },
     {
-        "URL": "https://www.snexplores.org/article/peroxide-fight-algal-blooms",
-        "title": "\n\tTeen engineer finds eco-friendly way to fight harmful algal blooms",
-        "content": [
-            "*a_lake_with_visible_greenish_algal_bloom_near_the_shore_hills_rise_in_the_distance_and_a_blue_sky_wi",
-            "Teen engineer Natalie Muro built a device that gradually releases hydrogen peroxide into a lake to kill harmful algal blooms.",
-            "Harmful algal blooms plague waterways worldwide. Despite their name, not all are caused by algae. Many are due to overgrowth of toxin-producing cyanobacteria, whose toxins can sicken both people and animals. But chemicals currently used to fight harmful blooms, such as copper sulfate, can damage the environment. Natalie Muro, 18, now offers a more sustainable solution.",
-            "*_Teen_engineer_finds_eco-friendly_way_to_fight_harmful_algal_blooms11",
-            "fCNatalie Muro built a device that gradually releases hydrogen peroxide into a lake to kill harmful bacteria there. ",
-            "Through internet research, Natalie found that hydrogen peroxide (H2O2) would kill cyanobacteria. What\u2019s more, this chemical does not release any dangerous byproducts. It breaks down to form just water and oxygen. So Natalie built a device that slowly releases H2O2 into water to kill algal blooms. She stored the chemical within a pipe attached to a buoy. Her gizmo also contains a porous charcoal-like material called biochar. It collects dead microbes. That way, other bacteria can\u2019t dine on their dead brethren for nutrients.",
-            "Natalie tested her device in a lake near her home in Colorado Springs, Colo. The lake had been suffering a harmful algal bloom. But after exposure to Natalie\u2019s device, water samples showed the lake had fewer cyanobacteria. These samples also confirmed that other microbes were not harmed by the treatment.",
-            "Natalie is currently a senior at William J. Palmer High School. Her research earned her a finalist spot at the 2026 Regeneron Science Talent Search. (That competition is run by Society for Science, which also publishes Science News Explores.) In this interview, Natalie shares her research experiences and advice.",
-            "Natalie\u2019s teacher told her to research something she loves. She immediately thought of her favorite Netflix series: Outer Banks. The Atlantic coast\u2013based show inspired her past projects on ocean science. This time, Natalie used her passion for water research to help her home state. \u201cI began to research one of the big issues we have, which is harmful algal blooms,\u201d she says.",
-            "\u201cI really loved that I got to be able to test [my device] in a reservoir near my house,\u201d Natalie says. \u201cThat had been a goal of mine \u2014 to actually be able to take my research from the lab into the field. I loved spending the time outside. I loved being able to go to the lake and actually see my device working.\u201d",
-            "\u201cThe people,\u201d Natalie says. \u201cI have cold-emailed so many professors \u2026 to ask if they would meet with me on Zoom so I could bounce some ideas off of them.\u201d Her mom was also a huge help, Natalie adds. \u201cShe was there through the early mornings, the late nights, every success, every failure. And I absolutely could not have done it without her support and her encouragement.\u201d",
-            "\u201cYou never know unless you try,\u201d Natalie says. Dare to start a new project, cold-email a professor or test an out-there idea. \u201cTaking those leaps and having some bravery to approach people will get you the farthest in your research.\u201d",
-            "Editor\u2019s note: This story was updated on April 20, 2026 to clarify that not all \u201charmful algal blooms\u201d are caused by algae.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
-        ]
-    },
-    {
         "URL": "https://www.snexplores.org/article/the-cyclops-may-be-an-ancient-myth-but-one-eyed-creatures-are-real",
         "title": "\n\tThe Cyclops may be an ancient myth, but one-eyed creatures are real",
         "content": [
@@ -1593,7 +1607,7 @@
         "URL": "https://www.snexplores.org/article/scientists-say-synesthesia-definition-pronunciation",
         "title": "\n\tScientists Say: Synesthesia",
         "content": [
-            "*_Scientists_Say_Synesthesia12",
+            "*_Scientists_Say_Synesthesia11",
             "19th-century artist Vincent van Gogh is believed by many experts to have had chromesthesia. That is a type of synesthesia in which a person\u2019s brain entangles sounds with sights. ",
             "iFhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2333951258&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
             "Synesthesia is a trait that some people have in which one kind of sensory input triggers other senses. To someone with synesthesia, different colors may have different tastes. Or hearing certain sounds may cause them to see certain shapes.",
@@ -1661,7 +1675,7 @@
             "To investigate how, in the field of forensic science, the size of blood spatter correlates to the distance from which the blood fell.",
             "The following sources will help you learn more about forensic science:",
             "Making the simulated blood",
-            "*_Experiment_Measure_fake_blood_spatter13",
+            "*_Experiment_Measure_fake_blood_spatter12",
             "fCFigure 1. Mix the water into the cornstarch until the mixture is smooth.",
             "3. Add 60\u00a0mL (4\u00a0tbsp) of corn syrup to the bowl and mix thoroughly. The mixture should be smooth, as shown in Figure 2 below.",
             "*a_bowl_of_milky_white_liquid_with_a_fork_in_it",
