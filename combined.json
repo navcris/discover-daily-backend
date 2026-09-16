@@ -87,21 +87,6 @@
         ]
     },
     {
-        "URL": "https://www.snexplores.org/article/scientists-say-virga-definition-pronunciation",
-        "title": "\n\tScientists Say: Virga",
-        "content": [
-            "*_Scientists_Say_Virga1",
-            "Sunlight illuminates this falling rain in Nevada. In such desert climates, water sometimes evaporates before it hits the ground. This phenomenon is called virga.",
-            "Virga refers to rain or snow that evaporates before it reaches the ground.",
-            "From a distance, virga looks like ghostly, grayish wisps that streak down from storm clouds. Virga occurs when rain or snow passes through dry, often warm air during its fall. So it tends to form in places such as deserts and the arid high plains of the western United States.",
-            "Pilots watch out for virga. That\u2019s because virga can warn of dangerous downward swooshing pockets of air, called downdrafts. As falling rain or snow evaporates, the air cools. Cold air is denser than warm air and tends to drop. Sometimes, these downdrafts occur suddenly and in a small area. Small pockets of downward bursting air can rock an aircraft.",
-            "On Earth, virga consists of water. But scientists have observed evaporating precipitation elsewhere in the solar system, too. In Jupiter\u2019s gas clouds, falling streaks of precipitation evaporate into the atmosphere below. This falling material could contain ammonium or water, depending on where in Jupiter\u2019s atmosphere it occurs. Scientists have also noticed virga-like wisps in Mars\u2019 atmosphere.",
-            "Dry, desert climates can produce unusual weather phenomena from ghostly virga to wall-like dust clouds.",
-            "Check out the full list of\u00a0Scientists Say.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
-        ]
-    },
-    {
         "URL": "https://www.snexplores.org/article/plasma-whirlpools-sun-solar-flares",
         "title": "\n\tPlasma whirlpools on the sun could trigger solar flares",
         "content": [
@@ -305,40 +290,6 @@
             "Some students who use multi-use systems for math can start relying on them for social advice or emotional support, too. This can lead to dependency in some people. That\u2019s why systems focused on a single topic, Torney says, \u201ctend to be less risky for kids and teens.\u201d",
             "Using AI to help you understand math better can be a great thing. Just keep in mind this mantra from the teacher survey: \u201cIt\u2019s critical for students to arrive at the correct answers themselves.\u201d Use AI to learn concepts, not get answers.",
             ""
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/tracking-wildfire-infrasound-rumble",
-        "title": "\n\tWildfires can be tracked by their distinctive rumble",
-        "content": [
-            "*Smoke_and_flames_rise_from_a_controlled_fire_along_a_ridge_of_dry,_rolling_hills_under_a_blue_sky",
-            "Researchers tracked this prescribed fire in Idaho using acoustic sensors they devised themselves.",
-            "Most flame spotters scout for wildfires with their eyes. But researchers have shown they can now map distant flames with electronic ears, too.",
-            "Even a low-intensity grassland fire \u201chums\u201d loudly enough\u00a0to be monitored just by sound. That\u2019s the finding of a new study in the July 16\u00a0Geophysical Research Letters.",
-            "Researchers deployed acoustic sensors near a prescribed burn in Idaho. That was a fire set intentionally to remove dried vegetation that might otherwise fuel a later wildfire.",
-            "As the fire burned, those sensors picked up a low-frequency rumble.",
-            "By tracking this infrasound \u2014 frequencies too low for the human ear to hear \u2014 the sensors mapped the flames\u2019 spread. These data show the technique can detect even relatively weak fires, such as those in the early stages of taking hold.",
-            "It\u2019s not the first time acoustic monitoring has detected a blaze. Last year, another group\u00a0reported using it to map a prescribed burn\u00a0in a Florida forest. But that fire had burned far hotter. Because the Idaho fire was in a damp landscape, it burned less intensely.",
-            "The new Idaho data are \u201cencouraging for the broader use\u201d of the technique, says Jake Anderson. He\u2019s a geophysicist at Boise State University in Idaho who led the new study.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "In their early stages, wildfires can be very hard to spot. They often are far from towns and low to the ground. That\u2019s why many forests have lookout stations. Fire spotters used to perch in these structures, high above the ground, scanning the horizon for telltale smoke or flames. Today, satellites and airborne platforms track most fires.",
-            "\u201cA lot of those things require direct line of sight,\u201d says Cody Evers. He\u2019s an environmental scientist at Portland State University in Oregon who did not take part in the new work. Such line-of-sight tech has its limits: Clouds and trees can shroud smoke and flames.",
-            "One alternative is to scan for unseen flames with sound waves, especially those at frequencies below the range of human hearing. ",
-            "Fires emit pressure waves due to a process called puffing. They steadily emit plumes of hot gas as they also draw in cold air. The resulting waves oscillate with frequencies ranging from 1 to 20 hertz. (Human ears are sensitive to frequencies between roughly 20 and 20,000 hertz.)",
-            "Infrasound allows you to get \u201cvery fast alerts about how a fire is changing,\u201d Anderson says. \u201cAnd it can do so in poor-visibility conditions.\u201d",
-            "fCWinds whipping at 129 to 177 kilometers per hour (80 to 110 miles per hour) in this 2021 Colorado blaze hastened the fire\u2019s spread. Such winds \u2014 even those outside the burning area \u2014 create their own infrasound howl that could complicate tracking rumbles from a fire. ",
-            "To field test the idea, Anderson and his co-workers placed more than 90 infrasound sensors across a swath of southwestern Idaho. This area was due to undergo a prescribed burn. The team designed and built its instruments. Each sensor weighed less than a kilogram (2.2 pounds) and was roughly the size of a paperback book. The team set the units up in eight arrays, each having from three to 44 sensors.",
-            "By having sensors in spread-out arrays, a computer can use their data to estimate where a sound is coming from, explains Madeline Hunt. She\u2019s a geophysicist at Boise State and a coauthor of the new study. This concept should be familiar, she says: \u201cWith two ears, you can get a better idea of the direction to something, more than if you were just listening with one ear.\u201d",
-            "The largest array, located nearly 2 kilometers (1.2 miles) from the fire, accurately tracked the flames\u2019 spread over several hours. A low rumble tended to arrive from the same direction as the helicopter that had ignited the fire. The rumble persisted, however, even after the helicopter left to refuel. That shows the fire emitted that infrasound, the team concludes.",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
-            "The next step will be to study a true wildfire. That\u2019s far more challenging than an intentional burn, Anderson notes. After all, researchers may not be able to safely access all the affected terrain. The ideal solution would be to have tech \u201cthat\u2019s installable by firefighters themselves\u201d as they deploy into the field.",
-            "But, warns Evers at Portland State, winds might still limit this system\u2019s success. Why? Large fires often develop in the presence of high winds. And wind produces lots of infrasound, too. So lots of wind around these sensors, Evers says, \u201ccould create all sorts of problems.\u201d",
-            "iFhttps://www.youtube.com/embed/R2SvpfrZRmU?feature=oembed",
-            "See how sound pressure waves are being used to starve fires of the oxygen they need to drive combustion.",
-            "This new tech might find use beyond just tracking a fire. For instance, in some cases it might also help fight one.",
-            "Sonic Fire Tech, a company based in Cleveland, Ohio, is marketing fire-suppression systems based on infrasound. Earlier this year, the company showed how a small indoor cooking fire\u00a0could be extinguished using its tech. There\u2019s no mess from overhead sprinklers. And the sound waves don\u2019t pose a danger to people or pets, the company says.",
-            "It\u2019s highly unlikely, however, that such technology would work well on prescribed fires or blazes in nature, Anderson says. Sound waves spread spherically, he explains. So they will dramatically lose power if they\u2019re not confined.",
-            "\u201cI would be surprised,\u201d he says, \u201cif anytime soon we see a long-range, outdoor infrasound tool for extinguishing fires.\u201d"
         ]
     },
     {
@@ -966,20 +917,20 @@
             "Preparing to cook",
             "Preparing your cake pans",
             "Preparing your gelatin",
-            "*_Experiment_Make_your_own_marshmallows!2",
+            "*_Experiment_Make_your_own_marshmallows!1",
             "fCFigure 1. This photo shows the gelatin \u201cblooming\u201d in a small amount of water.",
             "Preparing your syrup",
             "fCTable 1.",
-            "*_Experiment_Make_your_own_marshmallows!3",
+            "*_Experiment_Make_your_own_marshmallows!2",
             "fCFigure 2. This photo shows the small saucepan containing water, sugar and corn syrup, ready to be warmed on the stove to form a syrup.",
             "Making your marshmallows",
-            "*_Experiment_Make_your_own_marshmallows!4",
+            "*_Experiment_Make_your_own_marshmallows!3",
             "fCFigure 3. This gif shows the hot syrup slowly being poured into the gelatin while the mixer is operating on low.",
-            "*_Experiment_Make_your_own_marshmallows!5",
+            "*_Experiment_Make_your_own_marshmallows!4",
             "fCFigure 4. This gif shows how the mixture will look as you begin to operate the mixer at high speed.",
-            "*_Experiment_Make_your_own_marshmallows!6",
+            "*_Experiment_Make_your_own_marshmallows!5",
             "fCFigure 5. This photo gives an example of how the mixture will look at the end of 11 minutes after you have added the vanilla, and before you beat for the final minute.",
-            "*_Experiment_Make_your_own_marshmallows!7",
+            "*_Experiment_Make_your_own_marshmallows!6",
             "fCFigure 6. This photo shows the three finished recipes cooling and becoming firmer.",
             "Preparing your marshmallows for testing",
             "Testing your marshmallows",
@@ -1313,6 +1264,21 @@
         ]
     },
     {
+        "URL": "https://www.snexplores.org/article/scientists-say-virga-definition-pronunciation",
+        "title": "\n\tScientists Say: Virga",
+        "content": [
+            "*_Scientists_Say_Virga7",
+            "Sunlight illuminates this falling rain in Nevada. In such desert climates, water sometimes evaporates before it hits the ground. This phenomenon is called virga.",
+            "Virga refers to rain or snow that evaporates before it reaches the ground.",
+            "From a distance, virga looks like ghostly, grayish wisps that streak down from storm clouds. Virga occurs when rain or snow passes through dry, often warm air during its fall. So it tends to form in places such as deserts and the arid high plains of the western United States.",
+            "Pilots watch out for virga. That\u2019s because virga can warn of dangerous downward swooshing pockets of air, called downdrafts. As falling rain or snow evaporates, the air cools. Cold air is denser than warm air and tends to drop. Sometimes, these downdrafts occur suddenly and in a small area. Small pockets of downward bursting air can rock an aircraft.",
+            "On Earth, virga consists of water. But scientists have observed evaporating precipitation elsewhere in the solar system, too. In Jupiter\u2019s gas clouds, falling streaks of precipitation evaporate into the atmosphere below. This falling material could contain ammonium or water, depending on where in Jupiter\u2019s atmosphere it occurs. Scientists have also noticed virga-like wisps in Mars\u2019 atmosphere.",
+            "Dry, desert climates can produce unusual weather phenomena from ghostly virga to wall-like dust clouds.",
+            "Check out the full list of\u00a0Scientists Say.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/scientists-say-fjord-definition-pronunciation",
         "title": "\n\tScientists Say: Fjord",
         "content": [
@@ -1373,6 +1339,40 @@
             "ICARUS can also offer design tips beyond rocketry, Mazon says. For instance, the surface patterns designed to manage heat could even be applied to homes. \u201cIf you were to put [these patterns] on wood and you built the house, then it\u2019s very likely to be safer\u201d in terms of withstanding wildfires, he says.",
             "For their work, Devin, Michael and Mazon took home fourth place \u2014 and $600 \u2014 in ISEF\u2019s Engineering Technology: Statics and Dynamics division.",
             ""
+        ]
+    },
+    {
+        "URL": "https://www.snexplores.org/article/tracking-wildfire-infrasound-rumble",
+        "title": "\n\tWildfires can be tracked by their distinctive rumble",
+        "content": [
+            "*Smoke_and_flames_rise_from_a_controlled_fire_along_a_ridge_of_dry,_rolling_hills_under_a_blue_sky",
+            "Researchers tracked this prescribed fire in Idaho using acoustic sensors they devised themselves.",
+            "Most flame spotters scout for wildfires with their eyes. But researchers have shown they can now map distant flames with electronic ears, too.",
+            "Even a low-intensity grassland fire \u201chums\u201d loudly enough\u00a0to be monitored just by sound. That\u2019s the finding of a new study in the July 16\u00a0Geophysical Research Letters.",
+            "Researchers deployed acoustic sensors near a prescribed burn in Idaho. That was a fire set intentionally to remove dried vegetation that might otherwise fuel a later wildfire.",
+            "As the fire burned, those sensors picked up a low-frequency rumble.",
+            "By tracking this infrasound \u2014 frequencies too low for the human ear to hear \u2014 the sensors mapped the flames\u2019 spread. These data show the technique can detect even relatively weak fires, such as those in the early stages of taking hold.",
+            "It\u2019s not the first time acoustic monitoring has detected a blaze. Last year, another group\u00a0reported using it to map a prescribed burn\u00a0in a Florida forest. But that fire had burned far hotter. Because the Idaho fire was in a damp landscape, it burned less intensely.",
+            "The new Idaho data are \u201cencouraging for the broader use\u201d of the technique, says Jake Anderson. He\u2019s a geophysicist at Boise State University in Idaho who led the new study.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "In their early stages, wildfires can be very hard to spot. They often are far from towns and low to the ground. That\u2019s why many forests have lookout stations. Fire spotters used to perch in these structures, high above the ground, scanning the horizon for telltale smoke or flames. Today, satellites and airborne platforms track most fires.",
+            "\u201cA lot of those things require direct line of sight,\u201d says Cody Evers. He\u2019s an environmental scientist at Portland State University in Oregon who did not take part in the new work. Such line-of-sight tech has its limits: Clouds and trees can shroud smoke and flames.",
+            "One alternative is to scan for unseen flames with sound waves, especially those at frequencies below the range of human hearing. ",
+            "Fires emit pressure waves due to a process called puffing. They steadily emit plumes of hot gas as they also draw in cold air. The resulting waves oscillate with frequencies ranging from 1 to 20 hertz. (Human ears are sensitive to frequencies between roughly 20 and 20,000 hertz.)",
+            "Infrasound allows you to get \u201cvery fast alerts about how a fire is changing,\u201d Anderson says. \u201cAnd it can do so in poor-visibility conditions.\u201d",
+            "fCWinds whipping at 129 to 177 kilometers per hour (80 to 110 miles per hour) in this 2021 Colorado blaze hastened the fire\u2019s spread. Such winds \u2014 even those outside the burning area \u2014 create their own infrasound howl that could complicate tracking rumbles from a fire. ",
+            "To field test the idea, Anderson and his co-workers placed more than 90 infrasound sensors across a swath of southwestern Idaho. This area was due to undergo a prescribed burn. The team designed and built its instruments. Each sensor weighed less than a kilogram (2.2 pounds) and was roughly the size of a paperback book. The team set the units up in eight arrays, each having from three to 44 sensors.",
+            "By having sensors in spread-out arrays, a computer can use their data to estimate where a sound is coming from, explains Madeline Hunt. She\u2019s a geophysicist at Boise State and a coauthor of the new study. This concept should be familiar, she says: \u201cWith two ears, you can get a better idea of the direction to something, more than if you were just listening with one ear.\u201d",
+            "The largest array, located nearly 2 kilometers (1.2 miles) from the fire, accurately tracked the flames\u2019 spread over several hours. A low rumble tended to arrive from the same direction as the helicopter that had ignited the fire. The rumble persisted, however, even after the helicopter left to refuel. That shows the fire emitted that infrasound, the team concludes.",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
+            "The next step will be to study a true wildfire. That\u2019s far more challenging than an intentional burn, Anderson notes. After all, researchers may not be able to safely access all the affected terrain. The ideal solution would be to have tech \u201cthat\u2019s installable by firefighters themselves\u201d as they deploy into the field.",
+            "But, warns Evers at Portland State, winds might still limit this system\u2019s success. Why? Large fires often develop in the presence of high winds. And wind produces lots of infrasound, too. So lots of wind around these sensors, Evers says, \u201ccould create all sorts of problems.\u201d",
+            "iFhttps://www.youtube.com/embed/R2SvpfrZRmU?feature=oembed",
+            "See how sound pressure waves are being used to starve fires of the oxygen they need to drive combustion.",
+            "This new tech might find use beyond just tracking a fire. For instance, in some cases it might also help fight one.",
+            "Sonic Fire Tech, a company based in Cleveland, Ohio, is marketing fire-suppression systems based on infrasound. Earlier this year, the company showed how a small indoor cooking fire\u00a0could be extinguished using its tech. There\u2019s no mess from overhead sprinklers. And the sound waves don\u2019t pose a danger to people or pets, the company says.",
+            "It\u2019s highly unlikely, however, that such technology would work well on prescribed fires or blazes in nature, Anderson says. Sound waves spread spherically, he explains. So they will dramatically lose power if they\u2019re not confined.",
+            "\u201cI would be surprised,\u201d he says, \u201cif anytime soon we see a long-range, outdoor infrasound tool for extinguishing fires.\u201d"
         ]
     },
     {
