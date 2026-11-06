@@ -1,5 +1,37 @@
 [
     {
+        "URL": "https://www.snexplores.org/article/ants-sudden-activity-bursts",
+        "title": "\n\tMystery solved? Why \u2018sleeping\u2019 ants suddenly explode with activity",
+        "content": [
+            "*a_photo_of_an_ant_carrying_a_green_aphid",
+            "This ant belongs to a group whose colonies sit still for long stretches, then \u2014 suddenly \u2014 explode into action all at once. A new model suggests what sets that off.",
+            "A behavior seen among colonies of some ants has mystified scientists for more than 30 years. It\u2019s their ability to suddenly burst into action, despite no leader telling the others when to start. What triggers this community call to action has remained a mystery \u2014 until now.",
+            "Colonies of acorn ants often spend long stretches resting quietly. It\u2019s like everyone\u2019s asleep. Then, points out a trio of researchers, \u201clike a cascade of dominoes, a massive spike of activity sweeps through the nest.\u201d It\u2019s one example of what\u2019s known as collective behavior. That trio \u2014 a biologist and two engineers \u2014 teamed up to explore what might serve as the alarm that tells everyone to wake up and get to work.",
+            "Since they couldn\u2019t tap into the ants\u2019 thinking, the researchers decided to model what they were observing. And to do this, they turned to math.",
+            "Their new computer model confirms that a single ant is all it takes to get things moving. Its motion kick-starts activity in the ants it meets, who in turn do the same to every ant they meet. But \u2014 and this is important \u2014 the model finds that the initial ant can spark activity throughout the rest of its colony only when three conditions line up.",
+            "Michael Napoli and Maurizio Porfiri are engineers at New York University in New York City. Biologist Simon Garnier works at the New Jersey Institute of Technology in Newark. They shared their new findings August 5 in PRX Life.",
+            "*a_group_of_several_reddish_ants,_viewed_from_above",
+            "fCThis acorn ant species, Temnothorax rugatulus, is among the types that exhibit sudden community-wide bursts of activity.",
+            "Gary D. Alpert/\u00a9 Museum of Comparative Zoology, The President and Fellows of Harvard College/AntWiki (CC BY-SA 4.0)",
+            "Their model starts with a colony of quiet ants. Then, it lets any member start moving. Who it is can be quite random. As a moving ant bumps a neighbor, it sets that second ant into action. But once an ant stops moving, the model found, it would need to rest for a while before it can become active again.",
+            "Three conditions seem to limit whether an individual can spark everyone else into action. The first is how quickly activity can travel through the colony. Think of a game of tag. You tag more people if you run fast \u2014 or if the playground is packed and someone\u2019s always within reach. Ants work the same way. Activity spreads when ants move fast enough to keep bumping into nestmates or when the nest is crowded. In a really packed nest, the first ant (and all the rest) barely need to move before others are being jostled.",
+            "*_Mystery_solved_Why_\u2018sleeping\u2019_ants_suddenly_explode_with_activity0",
+            "fCAs ants move faster (left to right), a colony\u2019s \u201csynchronicity\u201d \u2014 how tightly the ants start and stop moving together \u2014 jumps. Below a certain speed, activity is scattered and irregular. Above it, the whole nest moves in sharp, regular bursts. That switch is what scientists call a phase transition. ",
+            "M. Napoli et al./PRX Life 2026 (CC BY 4.0)",
+            "Condition two is how easily ants respond to being bumped. When a moving ant reaches a still one, that neighbor has to be likely to start moving, too. If ants are hard to stir, the spark fizzles. One ant wanders the nest but wakes nobody; everyone else stays asleep.",
+            "The last condition is the trickiest. The whole colony has to switch off \u2014 go into rest mode \u2014 before the next spark. This, it turns out, is a balancing act. If ants settle down too slowly, the colony never fully settles down. But if they settle too quickly, the early motions die out before they can spread to many others.",
+            "In the model, colonies that met all three conditions burst. Those that fell short of any one of those conditions didn\u2019t. Scientists call this kind of flip \u2014 from a colony that never bursts to one that does \u2014 a phase transition. Physicists use this term for \u201cdrastic shifts, like liquid water freezing into solid ice,\u201d the team explains.",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores",
+            "The team built its model using measurements that others had made on real acorn ants. These included how fast they walk and how long they walk before stopping. A few features, such as the resting period, had to be estimated from the behavior of whole colonies.",
+            "Kirsten Prior expected a more biological explanation, such as a chemical signal or some form of decision-making. \u201cInstead, this study suggests bursts come down to simply speed and contact rate,\u201d she says. \u201cThat\u2019s a bit humbling to me as an ant biologist.\u201d",
+            "Prior, who works at Binghamton University in New York, studies how ants shape forests by carrying seeds around. She had no role in the new work.",
+            "\u201cSince this paper relies on computer [models], experiments with real colonies will be necessary to test the predictions of the model,\u201d says Grant Navid Doering. A biologist at Bilkent University in Ankara, Turkey, he studies how ant colonies coordinate their behaviors. Napoli, Garnier and Porfiri used measurements from Doering\u2019s earlier work to set some of the numbers in their new model.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "Elva Robinson wants to know what purpose the bursts serve. The model, she says, has opened a \u201cblack box\u201d on one behavior \u2014 how bursts happen. But it does not explore what a colony gains from them. And that is of particular interest to Robinson, who tracks individual ants inside colonies. An ecologist, she works at the University of York in England.",
+            "Ants may not be the only creatures that work this way, the new study\u2019s authors point out. They suspect the same conditions could apply anywhere individuals set each other off. Take a 2015 study of grazing sheep, for instance. There, one animal moving close to its neighbor started a chain reaction that caused the whole herd to pack tightly together. As with the ants, no one gave an order. But once action starts, it spreads to the whole group."
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/microbes-make-green-chemicals",
         "title": "\n\tAnalyze This: Microbes can make valuable chemicals more sustainably",
         "content": [
@@ -62,31 +94,6 @@
             "So the Grinch wouldn\u2019t have become super-strong. Instead, Kittleson says, \u201cHe would have keeled over and collapsed.\u201d",
             "The heart of someone who gets prompt medical care and survives can return to normal size in a few months.",
             "In the Seuss tale, the Grinch went from really mean to nicer when his heart grew. But if he had a snake heart, he might not have gotten kinder. Notes Leinwand, \u201cour snakes, when they eat a lot, they get rather aggressive.\u201d"
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/scientists-say-fibonacci-sequence-definition-pronunciation",
-        "title": "\n\tScientists Say: Fibonacci sequence",
-        "content": [
-            "*yellow_flower_with_five_petals",
-            "The Fibonacci sequence appears in nature in many forms. For instance, flowers tend to have petal counts that follow this sequence.",
-            "iFhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2429236833&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
-            "A Fibonacci sequence is a pattern of numbers. Each number in the sequence is the sum of the previous two numbers.",
-            "The following set is a Fibonacci sequence.",
-            "0, 1, 1, 2, 3, 5, 8, 13, 21, 34\u2026",
-            "Adding the first two numbers \u2014 0 and 1 \u2014 gives the third number, 1. Adding the next two numbers \u20141 and 1 \u2014 gives the fourth number, 2. The numbers could go on forever.",
-            "This simple pattern appears often in nature. For instance, Fibonacci numbers occur frequently in the body plans of living things. An easy place to see this is in plants.",
-            "Plants may not know math. But flowers often have petal numbers that follow the Fibonacci sequence. Lilies and irises often have three petals. Hibiscus flowers come with five petals. Daisies tend to sport 21 petals. These numbers all occur on a Fibonacci sequence starting with 0 and 1.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "These numbers also appear in nature\u2019s spiraling structures. Turn a pine cone upside down and look at the scales. The scales grow in a spiral that starts from the bottom of the pine cone. You can count the number of spirals that emerge toward the left and toward the right. Usually, the spiral numbers are Fibonacci numbers. For example, a small pine cone has three spirals going toward the left and five toward the right.",
-            "Sunflower seeds and petals also grow in spirals from the flower\u2019s center. These spiral numbers are nearly always Fibonacci numbers.",
-            "This pattern can also appear as a ratio. If you take two neighboring numbers of the sequence and divide them, you get a ratio. For instance, 13 divided by 8 equals 1.625. And 21 divided by 13 equals 1.615.",
-            "The further along the sequence you go, the closer that ratio gets to the \u201cgolden ratio.\u201d The golden ratio is about 1.618. (We cannot write it out completely because it is an irrational number. That is, the numbers after the decimal go on forever.) The consistency of this ratio means that the numbers of a Fibonacci sequence fit inside one another in a very regular way.",
-            "That consistency means spirals built from Fibonacci patterns can pack together without wasting space. Leaves or petals fill up space evenly and with little overlap. That lets each leaf or petal get the most sunlight.",
-            "Scientists are working to figure out why this pattern shows up so often in nature. One idea is that as a living thing makes new cells, those new cells will pack together in the most efficient way possible. That tends to fill space in a Fibonacci pattern.",
-            "Mathematical patterns such as the Fibonacci sequence and a Voronoi diagram show up regularly in nature.",
-            "Check out the full list of\u00a0Scientists Say.",
-            ""
         ]
     },
     {
@@ -367,10 +374,10 @@
             "Imagine a barrier that has two slits in it. Facing the barrier is a device that fires out electrons. Behind the barrier is a screen that catches the electrons that pass through the slits. Now, turn your electron-firing device on.",
             "If electrons only acted like particles, they should land in two distinct clusters on the screen behind the barrier, one behind each slit. But that\u2019s not what happens. Instead, the electrons build up in a series of stripes on the screen.",
             "This type of \u201cinterference pattern\u201d appears when two waves overlap and \u201cinterfere\u201d with each other. The electrons pass through the slits as waves and interfere with each other on their way to the screen. As the two waves merge, their crests and troughs reinforce each other in some places and cancel each other out in others. This gives rise to the stripes.",
-            "*_Let\u2019s_learn_about_how_particles_act_like_waves0",
+            "*_Let\u2019s_learn_about_how_particles_act_like_waves1",
             "fCE. Otwell",
             "E. Otwell",
-            "*_Let\u2019s_learn_about_how_particles_act_like_waves1",
+            "*_Let\u2019s_learn_about_how_particles_act_like_waves2",
             "fCGraham Beards/Wikimedia Commons (CC BY-SA 4.0)",
             "Graham Beards/Wikimedia Commons (CC BY-SA 4.0)",
             "The top diagram shows what happens when you pass light particles through two slits in a wall. The particles act like waves, crossing over each other as they emerge from both slits. This creates an \u201cinterference\u201d pattern of alternating light and dark bands on the screen behind the slits. The photo on the bottom shows what a screen looks like when you send the light particles from a green laser through a pair of slits.",
@@ -399,42 +406,6 @@
             "In the first simulation, you can see what would happen if you launched tennis balls at a pair of gaps in a wall. The pattern that builds up on the other side is what you would expect to see, if bits of matter such as electrons and atoms only acted like particles.",
             "Then, try the simulator that shows what would happen if you passed waves of water through a pair of gaps in a wall. The pattern that builds up on the other side is what you\u2019d expect to see from things that travel through space like waves.",
             "Then, try the double slit experiment using light and with electrons. What types of patterns build up on the other side of the gaps? Do those patterns match what you\u2019d expect to see from tennis ball\u2013like particles, or from waterlike waves?"
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/anti-vampire-grave-undead-burial",
-        "title": "\n\tThis \u2018anti-vampiric\u2019 grave was double guarded against the undead\u00a0",
-        "content": [
-            "*Partially_excavated_human_remains_have_a_sickle_blade_across_the_neck_Archaeological_markers_are_pla",
-            "Someone in post-medieval Poland seems to have feared this woman\u2019s final resting place wouldn\u2019t be so final. They placed this sickle over the neck of her corpse \u2014 perhaps so that she\u2019d slit her throat if she attempted to rise from the grave.",
-            "Someone in 17th-century Poland really did not want one particular girl to rise from the dead.",
-            "In 2022, archaeologists unearthed an unsettling grave in Pie\u0144, part of north-central Poland. The young woman \u2014 who researchers call Zosia \u2014 had been buried in a cemetery there, with the jagged blade of a sickle hooked over her throat. Zosia also wore an odd triangular padlock on the big toe of her left foot.\u00a0",
-            "\u201cThe placement of the sickle and the padlock suggests that the purpose of these practices was to protect the living from Zosia after her death,\u201d says Dariusz Poli\u0144ski. This included, \u201cwithout a doubt, preventing her from rising from the grave.\u201d",
-            "Poli\u0144ski is an archaeologist at Nicolaus Copernicus University in Toru\u0144, Poland. He led the excavation of Zosia\u2019s final resting place. His team has now done a large set of analyses on the grave to piece together details of Zosia\u2019s life and burial.",
-            "The group shared its findings in the October issue of Journal of Archaeological Science: Reports.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "Poli\u0144ski\u2019s group first looked at other tombs in Europe where sickles and padlocks had been found. They also considered historical beliefs about such items. Both types of artifacts seem to have been used to shield the living from the dead, they found. But Zosia\u2019s grave is the first known to have used both approaches.",
-            "Zosia\u2019s skeleton suggests she was 17 to 19 years old when she died. Based on how her leg bones lay, the padlock was likely latched on her toe when she was first buried. This hints that someone suspected Zosia would try to rise from her grave right away.",
-            "*_This_\u2018anti-vampiric\u2019_grave_was_double_guarded_against_the_undead_2",
-            "fCThis triangular padlock was latched onto the big toe of Zosia\u2019s left foot.",
-            "On top of that, mixed-up soil and the odd angle of Zosia\u2019s left arm suggest that someone later dug up her tomb. They likely did this to place the sickle over her throat, the researchers say. Someone wanted to be extra sure Zosia wouldn\u2019t resurrect.",
-            "A close look at Zosia\u2019s skull revealed greenish stains. The marks could have come from some copper object \u2014 or objects \u2014 being shoved in her mouth or nose. \u201cThis may have [been] an additional protective measure,\u201d Poli\u0144ski says. In Polish folklore, copper was thought to help ward off vampiric demons, known as strzygi.",
-            "Lauren Hosek has seen strange graves. But she doesn\u2019t know if she\u2019s seen stranger than this. A bioarchaeologist, she works at the University of Colorado Boulder and did not take part in this research.",
-            "A sickle across the neck is very striking, says Hosek. That, paired with the padlock as a restraint, offers a strong argument that this young woman was feared after her death.",
-            "Graves designed to fend off evil spirits are sometimes known as \u201canti-vampiric.\u201d But that doesn\u2019t necessarily mean that people in the 17th century thought Zosia was out for blood, Hosek cautions. ",
-            "Today, we think of vampires as blood-sucking monsters associated with garlic and bats and capes. In this historical context, a vampire simply refers to some sort of harmful undead being.",
-            "To explain how a teen girl could have earned such anti-vampiric treatment, Poli\u0144ski\u2019s team analyzed the chemicals in her skeleton and accessories.",
-            "For instance, the team looked at the types \u2014 or isotopes \u2014 of strontium and oxygen atoms in her teeth. Dental isotopes hold clues about where someone lived during their childhood. Zosia\u2019s show that she likely grew up near Pie\u0144. Her DNA, however, hints that her mother\u2019s family might have come from Scandinavia.",
-            "Remnants of a silk cap on Zosia\u2019s head contained threads of pure silver and gold. To be laid to rest in such fancy attire, the researchers think she must have been a wealthy woman of high social status.",
-            "*human_remains_in_a_shallow_excavated_grave_have_a_sickle_blade_placed_over_the_neck_and_a_lock_on_on",
-            "fCZosia\u2019s grave is but one of several unusual burials in the Pie\u0144 graveyard \u2014 maybe because the cemetery was specifically for people who were feared after their deaths.",
-            "Having so much information about someone entombed in an odd burial is rare, says Sandra Garvie-Lok. By knowing some details of Zosia\u2019s life, this bioarchaeologist says, \u201cwe can rule out some commonly suggested explanations for this kind of [burial] treatment.\u201d Garvie-Lok works at the University of Alberta in Edmonton, Canada. Like Hosek, she\u2019s studied peculiar graves, but not this one.",
-            "Historical records have shown that someone might be singled out for a strange burial because they were an outsider or had a hard life, Garvie-Lok notes. But if Zosia was a noblewoman who grew up near Pie\u0144, then she may not neatly tick either of those boxes.",
-            "Violent or weird circumstances around her death might also account for Zosia\u2019s strange burial. But there are no obvious marks of injury or illness on her skeleton. \u201cWe\u2019re still looking at the DNA\u201d for insights into how she died, says Tomasz Grzybowski. He\u2019s a forensic geneticist at Nicolaus Copernicus University and coauthor of the new study.",
-            "The Pie\u0144 cemetery is riddled with other eerie burials.",
-            "One boy there was buried face-down with a triangular padlock on his right foot. \u201cSometime later, the grave was reopened and most of his remains were removed,\u201d Poli\u0144ski says. This left \u201conly the lower legs and feet in place, together with the padlock.\u201d",
-            "Even spookier, there are no written references to this graveyard. It doesn\u2019t appear on any maps. And because it was set away from the village, it may have been far from any church or chapel. All this points to the cemetery being specifically for people who had been rejected by society \u2014 and perhaps feared after their deaths.",
-            "If so, Garvie-Lok says, \u201cthis would make Pie\u0144 a very unusual site that we could learn a lot from.\u201d"
         ]
     },
     {
@@ -1034,6 +1005,31 @@
         ]
     },
     {
+        "URL": "https://www.snexplores.org/article/scientists-say-fibonacci-sequence-definition-pronunciation",
+        "title": "\n\tScientists Say: Fibonacci sequence",
+        "content": [
+            "*yellow_flower_with_five_petals",
+            "The Fibonacci sequence appears in nature in many forms. For instance, flowers tend to have petal counts that follow this sequence.",
+            "iFhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2429236833&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+            "A Fibonacci sequence is a pattern of numbers. Each number in the sequence is the sum of the previous two numbers.",
+            "The following set is a Fibonacci sequence.",
+            "0, 1, 1, 2, 3, 5, 8, 13, 21, 34\u2026",
+            "Adding the first two numbers \u2014 0 and 1 \u2014 gives the third number, 1. Adding the next two numbers \u20141 and 1 \u2014 gives the fourth number, 2. The numbers could go on forever.",
+            "This simple pattern appears often in nature. For instance, Fibonacci numbers occur frequently in the body plans of living things. An easy place to see this is in plants.",
+            "Plants may not know math. But flowers often have petal numbers that follow the Fibonacci sequence. Lilies and irises often have three petals. Hibiscus flowers come with five petals. Daisies tend to sport 21 petals. These numbers all occur on a Fibonacci sequence starting with 0 and 1.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "These numbers also appear in nature\u2019s spiraling structures. Turn a pine cone upside down and look at the scales. The scales grow in a spiral that starts from the bottom of the pine cone. You can count the number of spirals that emerge toward the left and toward the right. Usually, the spiral numbers are Fibonacci numbers. For example, a small pine cone has three spirals going toward the left and five toward the right.",
+            "Sunflower seeds and petals also grow in spirals from the flower\u2019s center. These spiral numbers are nearly always Fibonacci numbers.",
+            "This pattern can also appear as a ratio. If you take two neighboring numbers of the sequence and divide them, you get a ratio. For instance, 13 divided by 8 equals 1.625. And 21 divided by 13 equals 1.615.",
+            "The further along the sequence you go, the closer that ratio gets to the \u201cgolden ratio.\u201d The golden ratio is about 1.618. (We cannot write it out completely because it is an irrational number. That is, the numbers after the decimal go on forever.) The consistency of this ratio means that the numbers of a Fibonacci sequence fit inside one another in a very regular way.",
+            "That consistency means spirals built from Fibonacci patterns can pack together without wasting space. Leaves or petals fill up space evenly and with little overlap. That lets each leaf or petal get the most sunlight.",
+            "Scientists are working to figure out why this pattern shows up so often in nature. One idea is that as a living thing makes new cells, those new cells will pack together in the most efficient way possible. That tends to fill space in a Fibonacci pattern.",
+            "Mathematical patterns such as the Fibonacci sequence and a Voronoi diagram show up regularly in nature.",
+            "Check out the full list of\u00a0Scientists Say.",
+            ""
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/what-is-math-equation",
         "title": "\n\tExplainer: What is an equation?",
         "content": [
@@ -1148,6 +1144,35 @@
         ]
     },
     {
+        "URL": "https://www.snexplores.org/article/dogs-read-anger-fear-emotion-human-faces",
+        "title": "\n\tAnger or fear? Dogs may be able to read it on your face",
+        "content": [
+            "*A_dog_border_collie_sits_inside_an_MRI_machine",
+            "Kun-Kun the border collie underwent brain scans while looking at pictures of human faces. The experiments revealed dog brains can read different emotions. ",
+            "If you have a dog, you likely know how good these animals are at reading subtle cues. Jangle a key or dangle a leash and many pooches know it\u2019s time to go outside. But man\u2019s best friend may be even more in touch with our feelings than we realize. Dogs can\u00a0distinguish between certain emotions just by looking at our faces, a new study suggests.",
+            "The results offer a new peek at what\u2019s going on in canine brains. That could offer clues to how dogs\u2019\u00a0emotion-sensing skills\u00a0evolved, says Laura Cuaya. She\u2019s a neuroscientist at the University of Vienna in Austria. The findings also give another reason to smile at any pup that crosses your path, she adds. They just might understand.",
+            "Past studies had shown dogs can tell if someone\u2019s face is wearing a positive or negative expression. The two emotions seem to trigger activity in different areas of a dog\u2019s brain. But many questions remained. Could dogs tell the difference between two negative emotions, such as anger versus fear? And to read those emotions, did the faces need to be familiar to the dog?",
+            "To find out, Cuaya and her team started by training 14 family dogs to stay still inside an MRI scanner. \u201cThey are very, very good at the task,\u201d Cuaya says. The machine would then track the dogs\u2019 brain activity.",
+            "Odin and Kun-Kun (right) are two participants in a study that examined activity in dog brains. Researchers trained the pups to sit still inside an MRI machine while looking at pictures of human faces. The dogs\u2019 brains lit up in different patterns depending on what emotions the faces showed. Scroll through to see just how good a boy Kun-Kun is.",
+            "*A_photo_of_two_border_collie_dogs_sitting_next_to_a_MRI_machine",
+            "fC",
+            "*A_photo_of_a_border_collie_dog_with_earmuffs_on_preparing_to_receive_a_brain_scan",
+            "fC",
+            "*A_photo_of_a_border_collie_dog_is_laying_down_in_an_MRI_machine_and_watching_a_screen_with_a_human's",
+            "fC",
+            "*A_photo_of_two_border_collie_dogs_staring_at_a_computer_screen_that_has_a_canine_brain_scan_on_the_m",
+            "fC",
+            "In one experiment, dogs looked at images of unfamiliar faces with happy or neutral expressions. Happy faces lit up a reward region in the animals\u2019 brain more than neutral faces did. In another experiment, the researchers tested several negative emotions. The dogs\u2019 brains reacted differently to angry or sad faces versus fearful ones.",
+            "The researchers shared these findings August 10 in iScience.",
+            "This is the first evidence that dogs can distinguish between negative emotions on our faces, Cuaya says. It suggests dogs can process emotional information in more detail than scientists once thought.",
+            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
+            "But the findings might not be the same in all dogs, Cuaya cautions. Her group focused on border collies and golden retrievers.",
+            "Her team is now working on another MRI study in dogs. This one looks at how the canine brain responds to a certain sound that dogs make. It\u2019s thought to be their version of laughter.",
+            "What about cats? Cuaya\u2019s team is not planning any MRI studies in them. Our feline friends may be a bit harder to coax into sitting still for brain scans.",
+            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
+        ]
+    },
+    {
         "URL": "https://www.snexplores.org/article/record-breaking-2026-el-nino",
         "title": "\n\t2026\u2019s El Ni\u00f1o is record-breaking \u2014 and it\u2019s not done yet",
         "content": [
@@ -1180,35 +1205,6 @@
             "*graph_displaying_the_daily_average_temperature_changes_described_in_the_caption",
             "fCClimateReanalyzer.org, Climate Change institute, University of Maine | Data: NOAA OISST V2.1",
             "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test"
-        ]
-    },
-    {
-        "URL": "https://www.snexplores.org/article/dogs-read-anger-fear-emotion-human-faces",
-        "title": "\n\tAnger or fear? Dogs may be able to read it on your face",
-        "content": [
-            "*A_dog_border_collie_sits_inside_an_MRI_machine",
-            "Kun-Kun the border collie underwent brain scans while looking at pictures of human faces. The experiments revealed dog brains can read different emotions. ",
-            "If you have a dog, you likely know how good these animals are at reading subtle cues. Jangle a key or dangle a leash and many pooches know it\u2019s time to go outside. But man\u2019s best friend may be even more in touch with our feelings than we realize. Dogs can\u00a0distinguish between certain emotions just by looking at our faces, a new study suggests.",
-            "The results offer a new peek at what\u2019s going on in canine brains. That could offer clues to how dogs\u2019\u00a0emotion-sensing skills\u00a0evolved, says Laura Cuaya. She\u2019s a neuroscientist at the University of Vienna in Austria. The findings also give another reason to smile at any pup that crosses your path, she adds. They just might understand.",
-            "Past studies had shown dogs can tell if someone\u2019s face is wearing a positive or negative expression. The two emotions seem to trigger activity in different areas of a dog\u2019s brain. But many questions remained. Could dogs tell the difference between two negative emotions, such as anger versus fear? And to read those emotions, did the faces need to be familiar to the dog?",
-            "To find out, Cuaya and her team started by training 14 family dogs to stay still inside an MRI scanner. \u201cThey are very, very good at the task,\u201d Cuaya says. The machine would then track the dogs\u2019 brain activity.",
-            "Odin and Kun-Kun (right) are two participants in a study that examined activity in dog brains. Researchers trained the pups to sit still inside an MRI machine while looking at pictures of human faces. The dogs\u2019 brains lit up in different patterns depending on what emotions the faces showed. Scroll through to see just how good a boy Kun-Kun is.",
-            "*A_photo_of_two_border_collie_dogs_sitting_next_to_a_MRI_machine",
-            "fC",
-            "*A_photo_of_a_border_collie_dog_with_earmuffs_on_preparing_to_receive_a_brain_scan",
-            "fC",
-            "*A_photo_of_a_border_collie_dog_is_laying_down_in_an_MRI_machine_and_watching_a_screen_with_a_human's",
-            "fC",
-            "*A_photo_of_two_border_collie_dogs_staring_at_a_computer_screen_that_has_a_canine_brain_scan_on_the_m",
-            "fC",
-            "In one experiment, dogs looked at images of unfamiliar faces with happy or neutral expressions. Happy faces lit up a reward region in the animals\u2019 brain more than neutral faces did. In another experiment, the researchers tested several negative emotions. The dogs\u2019 brains reacted differently to angry or sad faces versus fearful ones.",
-            "The researchers shared these findings August 10 in iScience.",
-            "This is the first evidence that dogs can distinguish between negative emotions on our faces, Cuaya says. It suggests dogs can process emotional information in more detail than scientists once thought.",
-            "iFhttps://www.sciencenews.org/conversion/zephr-iframe-test",
-            "But the findings might not be the same in all dogs, Cuaya cautions. Her group focused on border collies and golden retrievers.",
-            "Her team is now working on another MRI study in dogs. This one looks at how the canine brain responds to a certain sound that dogs make. It\u2019s thought to be their version of laughter.",
-            "What about cats? Cuaya\u2019s team is not planning any MRI studies in them. Our feline friends may be a bit harder to coax into sitting still for brain scans.",
-            "Submit your question here, and we might answer it an upcoming issue of\u00a0Science News Explores"
         ]
     },
     {
